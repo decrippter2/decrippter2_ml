@@ -1,4 +1,4 @@
-MIT License
+"""Entry point of decrippter2_ml
 
 Copyright (c) 2024 Mitja M. Zdouc and individual contributors
 
@@ -19,3 +19,39 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+"""
+
+import logging
+import sys
+from importlib import metadata
+
+import coloredlogs
+
+
+def config_logger() -> logging.Logger:
+    """Set up a named logger with nice formatting
+
+    :return
+        A Logger object
+    """
+    logger = logging.getLogger("decrippter2_ml")
+    logger.setLevel(logging.DEBUG)
+    console_handler = logging.StreamHandler(sys.stdout)
+    console_handler.setFormatter(
+        coloredlogs.ColoredFormatter(
+            "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+        )
+    )
+    logger.addHandler(console_handler)
+    return logger
+
+
+def main() -> None:
+    """Function to execute main body of code"""
+    logger = config_logger()
+    logger.info(f"Started decrippter2_ml CLI v{metadata.version('decrippter2_ml')}.")
+    logger.debug("Hello, world!")
+
+
+if __name__ == "__main__":
+    main()
