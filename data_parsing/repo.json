@@ -239,9 +239,9 @@
             },
             "AED99432.1": {
                   "complete_seq": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPHINPYLYPFAGDDAE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPH",
+                  "core_seq": "INPYLYP",
+                  "follower_seq": "FAGDDAE"
             }
       },
       "BGC0000480.json": {
@@ -2022,9 +2022,9 @@
             },
             "EGD17355.1": {
                   "complete_seq": "MDTSNNDARTTALDQDLIVLGVASLDTQGGPLAGEEMGGITTLGISQD",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDTSNNDARTTALDQDLIVLGVASLDTQ",
+                  "core_seq": "GGPLAGEEMGGITTLGISQD",
+                  "follower_seq": ""
             }
       },
       "BGC0000581.json": {
@@ -4768,9 +4768,9 @@
             },
             "QKV49894.1": {
                   "complete_seq": "MEQQDFLGAYDELELIELSEEEWHGGTGPLCVAASVAASAAFCPTTKCTSKC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEQQDFLGAYDELELIELSEEEWHGG",
+                  "core_seq": "TGPLCVAASVAASAAFCPTTKCTSKC",
+                  "follower_seq": ""
             }
       },
       "BGC0002111.json": {
@@ -6358,9 +6358,9 @@
             },
             "WP_027359228.1": {
                   "complete_seq": "MSLDHAKKMLEKLKTDKDLMEKVKAADNEGKKKIAEDMGLTFTAEEMKEAIKADSSLSDEDLATVAGGASGTWVAVGAGAAGAAAACGW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSLDHAKKMLEKLKTDKDLMEKVKAADNEGKKKIAEDMGLTFTAEEMKEAIKADSSLSDEDLATVAGG",
+                  "core_seq": "ASGTWVAVGAGAAGAAAACGW",
+                  "follower_seq": ""
             }
       },
       "BGC0002898.json": {
@@ -6494,15 +6494,15 @@
             },
             "SDS17633.1": {
                   "complete_seq": "MNAALPALEFTELEAMDAPGDADDYIRGFAVGVIIGILALT",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MNAALPALEFTELEAMDAP",
+                  "core_seq": "GDADDYIRGFAVGVIIGILALT",
+                  "follower_seq": ""
             },
             "SDS17589.1": {
                   "complete_seq": "MQSTSLEFLELEQIDTPLEWWEHASYIIAIIGGAAAIAT",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MQSTSLEFLELEQIDTP",
+                  "core_seq": "LEWWEHASYIIAIIGGAAAIAT",
+                  "follower_seq": ""
             }
       },
       "BGC0002910.json": {
@@ -6696,9 +6696,9 @@
             },
             "WP_157527609.1": {
                   "complete_seq": "MDNAATEATEFADLDIVNLDLPIDEELAAVSVGGLGNTEVGASGFFGRSWLI",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDNAATEATEFADLDIVNLDLPIDEELAAVSVGGLGNTEVGA",
+                  "core_seq": "SGFFGRSWLI",
+                  "follower_seq": ""
             }
       },
       "BGC0002942.json": {
@@ -7165,9 +7165,9 @@
             },
             "WP_061432524.1": {
                   "complete_seq": "MSQPDVERFYEIVRNSEELQAMLGAAEDRDSFVETAVRLGQENGCNFTLDEANEFLNTKKGDAELSEQELEAVAGGRRGCNNTIIICRITYTRE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSQPDVERFYEIVRNSEELQAMLGAAEDRDSFVETAVRLGQENGCNFTLDEANEFLNTKKGDAELSEQELEAVAGG",
+                  "core_seq": "RRGCNNTIIICRITYTRE",
+                  "follower_seq": ""
             },
             "WP_221275531.1": {
                   "complete_seq": "MLLVRIRFLKTSKNTLLKKINTFGAFLAIGTVNRGFPYWSNTKSAFNFYQTED",
@@ -7963,15 +7963,15 @@
             ],
             "WNE31501.1": {
                   "complete_seq": "MCSQLAIGIIKMNVQPPKKLFLKKDTLRQIDSAQLDGAVGGTTPVTIIPFTIGYTIGRTLIEAGDK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "",
+                  "core_seq": "MCSQLAIGIIKMNVQPPKKLFLKKDTLRQIDSAQLDGAVGGTTPVTIIPFTIGYTIGRTLIEAGDK",
+                  "follower_seq": ""
             },
             "WNE31502.1": {
                   "complete_seq": "MNVQSSKKLSLKKETLRQIDSSQLAELDGAVGGSTPLCVGVIIGLTITIMAND",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "",
+                  "core_seq": "MNVQSSKKLSLKKETLRQIDSSQLAELDGAVGGSTPLCVGVIIGLTITIMAND",
+                  "follower_seq": ""
             },
             "WNE31498.1": {
                   "complete_seq": "MGRFFKPIMEVAMAAQTSKKLSLKKETLRVLEGSDKSMLEGAVGGTGATTTIGTTSLLTVTIAETLSAET",

@@ -22,17 +22,18 @@ def classify_aa_seq(fasta, core_list):
     """
     if core_list != []:
         for core in core_list:
-            try:
+            if core in fasta:
                 start = fasta.index(core)
                 leader_seq = fasta[:start]
                 core_seq = fasta[start : start + len(core)]
                 follower_seq = fasta[start + len(core) :]
                 return leader_seq, core_seq, follower_seq
-            except Exception:
-                leader_seq = "TBA"
-                core_seq = "TBA"
-                follower_seq = "TBA"
-                return leader_seq, core_seq, follower_seq
+            else:
+                continue
+        leader_seq = "TBA"
+        core_seq = "TBA"
+        follower_seq = "TBA"
+        return leader_seq, core_seq, follower_seq
     else:
         leader_seq = "TBA"
         core_seq = "TBA"
