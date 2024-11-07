@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["SNCTSTGTPASCCSCCCC"],
             "protein_ids": [
                   "ACS50131.1"
             ],
             "ACS50131.1": {
                   "complete_seq": "MEKELVLDLADLSVDELDVLPTSPGAGLESINVGHAMVEIGASNCTSTGTPASCCSCCCC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEKELVLDLADLSVDELDVLPTSPGAGLESINVGHAMVEIGA",
+                  "core_seq": "SNCTSTGTPASCCSCCCC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/cb500324n"
       }
 }

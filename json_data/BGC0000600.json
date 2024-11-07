@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["DWTCWSCLVCAACSVELLNLVTAATGASTAS"],
             "protein_ids": [
                   "ACN24983.1"
             ],
             "ACN24983.1": {
                   "complete_seq": "METPVVQPRDWTCWSCLVCAACSVELLNLVTAATGASTAS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "METPVVQPR",
+                  "core_seq": "DWTCWSCLVCAACSVELLNLVTAATGASTAS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1111/j.1574-6968.2009.01749.x"
       }
 }

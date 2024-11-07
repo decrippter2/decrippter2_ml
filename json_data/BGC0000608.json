@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["SCTTCECSCSCSS"],
             "protein_ids": [
                   "ADH93699.1"
             ],
             "ADH93699.1": {
                   "complete_seq": "MSADLSALNIDSLEISEFLDDSRLEDSEVVAKVMSASCTTCECSCSCSS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSADLSALNIDSLEISEFLDDSRLEDSEVVAKVMSA",
+                  "core_seq": "SCTTCECSCSCSS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1007/s10529-010-0460-0"
       }
 }

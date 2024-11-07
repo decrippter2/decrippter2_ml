@@ -11,16 +11,16 @@
             ],
             "AED99782.1": {
                   "complete_seq": "MEVLNKQNVNIIPESEEVGGWVACVGACGTVCLASGGVGTEFAAASYFL",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEVLNKQNVNIIPESEEVG",
+                  "core_seq": "GWVACVGACGTVCLASGGVGTEFAAASYFL",
+                  "follower_seq": ""
             },
             "AED99783.1": {
                   "complete_seq": "MEVMNNALITKVDEEIGGNAACVIGCIGSCVISEGIGSLVGTAFTLG",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEVMNNALITKVDEEIG",
+                  "core_seq": "GNAACVIGCIGSCVISEGIGSLVGTAFTLG",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1073/pnas.0913554107"
       }
 }

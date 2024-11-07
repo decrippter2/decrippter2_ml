@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["ISTRKYPSDWEEW"],
             "protein_ids": [
                   "CAQ16121.1"
             ],
             "CAQ16121.1": {
                   "complete_seq": "MAYPNDQQGKALPFFARFLSVSKEESSIKSPSPDHEISTRKYPSDWEEW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MAYPNDQQGKALPFFARFLSVSKEESSIKSPSPDHE",
+                  "core_seq": "ISTRKYPSDWEEW",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/nchembio.2200"
       }
 }

@@ -10,10 +10,10 @@
             ],
             "CAB11984.1": {
                   "complete_seq": "MKRNQKEWESVSKKGLMKPGGTSIVKAAGCMGCWASKSIAMTRVCALPHPAMRAI",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKRNQKEWESVSKKGLMKPGGTSIVKAAG",
+                  "core_seq": "CMGCWASKSIAMTRVCALPHPAMRAI",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1074/jbc.RA118.005369"
       }
 }

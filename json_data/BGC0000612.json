@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 4977401,
             "end": 4998568,
-            "core_sequences": [],
+            "core_sequences": ["SCTTCVCTCSCCTT"],
             "protein_ids": [
                   "AAP11956.1"
             ],
             "AAP11956.1": {
                   "complete_seq": "MSEIKKALNTLEIEDFDAIEMVDVDAMPENEALEIMGASCTTCVCTCSCCTT",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSEIKKALNTLEIEDFDAIEMVDVDAMPENEALEIMGA",
+                  "core_seq": "SCTTCVCTCSCCTT",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1073/pnas.0900008106"
       }
 }

@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["SWGSCSCQASSSCAQP"],
             "protein_ids": [
                   "BAO57434.1"
             ],
             "BAO57434.1": {
                   "complete_seq": "MSDITASRVESLDLQDLDLSELTVTSLRDTVALPENGASWGSCSCQASSSCAQPQDM",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSDITASRVESLDLQDLDLSELTVTSLRDTVALPENGA",
+                  "core_seq": "SWGSCSCQASSSCAQP",
+                  "follower_seq": "QDM"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.0c05541"
       }
 }

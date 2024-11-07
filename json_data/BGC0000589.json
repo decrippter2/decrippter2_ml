@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 37233,
             "end": 45653,
-            "core_sequences": [],
+            "core_sequences": ["DGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS"],
             "protein_ids": [
-                  "CAE55697.1"
+                  "CAE55705.1"
             ],
-            "CAE55697.1": {
-                  "complete_seq": "MEFATNRVSVNDSRSALSSTLLLSLIMSATLLEYSLSMT",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "CAE55705.1": {
+                  "complete_seq": "MRKLSENEIKQISGGDGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS",
+                  "leader_seq": "MRKLSENEIKQISGG",
+                  "core_seq": "DGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/aac.00744-09"
       }
 }

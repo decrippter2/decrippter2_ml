@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["SCTTCECCCSCSS"],
             "protein_ids": [
                   "ACR48342.1"
             ],
             "ACR48342.1": {
                   "complete_seq": "MDAAHLSDLDIDALEISEFLDESRLEDSEVVAKVMSASCTTCECCCSCSS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDAAHLSDLDIDALEISEFLDESRLEDSEVVAKVMSA",
+                  "core_seq": "SCTTCECCCSCSS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/cb900133x"
       }
 }

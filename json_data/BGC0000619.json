@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK"],
             "protein_ids": [
-                  "BAM09404.1"
+                  "BAM09405.1"
             ],
-            "BAM09404.1": {
-                  "complete_seq": "MLDKNIDLQRAIFHIKQDINLYSVVYGFKLPET",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "BAM09405.1": {
+                  "complete_seq": "MKNFNTLSFETLANIVGGRNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
+                  "leader_seq": "MKNFNTLSFETLANIVGG",
+                  "core_seq": "RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/AEM.02815-18"
       }
 }

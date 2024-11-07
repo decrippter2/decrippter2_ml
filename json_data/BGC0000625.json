@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 7448,
             "end": 22902,
-            "core_sequences": [],
+            "core_sequences": ["VMAAAASIALHC"],
             "protein_ids": [
                   "BAN83916.1"
             ],
             "BAN83916.1": {
                   "complete_seq": "MTEKTQITDVQAFEDLVAKVQEMDGPAQASSTVAALAGLDAAELQNFLEEKSGISPDEEAQGSVMAAAASIALHC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MTEKTQITDVQAFEDLVAKVQEMDGPAQASSTVAALAGLDAAELQNFLEEKSGISPDEEAQGS",
+                  "core_seq": "VMAAAASIALHC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/AEM.01978-13"
       }
 }

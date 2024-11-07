@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["GDVNWVDVGKTVATNGAGVIGGAFGAGLCGPVCAGAFAVGSSAAVAALYDAAGNSNSAKQKPEGLPPEAWNYAEGRMCNWSPNNLSDVCL"],
             "protein_ids": [
-                  "ACF22183.1"
+                  "AAP03989.1"
             ],
-            "ACF22183.1": {
-                  "complete_seq": "MKTWQVFFIILPISIIISLIVKQLNSSNLVQSVVSGIAIALMISIFFNRGK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "AAP03989.1": {
+                  "complete_seq": "MREITLNEMNNVSGAGDVNWVDVGKTVATNGAGVIGGAFGAGLCGPVCAGAFAVGSSAAVAALYDAAGNSNSAKQKPEGLPPEAWNYAEGRMCNWSPNNLSDVCL",
+                  "leader_seq": "MREITLNEMNNVSGA",
+                  "core_seq": "GDVNWVDVGKTVATNGAGVIGGAFGAGLCGPVCAGAFAVGSSAAVAALYDAAGNSNSAKQKPEGLPPEAWNYAEGRMCNWSPNNLSDVCL",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/aac.48.2.505-513.2004"
       }
 }

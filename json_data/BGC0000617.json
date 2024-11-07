@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC"],
             "protein_ids": [
                   "AAG28763.1"
             ],
             "AAG28763.1": {
                   "complete_seq": "MKKIEKLTEKEMANIIGGKYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKKIEKLTEKEMANIIGG",
+                  "core_seq": "KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1111/j.1574-6976.2010.00244.x"
       }
 }

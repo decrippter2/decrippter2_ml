@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 3044506,
             "end": 3048678,
-            "core_sequences": [],
+            "core_sequences": ["LASTLGISTAAAKKAIDIIDAASTIASIISLIGIVTGAGAISYAIVATAKTMIKKYGKKYAAAW"],
             "protein_ids": [
-                  "ABS75250.1"
+                  "ABS75254.1"
             ],
-            "ABS75250.1": {
-                  "complete_seq": "MRSKLSLIGVPIVMIIGYIISLSFEWLFPVLTFGVAGLYLFIFAPVQNKFIRYIFLFIFVINLLASAALYFGI",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "ABS75254.1": {
+                  "complete_seq": "MMNLVKSNKKSFILFGAALAAATLVYALLLTGTELNVAAAHAFSANAELASTLGISTAAAKKAIDIIDAASTIASIISLIGIVTGAGAISYAIVATAKTMIKKYGKKYAAAW",
+                  "leader_seq": "MMNLVKSNKKSFILFGAALAAATLVYALLLTGTELNVAAAHAFSANAE",
+                  "core_seq": "LASTLGISTAAAKKAIDIIDAASTIASIISLIGIVTGAGAISYAIVATAKTMIKKYGKKYAAAW",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/jb.01474-14"
       }
 }

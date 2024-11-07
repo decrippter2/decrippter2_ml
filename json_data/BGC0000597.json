@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1489807,
             "end": 1500652,
-            "core_sequences": [],
+            "core_sequences": ["MNLITDVLAGLVHFIGWLV"],
             "protein_ids": [
-                  "WP_043261715.1"
+                  "POX53806.1"
             ],
-            "WP_043261715.1": {
-                  "complete_seq": "MPASFTPFTPLDFQLVLLRRMADHNPELVADARRELGVSLTDMREANKRWQAMVRSPRSRSAASRYRSVLGPPESAAARRIGDLDCEARQWPLPLWPELRFEVLVGPNGQVWNEWLVRAPGAEPPVLRTLDDLAPWSCTVDEAARAFAPARPLEGTAPTRWGLAFTAPDGGGVRREVVAEFTWGLLQRTRTADE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "POX53806.1": {
+                  "complete_seq": "MQTVVARMSHMFTARRSTIMNLITDVLAGLVHFIGWLV",
+                  "leader_seq": "MQTVVARMSHMFTARRSTI",
+                  "core_seq": "MNLITDVLAGLVHFIGWLV",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/nchembio.684"
       }
 }

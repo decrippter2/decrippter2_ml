@@ -4,23 +4,23 @@
             "ncomp": 2,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["SGIPCTIGAAVAASIAVCPTTKCSKRCGKRKK","KCKWWNISCDLGNNGHVCTLSHECQVSCN"],
             "protein_ids": [
                   "AAG02566.1",
                   "AAG02567.1"
             ],
             "AAG02566.1": {
                   "complete_seq": "MTKTSRRKNAIANYLEPVDEKSINESFGAGDPEARSGIPCTIGAAVAASIAVCPTTKCSKRCGKRKK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MTKTSRRKNAIANYLEPVDEKSINESFGAGDPEAR",
+                  "core_seq": "SGIPCTIGAAVAASIAVCPTTKCSKRCGKRKK",
+                  "follower_seq": ""
             },
             "AAG02567.1": {
                   "complete_seq": "MKISKIEAQARKDFFKKIDTNSNLLNVNGAKCKWWNISCDLGNNGHVCTLSHECQVSCN",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKISKIEAQARKDFFKKIDTNSNLLNVNGA",
+                  "core_seq": "KCKWWNISCDLGNNGHVCTLSHECQVSCN",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1099/00221287-147-3-643"
       }
 }

@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 35019,
             "end": 50744,
-            "core_sequences": [],
+            "core_sequences": ["SNCTSRGTPASCCSCCCC"],
             "protein_ids": [
                   "EMF00380.1"
             ],
             "EMF00380.1": {
                   "complete_seq": "MEAKLELDLGDLSVEELDVLPTSPGAGLESINVGHAMVEIGASNCTSRGTPASCCSCCCC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEAKLELDLGDLSVEELDVLPTSPGAGLESINVGHAMVEIGA",
+                  "core_seq": "SNCTSRGTPASCCSCCCC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/cb500324n"
       }
 }

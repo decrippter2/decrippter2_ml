@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["SCTTCVCTCSCCTT"],
             "protein_ids": [
                   "AIU53942.1"
             ],
             "AIU53942.1": {
                   "complete_seq": "MSEFQTNNIEGLDVTDLEFISEEVTEKDEKEIMGASCTTCVCTCSCCTT",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSEFQTNNIEGLDVTDLEFISEEVTEKDEKEIMGA",
+                  "core_seq": "SCTTCVCTCSCCTT",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/jb.00396-16"
       }
 }

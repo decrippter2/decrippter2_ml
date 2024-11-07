@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 7234,
             "end": 24412,
-            "core_sequences": [],
+            "core_sequences": ["STNCFCYICCSCSS"],
             "protein_ids": [
                   "AEM00614.1"
             ],
             "AEM00614.1": {
                   "complete_seq": "MGNNEEYFIDVNDLSIDVFDVVEQGGAVTALTADHGMPEVGASTNCFCYICCSCSSN",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MGNNEEYFIDVNDLSIDVFDVVEQGGAVTALTADHGMPEVGA",
+                  "core_seq": "STNCFCYICCSCSS",
+                  "follower_seq": "N"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.chembiol.2014.03.008"
       }
 }

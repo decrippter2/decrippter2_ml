@@ -4,23 +4,23 @@
             "ncomp": 2,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL","KNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFTSCR"],
             "protein_ids": [
-                  "ABQ84440.1",
-                  "ABQ84445.1"
+                  "ABQ84442.1",
+                  "ABQ84443.1"
             ],
-            "ABQ84440.1": {
-                  "complete_seq": "MPSWLSNINSIVTINIHHLRGLLVTISTIPTDIRKIEYIMPLPRSTLINPISI",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "ABQ84442.1": {
+                  "complete_seq": "MMKEFTVLTECELAKVDGGKRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL",
+                  "leader_seq": "MMKEFTVLTECELAKVDGG",
+                  "core_seq": "KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL",
+                  "follower_seq": ""
             },
-            "ABQ84445.1": {
-                  "complete_seq": "MKFEVLTEKKLQKIAGGATKKGGFKRWQCIFTFFGVCK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "ABQ84443.1": {
+                  "complete_seq": "MKNLDKRFTIMTEDNLASVNGGKNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFTSCR",
+                  "leader_seq": "MKNLDKRFTIMTEDNLASVNGG",
+                  "core_seq": "KNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFTSCR",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.resmic.2009.06.009"
       }
 }

@@ -6,14 +6,14 @@
             "end": 1628555,
             "core_sequences": [],
             "protein_ids": [
-                  "EED49416.1"
+                  "EED49417.1"
             ],
-            "EED49416.1": {
-                  "complete_seq": "MRWRGRMEFKTRGATVWRDGPLTLALRRLAMTSSVVICSHWPRVTCELKINLAPVWEDSCCLLLCAELLMEGRLLGAQFNSASSQTCLYLIDG",
+            "EED49417.1": {
+                  "complete_seq": "MKLILTLLVSGLCALAAPAAKRDGVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGGSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGSVEDYAIGIDKKRGTVEDYAIGIDKRGGSVEDYAIGIDKRHGGH",
                   "leader_seq": "TBA",
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.fgb.2014.04.011"
       }
 }

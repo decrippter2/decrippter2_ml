@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["CTTTGCACSSSSSST"],
             "protein_ids": [
                   "ADO67770.1"
             ],
             "ADO67770.1": {
                   "complete_seq": "MNKDIDLSAIEISDLISETEQSDDALSQVMAASCTTTGCACSSSSSST",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MNKDIDLSAIEISDLISETEQSDDALSQVMAAS",
+                  "core_seq": "CTTTGCACSSSSSST",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/AEM.01442-10"
       }
 }
