@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "LN831790.1",
+            "ncomp": 1,
+            "start": 648370,
+            "end": 654833,
+            "core_sequences": [
+                  "LYGVRNDEEINWHFDYWT"
+            ],
+            "protein_ids": [
+                  "CQR60041.1"
+            ],
+            "CQR60041.1": {
+                  "complete_seq": "MEHDEKTPYETPAVYGLGAFAEETGLYGVRNDEEINWHFDYWT",
+                  "leader_seq": "MEHDEKTPYETPAVYGLGAFAEETG",
+                  "core_seq": "LYGVRNDEEINWHFDYWT",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

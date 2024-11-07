@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_JARMCY010000004.1",
+            "ncomp": 1,
+            "start": 433905,
+            "end": 436414,
+            "core_sequences": [
+                  "GMSGRIPDGFHGGRGF"
+            ],
+            "protein_ids": [
+                  "WP_262726039.1"
+            ],
+            "WP_262726039.1": {
+                  "complete_seq": "MNQEKTIEKVSFEEPEIFTEGNLEELTGGMSGRIPDGFHGGRGF",
+                  "leader_seq": "MNQEKTIEKVSFEEPEIFTEGNLEELTG",
+                  "core_seq": "GMSGRIPDGFHGGRGF",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,28 @@
+{
+      "mibig_acc": {
+            "accession": "CP012159.1",
+            "ncomp": 2,
+            "start": 3370600,
+            "end": 3383702,
+            "core_sequences": [
+                  "IYW"
+            ],
+            "protein_ids": [
+                  "AKT38412.1",
+                  "AKT38408.1"
+            ],
+            "AKT38412.1": {
+                  "complete_seq": "MRRCDAMMVRTLQRFALTLLYFTLLVPCALVVRVLGRAPLRIHPEATGGSYWLPSRRRS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "AKT38408.1": {
+                  "complete_seq": "MSLWFGAAGVIAVVLAAFIYRSAKGRRKEDGRPPDDRYPLW",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "BA000030.3",
+            "ncomp": 1,
+            "start": 6877533,
+            "end": 6882094,
+            "core_sequences": [],
+            "protein_ids": [
+                  "BAC73400.1"
+            ],
+            "BAC73400.1": {
+                  "complete_seq": "MTTVPQQKDTRMALKFGANVSTAETDYGTVLLDERAGEYWELNPTGTLVVNTLMAGGDEAAAVVALADEFDIDLVQAKQDVDALVQQLRTSGLAE",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

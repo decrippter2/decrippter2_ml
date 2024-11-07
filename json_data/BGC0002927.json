@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "FN667742.1",
+            "ncomp": 1,
+            "start": 4305284,
+            "end": 4310959,
+            "core_sequences": [
+                  "MSKLQREIAANKAQLSHEDKKKTQHKELVDSLLDTVSGGWINAFGNWERAFH"
+            ],
+            "protein_ids": [
+                  "CBJ92523"
+            ],
+            "CBJ92523": {
+                  "complete_seq": "MSKLQREIAANKAQLSHEDKKKTQHKELVDSLLDTVSGGWINAFGNWERAFH",
+                  "leader_seq": "",
+                  "core_seq": "MSKLQREIAANKAQLSHEDKKKTQHKELVDSLLDTVSGGWINAFGNWERAFH",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

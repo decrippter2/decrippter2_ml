@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "GCA_001493375.1",
+            "ncomp": 1,
+            "start": 81311,
+            "end": 93819,
+            "core_sequences": [
+                  "CLGVGSCVDFAGCGYAVVCFW"
+            ],
+            "protein_ids": [
+                  "WP_104530897.1"
+            ],
+            "WP_104530897.1": {
+                  "complete_seq": "MSATTVYEPPALQEIGDFDELTKCLGVGSCVDFAGCGYAVVCFW",
+                  "leader_seq": "MSATTVYEPPALQEIGDFDELTK",
+                  "core_seq": "CLGVGSCVDFAGCGYAVVCFW",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

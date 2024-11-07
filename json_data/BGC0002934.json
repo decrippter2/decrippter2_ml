@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "OP675477.1",
+            "ncomp": 2,
+            "start": 1,
+            "end": 13090,
+            "core_sequences": [
+                  "LEGGHALLATTTTTQNSCSCPATTDAKDGGCACSC"
+            ],
+            "protein_ids": [
+                  "WOF00480.1"
+            ],
+            "WOF00480.1": {
+                  "complete_seq": "MNANTNLNDVVGTSQISDEELETVTGGLEGGHALLATTTTTQNSCSCPATTDAKDGGCACSC",
+                  "leader_seq": "MNANTNLNDVVGTSQISDEELETVTGG",
+                  "core_seq": "LEGGHALLATTTTTQNSCSCPATTDAKDGGCACSC",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

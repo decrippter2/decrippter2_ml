@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AMDH01000012",
+            "ncomp": 1,
+            "start": 383180,
+            "end": 387074,
+            "core_sequences": [
+                  "LAKEFGIPGSVAAVVLNVVEAGGAVTTIVSILTAVGSGGLSLIAAAGKETIRQYLKNEIKKKGRKAVIAW"
+            ],
+            "protein_ids": [
+                  null
+            ],
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

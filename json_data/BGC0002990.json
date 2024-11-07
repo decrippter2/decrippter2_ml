@@ -1,0 +1,17 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_BNBU01000008 ",
+            "ncomp": 1,
+            "start": 23858,
+            "end": 27702,
+            "core_sequences": [],
+            "protein_ids": [],
+            "BBD82040.1": {
+                  "complete_seq": "MSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "JABAIC010000001.1",
+            "ncomp": 0,
+            "start": 16712,
+            "end": 29273,
+            "core_sequences": [
+                  "GPPGDRIEFGVLAQLPGLDRD"
+            ],
+            "protein_ids": [
+                  "NLR37533.1"
+            ],
+            "NLR37533.1": {
+                  "complete_seq": "MERTFDLVEDVEDLGTASIETLGPPGDRIEFGVLAQLPGLDRD",
+                  "leader_seq": "MERTFDLVEDVEDLGTASIETL",
+                  "core_seq": "GPPGDRIEFGVLAQLPGLDRD",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

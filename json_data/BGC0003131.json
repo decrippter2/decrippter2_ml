@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP137888.1",
+            "ncomp": 1,
+            "start": 3668842,
+            "end": 3672490,
+            "core_sequences": [
+                  "LATNLGISRKTAYAAIGVIMTTGDVLTILSLLAVVLGGTGLVTAAMVATAKKLATKHGKKYAAEW"
+            ],
+            "protein_ids": [
+                  "WRO25976.1"
+            ],
+            "WRO25976.1": {
+                  "complete_seq": "MFINKKKIDKLLDDHLEENKGDSKNTINSSFIIVFYFSILLSICTFFFDYRFFLITLFGPTILVTFISPPLQFNKGIYRGCSALYLLLLIIVTFFWIK",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "CACA01000374.1",
+            "ncomp": 1,
+            "start": 17114,
+            "end": 23279,
+            "core_sequences": [],
+            "protein_ids": [
+                  "CBN59341.1"
+            ],
+            "CBN59341.1": {
+                  "complete_seq": "MWDGHPARLCIQFRQLAHPNLLPSVFLRQDLRNCLETGLFPKIIGNKRSIKLETGFLLTCRVRQTVVSSERIKVMLLTHPTNCTKELYAGEEYYKCPHSFPFY",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

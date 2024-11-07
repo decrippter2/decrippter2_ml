@@ -1,0 +1,22 @@
+{
+      "mibig_acc": {
+            "accession": "VFML01000001.1",
+            "ncomp": 1,
+            "start": 2751141,
+            "end": 2753640,
+            "core_sequences": [
+                  "HTDGQTNTVTDGGDGRYTNKDSDTDHRED"
+            ],
+            "protein_ids": [
+                  "FB471_2428"
+            ],
+            "FB471_2428": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

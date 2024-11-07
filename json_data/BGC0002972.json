@@ -1,0 +1,22 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_FOAZ01000001.1",
+            "ncomp": 1,
+            "start": 92374,
+            "end": 102750,
+            "core_sequences": [
+                  "MSASRDSKSRVTEVRSAVSSRPAPVRLAKRGDAAHSLMLSRVLPDNGVSRLDVAGFQSSI"
+            ],
+            "protein_ids": [
+                  "SjiA"
+            ],
+            "SjiA": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

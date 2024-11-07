@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "ADAN01000005.1",
+            "ncomp": 1,
+            "start": 1,
+            "end": 7383,
+            "core_sequences": [],
+            "protein_ids": [
+                  "EFH71250.1"
+            ],
+            "EFH71250.1": {
+                  "complete_seq": "MLTHGILNAQLAAAIAKLRHKDQFVVSDCGLPVPAGVEVIDLALVFGIPRFPDVLASIKDDLVLESGIMAEEACDDVPETWIKDLLGVPLTYVPHDGERGFKALVSQAKFVIRTGETTPYSNVLLRCGVPF",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

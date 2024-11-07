@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "KF366381.2",
+            "ncomp": 1,
+            "start": 4201,
+            "end": 25722,
+            "core_sequences": [
+                  "SCNCVCGFCCSCSP"
+            ],
+            "protein_ids": [
+                  "AGY49587.1"
+            ],
+            "AGY49587.1": {
+                  "complete_seq": "MSEMELNLNDLPMDVFEMADSGMEVESLTAGHGMPEVGASCNCVCGFCCSCSPSA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

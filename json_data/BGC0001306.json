@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "EQ963476.1",
+            "ncomp": 1,
+            "start": 840072,
+            "end": 846480,
+            "core_sequences": [],
+            "protein_ids": [
+                  "EED52435.1"
+            ],
+            "EED52435.1": {
+                  "complete_seq": "MTIKVIVVGAGGNLGHHIVSALDDDHRFTVTILARASSKSKFPSHITVHRVDDYYPELEVVEAFKGQDVVISTVTTGAIQRQKTLIDAALKAGVGRFIPSEFGHDTRNGNASKMLPQMYQQKREVVEYLRAKQNDGLEWTAFVTGPFLEVAIENFLGFNLSQQHATILNEGSDRWSATTRATVGLAVKNSLLIPEKTSNRYLFIDTVTASQNDVLLALRKMTGTEWGVDYVDAEEQKRVAIEHLSKGRLIGIPMLMRYITCVRGYGGDYLDYETSANEILSLPVRNVDEVIASILKG",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "CM000756.1",
+            "ncomp": 1,
+            "start": 6185533,
+            "end": 6189849,
+            "core_sequences": [],
+            "protein_ids": [
+                  "EEM79979.1"
+            ],
+            "EEM79979.1": {
+                  "complete_seq": "MKSLIWKELRLVRSRWQKTIFILFILAALSLYATFSLKTLSIPMKFNFILGVTSIIFMSEIIFESIKSDKNNKTLEKLLPLFSLGKIIMAKTIFGMVTASLVSIIYSSVFFIYFVLLSSYPHFEILISISLLPIINLLFGNIFTILVLLIDNMFVNKLFTMTGTILYILLFSNIKDLKFVFMLVGILLIIVFLLNIAIKKRSAENIL",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

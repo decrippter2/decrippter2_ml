@@ -1,0 +1,17 @@
+{
+      "mibig_acc": {
+            "accession": "RVT50611.1",
+            "ncomp": 1,
+            "start": 311922,
+            "end": 334529,
+            "core_sequences": [],
+            "protein_ids": [],
+            "EKU73223.1": {
+                  "complete_seq": "MLLSQKGTPPDTITFRGQEITCLLEKRSAATQITAIDQDIDIR",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

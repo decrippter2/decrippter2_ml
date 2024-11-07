@@ -1,0 +1,26 @@
+{
+      "mibig_acc": {
+            "accession": "MW686201.1",
+            "ncomp": 2,
+            "start": 1,
+            "end": 6932,
+            "core_sequences": [],
+            "protein_ids": [
+                  "QYZ85378.1",
+                  "QYZ85381.1"
+            ],
+            "QYZ85378.1": {
+                  "complete_seq": "MPTIEMTAPAGAELDLFDLDLEVSVEQMSLTPAITSISLCTPGCTSAGGGSNCSFCC",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "QYZ85381.1": {
+                  "complete_seq": "MPTPPAQPTHPNPPPTHSSPPAQPAHANPPTHPSPLTPPRKLLLGVSGSVAALGLPGYLYAFRAAGVSEIIAVVTTSALQFLPVTGLAALCDRVCTDGDSSLGHVALARWAEHTLVLPATAHLLGCLANGLAPSLLATTLLAVDGPVTLAPAMNAAMWRRPAVRRNVATLRADGHQVIDPVPGAVYEVASRAVVAGIAVPPPAVVLERISA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

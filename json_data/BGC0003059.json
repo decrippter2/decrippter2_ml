@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "SEN48742.1",
+            "ncomp": 1,
+            "start": 114370,
+            "end": 117816,
+            "core_sequences": [
+                  "METYQVPELIEIGSFEEMTLGSKYSDTADESSYRW"
+            ],
+            "protein_ids": [
+                  "SEN48697.1"
+            ],
+            "SEN48697.1": {
+                  "complete_seq": "MEYQVPELIEIGSFEEMTLGSKYSDTADESSYRW",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "FNON01000005.1",
+            "ncomp": 1,
+            "start": 781463,
+            "end": 782682,
+            "core_sequences": [
+                  "AWYIWW"
+            ],
+            "protein_ids": [
+                  "SDY48146.1"
+            ],
+            "SDY48146.1": {
+                  "complete_seq": "MQVSTTGGIARTIVFAPRIDELLRKHRGDGLFRLDHDTVGIGDPHLIDAIMASRPANDFERPTFKPLQGKSISRPESTGLMRAVGQDVRIALKKTDERPVDLSGEWPHVGHVYLRDLIFPGDPMRLLALMDRRLEWTTALTRAVVTAGSALPGWPSPDAPISNLGKIAAEARGYHAKFRAMGLYRRASAPVCFTVSQLVASAIWLGAPFDDQWSNRDIIHETLRLLPVSWNLLRVASPEFPALDARIGPKDDVLMFPLLSHRDPALWDDPDEFRPERWATLDPDHQLGYLPFGHLSERCWGRHMVLPLAERLLDLVREGGYRVDPAQAEAKVPLAGLFGVTKVKVTR",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

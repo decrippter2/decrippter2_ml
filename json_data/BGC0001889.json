@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP000088.1",
+            "ncomp": 1,
+            "start": 1333039,
+            "end": 1338128,
+            "core_sequences": [
+                  "WYTAEWGLELIFVFPRFI"
+            ],
+            "protein_ids": [
+                  "AAZ55182.1"
+            ],
+            "AAZ55182.1": {
+                  "complete_seq": "METTGAEFRLRPEISVAQTDYGMVLLDGRSGEYWQLNDTAALIVQRLLDGHSPADVAQFLTSEYEVERTDAERDIAALVTSLKENGMALP",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

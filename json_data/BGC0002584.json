@@ -1,0 +1,40 @@
+{
+      "mibig_acc": {
+            "accession": "KT336319.1",
+            "ncomp": 4,
+            "start": 1,
+            "end": 13427,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AMQ23501.1",
+                  "AMQ23507.1",
+                  "AMQ23508.1",
+                  "AMQ23504.1"
+            ],
+            "AMQ23501.1": {
+                  "complete_seq": "MSTPTTSRKRGSSDKTKTATKATARKTAAERKTTGRQKSAATKSTASEKATATPAKAGTKAEKPPVTTSSGDGKRSFTVTVPTAGRVASGLADAALLPVAVARRWLPAKGGLPLYVGLGVLGAVEVIEWPVAVGIGIGYAVLRRGGVMAPPSTGAAQPA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "AMQ23507.1": {
+                  "complete_seq": "MTPADSEPPPLPTVCRTAVWTAQMRADESRVPNACAVDPWAAEFVAAAGPQGPPPGGPEARSFLHDGVAVRTRYFDDYLLEAVAGGCSQVVLLGAGLDARAFRLPWPRPVEVFEVDLPDLLDFKNRVVGGRAPAAARRVTVAADLRDAWAEALIAAGFDPARRTAWLCEGTLVYLEPGQADAVVCTMAAHSPPGSEVGAETMTSQGRLDCLRSCHDALSADGAPWRCSLSDPAAWWAERGWRMTVPDPASLPYAAERMAPYLPMLRQAGDAGGWLLTGTRCGPGPAAPPA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "AMQ23508.1": {
+                  "complete_seq": "MMDLRQLTVLAEVSRAGSYRAAADRLGYTQPAVSYHMRALERAAGVPLVARSGRGVRLTPAGHRLAERAQEVLTGLRAVESEFEALAAHTRGRVRVSAVQSVCVAVLPAALALMRAASTEVEVELGQAASPDSYRLLRSGETDVAIVGDGDLGDLGAREPGSPVGAADPALCRVPLLADRRYVLLPPGHALARRRSVALADLSGERWILGRERGRLLRRCAEAGFEPRVVTTTDDQATTIGLVGDGVGVALLDGLGLLPRRDPRVRARRLNRWPRRQVYALLRPETAKMPAVAALMGAVRAAVGRLAESTDCLLPPGGEPPAPPGDASPRRAPGRVRPA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "AMQ23504.1": {
+                  "complete_seq": "MTGFARPHFHGTGPNTPLSGPSSGRDRIRIRSTGDSPVIDNDLFEEMAIQEPEAVVVSTCTIKMDEDIEETQ",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "LN831790.1",
+            "ncomp": 1,
+            "start": 7775129,
+            "end": 7788598,
+            "core_sequences": [
+                  "TTVPCTVASFATGYFSC"
+            ],
+            "protein_ids": [
+                  "CQR66067.1"
+            ],
+            "CQR66067.1": {
+                  "complete_seq": "MDTHELIEGFDAYVEAEELNEDAMVDAPATTVPCTVASFATGYFSC",
+                  "leader_seq": "MDTHELIEGFDAYVEAEELNEDAMVDAPA",
+                  "core_seq": "TTVPCTVASFATGYFSC",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

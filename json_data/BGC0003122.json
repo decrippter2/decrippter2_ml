@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "ABCS01000021.1",
+            "ncomp": 1,
+            "start": 48533,
+            "end": 50807,
+            "core_sequences": [
+                  "GGPYTTLAIGEEDPITTLAIGEEDPDPTTLALGEEDPTTLAIGEE"
+            ],
+            "protein_ids": [
+                  "EDM74818.1"
+            ],
+            "EDM74818.1": {
+                  "complete_seq": "MSKNENNKKQLRDLFIEDLGKVTGGKGGPYTTLAIGEEDPITTLAIGEEDPDPTTLALGEEDPTTLAIGEE",
+                  "leader_seq": "MSKNENNKKQLRDLFIEDLGKVTGGK",
+                  "core_seq": "GGPYTTLAIGEEDPITTLAIGEEDPDPTTLALGEEDPTTLAIGEE",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

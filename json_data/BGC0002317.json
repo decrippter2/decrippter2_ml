@@ -1,0 +1,33 @@
+{
+      "mibig_acc": {
+            "accession": "LIME01000008.1",
+            "ncomp": 3,
+            "start": 46755,
+            "end": 59082,
+            "core_sequences": [],
+            "protein_ids": [
+                  "KPA06478.1",
+                  "KPA06468.1",
+                  "KPA06470.1"
+            ],
+            "KPA06478.1": {
+                  "complete_seq": "MIKFSTLSQRISAITEENAMYTKGQVIVLS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "KPA06468.1": {
+                  "complete_seq": "MSEMPAEEVCSTCQQPLHDSVIIEKDGEVLKSCPSCSSKAGTHFFYKHDDFGMRNMGDGRFIVQSWCLGCRSQDGMKPKLAFKC",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "KPA06470.1": {
+                  "complete_seq": "MTNSNSGEEKKKEIVTEEKIIPANSKKNIGVYKLIDIVILTIVIIGTGFLLYFFFKRHINDVAENKTAVNLILSSLPVLSGGLLISLWFT",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

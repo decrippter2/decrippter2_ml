@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "KQ950181.1",
+            "ncomp": 1,
+            "start": 609480,
+            "end": 613343,
+            "core_sequences": [
+                  "MDEEIYQPPELVELGDAREVTLGAADDDTADMNTAKYY"
+            ],
+            "protein_ids": [
+                  "KUP95556.1"
+            ],
+            "KUP95556.1": {
+                  "complete_seq": "MTAVKPASNVCSVATDDGAVLLDLGTGKFFGLNPTAAVIWAELATGKDMAALVPELASRFEVGEERMKTDIRELVEVLRRHRLIDERRTAK",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

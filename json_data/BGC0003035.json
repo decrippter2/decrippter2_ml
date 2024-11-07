@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP011492",
+            "ncomp": 1,
+            "start": 2845399,
+            "end": 2846654,
+            "core_sequences": [
+                  "QAWRIW"
+            ],
+            "protein_ids": [
+                  "AKH82808.1"
+            ],
+            "AKH82808.1": {
+                  "complete_seq": "MVAERGFRRDPIGFVERAARAHGAPFRLPGGALCVADPETAVQVLRDNGRRYEEVTEFLRPRGGRLADPVTQVAVGRAARRVLRARLAGRENLFAQVVAGLGEDSRWPHAGHVMVHDALADVLLHPDSSPRLRHLMARCVRRHDVLIRSSNPLARVPQHLLRARLNRAVAEEVRIRRRADSATGALPAAPKDLLEAVRTATPADTDALEIAGAYVQLFRTSVAPVAHVVAWALLLAAHAGVDLAAVRPDRAVREALRLWPVAWLLTRTVRLPHEVAGAAVAPGETVAVCVYLLHRNEDVWPEASRFRPDRWAHATARGAYLPFGAGPRACTGGSIALDVATALVAALSHGSRLVVHGGSARPRVQGIITPPDFRLDRRATTASSAQAVVSSDDGR",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

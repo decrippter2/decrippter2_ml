@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "OV972893.1",
+            "ncomp": 1,
+            "start": 8296985,
+            "end": 8302171,
+            "core_sequences": [
+                  "ASEPTVQAVVQAVAVVNVGGPTLDVVQVVGGPTAVVVTGGPSAVVC"
+            ],
+            "protein_ids": [
+                  null
+            ],
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

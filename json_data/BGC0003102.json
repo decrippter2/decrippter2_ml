@@ -1,0 +1,17 @@
+{
+      "mibig_acc": {
+            "accession": "AEKH01000001.1",
+            "ncomp": 1,
+            "start": 185375,
+            "end": 208298,
+            "core_sequences": [],
+            "protein_ids": [],
+            "EKB09399.1": {
+                  "complete_seq": "MADSTHFFERVYDVVREIPIGKVTTYGAIAKAIGAPRSARMVGYAMNASHFDDSVPAHRVVNRVGMLSGKHHFDGTNLMQQLLESEGIVVKNNQVQDFQAHLWIPPVEF",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

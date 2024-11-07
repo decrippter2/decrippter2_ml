@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "NC_014815.1",
+            "ncomp": 1,
+            "start": 6766458,
+            "end": 6774994,
+            "core_sequences": [
+                  "MTTAPLRQDEPPVSLGRVRAEPLDRLSAADISPIVRRVMAAHLDQTRIPAAKFSSFI"
+            ],
+            "protein_ids": [
+                  "WP_013289092.1"
+            ],
+            "WP_013289092.1": {
+                  "complete_seq": "MTTAPLRQDEPPVSLGRVRAEPLDRLSAADISPIVRRVMAAHLDQTRIPAAKFSSFI",
+                  "leader_seq": "",
+                  "core_seq": "MTTAPLRQDEPPVSLGRVRAEPLDRLSAADISPIVRRVMAAHLDQTRIPAAKFSSFI",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

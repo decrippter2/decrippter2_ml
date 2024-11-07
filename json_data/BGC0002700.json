@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "LSBA01000008.1",
+            "ncomp": 1,
+            "start": 16966,
+            "end": 22797,
+            "core_sequences": [],
+            "protein_ids": [
+                  "KXZ21038.1"
+            ],
+            "KXZ21038.1": {
+                  "complete_seq": "MKGLLLTNYYLVYRSFFAYTGLAILVSGIMFYFGDASMHRFVAMLIILFVAMPALEVIKYEGKSGYDKYVLTLPVSRRNIVQSHYFFYFLIVIIGALLSYGIFYVYGLVSDTPTDGIFNIVSFGTFIVLFAGAIVYPLLYIFGPEKSDAIVIGGAMGGLFATFGLQSLVGYLIEQLPPSNLNIDPSLYVPIIYIMFGAGIYIISFFIAAFIYHKKEF",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

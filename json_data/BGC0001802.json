@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "MF593843.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "SVMAAAATVAFHC"
+            ],
+            "protein_ids": [
+                  "ATJ00792.1"
+            ],
+            "ATJ00792.1": {
+                  "complete_seq": "MVSAVDETAFADLVSKIQDAEASMTDEQRAVIDPASGEKALQELAGVSPEELQAFLEEKAGISPDEEAQGSVMAAAATVAFHC",
+                  "leader_seq": "MVSAVDETAFADLVSKIQDAEASMTDEQRAVIDPASGEKALQELAGVSPEELQAFLEEKAGISPDEEAQG",
+                  "core_seq": "SVMAAAATVAFHC",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

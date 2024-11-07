@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_KI632511.1",
+            "ncomp": 1,
+            "start": 6106308,
+            "end": 6110041,
+            "core_sequences": [
+                  "MTILQELAASDAPQLLQLIADGATDAPAPIMAGFDNRPTWDNKGGSFDNRPSWDNWSKK"
+            ],
+            "protein_ids": [
+                  "WP_034267136.1"
+            ],
+            "WP_034267136.1": {
+                  "complete_seq": "MTILQELAASDAPQLLQLIADGATDAPAPIMAGFDNRPTWDNKGGSFDNRPSWDNWSKK",
+                  "leader_seq": "",
+                  "core_seq": "MTILQELAASDAPQLLQLIADGATDAPAPIMAGFDNRPTWDNKGGSFDNRPSWDNWSKK",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_BBPP01000024.1",
+            "ncomp": 1,
+            "start": 100666,
+            "end": 103394,
+            "core_sequences": [
+                  "GGWGTVPDWFFNMKW"
+            ],
+            "protein_ids": [
+                  "WP_236653506.1"
+            ],
+            "WP_236653506.1": {
+                  "complete_seq": "MADTTEQSNEYMAPALVEVGEFNEDTLGGWGTVPDWFFNMKW",
+                  "leader_seq": "MADTTEQSNEYMAPALVEVGEFNEDTL",
+                  "core_seq": "GGWGTVPDWFFNMKW",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

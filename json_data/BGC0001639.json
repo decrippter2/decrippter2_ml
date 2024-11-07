@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "NGTK01000002.1",
+            "ncomp": 1,
+            "start": 180938,
+            "end": 185949,
+            "core_sequences": [
+                  "GSDGPIIEFFNPNGVMHYG"
+            ],
+            "protein_ids": [
+                  "OUH62395.1"
+            ],
+            "OUH62395.1": {
+                  "complete_seq": "MMQQKKNDQKKVTLKKLNKKASKVTRGSDGPIIEFFNPNGVMHYG",
+                  "leader_seq": "MMQQKKNDQKKVTLKKLNKKASKVTR",
+                  "core_seq": "GSDGPIIEFFNPNGVMHYG",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

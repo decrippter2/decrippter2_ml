@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP058905.1",
+            "ncomp": 1,
+            "start": 1121921,
+            "end": 1151036,
+            "core_sequences": [
+                  "TSSSSCTTCICTCSCSS"
+            ],
+            "protein_ids": [
+                  "QLJ99538.1"
+            ],
+            "QLJ99538.1": {
+                  "complete_seq": "MDANATTVGVDGLTGLDIDTFEIGDYLDETVLDTADLTETMTSSSSCTTCICTCSCSS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

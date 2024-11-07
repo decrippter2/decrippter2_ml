@@ -1,0 +1,22 @@
+{
+      "mibig_acc": {
+            "accession": "KV411304.1",
+            "ncomp": 1,
+            "start": 1626613,
+            "end": 1632294,
+            "core_sequences": [
+                  "GWYGSQWDGPTGQRD"
+            ],
+            "protein_ids": [
+                  "NopA"
+            ],
+            "NopA": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

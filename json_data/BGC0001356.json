@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AHKH01000064.1",
+            "ncomp": 1,
+            "start": 23026,
+            "end": 28726,
+            "core_sequences": [
+                  "AGPGTSTPDAFQPDPDEDVHYDS"
+            ],
+            "protein_ids": [
+                  "EHQ60562.1"
+            ],
+            "EHQ60562.1": {
+                  "complete_seq": "MSKLHSITPVDTLVQCEGHIVSDMAGEKVMLSVQKGKYYNLGTLGGEIWDMLITPVKAEHIIQSILSEYEVESSECEEDILLFLSDLEHEGLIRHVKQR",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

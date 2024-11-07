@@ -1,0 +1,29 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_AUEY01000023.1",
+            "ncomp": 1,
+            "start": 26440,
+            "end": 33381,
+            "core_sequences": [
+                  "ASATWVTVGVTSVGAAATCGW",
+                  "ASGTWVAVGAGAAGAAAACGW"
+            ],
+            "protein_ids": [
+                  "WP_051284026.1",
+                  "WP_027359228.1"
+            ],
+            "WP_051284026.1": {
+                  "complete_seq": "MSLDDAKKMIEKLKTEKGLMEKVKAADNEGKKKIAKDMGLAFTADEMKEAIKADSKLSDEDLDTVAGGASATWVTVGVTSVGAAATCGW",
+                  "leader_seq": "MSLDDAKKMIEKLKTEKGLMEKVKAADNEGKKKIAKDMGLAFTADEMKEAIKADSKLSDEDLDTVAGG",
+                  "core_seq": "ASATWVTVGVTSVGAAATCGW",
+                  "follower_seq": ""
+            },
+            "WP_027359228.1": {
+                  "complete_seq": "MSLDHAKKMLEKLKTDKDLMEKVKAADNEGKKKIAEDMGLTFTAEEMKEAIKADSSLSDEDLATVAGGASGTWVAVGAGAAGAAAACGW",
+                  "leader_seq": "MSLDHAKKMLEKLKTDKDLMEKVKAADNEGKKKIAEDMGLTFTAEEMKEAIKADSSLSDEDLATVAGG",
+                  "core_seq": "ASGTWVAVGAGAAGAAAACGW",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

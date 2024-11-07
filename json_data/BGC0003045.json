@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "ZP_10205116.1",
+            "ncomp": 1,
+            "start": 1073,
+            "end": 8318,
+            "core_sequences": [
+                  "MTQSQETEMDTNENIRSNAQDDVIELSVASVETKGVLPIGNEFMGHAATPGITE"
+            ],
+            "protein_ids": [
+                  "WP_167316983.1"
+            ],
+            "WP_167316983.1": {
+                  "complete_seq": "MDTNENIRSNAQDDVIELSVASVETKGVLPIGNEFMGHAATPGITE",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

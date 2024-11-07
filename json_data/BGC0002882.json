@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "MW923391.1",
+            "ncomp": 1,
+            "start": 1,
+            "end": 13928,
+            "core_sequences": [
+                  "MNAADQLLEGYTAYTTAEEFGVAAESDAPAITTTVTSSEICVSLVSASVTATWDSGC"
+            ],
+            "protein_ids": [
+                  "UUB23858.1"
+            ],
+            "UUB23858.1": {
+                  "complete_seq": "MNAADQLLEGYTAYTTAEEFGVAAESDAPAITTTVTSSEICVSLVSASVTATWDSGC",
+                  "leader_seq": "",
+                  "core_seq": "MNAADQLLEGYTAYTTAEEFGVAAESDAPAITTTVTSSEICVSLVSASVTATWDSGC",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "KY115609.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "ECASTCSFGIVTIVCDGTTK"
+            ],
+            "protein_ids": [
+                  "ARD09202.1"
+            ],
+            "ARD09202.1": {
+                  "complete_seq": "MPTTLEKPSVAYLEKLFHQTAIDSEFRSELQSHPEAFGISADLELPQSVEKQDESFVELLNNALGEIDIAAECASTCSFGIVTIVCDGTTK",
+                  "leader_seq": "MPTTLEKPSVAYLEKLFHQTAIDSEFRSELQSHPEAFGISADLELPQSVEKQDESFVELLNNALGEIDIAA",
+                  "core_seq": "ECASTCSFGIVTIVCDGTTK",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

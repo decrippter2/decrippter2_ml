@@ -1,0 +1,22 @@
+{
+      "mibig_acc": {
+            "accession": "MKGP02000097.1",
+            "ncomp": 0,
+            "start": 11128,
+            "end": 17958,
+            "core_sequences": [
+                  "KYSLQGFGVMIP"
+            ],
+            "protein_ids": [
+                  "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPHKYSLQGFGVMIPFAGDDAE"
+            ],
+            "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPHKYSLQGFGVMIPFAGDDAE": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

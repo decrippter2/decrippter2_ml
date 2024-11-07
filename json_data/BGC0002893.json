@@ -1,0 +1,13 @@
+{
+      "mibig_acc": {
+            "accession": "GCA_000717655.1",
+            "ncomp": 1,
+            "start": 3151,
+            "end": 10461,
+            "core_sequences": [
+                  "WYGWASNDGEGTAII"
+            ],
+            "protein_ids": [],
+            "ref": ""
+      }
+}

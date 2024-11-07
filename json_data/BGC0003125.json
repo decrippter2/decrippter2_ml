@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "GCF_900142785.1",
+            "ncomp": 0,
+            "start": 46150,
+            "end": 57773,
+            "core_sequences": [
+                  "MENQAVRVISEVTAKAQANPDFAHEYVNNPNKVLSDAGMQIPEGMNIHVIVGAPANSEIPNSTSTDVYLLLPQVNEEIKDESLATAAAASCQSTSSTCVTVP"
+            ],
+            "protein_ids": [
+                  "CccA"
+            ],
+            "CccA": {
+                  "complete_seq": "GDVEKGKKVFVQKCAQCHTVZBGGKHKVGPNLWGLFGRKTGQAPGFSYTBABKSKGIVWBZZTLMEYLZBPKKYIPGTKMIFAGIKKKGERADLIAYLKSATS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

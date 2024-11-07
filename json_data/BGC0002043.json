@@ -1,0 +1,26 @@
+{
+      "mibig_acc": {
+            "accession": "MN731368.1",
+            "ncomp": 2,
+            "start": 11281,
+            "end": 13433,
+            "core_sequences": [],
+            "protein_ids": [
+                  "QLH55578.1",
+                  "QLH55580.1"
+            ],
+            "QLH55578.1": {
+                  "complete_seq": "MKKALYSLAVLMRFARADKLSAPYIYY",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "QLH55580.1": {
+                  "complete_seq": "MRREHEGAAVRREFFRSAYLLGAPWDIGRPQQAFVQLWEAGAISGEVLDVGCGFAENALFLAAKGLPVCGVDMMEPAILRARETASLRGLDVDLRVGNALELATLGRRFDTILDSALLHVFEPGDRPAFAASLASVLRPGGHYHALYFRDGPRAVPPEALNATFGEGWRVKSIQEAHYEQTDPEGAQAWLATIERVPPSSSTED",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,17 @@
+{
+      "mibig_acc": {
+            "accession": "AJJQ00000000.1",
+            "ncomp": 3,
+            "start": 228536,
+            "end": 269479,
+            "core_sequences": [],
+            "protein_ids": [],
+            "ADP40535.1": {
+                  "complete_seq": "MNLYVFGLVLCSIDWEGSDTDVSVDALLGATLLDMGEGEI",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

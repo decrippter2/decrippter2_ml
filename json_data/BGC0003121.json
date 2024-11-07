@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "KB889561.1",
+            "ncomp": 1,
+            "start": 321250,
+            "end": 322611,
+            "core_sequences": [
+                  "WFIWY"
+            ],
+            "protein_ids": [
+                  null
+            ],
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

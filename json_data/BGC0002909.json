@@ -1,0 +1,37 @@
+{
+      "mibig_acc": {
+            "accession": "LT629770.1",
+            "ncomp": 3,
+            "start": 1224108,
+            "end": 1232774,
+            "core_sequences": [
+                  "SWDSFYQGVIGALVLIGIGAAAAT",
+                  "GDADDYIRGFAVGVIIGILALT",
+                  "LEWWEHASYIIAIIGGAAAIAT"
+            ],
+            "protein_ids": [
+                  "SDS17660.1",
+                  "SDS17633.1",
+                  "SDS17589.1"
+            ],
+            "SDS17660.1": {
+                  "complete_seq": "MNESTEMSIRFQELDPMEAPSWDSFYQGVIGALVLIGIGAAAAT",
+                  "leader_seq": "MNESTEMSIRFQELDPMEAP",
+                  "core_seq": "SWDSFYQGVIGALVLIGIGAAAAT",
+                  "follower_seq": ""
+            },
+            "SDS17633.1": {
+                  "complete_seq": "MNAALPALEFTELEAMDAPGDADDYIRGFAVGVIIGILALT",
+                  "leader_seq": "MNAALPALEFTELEAMDAP",
+                  "core_seq": "GDADDYIRGFAVGVIIGILALT",
+                  "follower_seq": ""
+            },
+            "SDS17589.1": {
+                  "complete_seq": "MQSTSLEFLELEQIDTPLEWWEHASYIIAIIGGAAAIAT",
+                  "leader_seq": "MQSTSLEFLELEQIDTP",
+                  "core_seq": "LEWWEHASYIIAIIGGAAAIAT",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

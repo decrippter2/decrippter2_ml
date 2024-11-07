@@ -1,0 +1,29 @@
+{
+      "mibig_acc": {
+            "accession": "LRQV01000076.1",
+            "ncomp": 2,
+            "start": 6809,
+            "end": 12029,
+            "core_sequences": [
+                  "SGWLGSWVI",
+                  "SGFFGRSWLI"
+            ],
+            "protein_ids": [
+                  "WP_157527607.1",
+                  "WP_157527609.1"
+            ],
+            "WP_157527607.1": {
+                  "complete_seq": "MDNVVTEAAEFADLDIVDLDLAVDEELAALSVGGLGNTEVGASGWLGSWVI",
+                  "leader_seq": "MDNVVTEAAEFADLDIVDLDLAVDEELAALSVGGLGNTEVGA",
+                  "core_seq": "SGWLGSWVI",
+                  "follower_seq": ""
+            },
+            "WP_157527609.1": {
+                  "complete_seq": "MDNAATEATEFADLDIVNLDLPIDEELAAVSVGGLGNTEVGASGFFGRSWLI",
+                  "leader_seq": "MDNAATEATEFADLDIVNLDLPIDEELAAVSVGGLGNTEVGA",
+                  "core_seq": "SGFFGRSWLI",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

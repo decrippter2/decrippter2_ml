@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "CP025935.1",
+            "ncomp": 1,
+            "start": 936309,
+            "end": 942253,
+            "core_sequences": [],
+            "protein_ids": [
+                  "QAZ52267.1"
+            ],
+            "QAZ52267.1": {
+                  "complete_seq": "MSDPGGWRALHIHLPPSVQSEYLADVILPSMSALMPEHDYFFLRYWQGGSHLRLRLRSTPERPLDDEAINEVACHLRSLLPALSDQKRAEYRYSQSLQDQLAEMERADCLPLEAVGTVVERRYQPEYRKYGGSVGVSIAEDVFCSTSRSVLRILSERPTSHRQPLGYACQVFIQMLGCLGLATSQVDQFLTRYAQWWTPYSMAARPEILAARLYANLSSVVADLWAASEPNGMFSVPALNAYTQWSRRRSSARNTSVKIDPMFLSCLANYIHTTNNRLGLPPALESTAAYLVQLGFRSVAVRGEKVR",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

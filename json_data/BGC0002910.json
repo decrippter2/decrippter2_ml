@@ -1,0 +1,28 @@
+{
+      "mibig_acc": {
+            "accession": "CP000480.1",
+            "ncomp": 2,
+            "start": 1522270,
+            "end": 1528019,
+            "core_sequences": [
+                  "VY"
+            ],
+            "protein_ids": [
+                  "ABK73646.1",
+                  "ABK75244.1"
+            ],
+            "ABK73646.1": {
+                  "complete_seq": "MSTQVAEQITFDPDVSWRLHHQVAVRPEPFGALLYHFGTRKLSFLKNRTVVEVVNSLADHPDARSALCAAGVADDQQAPYLHALGVLVQSNMLVPGNPEGSQ",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ABK75244.1": {
+                  "complete_seq": "MPYICDLDHNCRDHTRRKGVHMEPNQHVEAETELVTETLVEEVSIDGMCGVY",
+                  "leader_seq": "MPYICDLDHNCRDHTRRKGVHMEPNQHVEAETELVTETLVEEVSIDGMCG",
+                  "core_seq": "VY",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

@@ -1,15 +1,15 @@
 {
       "mibig_acc": {
-            "accession": "KJ651958.1",
+            "accession": "KY914474.1",
             "ncomp": 1,
             "start": 0,
             "end": 0,
             "core_sequences": [],
             "protein_ids": [
-                  "AID54693.1"
+                  "ASY03212.1"
             ],
-            "AID54693.1": {
-                  "complete_seq": "MDANLVLDLDDLSVDQLDILPTAPGSTLESINVGHAMVEIGASNCTSKGSPASCCSCCCC",
+            "ASY03212.1": {
+                  "complete_seq": "MGKFDDFDLDVTKTAAQGGIEPKYKSKSACTPGCPTGILMTCPLKTATCGCHITGK",
                   "leader_seq": "TBA",
                   "core_seq": "TBA",
                   "follower_seq": "TBA"

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "FMHZ01000002",
+            "ncomp": 1,
+            "start": 362314,
+            "end": 362903,
+            "core_sequences": [
+                  "ALAGAYPWH"
+            ],
+            "protein_ids": [
+                  null
+            ],
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

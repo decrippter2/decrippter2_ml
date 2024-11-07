@@ -1,0 +1,33 @@
+{
+      "mibig_acc": {
+            "accession": "JAGKSW010000123.1",
+            "ncomp": 3,
+            "start": 52927,
+            "end": 58912,
+            "core_sequences": [],
+            "protein_ids": [
+                  "MBU7585865.1",
+                  "MBU7585863.1",
+                  "MBU7585864.1"
+            ],
+            "MBU7585865.1": {
+                  "complete_seq": "MSTNTTKAANVEAVPFFARFLEEQVAEVSDTAPYESRKYPSDWEEY",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "MBU7585863.1": {
+                  "complete_seq": "MSTNTVKPANVEAVPFFARFLEEQVTEVSDTSPRNTLKYPSDWEEY",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "MBU7585864.1": {
+                  "complete_seq": "MSTNTTKAANIEAAPFFARFLEEQVAEVSDTAPYETKKWPSDWEEY",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

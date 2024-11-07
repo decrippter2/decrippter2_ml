@@ -1,15 +1,15 @@
 {
       "mibig_acc": {
-            "accession": "KJ651958.1",
+            "accession": "NZ_ANAC01000010.1",
             "ncomp": 1,
-            "start": 0,
-            "end": 0,
+            "start": 360089,
+            "end": 365660,
             "core_sequences": [],
             "protein_ids": [
-                  "AID54693.1"
+                  "WP_014911574.1"
             ],
-            "AID54693.1": {
-                  "complete_seq": "MDANLVLDLDDLSVDQLDILPTAPGSTLESINVGHAMVEIGASNCTSKGSPASCCSCCCC",
+            "WP_014911574.1": {
+                  "complete_seq": "MDEEKIGNEISAYETPTVTEMGAFSEVTLGRPNWGFENDWSCVRVC",
                   "leader_seq": "TBA",
                   "core_seq": "TBA",
                   "follower_seq": "TBA"

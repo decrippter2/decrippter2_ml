@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "CP004085.1",
+            "ncomp": 1,
+            "start": 1876183,
+            "end": 1882234,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AGE37173.1"
+            ],
+            "AGE37173.1": {
+                  "complete_seq": "MTFLSKFVHVAWTFKGPELLTRARKQWPKQFRPSAGWYHDIPTAIIAVISLCEEALRRHSRPLLWKGGKSCSLMAIGAGLALHNLSVFVLARRVPQYHFRSLSKVQLAQTITVAAAEEIIWRTDGGYTSRLIESIGFGLTHLRIGSIPGVIHMGIFALIARYFERRHGLVASALFHSSYNIAHESESHRDKK",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

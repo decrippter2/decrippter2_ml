@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "KB944852.1",
+            "ncomp": 1,
+            "start": 6202,
+            "end": 10717,
+            "core_sequences": [
+                  "DKEIQTSLSNGGSTCSMYKALLPGHIAACAASAYFYGSSGCTAMRYVSEYIRKNC"
+            ],
+            "protein_ids": [
+                  "EOK06278.1"
+            ],
+            "EOK06278.1": {
+                  "complete_seq": "MSKLLRELTDKEIQTSLSNGGSTCSMYKALLPGHIAACAASAYFYGSSGCTAMRYVSEYIRKNC",
+                  "leader_seq": "MSKLLRELT",
+                  "core_seq": "DKEIQTSLSNGGSTCSMYKALLPGHIAACAASAYFYGSSGCTAMRYVSEYIRKNC",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

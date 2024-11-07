@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "MT210103.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "SSAPCTIYASVSASISATASWGC"
+            ],
+            "protein_ids": [
+                  "QKI29070.1"
+            ],
+            "QKI29070.1": {
+                  "complete_seq": "MGEVVEMVAGFDTYADVEELNQIAVGEAPESSAPCTIYASVSASISATASWGC",
+                  "leader_seq": "MGEVVEMVAGFDTYADVEELNQIAVGEAPE",
+                  "core_seq": "SSAPCTIYASVSASISATASWGC",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

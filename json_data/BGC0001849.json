@@ -1,0 +1,40 @@
+{
+      "mibig_acc": {
+            "accession": "JOBF01000011.1",
+            "ncomp": 4,
+            "start": 155004,
+            "end": 161953,
+            "core_sequences": [],
+            "protein_ids": [
+                  null,
+                  null,
+                  null,
+                  null
+            ],
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "Unidentified protein1": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "Unidentified protein2": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "Unidentified protein3": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

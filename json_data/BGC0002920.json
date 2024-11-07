@@ -1,0 +1,33 @@
+{
+      "mibig_acc": {
+            "accession": "BMMK00000000.1",
+            "ncomp": 3,
+            "start": 1,
+            "end": 24093,
+            "core_sequences": [],
+            "protein_ids": [
+                  null,
+                  null,
+                  null
+            ],
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "Unidentified protein1": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "Unidentified protein2": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

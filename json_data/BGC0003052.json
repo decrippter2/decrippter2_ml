@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "QVIG01000001.1",
+            "ncomp": 0,
+            "start": 684501,
+            "end": 691090,
+            "core_sequences": [
+                  "MSDNSTARAWKDPEDAARAVAPAHPSGEVDLGLFVGGLSDEEGGSEALGTGGCCPTWATGTHC"
+            ],
+            "protein_ids": [
+                  "RGD56942.1"
+            ],
+            "RGD56942.1": {
+                  "complete_seq": "MSDNSTARAWKDPEDAARAVAPAHPSGEVDLGLFVGGLSDEEGGSEALGTGGCCPTWATGTHC",
+                  "leader_seq": "",
+                  "core_seq": "MSDNSTARAWKDPEDAARAVAPAHPSGEVDLGLFVGGLSDEEGGSEALGTGGCCPTWATGTHC",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "EGF94505.1",
+            "ncomp": 1,
+            "start": 713514,
+            "end": 716203,
+            "core_sequences": [
+                  "MMNTFKLRLVSFGSAKALTRDGMGEEFIEGLVRDSLYPPAG"
+            ],
+            "protein_ids": [
+                  "EGF94505.1"
+            ],
+            "EGF94505.1": {
+                  "complete_seq": "MMNTFKLRLVSFGSAKALTRDGMGEEFIEGLVRDSLYPPAG",
+                  "leader_seq": "",
+                  "core_seq": "MMNTFKLRLVSFGSAKALTRDGMGEEFIEGLVRDSLYPPAG",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

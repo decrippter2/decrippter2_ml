@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CYTQ01000003",
+            "ncomp": 1,
+            "start": 384982,
+            "end": 389408,
+            "core_sequences": [
+                  "MQTTRPIQSDSEIQILSIATPATKLTQGGGGPTPEYFLMPIDPAWLQANLPNTGKYN"
+            ],
+            "protein_ids": [
+                  "CUI65249.1"
+            ],
+            "CUI65249.1": {
+                  "complete_seq": "MQTTRPIQSDSEIQILSIATPATKLTQGGGGPTPEYFLMPIDPAWLQANLPNTGKYN",
+                  "leader_seq": "",
+                  "core_seq": "MQTTRPIQSDSEIQILSIATPATKLTQGGGGPTPEYFLMPIDPAWLQANLPNTGKYN",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

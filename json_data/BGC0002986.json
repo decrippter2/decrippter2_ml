@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "LC381634.1",
+            "ncomp": 1,
+            "start": 1,
+            "end": 28457,
+            "core_sequences": [
+                  "MSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW"
+            ],
+            "protein_ids": [
+                  "BBD82040.1"
+            ],
+            "BBD82040.1": {
+                  "complete_seq": "MSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW",
+                  "leader_seq": "",
+                  "core_seq": "MSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

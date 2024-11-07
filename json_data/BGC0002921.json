@@ -1,0 +1,22 @@
+{
+      "mibig_acc": {
+            "accession": "LLZK01000133.1",
+            "ncomp": 1,
+            "start": 60174,
+            "end": 85555,
+            "core_sequences": [
+                  "MSATEIVVEDVLAELLDGDDVAALTELETDPSLMPTAVGSIIYTFMIHC"
+            ],
+            "protein_ids": [
+                  "LpvA"
+            ],
+            "LpvA": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

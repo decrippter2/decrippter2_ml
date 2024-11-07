@@ -1,0 +1,26 @@
+{
+      "mibig_acc": {
+            "accession": "KQ948669.1",
+            "ncomp": 2,
+            "start": 284500,
+            "end": 291500,
+            "core_sequences": [],
+            "protein_ids": [
+                  "KUN61409.1",
+                  "KUN61408.1"
+            ],
+            "KUN61409.1": {
+                  "complete_seq": "MSITLADGVSLAETDGGAVLLDERSGRYWQLNASGARVLHRLLAGDTAAEAGAAAANGASVPAERAAGDAHTLLEKLRHAGLVSS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "KUN61408.1": {
+                  "complete_seq": "MSTPVALTRRPRLPLHRRPLPWLATLVARLLVHQPPARIRAVLRLVRRGARPSTAEEALRSRRAVVAVSVSCAGEGCVQRSIATALLCRVHGHWPTWCSGVRVVPFLAHAWVEAEGAPVDEPYPPGYHTVLIRVPPL",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

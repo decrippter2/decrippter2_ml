@@ -1,0 +1,30 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_RDTD01000009.1",
+            "ncomp": 2,
+            "start": 789546,
+            "end": 813082,
+            "core_sequences": [
+                  "GSTVSGGC",
+                  "GSTISGGC",
+                  "GSTISGGC"
+            ],
+            "protein_ids": [
+                  "WP_033267993.1",
+                  "WP_033268125.1"
+            ],
+            "WP_033267993.1": {
+                  "complete_seq": "MKGIAVGIVLAIVGLILWLTTKEVETPVVSLHKAGLVLAIVGGAEALFALLGLGKKANK",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "WP_033268125.1": {
+                  "complete_seq": "MTVPTREEIVAQLAEILHEVAGVLPADVTEEKSLVEELDVDSLAMAEVIVVAEERFGIALPEEEMKDMRTVLDIVLRVEKQLAS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "JABAIC010000014.1",
+            "ncomp": 0,
+            "start": 18593,
+            "end": 30724,
+            "core_sequences": [
+                  "GQAIVELDVSGGNLRFLPGIAAE"
+            ],
+            "protein_ids": [
+                  "NLR41351.1"
+            ],
+            "NLR41351.1": {
+                  "complete_seq": "MTENTPREDTLIDLGEASTTTKGQAIVELDVSGGNLRFLPGIAAE",
+                  "leader_seq": "MTENTPREDTLIDLGEASTTTK",
+                  "core_seq": "GQAIVELDVSGGNLRFLPGIAAE",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

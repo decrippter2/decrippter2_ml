@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP004370.1",
+            "ncomp": 1,
+            "start": 6498603,
+            "end": 6513041,
+            "core_sequences": [
+                  "HLSATH"
+            ],
+            "protein_ids": [
+                  "AGI92077.1"
+            ],
+            "AGI92077.1": {
+                  "complete_seq": "MEHEKVFAPIADPGQLAHLSATHSNALVENPFDDADEAGAADDK",
+                  "leader_seq": "MEHEKVFAPIADPGQLA",
+                  "core_seq": "HLSATH",
+                  "follower_seq": "SNALVENPFDDADEAGAADDK"
+            },
+            "ref": ""
+      }
+}

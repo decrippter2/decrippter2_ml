@@ -1,0 +1,22 @@
+{
+      "mibig_acc": {
+            "accession": "QTQQ01000011.1",
+            "ncomp": 1,
+            "start": 120066,
+            "end": 121412,
+            "core_sequences": [
+                  "GLDATTDTVMKWVDDGGTISKSRDDT"
+            ],
+            "protein_ids": [
+                  "DF048_RS17500"
+            ],
+            "DF048_RS17500": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

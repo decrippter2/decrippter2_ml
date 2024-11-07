@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "ATGG01000011.1",
+            "ncomp": 1,
+            "start": 239953,
+            "end": 245137,
+            "core_sequences": [
+                  "GGKGPIFETWVTEGNYYG"
+            ],
+            "protein_ids": [
+                  "EPF88081.1"
+            ],
+            "EPF88081.1": {
+                  "complete_seq": "MKNLNKMFKKEQKYHKQLKVISVKGSASKMTLGGKGPIFETWVTEGNYYG",
+                  "leader_seq": "MKNLNKMFKKEQKYHKQLKVISVKGSASKMTL",
+                  "core_seq": "GGKGPIFETWVTEGNYYG",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "JABMCZ010000005.1",
+            "ncomp": 1,
+            "start": 100790,
+            "end": 118707,
+            "core_sequences": [
+                  "MKMMKRNEEVAESGYDDFDLNIIDSSMFDDESSRPAAPACHTLSSLPCCAN"
+            ],
+            "protein_ids": [
+                  "NQE92413.1"
+            ],
+            "NQE92413.1": {
+                  "complete_seq": "MKMMKRNEEVAESGYDDFDLNIIDSSMFDDESSRPAAPACHTLSSLPCCAN",
+                  "leader_seq": "",
+                  "core_seq": "MKMMKRNEEVAESGYDDFDLNIIDSSMFDDESSRPAAPACHTLSSLPCCAN",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

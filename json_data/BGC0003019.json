@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AWGB01000012.1",
+            "ncomp": 1,
+            "start": 78529,
+            "end": 88745,
+            "core_sequences": [
+                  "GVGFGRPDSILTQEQAKPMGLDRD"
+            ],
+            "protein_ids": [
+                  "ESQ92588.1"
+            ],
+            "ESQ92588.1": {
+                  "complete_seq": "MEKIETHEDLIDLGAASSETKGVGFGRPDSILTQEQAKPMGLDRD",
+                  "leader_seq": "MEKIETHEDLIDLGAASSETK",
+                  "core_seq": "GVGFGRPDSILTQEQAKPMGLDRD",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

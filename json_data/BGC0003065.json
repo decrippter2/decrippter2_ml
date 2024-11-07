@@ -1,0 +1,22 @@
+{
+      "mibig_acc": {
+            "accession": "CP063232.1",
+            "ncomp": 1,
+            "start": 3057202,
+            "end": 3059558,
+            "core_sequences": [
+                  "AGTMRVTYPDGQKPGQSDVEKD"
+            ],
+            "protein_ids": [
+                  "IM867_13380"
+            ],
+            "IM867_13380": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

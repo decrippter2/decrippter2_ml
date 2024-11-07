@@ -1,0 +1,22 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_AMCP01000684.1",
+            "ncomp": 1,
+            "start": 1464,
+            "end": 6978,
+            "core_sequences": [
+                  "ATCARCDSSSRCGASGKSSGSASSIST"
+            ],
+            "protein_ids": [
+                  "RCCGEPOP_RS37510"
+            ],
+            "RCCGEPOP_RS37510": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

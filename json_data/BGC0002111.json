@@ -1,0 +1,76 @@
+{
+      "mibig_acc": {
+            "accession": "CP035727.2",
+            "ncomp": 2,
+            "start": 3149977,
+            "end": 3156657,
+            "core_sequences": [
+                  "ATITTTWTVTTTGVWASTISNNC",
+                  "ATITTTWTVTTTGVWASTISNNC",
+                  "ATITTTWTVTTTGVWASTISNNC",
+                  "ATITTTWTVTTTGVWASTISNNC",
+                  "ATITTTWTVTTTGVWASTISNNC",
+                  "ATITTTWTVTTTGVWASTISNNC",
+                  "ATITTTWTVTTTGAWASTISNNC"
+            ],
+            "protein_ids": [
+                  "EVG22_32215",
+                  "EVG22_32220",
+                  "EVG22_32225",
+                  "EVG22_32230",
+                  "EVG22_32235",
+                  "EVG22_32240",
+                  "EVG22_32245"
+            ],
+            "EVG22_32215": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "EVG22_32220": {},
+            "Unidentified protein1": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "EVG22_32225": {},
+            "Unidentified protein2": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "EVG22_32230": {},
+            "Unidentified protein3": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "EVG22_32235": {},
+            "Unidentified protein4": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "EVG22_32240": {},
+            "Unidentified protein5": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "EVG22_32245": {},
+            "Unidentified protein6": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

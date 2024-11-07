@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP011154.1",
+            "ncomp": 1,
+            "start": 283259,
+            "end": 289017,
+            "core_sequences": [
+                  "GWRDHLRWGADFGRGLVSFPYGCGMGDAYIKGSTYTSSGGGYLKGSYGSR"
+            ],
+            "protein_ids": [
+                  "ANC17028.1"
+            ],
+            "ANC17028.1": {
+                  "complete_seq": "MKTLNKENSLLKNLEEIELEEINGGGWRDHLRWGADFGRGLVSFPYGCGMGDAYIKGSTYTSSGGGYLKGSYGSR",
+                  "leader_seq": "MKTLNKENSLLKNLEEIELEEINGG",
+                  "core_seq": "GWRDHLRWGADFGRGLVSFPYGCGMGDAYIKGSTYTSSGGGYLKGSYGSR",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

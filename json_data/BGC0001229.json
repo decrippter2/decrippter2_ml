@@ -1,0 +1,31 @@
+{
+      "mibig_acc": {
+            "accession": "CP002047.1",
+            "ncomp": 2,
+            "start": 8356685,
+            "end": 8365315,
+            "core_sequences": [
+                  "TISPIDTVKIIFRVSSHFGGNGGFGLFCTLSKECQPNCN",
+                  "TDPAVTGLILGIVAIQAGVAVGVSAAFCPTTKCTSRC"
+            ],
+            "protein_ids": [
+                  "SBI_06990",
+                  "SBI_06989"
+            ],
+            "SBI_06990": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "SBI_06989": {},
+            "Unidentified protein1": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

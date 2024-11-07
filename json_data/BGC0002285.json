@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "MKCP01000045.1",
+            "ncomp": 1,
+            "start": 18549,
+            "end": 34000,
+            "core_sequences": [],
+            "protein_ids": [
+                  "RMI87914.1"
+            ],
+            "RMI87914.1": {
+                  "complete_seq": "MRISARADYAVRAALELASSGDDGPLKAEAIADAQDIPHKFLESILNDMRRGGLVVSQRGGNGGYRLAKPADAISIADVIRVVEGPLVSVRGVRPPELSYSGPAESLLPLWIALRSNVRQILEGVSLADVASSRLPAGVAALADAPTAWVNP",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

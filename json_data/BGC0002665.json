@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "CP047260.1",
+            "ncomp": 1,
+            "start": 1675130,
+            "end": 1686044,
+            "core_sequences": [],
+            "protein_ids": [
+                  "QHE96553.1"
+            ],
+            "QHE96553.1": {
+                  "complete_seq": "MPVNAPEVISLEVVGDGLASNNAAWSFGGDTPKHFDSHVSKSVPKYKDGHDIVLSLSDFFIKADSVCYELGSSTGTLTRQLAERHGRSGKWVGIDVEEAMTQQANQSLGCAPISNVTFVTDDILTFPYEKSDFIVAYYTVQFVHPRVRQELFNRIYESLNWGGAFVLFEKVRGPDARFQDVISSLYVDYKMQQGYTPSEILAKTRSLKGVLEPFSTAGNQDMLARAGFKDVMSIFKYICFEGFFCIK",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "ASQP01000439.1",
+            "ncomp": 1,
+            "start": 12716,
+            "end": 16939,
+            "core_sequences": [],
+            "protein_ids": [
+                  "OMI34823.1"
+            ],
+            "OMI34823.1": {
+                  "complete_seq": "MRYRIATDVVWMADDGEVRLYDAGSGEFQTLNSTAAELWLLVSEGRTVDAVVTETVRRYALEDTAQAAVVARDVRDFLDSLAGQGLLLAADAPAPAPAPGPSA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

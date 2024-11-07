@@ -1,0 +1,31 @@
+{
+      "mibig_acc": {
+            "accession": "JXRA01000036.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "KNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
+                  "GAHANNMSCITGSKSCPCKEAEREDYN"
+            ],
+            "protein_ids": [
+                  "PedA15.1",
+                  "PedA15.2"
+            ],
+            "PedA15.1": {},
+            "Unidentified protein0": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "PedA15.2": {},
+            "Unidentified protein1": {
+                  "complete_seq": "TBA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

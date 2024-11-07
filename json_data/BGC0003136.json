@@ -1,0 +1,45 @@
+{
+      "mibig_acc": {
+            "accession": "OR544323",
+            "ncomp": 4,
+            "start": 1,
+            "end": 8329,
+            "core_sequences": [
+                  "MGRFFKPIMEVAMAAQTSKKLSLKKETLRVLEGSDKSMLEGAVGGTGATTTIGTTSLLTVTIAETLSAET",
+                  "MVRPPGEGNLIMNTSSSKKPVLKKETLRTLVVAELPQLDGAVGGNTPALGGGVIGIATLTVQPTVSPRTRTL",
+                  "MCSQLAIGIIKMNVQPPKKLFLKKDTLRQIDSAQLDGAVGGTTPVTIIPFTIGYTIGRTLIEAGDK",
+                  "MNVQSSKKLSLKKETLRQIDSSQLAELDGAVGGSTPLCVGVIIGLTITIMAND"
+            ],
+            "protein_ids": [
+                  "WNE31501.1",
+                  "WNE31502.1",
+                  "WNE31498.1",
+                  "WNE31503.1"
+            ],
+            "WNE31501.1": {
+                  "complete_seq": "MCSQLAIGIIKMNVQPPKKLFLKKDTLRQIDSAQLDGAVGGTTPVTIIPFTIGYTIGRTLIEAGDK",
+                  "leader_seq": "",
+                  "core_seq": "MCSQLAIGIIKMNVQPPKKLFLKKDTLRQIDSAQLDGAVGGTTPVTIIPFTIGYTIGRTLIEAGDK",
+                  "follower_seq": ""
+            },
+            "WNE31502.1": {
+                  "complete_seq": "MNVQSSKKLSLKKETLRQIDSSQLAELDGAVGGSTPLCVGVIIGLTITIMAND",
+                  "leader_seq": "",
+                  "core_seq": "MNVQSSKKLSLKKETLRQIDSSQLAELDGAVGGSTPLCVGVIIGLTITIMAND",
+                  "follower_seq": ""
+            },
+            "WNE31498.1": {
+                  "complete_seq": "MGRFFKPIMEVAMAAQTSKKLSLKKETLRVLEGSDKSMLEGAVGGTGATTTIGTTSLLTVTIAETLSAET",
+                  "leader_seq": "",
+                  "core_seq": "MGRFFKPIMEVAMAAQTSKKLSLKKETLRVLEGSDKSMLEGAVGGTGATTTIGTTSLLTVTIAETLSAET",
+                  "follower_seq": ""
+            },
+            "WNE31503.1": {
+                  "complete_seq": "MSAQAAKKPLLKKETLRQLDTAQMSQLDGAVGGTTPAVTVTVPLTILTKEIIEEML",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "KNC66709.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "WHHYN"
+            ],
+            "protein_ids": [
+                  "KNC66709.1"
+            ],
+            "KNC66709.1": {
+                  "complete_seq": "MRLEDTEEKFNKPFQALDQALSKCPAHIEFEQDNYYVTDFDSAKQAMGNPDGNYVEQSDFFNVNGAMFSTRDVQIAIGKDAILSLKRYYEQRRSKIIEQFKHQINLGQRWPDSANDLMYNAFYDFLVDNQRSPQLRKLLDQVLIYSLYSGQKTHGAGWRRAFIRMRVHRALRAVFKARRQQNPYQGNNRDVIDILLASSPENESPKALAQIFLSFFFAINSSMAFTLAWSLYFCAKEGGVLHPAPWIVKEALRLWPVAWNLPRTPSKAHTLGNWTSSRRTPLQSAHTCCIATRTTGRNPSAFIRHAGKMPLLTRPICRLAGAPINALPLPLH",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

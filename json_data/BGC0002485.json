@@ -1,0 +1,26 @@
+{
+      "mibig_acc": {
+            "accession": "MK806443.1",
+            "ncomp": 2,
+            "start": 1,
+            "end": 14448,
+            "core_sequences": [],
+            "protein_ids": [
+                  "QGA72589.1",
+                  "QGA72586.1"
+            ],
+            "QGA72589.1": {
+                  "complete_seq": "MRLPKLAPPVKRPDIIYPHRSVDVINGRVEDLVHIRMDLLHGANYNDPPAFNYSACSQSGYGCGGW",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "QGA72586.1": {
+                  "complete_seq": "MKPENQKQTRLQPKLSEPTVRVMPGIQLDLSEEELTNGGVGVGGVNASQYGGGDGGVSPSVPTTGV",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

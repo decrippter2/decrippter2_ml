@@ -1,0 +1,26 @@
+{
+      "mibig_acc": {
+            "accession": "CP001038.1",
+            "ncomp": 2,
+            "start": 94655,
+            "end": 107223,
+            "core_sequences": [],
+            "protein_ids": [
+                  "ACC84960.1",
+                  "ACC84959.1"
+            ],
+            "ACC84960.1": {
+                  "complete_seq": "MYTLNILKDSTAVMYEKMTFPAFQYVLQEINSKESLIAIAASYQEEPVGLVLAEIRTYNQSAEVLSLFVEPSHRCAGIGTNLLNRLETELTYRRCKKVELVYMTGKSTTPALENLLHKCGWTSPQPRMLVCKGEMEKGIQAPWLKQYSQLPAAYTIFPWREITTQERQAIERQQATQPWIPEDLIPFKYDKQIEPLNSLGLRYQGQVVGWLISHRIFPDTIRYTCAFCRPDIQKKGRMITLFYEAAKLQLNAKIPHFIWTTPMNHQSMVAFVKYRCLPYLTSIQETRIISKLLLG",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ACC84959.1": {
+                  "complete_seq": "MSQENLEQFYVLVQNSEQLQELLGATENTDSFNELAVRLGQDNGYNFTIQEVDAFVTENLQNVNAELRDEELELVAGGKGKSCPLDTQFTACFLRSGCWGSKC",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}
