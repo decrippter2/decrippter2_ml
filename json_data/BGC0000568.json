@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "FM877811.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "VGIGGGGGGGGGGSCGGQGGGCGGCSNGCSGGNGGSGGSGSHI"
+            ],
+            "protein_ids": [
+                  "CAT00699.1"
+            ],
+            "CAT00699.1": {
+                  "complete_seq": "MELKASEFGVVLSVDALKLSRQSPLGVGIGGGGGGGGGGSCGGQGGGCGGCSNGCSGGNGGSGGSGSHI",
+                  "leader_seq": "MELKASEFGVVLSVDALKLSRQSPLG",
+                  "core_seq": "VGIGGGGGGGGGGSCGGQGGGCGGCSNGCSGGNGGSGGSGSHI",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1016/j.jmb.2019.05.050"
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_DS999644.1",
+            "ncomp": 1,
+            "start": 5221350,
+            "end": 5228789,
+            "core_sequences": [
+                  "TGSQVSLLVCEYSSLSVVLCTP"
+            ],
+            "protein_ids": [
+                  "WP_003966507.1"
+            ],
+            "WP_003966507.1": {
+                  "complete_seq": "MALLDLQAMDTPAEDSFGELATGSQVSLLVCEYSSLSVVLCTP",
+                  "leader_seq": "MALLDLQAMDTPAEDSFGELA",
+                  "core_seq": "TGSQVSLLVCEYSSLSVVLCTP",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

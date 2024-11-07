@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "X62386.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "IASKFICTPGCAKTGSFNSYCC"
+            ],
+            "protein_ids": [
+                  "CAA44252.1"
+            ],
+            "CAA44252.1": {
+                  "complete_seq": "MEAVKEKNDLFNLDVKVNAKESNDSGAEPRIASKFICTPGCAKTGSFNSYCC",
+                  "leader_seq": "MEAVKEKNDLFNLDVKVNAKESNDSGAEPR",
+                  "core_seq": "IASKFICTPGCAKTGSFNSYCC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1016/j.ijmm.2013.08.012"
+      }
+}

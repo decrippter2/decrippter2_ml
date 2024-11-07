@@ -1,0 +1,29 @@
+{
+      "mibig_acc": {
+            "accession": "AEQX01000392.1",
+            "ncomp": 2,
+            "start": 18047,
+            "end": 20900,
+            "core_sequences": [
+                  "GGPLAGEEIGGFNVPGISEE",
+                  "GGPLAGEEMGGITTLGISQD"
+            ],
+            "protein_ids": [
+                  "EGD17354.1",
+                  "EGD17355.1"
+            ],
+            "EGD17354.1": {
+                  "complete_seq": "MNSNDTTHSDASNEITVLGVASTDTKGGPLAGEEIGGFNVPGISEE",
+                  "leader_seq": "MNSNDTTHSDASNEITVLGVASTDTK",
+                  "core_seq": "GGPLAGEEIGGFNVPGISEE",
+                  "follower_seq": ""
+            },
+            "EGD17355.1": {
+                  "complete_seq": "MDTSNNDARTTALDQDLIVLGVASLDTQGGPLAGEEMGGITTLGISQD",
+                  "leader_seq": "MDTSNNDARTTALDQDLIVLGVASLDTQ",
+                  "core_seq": "GGPLAGEEMGGITTLGISQD",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

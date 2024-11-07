@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "GG657757.1",
+            "ncomp": 1,
+            "start": 8170944,
+            "end": 8185829,
+            "core_sequences": [],
+            "protein_ids": [
+                  "EFL36745.1"
+            ],
+            "EFL36745.1": {
+                  "complete_seq": "MNSTPQVETVEIADAQLDAISGGLSVNAVNTVTDTVDGIAPVSGLVDTAVGTVEGVTGLNTAPVTGLVSGL",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

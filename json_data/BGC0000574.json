@@ -1,0 +1,37 @@
+{
+      "mibig_acc": {
+            "accession": "CP002008.1",
+            "ncomp": 3,
+            "start": 2807463,
+            "end": 2813599,
+            "core_sequences": [
+                  "GALVGLLLEDITVARYDPM",
+                  "GTLTPGLPEDFLPGHYMPG",
+                  "GAFVGQPEAVNPLGREIQG"
+            ],
+            "protein_ids": [
+                  "ADG11020.1",
+                  "ADG11021.1",
+                  "ADG11022.1"
+            ],
+            "ADG11020.1": {
+                  "complete_seq": "MTSRFQLLRLGKADRLTRGALVGLLLEDITVARYDPM",
+                  "leader_seq": "MTSRFQLLRLGKADRLTR",
+                  "core_seq": "GALVGLLLEDITVARYDPM",
+                  "follower_seq": ""
+            },
+            "ADG11021.1": {
+                  "complete_seq": "MTKTHRLIRLGDAQRLTQGTLTPGLPEDFLPGHYMPG",
+                  "leader_seq": "MTKTHRLIRLGDAQRLTQ",
+                  "core_seq": "GTLTPGLPEDFLPGHYMPG",
+                  "follower_seq": ""
+            },
+            "ADG11022.1": {
+                  "complete_seq": "MTKKNATQAPRLVRVGDAHRLTQGAFVGQPEAVNPLGREIQG",
+                  "leader_seq": "MTKKNATQAPRLVRVGDAHRLTQ",
+                  "core_seq": "GAFVGQPEAVNPLGREIQG",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1021/ja308173b"
+      }
+}

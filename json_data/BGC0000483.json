@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "CAIH01000183.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "CCH92968.1"
+            ],
+            "CCH92968.1": {
+                  "complete_seq": "MRLPLLSPPIKRPHFIQPGLCVDLENGRPEDLVHIRMDLLHAANYNDPAAFANRSFNQVMHSSASQSSASQGWGGFGSMGGFY",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

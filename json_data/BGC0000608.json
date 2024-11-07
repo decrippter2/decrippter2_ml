@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "HM236314.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "ADH93699.1"
+            ],
+            "ADH93699.1": {
+                  "complete_seq": "MSADLSALNIDSLEISEFLDDSRLEDSEVVAKVMSASCTTCECSCSCSS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

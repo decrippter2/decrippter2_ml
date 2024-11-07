@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AM931579.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "CAP64339.1"
+            ],
+            "CAP64339.1": {
+                  "complete_seq": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEASITGCICAFDGAEASITGCICAFDGDEA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": "https://doi.org/10.1128/AEM.02392-07"
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP002395.1",
+            "ncomp": 1,
+            "start": 2413270,
+            "end": 2416796,
+            "core_sequences": [
+                  "GLSQGVEPDIGQTYFEESRINQD"
+            ],
+            "protein_ids": [
+                  "ADU13884.1"
+            ],
+            "ADU13884.1": {
+                  "complete_seq": "MHTPIISETVQPKTAGLIVLGKASAETRGLSQGVEPDIGQTYFEESRINQD",
+                  "leader_seq": "MHTPIISETVQPKTAGLIVLGKASAETR",
+                  "core_seq": "GLSQGVEPDIGQTYFEESRINQD",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1016/j.chembiol.2013.03.013"
+      }
+}

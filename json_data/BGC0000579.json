@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_CM000951.1",
+            "ncomp": 1,
+            "start": 7626723,
+            "end": 7632847,
+            "core_sequences": [],
+            "protein_ids": [
+                  "WP_106433542.1"
+            ],
+            "WP_106433542.1": {
+                  "complete_seq": "MTSTDELYEAPELIEIGDYAELTRCVWGGDCTDFLGCGTAWICV",
+                  "leader_seq": "MTSTDELYEAPELIEIGDYAELTR",
+                  "core_seq": "CVWGGDCTDFLGCGTAWICV",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1038/nchembio.684"
+      }
+}

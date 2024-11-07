@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AB819757.1",
+            "ncomp": 1,
+            "start": 7448,
+            "end": 22902,
+            "core_sequences": [],
+            "protein_ids": [
+                  "BAN83916.1"
+            ],
+            "BAN83916.1": {
+                  "complete_seq": "MTEKTQITDVQAFEDLVAKVQEMDGPAQASSTVAALAGLDAAELQNFLEEKSGISPDEEAQGSVMAAAASIALHC",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

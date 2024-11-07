@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "KF111343.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "VLSIVACSSGCGSGKTAASCVATCGNKCFTNVGSLC"
+            ],
+            "protein_ids": [
+                  "AHF21230.1"
+            ],
+            "AHF21230.1": {
+                  "complete_seq": "MANNLFDLDVQVNKSQGSVEPQVLSIVACSSGCGSGKTAASCVATCGNKCFTNVGSLC",
+                  "leader_seq": "MANNLFDLDVQVNKSQGSVEPQ",
+                  "core_seq": "VLSIVACSSGCGSGKTAASCVATCGNKCFTNVGSLC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1002/cbic.201300595"
+      }
+}

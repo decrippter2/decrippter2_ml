@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AJ009631.3",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "GGAPATSANAAGAAAIVGALAGIPGGPLGVVVGAVSAGLTTAIGSTVGSGSASSSAGGGS"
+            ],
+            "protein_ids": [
+                  "CAB54534.2"
+            ],
+            "CAB54534.2": {
+                  "complete_seq": "MREITESQLRYISGAGGAPATSANAAGAAAIVGALAGIPGGPLGVVVGAVSAGLTTAIGSTVGSGSASSSAGGGS",
+                  "leader_seq": "MREITESQLRYISGA",
+                  "core_seq": "GGAPATSANAAGAAAIVGALAGIPGGPLGVVVGAVSAGLTTAIGSTVGSGSASSSAGGGS",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/aac.01606-06"
+      }
+}

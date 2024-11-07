@@ -1,0 +1,29 @@
+{
+      "mibig_acc": {
+            "accession": "AB600897.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "KCPWWNLSCHLGNDGKICTYSHECTAGCNA",
+                  "VTTSIPCTVMVSAAVCPTLVCSNKCGGRG"
+            ],
+            "protein_ids": [
+                  "BAL50001.1",
+                  "BAL50002.1"
+            ],
+            "BAL50001.1": {
+                  "complete_seq": "MKKEELVGMAKEDFLNVICENDNKLENSGAKCPWWNLSCHLGNDGKICTYSHECTAGCNA",
+                  "leader_seq": "MKKEELVGMAKEDFLNVICENDNKLENSGA",
+                  "core_seq": "KCPWWNLSCHLGNDGKICTYSHECTAGCNA",
+                  "follower_seq": ""
+            },
+            "BAL50002.1": {
+                  "complete_seq": "MTELNKRLQLKRDVSTENSLKKISNTDETHGGVTTSIPCTVMVSAAVCPTLVCSNKCGGRG",
+                  "leader_seq": "MTELNKRLQLKRDVSTENSLKKISNTDETHGG",
+                  "core_seq": "VTTSIPCTVMVSAAVCPTLVCSNKCGGRG",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/AEM.06497-11"
+      }
+}

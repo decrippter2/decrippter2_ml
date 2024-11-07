@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "FR687359.1",
+            "ncomp": 1,
+            "start": 1189563,
+            "end": 1194136,
+            "core_sequences": [
+                  "GGAGQYKEVEAGRWSDRIDSDDE"
+            ],
+            "protein_ids": [
+                  "CBW74826.1"
+            ],
+            "CBW74826.1": {
+                  "complete_seq": "MNKQQQESGLLLAEESLMELCASSETLGGAGQYKEVEAGRWSDRIDSDDE",
+                  "leader_seq": "MNKQQQESGLLLAEESLMELCASSETL",
+                  "core_seq": "GGAGQYKEVEAGRWSDRIDSDDE",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1021/acschembio.9b00805"
+      }
+}

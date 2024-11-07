@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "EU290741.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "ATGCMC"
+            ],
+            "protein_ids": [
+                  "ACA04484.1"
+            ],
+            "ACA04484.1": {
+                  "complete_seq": "MDKKNILPQQGKPVIRITTGQLPSFLAELSEEALGDAGVGASATGCMCAYDGAGASATGCMCAYDGAGASATACACAYDGAGASATACACAYE",
+                  "leader_seq": "MDKKNILPQQGKPVIRITTGQLPSFLAELSEEALGDAGVGAS",
+                  "core_seq": "ATGCMC",
+                  "follower_seq": "AYDGAGASATGCMCAYDGAGASATACACAYDGAGASATACACAYE"
+            },
+            "ref": ""
+      }
+}

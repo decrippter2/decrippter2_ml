@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AJ566621.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "VAGALGVQTAAATTIVNVILNAGTLVTVLGIIASIASGGAGTLMTIGWATFKATVQKLAKQSMARAIAY"
+            ],
+            "protein_ids": [
+                  "CAD97580.1"
+            ],
+            "CAD97580.1": {
+                  "complete_seq": "MFLVAGALGVQTAAATTIVNVILNAGTLVTVLGIIASIASGGAGTLMTIGWATFKATVQKLAKQSMARAIAY",
+                  "leader_seq": "MFL",
+                  "core_seq": "VAGALGVQTAAATTIVNVILNAGTLVTVLGIIASIASGGAGTLMTIGWATFKATVQKLAKQSMARAIAY",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/AEM.69.3.1589-1597.2003"
+      }
+}

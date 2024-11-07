@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AL009126.3",
+            "ncomp": 1,
+            "start": 213941,
+            "end": 220032,
+            "core_sequences": [],
+            "protein_ids": [
+                  "CAB11984.1"
+            ],
+            "CAB11984.1": {
+                  "complete_seq": "MKRNQKEWESVSKKGLMKPGGTSIVKAAGCMGCWASKSIAMTRVCALPHPAMRAI",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

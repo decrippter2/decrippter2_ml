@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AORZ01000028.1",
+            "ncomp": 1,
+            "start": 35019,
+            "end": 50744,
+            "core_sequences": [],
+            "protein_ids": [
+                  "EMF00380.1"
+            ],
+            "EMF00380.1": {
+                  "complete_seq": "MEAKLELDLGDLSVEELDVLPTSPGAGLESINVGHAMVEIGASNCTSRGTPASCCSCCCC",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

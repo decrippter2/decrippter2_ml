@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "FJ438820.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "ACR48342.1"
+            ],
+            "ACR48342.1": {
+                  "complete_seq": "MDAAHLSDLDIDALEISEFLDESRLEDSEVVAKVMSASCTTCECCCSCSS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

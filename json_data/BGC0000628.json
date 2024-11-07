@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "ACGO02000004.1",
+            "ncomp": 1,
+            "start": 9724,
+            "end": 23523,
+            "core_sequences": [],
+            "protein_ids": [
+                  "EFJ68961.1"
+            ],
+            "EFJ68961.1": {
+                  "complete_seq": "MKGGVKMKDLFDIDEKSLENLDLGDFKILDSEDLSEKDEKSILGASCTTCTCCCSCCA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

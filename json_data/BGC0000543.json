@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "Z49865.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "TAGPAIRASVKQCQKTLKATRLFTVSCKGKNGCK"
+            ],
+            "protein_ids": [
+                  "CAA90023.1"
+            ],
+            "CAA90023.1": {
+                  "complete_seq": "MKNNKNLFDLEIKKETSQNTDELEPQTAGPAIRASVKQCQKTLKATRLFTVSCKGKNGCK",
+                  "leader_seq": "MKNNKNLFDLEIKKETSQNTDELEPQ",
+                  "core_seq": "TAGPAIRASVKQCQKTLKATRLFTVSCKGKNGCK",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1007/BF00447005"
+      }
+}

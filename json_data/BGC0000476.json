@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "DQ869558.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "ABI99461.1"
+            ],
+            "ABI99461.1": {
+                  "complete_seq": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASLTACITFCAYDGVEPSCTLCCTLCAYDGE",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

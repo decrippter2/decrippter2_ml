@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP000557.1",
+            "ncomp": 1,
+            "start": 298823,
+            "end": 311453,
+            "core_sequences": [
+                  "VTSKSLCTPGCITGVLMCLTQNSCVSCNSCIRC"
+            ],
+            "protein_ids": [
+                  "ABO65649.1"
+            ],
+            "ABO65649.1": {
+                  "complete_seq": "MAKFDDFDLDIVVKKQDDVVQPNVTSKSLCTPGCITGVLMCLTQNSCVSCNSCIRC",
+                  "leader_seq": "MAKFDDFDLDIVVKKQDDVVQPN",
+                  "core_seq": "VTSKSLCTPGCITGVLMCLTQNSCVSCNSCIRC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1038/ja.2013.112"
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "JX912247.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "TWATIGKTIVQSVKKCRTFTCGCSLGSCSNCN"
+            ],
+            "protein_ids": [
+                  "AGL93171.1"
+            ],
+            "AGL93171.1": {
+                  "complete_seq": "MEKNNIFDLDINKKMESTSEVSAQTWATIGKTIVQSVKKCRTFTCGCSLGSCSNCN",
+                  "leader_seq": "MEKNNIFDLDINKKMESTSEVSAQ",
+                  "core_seq": "TWATIGKTIVQSVKKCRTFTCGCSLGSCSNCN",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.3390/md11061878"
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "HQ148718.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "ATPATPTVAQFVIQGSTICLVC"
+            ],
+            "protein_ids": [
+                  "ADR72962.1"
+            ],
+            "ADR72962.1": {
+                  "complete_seq": "MRSEMTLTSTNSAEALAAQDFANTVLSAAAPGFHADCETPAMATPATPTVAQFVIQGSTICLVC",
+                  "leader_seq": "MRSEMTLTSTNSAEALAAQDFANTVLSAAAPGFHADCETPAM",
+                  "core_seq": "ATPATPTVAQFVIQGSTICLVC",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

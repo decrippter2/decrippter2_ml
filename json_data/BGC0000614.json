@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "FJ652572.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "IASASCTTCICTCSCSS"
+            ],
+            "protein_ids": [
+                  "ACN52291.1"
+            ],
+            "ACN52291.1": {
+                  "complete_seq": "MSNAALEIGVEGLTGLDVDTLEISDYMDETLLDGEDLTVTMIASASCTTCICTCSCSS",
+                  "leader_seq": "MSNAALEIGVEGLTGLDVDTLEISDYMDETLLDGEDLTVTM",
+                  "core_seq": "IASASCTTCICTCSCSS",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

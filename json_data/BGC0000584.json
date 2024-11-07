@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AJ223631.1",
+            "ncomp": 1,
+            "start": 8923,
+            "end": 12606,
+            "core_sequences": [
+                  "ASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL"
+            ],
+            "protein_ids": [
+                  "CAA11514.1"
+            ],
+            "CAA11514.1": {
+                  "complete_seq": "MRTLTLNELDSVSGGASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL",
+                  "leader_seq": "MRTLTLNELDSVSGG",
+                  "core_seq": "ASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1099/13500872-140-9-2383"
+      }
+}

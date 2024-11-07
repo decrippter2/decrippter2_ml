@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "EQ963480.1",
+            "ncomp": 1,
+            "start": 1600261,
+            "end": 1628555,
+            "core_sequences": [],
+            "protein_ids": [
+                  "EED49416.1"
+            ],
+            "EED49416.1": {
+                  "complete_seq": "MRWRGRMEFKTRGATVWRDGPLTLALRRLAMTSSVVICSHWPRVTCELKINLAPVWEDSCCLLLCAELLMEGRLLGAQFNSASSQTCLYLIDG",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

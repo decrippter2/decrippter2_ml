@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AP009493.1",
+            "ncomp": 1,
+            "start": 7570210,
+            "end": 7576934,
+            "core_sequences": [
+                  "ATPAVAQFVIQGSTICLVC"
+            ],
+            "protein_ids": [
+                  "WP_003970682.1"
+            ],
+            "WP_003970682.1": {
+                  "complete_seq": "MRLDSIATQETATALPESMATQDFANSVLAGAVPGFHSDAETPAMATPAVAQFVIQGSTICLVC",
+                  "leader_seq": "TBA",
+                  "core_seq": "ATPAVAQFVIQGSTICLVC",
+                  "follower_seq": "TBA"
+            },
+            "ref": "https://doi.org/10.1128/jb.00171-11"
+      }
+}

@@ -1,0 +1,29 @@
+{
+      "mibig_acc": {
+            "accession": "HQ655154.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "QAYLGIPLP",
+                  "INPYLYP"
+            ],
+            "protein_ids": [
+                  "AED99431.1",
+                  "AED99432.1"
+            ],
+            "AED99431.1": {
+                  "complete_seq": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPHQAYLGIPLPFAGDDAE",
+                  "leader_seq": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPH",
+                  "core_seq": "QAYLGIPLP",
+                  "follower_seq": "FAGDDAE"
+            },
+            "AED99432.1": {
+                  "complete_seq": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPHINPYLYPFAGDDAE",
+                  "leader_seq": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPH",
+                  "core_seq": "INPYLYP",
+                  "follower_seq": "FAGDDAE"
+            },
+            "ref": ""
+      }
+}

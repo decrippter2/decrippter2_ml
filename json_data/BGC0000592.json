@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AM943877.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "CAQ16116.1"
+            ],
+            "CAQ16116.1": {
+                  "complete_seq": "MAYPNDQQGKALPFFARFLSVSKEESSIKSPSPEPTFGTTLKYPSDWEEY",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

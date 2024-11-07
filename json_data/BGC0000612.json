@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AE016877.1",
+            "ncomp": 1,
+            "start": 4977401,
+            "end": 4998568,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AAP11956.1"
+            ],
+            "AAP11956.1": {
+                  "complete_seq": "MSEIKKALNTLEIEDFDAIEMVDVDAMPENEALEIMGASCTTCVCTCSCCTT",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

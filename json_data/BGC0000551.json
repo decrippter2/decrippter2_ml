@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AL645882.2",
+            "ncomp": 1,
+            "start": 7419664,
+            "end": 7426391,
+            "core_sequences": [
+                  "TGSRASLLLCGDSSLSITTCN"
+            ],
+            "protein_ids": [
+                  "CAA19961.1"
+            ],
+            "CAA19961.1": {
+                  "complete_seq": "MNLFDLQSMETPKEEAMGDVETGSRASLLLCGDSSLSITTCN",
+                  "leader_seq": "MNLFDLQSMETPKEEAMGDVE",
+                  "core_seq": "TGSRASLLLCGDSSLSITTCN",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1073/pnas.0404220101"
+      }
+}

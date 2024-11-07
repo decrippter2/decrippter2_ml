@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "U91581.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "KGGSGVIHTISHECNMNSWQFVFTCCS"
+            ],
+            "protein_ids": [
+                  "AAC72257.1"
+            ],
+            "AAC72257.1": {
+                  "complete_seq": "MKEQNSFNLLQEVTESELDLILGAKGGSGVIHTISHECNMNSWQFVFTCCS",
+                  "leader_seq": "MKEQNSFNLLQEVTESELDLILGA",
+                  "core_seq": "KGGSGVIHTISHECNMNSWQFVFTCCS",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1111/j.1574-6976.2006.00045.x"
+      }
+}

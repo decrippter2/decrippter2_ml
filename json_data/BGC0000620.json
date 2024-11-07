@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AB712393.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "BAM66973.1"
+            ],
+            "BAM66973.1": {
+                  "complete_seq": "MAGFLKVVQLLAKYGSKAVQWAWANKGKILDWLNAGQAIDWVVSKIKQILGIK",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "NC_003888.3",
+            "ncomp": 1,
+            "start": 2616326,
+            "end": 2638096,
+            "core_sequences": [],
+            "protein_ids": [
+                  "NP_626690.1"
+            ],
+            "NP_626690.1": {
+                  "complete_seq": "MVLRTDTYGTRGASGVMDGLVEFRTEDGVRVVVEGVEDEDGARLVSRGDGPARAARTFEDSLDGVRAAAASALRVFRDGSLRPDAVELEFGVKLSAEAGAVIAKGSAEGHLVVRLNWSPEPSPTRTEPQPSATRPEPRPSPAGPEAPDAVALS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

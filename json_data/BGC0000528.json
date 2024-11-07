@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AM711867.1",
+            "ncomp": 1,
+            "start": 2216380,
+            "end": 2224562,
+            "core_sequences": [
+                  "SSSGWLCTLTIECGTIICACR"
+            ],
+            "protein_ids": [
+                  "CAN02023.1"
+            ],
+            "CAN02023.1": {
+                  "complete_seq": "MNDILETETPVMVSPRWDMLLDAGEDTSPSVQTQIDAEFRRVVSPYMSSSGWLCTLTIECGTIICACR",
+                  "leader_seq": "MNDILETETPVMVSPRWDMLLDAGEDTSPSVQTQIDAEFRRVVSPYM",
+                  "core_seq": "SSSGWLCTLTIECGTIICACR",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/AEM.00639-06"
+      }
+}

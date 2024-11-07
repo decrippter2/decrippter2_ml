@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AJ536588.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "CRQSCSFGPFTFVCDGNTK"
+            ],
+            "protein_ids": [
+                  "CAD60520.1"
+            ],
+            "CAD60520.1": {
+                  "complete_seq": "MTASILQQSVVDADFRAALLENPAAFGASAAALPTPVEAQDQASLDFWTKDIAATEAFACRQSCSFGPFTFVCDGNTK",
+                  "leader_seq": "MTASILQQSVVDADFRAALLENPAAFGASAAALPTPVEAQDQASLDFWTKDIAATEAFA",
+                  "core_seq": "CRQSCSFGPFTFVCDGNTK",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

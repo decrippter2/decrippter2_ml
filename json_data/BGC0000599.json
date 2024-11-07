@@ -1,0 +1,26 @@
+{
+      "mibig_acc": {
+            "accession": "HQ446454.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AED99782.1",
+                  "AED99783.1"
+            ],
+            "AED99782.1": {
+                  "complete_seq": "MEVLNKQNVNIIPESEEVGGWVACVGACGTVCLASGGVGTEFAAASYFL",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "AED99783.1": {
+                  "complete_seq": "MEVMNNALITKVDEEIGGNAACVIGCIGSCVISEGIGSLVGTAFTLG",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

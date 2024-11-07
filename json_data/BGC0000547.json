@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "GQ857551.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "GNGVVLTLTHECNLATWTKKLKCC"
+            ],
+            "protein_ids": [
+                  "ACX68643.1"
+            ],
+            "ACX68643.1": {
+                  "complete_seq": "MKSTNNQSISEIAAVNSLQEVSMEELDQIIGAGNGVVLTLTHECNLATWTKKLKCC",
+                  "leader_seq": "MKSTNNQSISEIAAVNSLQEVSMEELDQIIGA",
+                  "core_seq": "GNGVVLTLTHECNLATWTKKLKCC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1371/journal.pone.0077751"
+      }
+}

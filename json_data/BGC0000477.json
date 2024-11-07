@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "EU290742.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "TLPVPTLC"
+            ],
+            "protein_ids": [
+                  "ACA04491.1"
+            ],
+            "ACA04491.1": {
+                  "complete_seq": "MNKKNILPQLGQPVIRLTAGQLSSQLAELSEEALGGVDASTLPVPTLCSYDGVDASTVPTLCSYDD",
+                  "leader_seq": "MNKKNILPQLGQPVIRLTAGQLSSQLAELSEEALGGVDAS",
+                  "core_seq": "TLPVPTLC",
+                  "follower_seq": "SYDGVDASTVPTLCSYDD"
+            },
+            "ref": ""
+      }
+}

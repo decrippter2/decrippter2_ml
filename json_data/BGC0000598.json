@@ -1,0 +1,26 @@
+{
+      "mibig_acc": {
+            "accession": "JX456532.1",
+            "ncomp": 2,
+            "start": 5500,
+            "end": 20549,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AFS60634.1",
+                  "AFS60643.1"
+            ],
+            "AFS60634.1": {
+                  "complete_seq": "MLQTQCLKVPIIPGKEAEVKNWLAALSTRHQEVLEAITSEDIADEAMFYAKEPSGEFLYLYSRAPDLAVAGAAFQKSQLPIDQEFKRISAECLDYRSAIRLELLLSADSRNKYVYP",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "AFS60643.1": {
+                  "complete_seq": "MDNATHHFEQSHFGTLHEVGLYDEVSIELLEYATAGFRWEITYESPEAVEVIDSEYVPPESDAAGAAGLRRFRLRLVREGHVRLALQMICPFRKDDPPAASGTIELQVRP",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

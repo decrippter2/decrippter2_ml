@@ -1,0 +1,29 @@
+{
+      "mibig_acc": {
+            "accession": "AP003088.1",
+            "ncomp": 2,
+            "start": 24101,
+            "end": 35850,
+            "core_sequences": [
+                  "GTPLALLGGAATGVIGYISNQTCPTTACTRAC",
+                  "CSTNTFSLSDYWGNKGNWCTATHECMSWCK"
+            ],
+            "protein_ids": [
+                  "BAB78439.1",
+                  "BAB78438.1"
+            ],
+            "BAB78439.1": {
+                  "complete_seq": "MKNELGKFLEENELELGKFSESDMLEITDDEVYAAGTPLALLGGAATGVIGYISNQTCPTTACTRAC",
+                  "leader_seq": "MKNELGKFLEENELELGKFSESDMLEITDDEVYAA",
+                  "core_seq": "GTPLALLGGAATGVIGYISNQTCPTTACTRAC",
+                  "follower_seq": ""
+            },
+            "BAB78438.1": {
+                  "complete_seq": "MKSSFLEKDIEEQVTWFEEVSEQEFDDDIFGACSTNTFSLSDYWGNKGNWCTATHECMSWCK",
+                  "leader_seq": "MKSSFLEKDIEEQVTWFEEVSEQEFDDDIFGA",
+                  "core_seq": "CSTNTFSLSDYWGNKGNWCTATHECMSWCK",
+                  "follower_seq": ""
+            },
+            "ref": "http://dx.doi.org/10.2174/138920109787048580"
+      }
+}

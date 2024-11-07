@@ -1,0 +1,26 @@
+{
+      "mibig_acc": {
+            "accession": "KF573751.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AHF21242.1",
+                  "AHF21238.1"
+            ],
+            "AHF21242.1": {
+                  "complete_seq": "MSESNMKKVVGETFEDLSIAEMTKVQGSGDVMPESTPICAGFATLMSSIGLVKTIKGKC",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "AHF21238.1": {
+                  "complete_seq": "MSELSMEKVVGETFEDLSIAEMTMVQGSGDINGEFTTSPACVYSVMVVSKASSAKCAAGASAVSGAILSAIRC",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

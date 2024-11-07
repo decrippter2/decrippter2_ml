@@ -1,0 +1,26 @@
+{
+      "mibig_acc": {
+            "accession": "AY007251.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AAG02566.1",
+                  "AAG02567.1"
+            ],
+            "AAG02566.1": {
+                  "complete_seq": "MTKTSRRKNAIANYLEPVDEKSINESFGAGDPEARSGIPCTIGAAVAASIAVCPTTKCSKRCGKRKK",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "AAG02567.1": {
+                  "complete_seq": "MKISKIEAQARKDFFKKIDTNSNLLNVNGAKCKWWNISCDLGNNGHVCTLSHECQVSCN",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP003614.1",
+            "ncomp": 1,
+            "start": 4308240,
+            "end": 4321209,
+            "core_sequences": [
+                  "FIC"
+            ],
+            "protein_ids": [
+                  "AFZ08006.1"
+            ],
+            "AFZ08006.1": {
+                  "complete_seq": "MNKKNILPNPGKPVIRGISGKLPSYLAELSEEALGDAGADASFICSVDASFICSVDASFICSVDASFICSVDGDA",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

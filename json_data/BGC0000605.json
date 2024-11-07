@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "JN052143.1",
+            "ncomp": 1,
+            "start": 7234,
+            "end": 24412,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AEM00614.1"
+            ],
+            "AEM00614.1": {
+                  "complete_seq": "MGNNEEYFIDVNDLSIDVFDVVEQGGAVTALTADHGMPEVGASTNCFCYICCSCSSN",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

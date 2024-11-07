@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AB007043.2",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "IYWIADQFGIHLATGTARKLLDAMASGASLGTAFAAILGVTLPAWALAAAGALGATAA"
+            ],
+            "protein_ids": [
+                  "BAA22261.1"
+            ],
+            "BAA22261.1": {
+                  "complete_seq": "MVTKYGRNLGLNKVELFAIWAVLVVALLLTTANIYWIADQFGIHLATGTARKLLDAMASGASLGTAFAAILGVTLPAWALAAAGALGATAA",
+                  "leader_seq": "MVTKYGRNLGLNKVELFAIWAVLVVALLLTTAN",
+                  "core_seq": "IYWIADQFGIHLATGTARKLLDAMASGASLGTAFAAILGVTLPAWALAAAGALGATAA",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1271/bbb.62.2438"
+      }
+}

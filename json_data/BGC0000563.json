@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "HQ328852.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "ATCECVGLLTLLNTVCIGISCA"
+            ],
+            "protein_ids": [
+                  "AEA03263.1"
+            ],
+            "AEA03263.1": {
+                  "complete_seq": "MENHDIELLAHLHALPETDPVGVDGAPFAATCECVGLLTLLNTVCIGISCA",
+                  "leader_seq": "MENHDIELLAHLHALPETDPVGVDGAPFA",
+                  "core_seq": "ATCECVGLLTLLNTVCIGISCA",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1371/journal.pbio.1000339"
+      }
+}

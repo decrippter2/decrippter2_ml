@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "CP004117.1",
+            "ncomp": 1,
+            "start": 1016145,
+            "end": 1020660,
+            "core_sequences": [
+                  "GTPGFQTPDARVISRFGFN"
+            ],
+            "protein_ids": [
+                  "AHI78086.1"
+            ],
+            "AHI78086.1": {
+                  "complete_seq": "MVRLLAKLLRSTIHGSNGVSLDAVSSTHGTPGFQTPDARVISRFGFN",
+                  "leader_seq": "MVRLLAKLLRSTIHGSNGVSLDAVSSTH",
+                  "core_seq": "GTPGFQTPDARVISRFGFN",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1016/j.chembiol.2009.11.009"
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AF061787.1",
+            "ncomp": 1,
+            "start": 1,
+            "end": 4496,
+            "core_sequences": [
+                  "GGAGHVPEYFVGIGTPISFYG"
+            ],
+            "protein_ids": [
+                  "AAD28494.1"
+            ],
+            "AAD28494.1": {
+                  "complete_seq": "MIKHFHFNKLSSGKKNNVPSPAKGVIQIKKSASQLTKGGAGHVPEYFVGIGTPISFYG",
+                  "leader_seq": "MIKHFHFNKLSSGKKNNVPSPAKGVIQIKKSASQLTK",
+                  "core_seq": "GGAGHVPEYFVGIGTPISFYG",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

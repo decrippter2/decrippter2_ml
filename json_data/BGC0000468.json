@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "HE983629.1",
+            "ncomp": 1,
+            "start": 1377,
+            "end": 18956,
+            "core_sequences": [
+                  "GPVVVFDC"
+            ],
+            "protein_ids": [
+                  "CCM09443.1"
+            ],
+            "CCM09443.1": {
+                  "complete_seq": "MGPVVVFDCMTADFLNDDPNNAELSALEMEELESWGAWDGEATS",
+                  "leader_seq": "M",
+                  "core_seq": "GPVVVFDC",
+                  "follower_seq": "MTADFLNDDPNNAELSALEMEELESWGAWDGEATS"
+            },
+            "ref": ""
+      }
+}

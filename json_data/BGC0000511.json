@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AF233755.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AAL15567.1"
+            ],
+            "AAL15567.1": {
+                  "complete_seq": "MTNMSKFDDFDLDVVKVSKQDSKITPQVLSKSLCTPGCITGPLQTCYLCFPTFAKC",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

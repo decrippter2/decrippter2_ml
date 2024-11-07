@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_GG753626.1",
+            "ncomp": 1,
+            "start": 1489807,
+            "end": 1500652,
+            "core_sequences": [],
+            "protein_ids": [
+                  "WP_043261715.1"
+            ],
+            "WP_043261715.1": {
+                  "complete_seq": "MPASFTPFTPLDFQLVLLRRMADHNPELVADARRELGVSLTDMREANKRWQAMVRSPRSRSAASRYRSVLGPPESAAARRIGDLDCEARQWPLPLWPELRFEVLVGPNGQVWNEWLVRAPGAEPPVLRTLDDLAPWSCTVDEAARAFAPARPLEGTAPTRWGLAFTAPDGGGVRREVVAEFTWGLLQRTRTADE",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

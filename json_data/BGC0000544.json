@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "HF570921.1",
+            "ncomp": 1,
+            "start": 14700,
+            "end": 30280,
+            "core_sequences": [
+                  "ITSVSWCTPGCTSEGGGSGCSHCC"
+            ],
+            "protein_ids": [
+                  "CCQ18695.1"
+            ],
+            "CCQ18695.1": {
+                  "complete_seq": "MGISSPALPQNTADLFQLDLEIGVEQSLASPAITSVSWCTPGCTSEGGGSGCSHCC",
+                  "leader_seq": "MGISSPALPQNTADLFQLDLEIGVEQSLASPA",
+                  "core_seq": "ITSVSWCTPGCTSEGGGSGCSHCC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/jb.02291-12"
+      }
+}

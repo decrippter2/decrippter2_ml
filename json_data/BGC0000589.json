@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AJ586887.1",
+            "ncomp": 1,
+            "start": 37233,
+            "end": 45653,
+            "core_sequences": [],
+            "protein_ids": [
+                  "CAE55697.1"
+            ],
+            "CAE55697.1": {
+                  "complete_seq": "MEFATNRVSVNDSRSALSSTLLLSLIMSATLLEYSLSMT",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

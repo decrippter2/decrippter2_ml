@@ -1,0 +1,29 @@
+{
+      "mibig_acc": {
+            "accession": "L37110.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "TTPVCAVAATAAASSAACGWVGGGIFTGVTVVVSLKHC",
+                  "TTPACFTIGLGVGALFSAKFC"
+            ],
+            "protein_ids": [
+                  "AAA62648.1",
+                  "AAA62649.1"
+            ],
+            "AAA62648.1": {
+                  "complete_seq": "MENLSVVPSFEELSVEEMEAIQGSGDVQAETTPVCAVAATAAASSAACGWVGGGIFTGVTVVVSLKHC",
+                  "leader_seq": "MENLSVVPSFEELSVEEMEAIQGSGDVQAE",
+                  "core_seq": "TTPVCAVAATAAASSAACGWVGGGIFTGVTVVVSLKHC",
+                  "follower_seq": ""
+            },
+            "AAA62649.1": {
+                  "complete_seq": "MLNKENQENYYSNKLELVGPSFEELSLEEMEAIQGSGDVQAETTPACFTIGLGVGALFSAKFC",
+                  "leader_seq": "MLNKENQENYYSNKLELVGPSFEELSLEEMEAIQGSGDVQAE",
+                  "core_seq": "TTPACFTIGLGVGALFSAKFC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.3390/toxins5050895"
+      }
+}

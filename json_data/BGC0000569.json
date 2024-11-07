@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "FN668567.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "RCTCTTIISSSSTF"
+            ],
+            "protein_ids": [
+                  "CBJ61635.1"
+            ],
+            "CBJ61635.1": {
+                  "complete_seq": "MTQIKVPTALIASVHGEGQHLFEPMAARCTCTTIISSSSTF",
+                  "leader_seq": "MTQIKVPTALIASVHGEGQHLFEPMAA",
+                  "core_seq": "RCTCTTIISSSSTF",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/jb.00784-10"
+      }
+}

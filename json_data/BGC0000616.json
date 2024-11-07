@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "CP000560.1",
+            "ncomp": 1,
+            "start": 3044506,
+            "end": 3048678,
+            "core_sequences": [],
+            "protein_ids": [
+                  "ABS75250.1"
+            ],
+            "ABS75250.1": {
+                  "complete_seq": "MRSKLSLIGVPIVMIIGYIISLSFEWLFPVLTFGVAGLYLFIFAPVQNKFIRYIFLFIFVINLLASAALYFGI",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

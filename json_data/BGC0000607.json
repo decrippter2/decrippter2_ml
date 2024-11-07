@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "KM613043.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AIU53942.1"
+            ],
+            "AIU53942.1": {
+                  "complete_seq": "MSEFQTNNIEGLDVTDLEFISEEVTEKDEKEIMGASCTTCVCTCSCCTT",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

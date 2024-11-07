@@ -1,0 +1,29 @@
+{
+      "mibig_acc": {
+            "accession": "DQ145752.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "IGTTVVNSTFSIVLGNKGYICTVTVECMRNCQ",
+                  "STPACAIGVVGITVAVTGISTACTSRCINK"
+            ],
+            "protein_ids": [
+                  "AAZ76603.1",
+                  "AAZ76602.1"
+            ],
+            "AAZ76603.1": {
+                  "complete_seq": "MKEIQKAGLQEELSILMDDANNLEQLTAGIGTTVVNSTFSIVLGNKGYICTVTVECMRNCQ",
+                  "leader_seq": "MKEIQKAGLQEELSILMDDANNLEQLTAG",
+                  "core_seq": "IGTTVVNSTFSIVLGNKGYICTVTVECMRNCQ",
+                  "follower_seq": ""
+            },
+            "AAZ76602.1": {
+                  "complete_seq": "MKSNLLKINNVTEVEKDMVTLIKDEDMELAGGSTPACAIGVVGITVAVTGISTACTSRCINK",
+                  "leader_seq": "MKSNLLKINNVTEVEKDMVTLIKDEDMELAGG",
+                  "core_seq": "STPACAIGVVGITVAVTGISTACTSRCINK",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1016/j.femsle.2005.09.003"
+      }
+}

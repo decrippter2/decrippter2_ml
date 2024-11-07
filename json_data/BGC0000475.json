@@ -1,0 +1,28 @@
+{
+      "mibig_acc": {
+            "accession": "AY986476.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "VTACITFC",
+                  "ITVCISVC"
+            ],
+            "protein_ids": [
+                  "AAY21154.1"
+            ],
+            "AAY21154.1": {
+                  "complete_seq": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASVTACITFCAYDGVEPSITVCISVCAYDGE",
+                  "leader_seq": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEAS",
+                  "core_seq": "VTACITFC",
+                  "follower_seq": "AYDGVEPSITVCISVCAYDGE"
+            },
+            "AAY21154.2": {
+                  "complete_seq": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASVTACITFCAYDGVEPSITVCISVCAYDGE",
+                  "leader_seq": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASVTACITFCAYDGVEPS",
+                  "core_seq": "ITVCISVC",
+                  "follower_seq": "AYDGE"
+            },
+            "ref": "https://doi.org/10.1016/j.sbi.2014.10.006"
+      }
+}

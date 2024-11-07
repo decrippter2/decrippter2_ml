@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AE004092.2",
+            "ncomp": 1,
+            "start": 598677,
+            "end": 606966,
+            "core_sequences": [
+                  "CCCCCTTCCFSIATGSGNSQGGSGSYTPGK"
+            ],
+            "protein_ids": [
+                  "AAK33684.1"
+            ],
+            "AAK33684.1": {
+                  "complete_seq": "MLKFTSNILATSVAETTQVAPGGCCCCCTTCCFSIATGSGNSQGGSGSYTPGK",
+                  "leader_seq": "MLKFTSNILATSVAETTQVAPGG",
+                  "core_seq": "CCCCCTTCCFSIATGSGNSQGGSGSYTPGK",
+                  "follower_seq": ""
+            },
+            "ref": ""
+      }
+}

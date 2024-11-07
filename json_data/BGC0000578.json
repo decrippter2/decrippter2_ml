@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_DS999644.1",
+            "ncomp": 1,
+            "start": 4289783,
+            "end": 4294787,
+            "core_sequences": [],
+            "protein_ids": [
+                  "WP_010071616.1"
+            ],
+            "WP_010071616.1": {
+                  "complete_seq": "MKQQKQQKKAYVKPSMFQQGDFSKKTAGYFVGSYKEYWSRRII",
+                  "leader_seq": "MKQQKQQKKAYVKPSMFQQGDFSKKTA",
+                  "core_seq": "GYFVGSYKEYWSRRII",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1038/nchembio.684"
+      }
+}

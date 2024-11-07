@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "DQ650653.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "LAGYTGIASGTAKKVVDAIDKGAAAFVIISIISTVISAGALGAVSASADFIILTVKNYISRNLKAQAVIW"
+            ],
+            "protein_ids": [
+                  "ABG48503.1"
+            ],
+            "ABG48503.1": {
+                  "complete_seq": "MDILLELAGYTGIASGTAKKVVDAIDKGAAAFVIISIISTVISAGALGAVSASADFIILTVKNYISRNLKAQAVIW",
+                  "leader_seq": "MDILLE",
+                  "core_seq": "LAGYTGIASGTAKKVVDAIDKGAAAFVIISIISTVISAGALGAVSASADFIILTVKNYISRNLKAQAVIW",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1099/mic.0.2006/005967-0"
+      }
+}

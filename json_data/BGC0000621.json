@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "M18346.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "AAA23730.1"
+            ],
+            "AAA23730.1": {
+                  "complete_seq": "MKKSILFIFLSVLSFSPFAQDAKPVESSKEKITLESKKCNIAKKSNKSGPESMNSSNYCCELCCNPACTGCY",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

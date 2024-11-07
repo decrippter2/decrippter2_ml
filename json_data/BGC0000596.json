@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "NZ_GG657756.1",
+            "ncomp": 1,
+            "start": 5668767,
+            "end": 5690586,
+            "core_sequences": [],
+            "protein_ids": [
+                  "WP_016326148.1"
+            ],
+            "WP_016326148.1": {
+                  "complete_seq": "MDGLVEFRTEDGVRVVVEGVEDEDGARLVSRGDGPARAARTFEDSLDGVRAAAASALRVFRDGSLRPDAVELEFGVKLSAEAGAVIAKGSAEGHLVVRLNWSPEPSPTRTEPRPSATRPEPRPSPAGPEAPDAAALS",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

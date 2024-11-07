@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "EU014074.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "ABS44968.1"
+            ],
+            "ABS44968.1": {
+                  "complete_seq": "MKEIEISVKEYNDLKKDLLNIVKELDMCANEKRNMYQDIALCYTVHLNDMKKIMKNKFNLKI",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

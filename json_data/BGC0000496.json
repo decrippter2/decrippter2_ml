@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AP009493.1",
+            "ncomp": 1,
+            "start": 2822113,
+            "end": 2829457,
+            "core_sequences": [
+                  "TGSQVSLLVCEYSSLSVVLCTP"
+            ],
+            "protein_ids": [
+                  "BAG19225.1"
+            ],
+            "BAG19225.1": {
+                  "complete_seq": "MALLDLQAMDTPAEDSFGELATGSQVSLLVCEYSSLSVVLCTP",
+                  "leader_seq": "MALLDLQAMDTPAEDSFGELA",
+                  "core_seq": "TGSQVSLLVCEYSSLSVVLCTP",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1080/09168451.2016.1238297"
+      }
+}

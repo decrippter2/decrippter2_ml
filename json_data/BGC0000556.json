@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AB030831.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "VGSRYLCTPGSCWKLVCFTTTVK"
+            ],
+            "protein_ids": [
+                  "BAB08162.1"
+            ],
+            "BAB08162.1": {
+                  "complete_seq": "MNNTIKDFDLDLKTNKKDTATPYVGSRYLCTPGSCWKLVCFTTTVK",
+                  "leader_seq": "MNNTIKDFDLDLKTNKKDTATPY",
+                  "core_seq": "VGSRYLCTPGSCWKLVCFTTTVK",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1093/oxfordjournals.jbchem.a002918"
+      }
+}

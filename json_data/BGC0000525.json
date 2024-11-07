@@ -1,0 +1,29 @@
+{
+      "mibig_acc": {
+            "accession": "GU949560.1",
+            "ncomp": 2,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "TTPATTSSWTCITAGVTVSASLCPTTKCTSRC",
+                  "TITLSTCAILSKPLGNNGYLCTVTKECMPSCN"
+            ],
+            "protein_ids": [
+                  "ADM36017.1",
+                  "ADM36018.1"
+            ],
+            "ADM36017.1": {
+                  "complete_seq": "MKTMKNSAAREAFKGANHPAGMVSEEELKALVGGNDVNPETTPATTSSWTCITAGVTVSASLCPTTKCTSRC",
+                  "leader_seq": "MKTMKNSAAREAFKGANHPAGMVSEEELKALVGGNDVNPE",
+                  "core_seq": "TTPATTSSWTCITAGVTVSASLCPTTKCTSRC",
+                  "follower_seq": ""
+            },
+            "ADM36018.1": {
+                  "complete_seq": "MSKKEMILSWKNPMYRTESSYHPAGNILKELQEEEQHSIAGGTITLSTCAILSKPLGNNGYLCTVTKECMPSCN",
+                  "leader_seq": "MSKKEMILSWKNPMYRTESSYHPAGNILKELQEEEQHSIAGG",
+                  "core_seq": "TITLSTCAILSKPLGNNGYLCTVTKECMPSCN",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1021/bi100871b"
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "JQ979180.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "SASIVKTTIKASKKLCRGFTLTCGCHFTGKK"
+            ],
+            "protein_ids": [
+                  "AFN69432.1"
+            ],
+            "AFN69432.1": {
+                  "complete_seq": "MKKELFDLNLNKDIEAQKSDLNPQSASIVKTTIKASKKLCRGFTLTCGCHFTGKK",
+                  "leader_seq": "MKKELFDLNLNKDIEAQKSDLNPQ",
+                  "core_seq": "SASIVKTTIKASKKLCRGFTLTCGCHFTGKK",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1016/j.chembiol.2011.05.007"
+      }
+}

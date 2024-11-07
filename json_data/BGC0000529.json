@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "HM536998.1",
+            "ncomp": 1,
+            "start": 1656,
+            "end": 23062,
+            "core_sequences": [
+                  "VTSWSLCTPGCTSPGGGSNCSFCC"
+            ],
+            "protein_ids": [
+                  "ADK32554.1"
+            ],
+            "ADK32554.1": {
+                  "complete_seq": "MPADILETRTSETEDLLDLDLSIGVEEITAGPAVTSWSLCTPGCTSPGGGSNCSFCC",
+                  "leader_seq": "MPADILETRTSETEDLLDLDLSIGVEEITAGPA",
+                  "core_seq": "VTSWSLCTPGCTSPGGGSNCSFCC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1016/j.chembiol.2007.11.009"
+      }
+}

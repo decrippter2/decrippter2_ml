@@ -1,0 +1,19 @@
+{
+      "mibig_acc": {
+            "accession": "AY237108.2",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [],
+            "protein_ids": [
+                  "ACF22183.1"
+            ],
+            "ACF22183.1": {
+                  "complete_seq": "MKTWQVFFIILPISIIISLIVKQLNSSNLVQSVVSGIAIALMISIFFNRGK",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "ref": ""
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "X93303.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "GSGVIPTISHECHMNSFQFVFTCCS"
+            ],
+            "protein_ids": [
+                  "CAA63706.1"
+            ],
+            "CAA63706.1": {
+                  "complete_seq": "MTNAFQALDEVTDAELDAILGGGSGVIPTISHECHMNSFQFVFTCCS",
+                  "leader_seq": "MTNAFQALDEVTDAELDAILGG",
+                  "core_seq": "GSGVIPTISHECHMNSFQFVFTCCS",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/aem.62.5.1799-1802.1996"
+      }
+}

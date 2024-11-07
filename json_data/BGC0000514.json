@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "DQ367437.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "IASKFLCTPGCAKTGSFNSYCC"
+            ],
+            "protein_ids": [
+                  "ABC94902.1"
+            ],
+            "ABC94902.1": {
+                  "complete_seq": "MEAVKEKNELFDLDVKVNAKESNDSGAEPRIASKFLCTPGCAKTGSFNSYCC",
+                  "leader_seq": "MEAVKEKNELFDLDVKVNAKESNDSGAEPR",
+                  "core_seq": "IASKFLCTPGCAKTGSFNSYCC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1016/j.ijmm.2013.08.012"
+      }
+}

@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "GU552553.1",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGIKHHSSGSSSYHC"
+            ],
+            "protein_ids": [
+                  "ADV57366.1"
+            ],
+            "ADV57366.1": {
+                  "complete_seq": "MSKLVKTLTISEISKAQNNGGKPAWCWYTLAMCGAGYDSGTCDYMYSHCFGIKHHSSGSSSYHC",
+                  "leader_seq": "MSKLVKTLTISEISKAQNNGG",
+                  "core_seq": "KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGIKHHSSGSSSYHC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1002/chem.201405692"
+      }
+}

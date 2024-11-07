@@ -1,0 +1,21 @@
+{
+      "mibig_acc": {
+            "accession": "AF063590.3",
+            "ncomp": 1,
+            "start": 0,
+            "end": 0,
+            "core_sequences": [
+                  "GETDPNTQLLNDLGNNMAWGAALGAPGGLGSAALGAAGGALQTVGQGLIDHGPVNVPIPVLIGPSWNGSGSGYNSATSSSGSGS"
+            ],
+            "protein_ids": [
+                  "AAD04332.2"
+            ],
+            "AAD04332.2": {
+                  "complete_seq": "MREISQKDLNLAFGAGETDPNTQLLNDLGNNMAWGAALGAPGGLGSAALGAAGGALQTVGQGLIDHGPVNVPIPVLIGPSWNGSGSGYNSATSSSGSGS",
+                  "leader_seq": "MREISQKDLNLAFGA",
+                  "core_seq": "GETDPNTQLLNDLGNNMAWGAALGAPGGLGSAALGAAGGALQTVGQGLIDHGPVNVPIPVLIGPSWNGSGSGYNSATSSSGSGS",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/jb.181.1.212-217.1999"
+      }
+}
