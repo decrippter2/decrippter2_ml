@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1126697,
             "end": 1132588,
-            "core_sequences": [],
+            "core_sequences": ["CCSCSCSTCTCTCTCASSAATKM"],
             "protein_ids": [
-                  "AAT03889.1"
+                  "WP_071661762.1"
             ],
-            "AAT03889.1": {
-                  "complete_seq": "MKRDTNVSLFHSKIYILVAADDAHVHVHVQVEQEHEQHPAA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_071661762.1": {
+                  "complete_seq": "MNIKSQSSNGYSNNAVGSEAMNYAAGCCSCSCSTCTCTCTCASSAATKM",
+                  "leader_seq": "MNIKSQSSNGYSNNAVGSEAMNYAAG",
+                  "core_seq": "CCSCSCSTCTCTCTCASSAATKM",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1371/journal.ppat.1000144"
       }
 }

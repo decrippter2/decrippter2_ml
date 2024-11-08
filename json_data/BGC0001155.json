@@ -5,17 +5,17 @@
             "start": 4201,
             "end": 25722,
             "core_sequences": [
-                  "SCNCVCGFCCSCSP"
+                  "SCNCVCGFCCSCSPSA"
             ],
             "protein_ids": [
                   "AGY49587.1"
             ],
             "AGY49587.1": {
                   "complete_seq": "MSEMELNLNDLPMDVFEMADSGMEVESLTAGHGMPEVGASCNCVCGFCCSCSPSA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSEMELNLNDLPMDVFEMADSGMEVESLTAGHGMPEVGA",
+                  "core_seq": "SCNCVCGFCCSCSPSA",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.chembiol.2013.07.005"
       }
 }

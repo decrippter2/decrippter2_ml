@@ -6,14 +6,14 @@
             "end": 15410,
             "core_sequences": [],
             "protein_ids": [
-                  "WP_009985584.1"
+                  "WP_009985589.1"
             ],
-            "WP_009985584.1": {
-                  "complete_seq": "MEKMNNIAGITPENELDEMFDDSVVGAVGYTTYWGILPLVTKNPQICPVSENTVKCRLL",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_009985589.1": {
+                  "complete_seq": "MNKNPIYRSEEEAKNIACGNVAAELDENSQALDAINGAGWKQTIACTIAQGTLGCLVSYGLGNGGYCCTYTVECSKTCNK",
+                  "leader_seq": "MNKNPIYRSEEEAKNIACGNVAAELDENSQALDAINGA",
+                  "core_seq": "GWKQTIACTIAQGTLGCLVSYGLGNGGYCCTYTVECSKTCNK",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.chembiol.2015.11.014"
       }
 }

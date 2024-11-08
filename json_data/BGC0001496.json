@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 79318,
             "end": 88354,
-            "core_sequences": [],
+            "core_sequences": ["GYPFWDNRDIFGGYTFIG"],
             "protein_ids": [
                   "EWC60872.1"
             ],
             "EWC60872.1": {
                   "complete_seq": "MLSVYIAPVFEKIGGFREVTNGYPFWDNRDIFGGYTFIG",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MLSVYIAPVFEKIGGFREVTN",
+                  "core_seq": "GYPFWDNRDIFGGYTFIG",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1111/lam.12693"
       }
 }

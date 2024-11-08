@@ -9,23 +9,21 @@
                   "TDPAVTGLILGIVAIQAGVAVGVSAAFCPTTKCTSRC"
             ],
             "protein_ids": [
-                  "SBI_06990",
-                  "SBI_06989"
+                  "ADI10109.1",
+                  "ADI10110.1"
             ],
-            "SBI_06990": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "ADI10109.1": {
+                  "complete_seq": "MQKDTDILGAWDEAELVELSEADVHGGTDPAVTGLILGIVAIQAGVAVGVSAAFCPTTKCTSRC",
+                  "leader_seq": "MQKDTDILGAWDEAELVELSEADVHGG",
+                  "core_seq": "TDPAVTGLILGIVAIQAGVAVGVSAAFCPTTKCTSRC",
+                  "follower_seq": ""
             },
-            "SBI_06989": {},
-            "Unidentified protein1": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "ADI10110.1": {
+                  "complete_seq": "MHQEFEGDISLVEELAEQDLHDAAQHGGTISPIDTVKIIFRVSSHFGGNGGFGLFCTLSKECQPNCN",
+                  "leader_seq": "MHQEFEGDISLVEELAEQDLHDAAQHGG",
+                  "core_seq": "TISPIDTVKIIFRVSSHFGGNGGFGLFCTLSKECQPNCN",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1371/journal.pone.0091352"
       }
 }

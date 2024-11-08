@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1876183,
             "end": 1882234,
-            "core_sequences": [],
+            "core_sequences": ["RCSCTTIPCCCCCGG"],
             "protein_ids": [
-                  "AGE37173.1"
+                  "QQB07036.1"
             ],
-            "AGE37173.1": {
-                  "complete_seq": "MTFLSKFVHVAWTFKGPELLTRARKQWPKQFRPSAGWYHDIPTAIIAVISLCEEALRRHSRPLLWKGGKSCSLMAIGAGLALHNLSVFVLARRVPQYHFRSLSKVQLAQTITVAAAEEIIWRTDGGYTSRLIESIGFGLTHLRIGSIPGVIHMGIFALIARYFERRHGLVASALFHSSYNIAHESESHRDKK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "QQB07036.1": {
+                  "complete_seq": "MSTLINKLPPAVSTDSSKIVSEVQAFEPTAARCSCTTIPCCCCCGG",
+                  "leader_seq": "MSTLINKLPPAVSTDSSKIVSEVQAFEPTAA",
+                  "core_seq": "RCSCTTIPCCCCCGG",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/cb200339d"
       }
 }

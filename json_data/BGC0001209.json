@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1259086,
             "end": 1262598,
-            "core_sequences": [],
+            "core_sequences": ["AKGDGWKVM"],
             "protein_ids": [
                   "ABJ66530.1"
             ],
             "ABJ66530.1": {
                   "complete_seq": "MSKELEKVLESSSMAKGDGWKVMAKGDGWE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSKELEKVLESSSM",
+                  "core_seq": "AKGDGWKVM",
+                  "follower_seq": "AKGDGWE"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/bs.mie.2018.04.016"
       }
 }

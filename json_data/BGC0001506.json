@@ -10,16 +10,16 @@
                   "WP_031104469.1"
             ],
             "WP_234325512.1": {
-                  "complete_seq": "MNNTGAHVLRELLDGHQPAAIAGGLASRYGIDAQQAERDVSAVIERLRGSELVIS",
+                  "complete_seq": "",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "GFIGWGNDIFGHYSGGF",
                   "follower_seq": "TBA"
             },
             "WP_031104469.1": {
-                  "complete_seq": "MSMPVALAERRRLPVHRRALPLLAVGVARLLAKVRPARLRTVLEFARRGAAPATAAQALRAREEVVSVSLRCAGQGCLQRSIATALLCRMRGAWPTWCTGVRTHPFAAHAWVEAEEQLVGEGHPKGHFKTLMSIPPLAEDRNR",
+                  "complete_seq": "",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "core_seq": "GFIGWGNDIFGHYSGG",
+                  "follower_seq": "VDEQIELTTAEPYAPPTLTEVGEFNEDTLGFIGWGNDIFGHYSGGF"
             },
             "ref": ""
       }

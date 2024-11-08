@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 108186,
             "end": 111640,
-            "core_sequences": [],
+            "core_sequences": ["LLGLAGNDRLVLSKN"],
             "protein_ids": [
-                  "OAL15486.1"
+                  "WP_107415367.1"
             ],
-            "OAL15486.1": {
-                  "complete_seq": "MALRFGTDVSTTETGYGTVLLDQRNGQYWELNPTATLIVRVLMESGDETAAVEALTDAYDIDRAGAEADVAALVAELRASGLAA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_107415367.1": {
+                  "complete_seq": "MKKAYEAPTLVRLGSFRKQTGLLGLAGNDRLVLSKN",
+                  "leader_seq": "MKKAYEAPTLVRLGSFRKQTG",
+                  "core_seq": "LLGLAGNDRLVLSKN",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/nchembio.2319"
       }
 }

@@ -4,16 +4,22 @@
             "ncomp": 1,
             "start": 59854,
             "end": 70655,
-            "core_sequences": [],
+            "core_sequences": ["QRATPTLATPLTPHTPYATYVVSGGVVSAISGIFSNNKTCLG","QRATPATPATPWLIKASYVVSGAGVSFVASYITVN"],
             "protein_ids": [
-                  "EFI65094.1"
+                  "EFI65095.1","EFI65094.1"
             ],
+            "EFI65095.1": {
+                  "complete_seq": "MTNEEIIVAWKNPKVRGKNMPSHPSGVGFQELSINEMAQVTGGAVEQRATPTLATPLTPHTPYATYVVSGGVVSAISGIFSNNKTCLG",
+                  "leader_seq": "MTNEEIIVAWKNPKVRGKNMPSHPSGVGFQELSINEMAQVTGGAVE",
+                  "core_seq": "QRATPTLATPLTPHTPYATYVVSGGVVSAISGIFSNNKTCLG",
+                  "follower_seq": ""
+            },
             "EFI65094.1": {
                   "complete_seq": "MTNEEIIVAWKNPKVRGKNMPSHPSGVGFQELSINEMAQVTGGAVEQRATPATPATPWLIKASYVVSGAGVSFVASYITVN",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MTNEEIIVAWKNPKVRGKNMPSHPSGVGFQELSINEMAQVTGGAVE",
+                  "core_seq": "QRATPATPATPWLIKASYVVSGAGVSFVASYITVN",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.6b02513"
       }
 }

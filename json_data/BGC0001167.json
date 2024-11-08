@@ -4,37 +4,30 @@
             "ncomp": 4,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["NEFMQTGSYSGP","TFCDLATKQCYP","WILLADGTRPKNAP"],
             "protein_ids": [
                   "AFK79988.1",
-                  "AFK79994.1",
                   "AFK79996.1",
-                  "AFK79995.1"
+                  "AFK79987.1"
             ],
             "AFK79988.1": {
                   "complete_seq": "MKTKKLTPRNSAPVQRENAATVSRDGNAIAPNNEFMQTGSYSGPFAGDDAE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "AFK79994.1": {
-                  "complete_seq": "MRLPKQSAPVKRPHFIHPHECVDIIHGDGEDLVSILVKLVHGANYNDPAQFQYPHYGYLKMSSFGGFRY",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKTKKLTPRNSAPVQRENAATVSRDGNAIAPN",
+                  "core_seq": "NEFMQTGSYSGP",
+                  "follower_seq": "FAGDDAE"
             },
             "AFK79996.1": {
                   "complete_seq": "MKTPKLTPRITAPVQRDNIATVPSDGNVITPATFCDLATKQCYPFAGDDAV",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKTPKLTPRITAPVQRDNIATVPSDGNVITPA",
+                  "core_seq": "TFCDLATKQCYP",
+                  "follower_seq": "FAGDDAV"
             },
-            "AFK79995.1": {
-                  "complete_seq": "MANSKSSKQSETNPNVEQPETKKSNIQPQETTQPKAKYIPATGLEDYGRWKLMFQDRKATPNDPPFRRGRIWC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "AFK79987.1": {
+                  "complete_seq": "MNSAPVQRENAATVSRDGNAIAPQWILLADGTRPKNAPFAGDDAE",
+                  "leader_seq": "MNSAPVQRENAATVSRDGNAIAPQ",
+                  "core_seq": "WILLADGTRPKNAP",
+                  "follower_seq": "FAGDDAE"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1371/journal.pone.0043002"
       }
 }

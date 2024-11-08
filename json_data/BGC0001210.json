@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 4366121,
             "end": 4375355,
-            "core_sequences": [],
+            "core_sequences": ["GDCGGTCTWTKDCSICPSWSCWSWSC"],
             "protein_ids": [
                   "EEM14528.1"
             ],
             "EEM14528.1": {
                   "complete_seq": "MNDKIIQYWNDPAKRSTLSAAELSKMPVNPAGDILAELSDADLDKVVGAGDCGGTCTWTKDCSICPSWSCWSWSC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MNDKIIQYWNDPAKRSTLSAAELSKMPVNPAGDILAELSDADLDKVVGA",
+                  "core_seq": "GDCGGTCTWTKDCSICPSWSCWSWSC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/aem.00299-15"
       }
 }

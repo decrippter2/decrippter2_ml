@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 6791760,
             "end": 6813685,
-            "core_sequences": [],
+            "core_sequences": ["SHPTHTVATDDEGHLCTTIICA"],
             "protein_ids": [
                   "ACU62756.1"
             ],
             "ACU62756.1": {
                   "complete_seq": "MKDNQVTQIKLSIDDLKIDSFVTSIDSEMNMRLAGGLAGQSHPTHTVATDDEGHLCTTIICA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKDNQVTQIKLSIDDLKIDSFVTSIDSEMNMRLAGGLAGQ",
+                  "core_seq": "SHPTHTVATDDEGHLCTTIICA",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1002/anie.201500927"
       }
 }

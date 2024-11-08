@@ -4,16 +4,22 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["INTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG","GTPAITTAISAIIAATAQSPCPTSACSKSCNK"],
             "protein_ids": [
-                  "ANP43735.1"
+                  "ANP43731.1","ANP43734.1"
             ],
-            "ANP43735.1": {
-                  "complete_seq": "MKEQKLEKITGLIPESELEEHLSGESSGAGTPAITTAISAIIGATAQSPCPTSACSKSCNK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "ANP43731.1": {
+                  "complete_seq": "MLDVIKNRKKIEEKLELPEILLEEVEEHSAMGGINTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG",
+                  "leader_seq": "MLDVIKNRKKIEEKLELPEILLEEVEEHSAMGG",
+                  "core_seq": "INTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ANP43734.1": {
+                  "complete_seq": "MLKEEKLEKITGLIPESELEEHLSGESSGAGTPAITTAISAIIAATAQSPCPTSACSKSCNK",
+                  "leader_seq": "MLKEEKLEKITGLIPESELEEHLSGESSGA",
+                  "core_seq": "GTPAITTAISAIIAATAQSPCPTSACSKSCNK",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.3389/fmicb.2016.01115"
       }
 }

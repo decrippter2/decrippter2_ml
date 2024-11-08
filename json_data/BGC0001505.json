@@ -4,23 +4,16 @@
             "ncomp": 2,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["AQGVSYFP"],
             "protein_ids": [
-                  "AVD53608.1",
                   "AVD53611.1"
             ],
-            "AVD53608.1": {
-                  "complete_seq": "MSIPKKTPANSSQPEPQLPAEIERKLLSTGLEDYGFWSQEMARQKAQQTEPDKPFRRGRIWC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
             "AVD53611.1": {
                   "complete_seq": "MTKKNIRPQQVAPVERETISTSKDQSGQVTPSAQGVSYFPFAGDDAE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MTKKNIRPQQVAPVERETISTSKDQSGQVTPS",
+                  "core_seq": "AQGVSYFP",
+                  "follower_seq": "FAGDDAE"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.26434/chemrxiv.5346739.v1"
       }
 }

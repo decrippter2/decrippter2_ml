@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 182318,
             "end": 188335,
-            "core_sequences": [],
+            "core_sequences": ["SGTCACVGLLTLLNTVCVGISCA"],
             "protein_ids": [
                   "ALA50776.1"
             ],
             "ALA50776.1": {
                   "complete_seq": "MENQTLELLAHLHALPETDPVDFDGASYSGTCACVGLLTLLNTVCVGISCA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MENQTLELLAHLHALPETDPVDFDGASY",
+                  "core_seq": "SGTCACVGLLTLLNTVCVGISCA",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1002/cbic.201500377"
       }
 }

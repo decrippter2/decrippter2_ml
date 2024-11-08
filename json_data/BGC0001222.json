@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["IYWIADQFGIHLATGTARKLLDAVASGASLGTAFAAILGVTLPAWALAAAGALGATAA"],
             "protein_ids": [
-                  "AJP07150.1"
+                  "AJP07153.1"
             ],
-            "AJP07150.1": {
-                  "complete_seq": "MQKLLRIIALISLIAAIISFFIFKINYITYILIGIFIGSGFIYQIRAQGRNRK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "AJP07153.1": {
+                  "complete_seq": "MVTKYGRNLGLSKVELFAIWAVLVVALLLATANIYWIADQFGIHLATGTARKLLDAVASGASLGTAFAAILGVTLPAWALAAAGALGATAA",
+                  "leader_seq": "MVTKYGRNLGLSKVELFAIWAVLVVALLLATAN",
+                  "core_seq": "IYWIADQFGIHLATGTARKLLDAVASGASLGTAFAAILGVTLPAWALAAAGALGATAA",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/aem.04265-14"
       }
 }

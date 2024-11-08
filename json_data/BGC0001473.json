@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 92736,
             "end": 124586,
-            "core_sequences": [],
+            "core_sequences": ["IASASCTTCICTCSCSS"],
             "protein_ids": [
                   "PYC67624.1"
             ],
             "PYC67624.1": {
                   "complete_seq": "MTGLDIDTLEISDYLDESMLDTHDLTETMIASASCTTCICTCSCSS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MTGLDIDTLEISDYLDESMLDTHDLTETM",
+                  "core_seq": "IASASCTTCICTCSCSS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.8b03896"
       }
 }

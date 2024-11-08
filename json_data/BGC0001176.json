@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 9271,
             "end": 14062,
-            "core_sequences": [],
+            "core_sequences": ["SLGSSPYNDILGYPALIVIYP"],
             "protein_ids": [
                   "KIH99826.1"
             ],
             "KIH99826.1": {
                   "complete_seq": "MSAYEIPTLTRIGKFKDVTKSLGSSPYNDILGYPALIVIYP",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSAYEIPTLTRIGKFKDVTK",
+                  "core_seq": "SLGSSPYNDILGYPALIVIYP",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.chembiol.2014.11.017"
       }
 }

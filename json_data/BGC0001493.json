@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 72758,
             "end": 75568,
-            "core_sequences": [],
+            "core_sequences": ["GIGSQTWDTIWLWD"],
             "protein_ids": [
                   "WP_157846923.1"
             ],
             "WP_157846923.1": {
                   "complete_seq": "MEKNPEVAGEEYESPIMVELGEFTELTNGIGSQTWDTIWLWD",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEKNPEVAGEEYESPIMVELGEFTELTN",
+                  "core_seq": "GIGSQTWDTIWLWD",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/ja.2016.108"
       }
 }

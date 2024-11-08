@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 4621760,
             "end": 4630230,
-            "core_sequences": [],
+            "core_sequences": ["ITPLATLATPEATPVGFAATSATAAAVNMITHDVTRH"],
             "protein_ids": [
-                  "WP_043265479.1"
+                  "WP_043265481.1"
             ],
-            "WP_043265479.1": {
-                  "complete_seq": "MNSPVPTQISSYANDHLAKVTPGKVDNGQAVPALSGAKAQISAITPTFTDATVLIGIQQAVGH",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_043265481.1": {
+                  "complete_seq": "MSVLAEFANTELVDVEPGRLGSEATPTMITPLATLATPEATPVGFAATSATAAAVNMITHDVTRH",
+                  "leader_seq": "MSVLAEFANTELVDVEPGRLGSEATPTM",
+                  "core_seq": "ITPLATLATPEATPVGFAATSATAAAVNMITHDVTRH",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1039/C9NP00074G"
       }
 }

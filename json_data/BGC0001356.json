@@ -8,14 +8,14 @@
                   "AGPGTSTPDAFQPDPDEDVHYDS"
             ],
             "protein_ids": [
-                  "EHQ60562.1"
+                  "WP_040732785.1"
             ],
-            "EHQ60562.1": {
-                  "complete_seq": "MSKLHSITPVDTLVQCEGHIVSDMAGEKVMLSVQKGKYYNLGTLGGEIWDMLITPVKAEHIIQSILSEYEVESSECEEDILLFLSDLEHEGLIRHVKQR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_040732785.1": {
+                  "complete_seq": "MKKQYSKPSLEVLDVHQTMAGPGTSTPDAFQPDPDEDVHYDS",
+                  "leader_seq": "MKKQYSKPSLEVLDVHQTM",
+                  "core_seq": "AGPGTSTPDAFQPDPDEDVHYDS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1074/jbc.M116.722108"
       }
 }

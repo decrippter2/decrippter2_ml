@@ -4,16 +4,22 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["NIGLFTSTCFSSQCFSSKCFTDTCFSSNCFTGRHQCGYTHGSC","NFGLYTSQCYSSQCYSSKCYSDSCYSSDCYTGRHMCGYTHGYSC"],
             "protein_ids": [
-                  "ALR96369.1"
+                  "ALR96369.1", "ALR96377.1"
             ],
             "ALR96369.1": {
                   "complete_seq": "MANNVFDLDVEVKSVNSVNQNIGLFTSTCFSSQCFSSKCFTDTCFSSNCFTGRHQCGYTHGSC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MANNVFDLDVEVKSVNSVNQ",
+                  "core_seq": "NIGLFTSTCFSSQCFSSKCFTDTCFSSNCFTGRHQCGYTHGSC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ALR96377.1": {
+                  "complete_seq": "MANNNFDLDVQVKSVNSVNANFGLYTSQCYSSQCYSSKCYSDSCYSSDCYTGRHMCGYTHGYSC",
+                  "leader_seq": "MANNNFDLDVQVKSVNSVNA",
+                  "core_seq": "NFGLYTSQCYSSQCYSSKCYSDSCYSSDCYTGRHMCGYTHGYSC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/AAC.01813-15"
       }
 }

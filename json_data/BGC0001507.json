@@ -4,14 +4,14 @@
             "ncomp": 1,
             "start": 42653,
             "end": 46158,
-            "core_sequences": [],
+            "core_sequences": ["GFIGWGDDIFGHYSGDF"],
             "protein_ids": [
-                  "KDN73297.1"
+                  "WP_359792544.1"
             ],
-            "KDN73297.1": {
-                  "complete_seq": "MRLHPDVSTTDTDDGTVLLNERTGRYWQLNNTGAHVLRRLLGGQEPAGIAADLANRYGIAPEQAERDVAAVIERLRGSELVIS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
+            "WP_359792544.1": {
+                  "complete_seq": "MDEQTEFSTTEPYAPPTLTEVGEFNEDTLGFIGWGDDIFGHYSGDF",
+                  "leader_seq": "MDEQTEFSTTEPYAPPTLTEVGEFNEDTL",
+                  "core_seq": "GFIGWGDDIFGHYSGDF",
                   "follower_seq": "TBA"
             },
             "ref": ""

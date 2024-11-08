@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 708690,
             "end": 737346,
-            "core_sequences": [],
+            "core_sequences": ["ASSSSCTTCICTCSCSS"],
             "protein_ids": [
                   "WP_091614358.1"
             ],
             "WP_091614358.1": {
                   "complete_seq": "MSAPTSIQANVGVAGLTGLDTDTLEISDYLDETLLDSHDLTETMASSSSCTTCICTCSCSS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSAPTSIQANVGVAGLTGLDTDTLEISDYLDETLLDSHDLTETM",
+                  "core_seq": "ASSSSCTTCICTCSCSS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.8b03896"
       }
 }
