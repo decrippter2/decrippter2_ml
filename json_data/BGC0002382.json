@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1,
             "end": 16259,
-            "core_sequences": [],
+            "core_sequences": ["IATRKAPSDDDEGFS"],
             "protein_ids": [
                   "CZF84009.1"
             ],
             "CZF84009.1": {
                   "complete_seq": "MDKNTPFFSNFIEADTITKEEANQISGGWNFPNEIATRKAPSDDDEGFSSSAIVFPTDELPALPELS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDKNTPFFSNFIEADTITKEEANQISGGWNFPNE",
+                  "core_seq": "IATRKAPSDDDEGFS",
+                  "follower_seq": "SSAIVFPTDELPALPELS"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1007/s00253-020-10605-z"
       }
 }

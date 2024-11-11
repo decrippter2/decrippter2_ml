@@ -4,23 +4,16 @@
             "ncomp": 2,
             "start": 284500,
             "end": 291500,
-            "core_sequences": [],
+            "core_sequences": ["GVGFPLADFFIHFD"],
             "protein_ids": [
-                  "KUN61409.1",
-                  "KUN61408.1"
+                  "WP_159064094.1"
             ],
-            "KUN61409.1": {
-                  "complete_seq": "MSITLADGVSLAETDGGAVLLDERSGRYWQLNASGARVLHRLLAGDTAAEAGAAAANGASVPAERAAGDAHTLLEKLRHAGLVSS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_159064094.1": {
+                  "complete_seq": "MSNSVHNTDRRTAMENMEPETSYEVPELVELGDYDDLTRGVGFPLADFFIHFD",
+                  "leader_seq": "MSNSVHNTDRRTAMENMEPETSYEVPELVELGDYDDLTR",
+                  "core_seq": "GVGFPLADFFIHFD",
+                  "follower_seq": ""
             },
-            "KUN61408.1": {
-                  "complete_seq": "MSTPVALTRRPRLPLHRRPLPWLATLVARLLVHQPPARIRAVLRLVRRGARPSTAEEALRSRRAVVAVSVSCAGEGCVQRSIATALLCRVHGHWPTWCSGVRVVPFLAHAWVEAEGAPVDEPYPPGYHTVLIRVPPL",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acschembio.0c00109"
       }
 }

@@ -6,14 +6,14 @@
             "end": 154139,
             "core_sequences": [],
             "protein_ids": [
-                  null
+                  "WP_200528167.1"
             ],
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_200528167.1": {
+                  "complete_seq": "MSKIKNRFGSQLASFNSPVKKGLYSQSPGNCASCSNSASANCTGGLG",
+                  "leader_seq": "MSKIKNRFGSQLASFNSPVKKGLY",
+                  "core_seq": "SQSPGNCASCSNSASANCTGGLG",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/nchembio.2462"
       }
 }

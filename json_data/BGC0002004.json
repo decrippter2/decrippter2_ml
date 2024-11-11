@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1498747,
             "end": 1508549,
-            "core_sequences": [],
+            "core_sequences": ["LCGSCYPCSCM"],
             "protein_ids": [
                   "WP_003614758.1"
             ],
             "WP_003614758.1": {
                   "complete_seq": "MTVKIAQKKVLPVIGRAAALCGSCYPCSCM",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MTVKIAQKKVLPVIGRAAA",
+                  "core_seq": "LCGSCYPCSCM",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/mmbr.00058-15"
       }
 }

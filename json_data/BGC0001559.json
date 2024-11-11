@@ -8,21 +8,14 @@
                   "IYW"
             ],
             "protein_ids": [
-                  "AKT38412.1",
-                  "AKT38408.1"
+                  "0000"
             ],
-            "AKT38412.1": {
-                  "complete_seq": "MRRCDAMMVRTLQRFALTLLYFTLLVPCALVVRVLGRAPLRIHPEATGGSYWLPSRRRS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "0000": {
+                  "complete_seq": "MKKTIKQISAGDRSKKGNIYW",
+                  "leader_seq": "MKKTIKQISAGDRSKKGN",
+                  "core_seq": "IYW",
+                  "follower_seq": ""
             },
-            "AKT38408.1": {
-                  "complete_seq": "MSLWFGAAGVIAVVLAAFIYRSAKGRRKEDGRPPDDRYPLW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/s41557-023-01153-w"
       }
 }

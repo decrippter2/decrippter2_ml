@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["ITSFSLCTPGCAKTGSFNSYCC"],
             "protein_ids": [
                   "ARD24445.1"
             ],
             "ARD24445.1": {
                   "complete_seq": "MEKILDLDVQVKAQKESNDSSGDERITSFSLCTPGCAKTGSFNSYCC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEKILDLDVQVKAQKESNDSSGDER",
+                  "core_seq": "ITSFSLCTPGCAKTGSFNSYCC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.micres.2017.02.003"
       }
 }

@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["STNCFCYPCCSCSAPSS"],
             "protein_ids": [
                   "ATG31918.1"
             ],
             "ATG31918.1": {
                   "complete_seq": "MDRKPTDLVDLPMDVFELEDQGMDITSLTAGHGMTEVGASTNCFCYPCCSCSAPSSSA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDRKPTDLVDLPMDVFELEDQGMDITSLTAGHGMTEVGA",
+                  "core_seq": "STNCFCYPCCSCSAPSS",
+                  "follower_seq": "SA"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1099/mic.0.000538"
       }
 }

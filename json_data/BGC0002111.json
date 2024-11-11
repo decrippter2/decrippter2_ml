@@ -7,70 +7,31 @@
             "core_sequences": [
                   "ATITTTWTVTTTGVWASTISNNC",
                   "ATITTTWTVTTTGVWASTISNNC",
-                  "ATITTTWTVTTTGVWASTISNNC",
-                  "ATITTTWTVTTTGVWASTISNNC",
-                  "ATITTTWTVTTTGVWASTISNNC",
-                  "ATITTTWTVTTTGVWASTISNNC",
                   "ATITTTWTVTTTGAWASTISNNC"
             ],
             "protein_ids": [
-                  "EVG22_32215",
-                  "EVG22_32220",
-                  "EVG22_32225",
-                  "EVG22_32230",
-                  "EVG22_32235",
-                  "EVG22_32240",
-                  "EVG22_32245"
+                  "QQY95970.1",
+                  "QQY95972.1",
+                  "QQY95976.1"
             ],
-            "EVG22_32215": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "QQY95970.1": {
+                  "complete_seq": "MNTVLELQKLAHDTEGKGQAAEATITTTWTVTTTGVWASTISNNC",
+                  "leader_seq": "MNTVLELQKLAHDTEGKGQAAE",
+                  "core_seq": "ATITTTWTVTTTGVWASTISNNC",
+                  "follower_seq": ""
             },
-            "EVG22_32220": {},
-            "Unidentified protein1": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "QQY95972.1": {
+                  "complete_seq": "MNTVLELQKLVHDTEGKGQAAEATITTTWTVTTTGVWASTISNNC",
+                  "leader_seq": "MNTVLELQKLVHDTEGKGQAAE",
+                  "core_seq": "ATITTTWTVTTTGVWASTISNNC",
+                  "follower_seq": ""
             },
-            "EVG22_32225": {},
-            "Unidentified protein2": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "QQY95976.1": {
+                  "complete_seq": "MNTVLELQKLAHDTEGKGQAAEATITTTWTVTTTGAWASTISNNC",
+                  "leader_seq": "MNTVLELQKLAHDTEGKGQAAE",
+                  "core_seq": "ATITTTWTVTTTGAWASTISNNC",
+                  "follower_seq": ""
             },
-            "EVG22_32230": {},
-            "Unidentified protein3": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "EVG22_32235": {},
-            "Unidentified protein4": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "EVG22_32240": {},
-            "Unidentified protein5": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "EVG22_32245": {},
-            "Unidentified protein6": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.isci.2021.102480"
       }
 }

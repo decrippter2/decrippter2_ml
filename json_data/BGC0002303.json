@@ -4,16 +4,30 @@
             "ncomp": 1,
             "start": 4374106,
             "end": 4390172,
-            "core_sequences": [],
-            "protein_ids": [
-                  "ALC22073.1"
+            "core_sequences": ["STPTCAAATISWLGSQLTVKTYKEGC","TSAPCGAASVSWLASQFTVKTYKEGC",
+            "TTPVCAASVASSTWCASAASAISGATYEAGC"
             ],
+            "protein_ids": [
+                  "ALC22072.1","ALC22073.1","ALC22074.1"
+            ],
+            "ALC22072.1": {
+                  "complete_seq": "MADLQQTGSISELVAGYDTYSEAGELVAEAAADAPASTPTCAAATISWLGSQLTVKTYKEGC",
+                  "leader_seq": "MADLQQTGSISELVAGYDTYSEAGELVAEAAADAPA",
+                  "core_seq": "STPTCAAATISWLGSQLTVKTYKEGC",
+                  "follower_seq": ""
+            },
             "ALC22073.1": {
                   "complete_seq": "MDKTGAITELIEGYDSYSDAEELNSTAAAEAPATSAPCGAASVSWLASQFTVKTYKEGC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDKTGAITELIEGYDSYSDAEELNSTAAAEAPA",
+                  "core_seq": "TSAPCGAASVSWLASQFTVKTYKEGC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ALC22074.1": {
+                  "complete_seq": "MQNNTEIMDLIANYDAYADVDELNVTAAADAPATTPVCAASVASSTWCASAASAISGATYEAGC",
+                  "leader_seq": "MQNNTEIMDLIANYDAYADVDELNVTAAADAPA",
+                  "core_seq": "TTPVCAASVASSTWCASAASAISGATYEAGC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1371/journal.pbio.3001026"
       }
 }

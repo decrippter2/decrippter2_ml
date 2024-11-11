@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 6877533,
             "end": 6882094,
-            "core_sequences": [],
+            "core_sequences": ["LLGRSGNDRLILSKN"],
             "protein_ids": [
-                  "BAC73400.1"
+                  "BAU68361.1"
             ],
-            "BAC73400.1": {
-                  "complete_seq": "MTTVPQQKDTRMALKFGANVSTAETDYGTVLLDERAGEYWELNPTGTLVVNTLMAGGDEAAAVVALADEFDIDLVQAKQDVDALVQQLRTSGLAE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "BAU68361.1": {
+                  "complete_seq": "MKKAYEAPTLVRLGTFRKKTGLLGRSGNDRLILSKN",
+                  "leader_seq": "MKKAYEAPTLVRLGTFRKKTG",
+                  "core_seq": "LLGRSGNDRLILSKN",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/bs.mie.2021.11.018"
       }
 }

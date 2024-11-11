@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 936309,
             "end": 942253,
-            "core_sequences": [],
+            "core_sequences": ["SCTTTSVSTSSSSSS"],
             "protein_ids": [
-                  "QAZ52267.1"
+                  "QAZ50823.1"
             ],
-            "QAZ52267.1": {
-                  "complete_seq": "MSDPGGWRALHIHLPPSVQSEYLADVILPSMSALMPEHDYFFLRYWQGGSHLRLRLRSTPERPLDDEAINEVACHLRSLLPALSDQKRAEYRYSQSLQDQLAEMERADCLPLEAVGTVVERRYQPEYRKYGGSVGVSIAEDVFCSTSRSVLRILSERPTSHRQPLGYACQVFIQMLGCLGLATSQVDQFLTRYAQWWTPYSMAARPEILAARLYANLSSVVADLWAASEPNGMFSVPALNAYTQWSRRRSSARNTSVKIDPMFLSCLANYIHTTNNRLGLPPALESTAAYLVQLGFRSVAVRGEKVR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "QAZ50823.1": {
+                  "complete_seq": "MENETLDLDVMELADIIGSASDQDDMAQVMAASCTTTSVSTSSSSSS",
+                  "leader_seq": "MENETLDLDVMELADIIGSASDQDDMAQVMAA",
+                  "core_seq": "SCTTTSVSTSSSSSS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1126/scitranslmed.aay5445"
       }
 }

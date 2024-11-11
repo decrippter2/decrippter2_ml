@@ -12,10 +12,10 @@
             ],
             "QLJ99538.1": {
                   "complete_seq": "MDANATTVGVDGLTGLDIDTFEIGDYLDETVLDTADLTETMTSSSSCTTCICTCSCSS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDANATTVGVDGLTGLDIDTFEIGDYLDETVLDTADLTETM",
+                  "core_seq": "TSSSSCTTCICTCSCSS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://dx.doi.org/10.1021/jacs.1c05956"
       }
 }

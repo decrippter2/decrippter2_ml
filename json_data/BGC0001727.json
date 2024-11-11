@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1552554,
             "end": 1565755,
-            "core_sequences": [],
+            "core_sequences": ["SGLICTPSCATGTLNCQVSLSFCKTC"],
             "protein_ids": [
                   "ADM69291.1"
             ],
             "ADM69291.1": {
                   "complete_seq": "MKNQFDLDLQVAKNEVASKGVQPASGLICTPSCATGTLNCQVSLSFCKTC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKNQFDLDLQVAKNEVASKGVQPA",
+                  "core_seq": "SGLICTPSCATGTLNCQVSLSFCKTC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1111/jam.13580"
       }
 }

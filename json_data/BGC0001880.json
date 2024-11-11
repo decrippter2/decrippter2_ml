@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1339,
             "end": 9601,
-            "core_sequences": [],
+            "core_sequences": ["ISPALLASLV"],
             "protein_ids": [
-                  "QGX02577.1"
+                  "QGX02581.1"
             ],
-            "QGX02577.1": {
-                  "complete_seq": "MAEKQPEQPDKISKKIESHLLATGLEDYGFWWQEMLKAQKSSEKEQKPFRRGRIWT",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "QGX02581.1": {
+                  "complete_seq": "MRPENQKENRCLQPKLSEPAMRSHAGMPVDLSEEELTAEVVNGGVFASMYGGTDGGVTASISPALLASLV",
+                  "leader_seq": "MRPENQKENRCLQPKLSEPAMRSHAGMPVDLSEEELTAEVVNGGVFASMYGGTDGGVTAS",
+                  "core_seq": "ISPALLASLV",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1002/cbic.201900511"
       }
 }

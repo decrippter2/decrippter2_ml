@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 539080,
             "end": 543757,
-            "core_sequences": [],
+            "core_sequences": ["VNSWGKH"],
             "protein_ids": [
                   "SQF39787.1"
             ],
             "SQF39787.1": {
-                  "complete_seq": "MKEHFVIKGKRDFIVNKVADEYIGYDRLDLEYYSFDEIGAEILYCISKNFSLDKIVELLKQDYEVSEDECKQAIISFLEETPILHIIYANLVKSDIYLQLKPFREK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "complete_seq": "MSPKKEFNAPKTTKVNSWGKH",
+                  "leader_seq": "MSPKKEFNAPKTTK",
+                  "core_seq": "VNSWGKH",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1101/467670"
       }
 }

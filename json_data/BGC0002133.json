@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 68380,
             "end": 79542,
-            "core_sequences": [],
+            "core_sequences": ["MCSSCPMCGPLCP"],
             "protein_ids": [
                   "WP_161912153.1"
             ],
             "WP_161912153.1": {
                   "complete_seq": "MAIKIAKKEVLPVVGRLGAMCSSCPMCGPLCP",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MAIKIAKKEVLPVVGRLGA",
+                  "core_seq": "MCSSCPMCGPLCP",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acs.biochem.1c00443"
       }
 }

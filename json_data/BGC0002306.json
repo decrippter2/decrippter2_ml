@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 5655747,
             "end": 5659282,
-            "core_sequences": [],
+            "core_sequences": ["GCSANDACYFCDTRDNCKACDASDFCIKSDT"],
             "protein_ids": [
                   "WP_019688961.1"
             ],
             "WP_019688961.1": {
                   "complete_seq": "MLKQINVIAGVKEPIRAYGCSANDACYFCDTRDNCKACDASDFCIKSDT",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MLKQINVIAGVKEPIRAY",
+                  "core_seq": "GCSANDACYFCDTRDNCKACDASDFCIKSDT",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acschembio.9b00457"
       }
 }

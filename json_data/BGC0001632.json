@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 99832,
             "end": 105011,
-            "core_sequences": [],
+            "core_sequences": ["WLNGDNNWSTP"],
             "protein_ids": [
-                  "KXS89936.1"
+                  "KXS89845.1"
             ],
-            "KXS89936.1": {
-                  "complete_seq": "MSDNLESKANPPLASVGSKDVKFLLKQELGDQTRLGRKTIETEEWRRGRIWN",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "KXS89845.1": {
+                  "complete_seq": "MKNPTLLPKLTAPVERPAVTSSDLKQASSVDAAWLNGDNNWSTPFAGVNAAWLNGDNNWSTPFAGVNAAWLNGDNNWSTPFAADGAE",
+                  "leader_seq": "MKNPTLLPKLTAPVERPAVTSSDLKQASSVDAA",
+                  "core_seq": "WLNGDNNWSTP",
+                  "follower_seq": "FAGVNAAWLNGDNNWSTPFAGVNAAWLNGDNNWSTPFAADGAE"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1002/anie.201509920"
       }
 }

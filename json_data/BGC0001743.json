@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 9158,
             "end": 12204,
-            "core_sequences": [],
+            "core_sequences": ["IVWIAKQFGVHLTTSLTQKALDLLSAGSSLGTVAAAVLGVTLPAWAVAAAGALGGTAA"],
             "protein_ids": [
-                  "PCL98051.1"
+                  "PCL98053.1"
             ],
-            "PCL98051.1": {
-                  "complete_seq": "MKNLDMLVRVITIILLLATITAFFFKGLSTITYICAIITVVLAFVYQLIKRHTD",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "PCL98053.1": {
+                  "complete_seq": "MLSAYRSKLGLNKFEVTVLMIISLFILLFATVNIVWIAKQFGVHLTTSLTQKALDLLSAGSSLGTVAAAVLGVTLPAWAVAAAGALGGTAA",
+                  "leader_seq": "MLSAYRSKLGLNKFEVTVLMIISLFILLFATVN",
+                  "core_seq": "IVWIAKQFGVHLTTSLTQKALDLLSAGSSLGTVAAAVLGVTLPAWAVAAAGALGGTAA",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/aem.01801-17"
       }
 }

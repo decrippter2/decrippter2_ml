@@ -4,16 +4,22 @@
             "ncomp": 1,
             "start": 1,
             "end": 4918,
-            "core_sequences": [],
+            "core_sequences": ["GTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH","KKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI"],
             "protein_ids": [
-                  "ACR43769.1"
+                  "ACR43769.1","ACR43770.1"
             ],
             "ACR43769.1": {
                   "complete_seq": "MKELSEKELRECVGGGTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKELSEKELRECVGG",
+                  "core_seq": "GTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ACR43770.1": {
+                  "complete_seq": "MKNNNNFFKGMEIIEDQELVSITGGKKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI",
+                  "leader_seq": "MKNNNNFFKGMEIIEDQELVSITGG",
+                  "core_seq": "KKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/AEM.02600-09"
       }
 }

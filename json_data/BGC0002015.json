@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 18549,
             "end": 30566,
-            "core_sequences": [],
+            "core_sequences": ["CLGIGSCNDFAGCGYAVVCFW"],
             "protein_ids": [
                   "WP_106963308.1"
             ],
             "WP_106963308.1": {
                   "complete_seq": "MTAIYEPPALQEIGDFDELTKCLGIGSCNDFAGCGYAVVCFW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MTAIYEPPALQEIGDFDELTK",
+                  "core_seq": "CLGIGSCNDFAGCGYAVVCFW",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.3390/md17020127"
       }
 }

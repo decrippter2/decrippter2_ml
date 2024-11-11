@@ -6,10 +6,16 @@
             "end": 1782,
             "core_sequences": [],
             "protein_ids": [
-                  "QIC51115.1"
+                  "QIC51115.1","QIC51116.1"
             ],
             "QIC51115.1": {
                   "complete_seq": "MKNQLNFEILSDEELQGINGGIRGTGKGLAAAMVSGAAMGGAIGAFGGPVGAIMGAWGGAVGGAMKYSI",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "QIC51116.1": {
+                  "complete_seq": "MKKDEANTFKEYSSSFAIVTDEELENINGSGSIWGAIAGGAVKGAIAASWTGNPVGIGMSALGGAVLGGVTYARPVH",
                   "leader_seq": "TBA",
                   "core_seq": "TBA",
                   "follower_seq": "TBA"

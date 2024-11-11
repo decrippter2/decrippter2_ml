@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 6185533,
             "end": 6189849,
-            "core_sequences": [],
+            "core_sequences": ["YWGCALKCAGPCLGVCAIDTASPVMDAVGTASGYAGGHG"],
             "protein_ids": [
-                  "EEM79979.1"
+                  "WP_000433373.1"
             ],
-            "EEM79979.1": {
-                  "complete_seq": "MKSLIWKELRLVRSRWQKTIFILFILAALSLYATFSLKTLSIPMKFNFILGVTSIIFMSEIIFESIKSDKNNKTLEKLLPLFSLGKIIMAKTIFGMVTASLVSIIYSSVFFIYFVLLSSYPHFEILISISLLPIINLLFGNIFTILVLLIDNMFVNKLFTMTGTILYILLFSNIKDLKFVFMLVGILLIIVFLLNIAIKKRSAENIL",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_000433373.1": {
+                  "complete_seq": "MEPIQRDDYWGCALKCAGPCLGVCAIDTASPVMDAVGTASGYAGGHG",
+                  "leader_seq": "MEPIQRDD",
+                  "core_seq": "YWGCALKCAGPCLGVCAIDTASPVMDAVGTASGYAGGHG",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.9b01519"
       }
 }

@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 6818977,
             "end": 6822202,
-            "core_sequences": [],
+            "core_sequences": ["SKKSKPGDGIRGKGVRG"],
             "protein_ids": [
                   "QSY49196.1"
             ],
             "QSY49196.1": {
                   "complete_seq": "MSKKSKPGDGIRGKGVRGRFMFMDETPEAEATTSIRDSLADLAETLESEARK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "M",
+                  "core_seq": "SKKSKPGDGIRGKGVRG",
+                  "follower_seq": "RFMFMDETPEAEATTSIRDSLADLAETLESEARK"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acs.jnatprod.2c00065"
       }
 }

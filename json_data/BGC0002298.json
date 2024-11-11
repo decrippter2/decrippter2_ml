@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1626600,
             "end": 1632400,
-            "core_sequences": [],
+            "core_sequences": ["GLGRLLADRVIPVGRLVP"],
             "protein_ids": [
-                  "ACZ21387.1"
+                  "WP_143755684.1"
             ],
-            "ACZ21387.1": {
-                  "complete_seq": "MKYILSDSVAMTRTDYGYVILDTRKSKYFQVNAVAGEMLKLLASGRCVSDVAQSVADTYDIPGTRVLRDLEALISEALGACIIEQVSE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_143755684.1": {
+                  "complete_seq": "MKNYETPMLIPLGSFADLTAGLGRLLADRVIPVGRLVP",
+                  "leader_seq": "MKNYETPMLIPLGSFADLTA",
+                  "core_seq": "GLGRLLADRVIPVGRLVP",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://www.ncbi.nlm.nih.gov/pubmed/30707253"
       }
 }

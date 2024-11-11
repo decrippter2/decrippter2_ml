@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 70874,
             "end": 75253,
-            "core_sequences": [],
+            "core_sequences": ["GGDGSIAEYFNRPMHIHDWQIMDSGYYG"],
             "protein_ids": [
                   "KVR35741.1"
             ],
             "KVR35741.1": {
                   "complete_seq": "MKHRSTKESFEITCIGDVDVITLMQDASRATMGGDGSIAEYFNRPMHIHDWQIMDSGYYG",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKHRSTKESFEITCIGDVDVITLMQDASRATM",
+                  "core_seq": "GGDGSIAEYFNRPMHIHDWQIMDSGYYG",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1002/cbic.201900707"
       }
 }

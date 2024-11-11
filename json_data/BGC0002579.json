@@ -4,16 +4,22 @@
             "ncomp": 1,
             "start": 1776,
             "end": 9525,
-            "core_sequences": [],
+            "core_sequences": ["WGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG","SAILAITLGIFATGYGMGVQKAINDRRKK"],
             "protein_ids": [
-                  "AAB81304.1"
+                  "AAB81303.1","AAB81302.1"
             ],
-            "AAB81304.1": {
-                  "complete_seq": "MKIKTITKKQLIQIKGGSKNSQIGKSTSSISKCVFSFFKKC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "AAB81303.1": {
+                  "complete_seq": "MKSVKELNVKEMQQTIGGWGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG",
+                  "leader_seq": "MKSVKELNVKEMQQTIGG",
+                  "core_seq": "WGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "AAB81302.1": {
+                  "complete_seq": "MNKEFKSLNEVEMKKINGGSAILAITLGIFATGYGMGVQKAINDRRKK",
+                  "leader_seq": "MNKEFKSLNEVEMKKINGG",
+                  "core_seq": "SAILAITLGIFATGYGMGVQKAINDRRKK",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1002/1873-3468.12648"
       }
 }

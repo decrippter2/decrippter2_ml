@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 16281,
             "end": 27234,
-            "core_sequences": [],
+            "core_sequences": ["GPPGDRIEFGVLAQLPGLDRD"],
             "protein_ids": [
                   "KHS42581.1"
             ],
             "KHS42581.1": {
                   "complete_seq": "MERTFDLVEDVEDLGTASIETLGPPGDRIEFGVLAQLPGLDRD",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MERTFDLVEDVEDLGTASIETL",
+                  "core_seq": "GPPGDRIEFGVLAQLPGLDRD",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.tetlet.2017.07.064"
       }
 }

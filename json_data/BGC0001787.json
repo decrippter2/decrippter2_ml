@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["AGSGFVKTLTKDCPGFLSNVCVNIGFISGCKNC"],
             "protein_ids": [
-                  "AOT85887.1"
+                  "AOT85879.1"
             ],
-            "AOT85887.1": {
-                  "complete_seq": "MKKVIPYALLTLSMFFLFNAIRIFLESRSLYVVDVLLFIVFLVCSLKFRKQ",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "AOT85879.1": {
+                  "complete_seq": "MNNIKPEIYVQTATDQEITLLIGGAGSGFVKTLTKDCPGFLSNVCVNIGFISGCKNC",
+                  "leader_seq": "MNNIKPEIYVQTATDQEITLLIGG",
+                  "core_seq": "AGSGFVKTLTKDCPGFLSNVCVNIGFISGCKNC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1371/journal.pone.0117245"
       }
 }

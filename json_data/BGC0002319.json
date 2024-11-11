@@ -4,37 +4,16 @@
             "ncomp": 4,
             "start": 1,
             "end": 6178,
-            "core_sequences": [],
+            "core_sequences": ["ATPATPTAAQFVIQGSTICLVC"],
             "protein_ids": [
-                  "QBA31011.1",
-                  "QBA31009.1",
-                  "QBA31008.1",
-                  "QBA31013.1"
+                  "QBA31011.1"
             ],
             "QBA31011.1": {
                   "complete_seq": "MGAGDVLATFGTPRPFARIDHRRKVSEVRSELTSTRPDSSATHPESLAAQEFANTALGAATPGFHADCETPAMATPATPTAAQFVIQGSTICLVC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MGAGDVLATFGTPRPFARIDHRRKVSEVRSELTSTRPDSSATHPESLAAQEFANTALGAATPGFHADCETPAM",
+                  "core_seq": "ATPATPTAAQFVIQGSTICLVC",
+                  "follower_seq": ""
             },
-            "QBA31009.1": {
-                  "complete_seq": "MNEVPAIAAEDATVVLDETTLLAPTTFAVMPGQFWSLTGSNGSGKTTLLRAFLGSRKLTGGAVRVQGEAVDLSRPRHRRLLASLVEPVPVARDMTLREQVTLVAASWYGNTTKTAERAEEVIDRLGLSALGGRFPSQLSSGQLQLFSLALTLVRPADVVLLDEPERHLDTGRVDLVVTLLAERAERGTALLVATHESAVVDACDGVMELG",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "QBA31008.1": {
-                  "complete_seq": "MLADRIKSAVASCAVGALAAHLVATVLQNTPDSYNQDLRKFTGGWPIPGWRFFAPNPGVQNVHLLVRETAGDGPTPWRDVTPVVPHGWTQVLYNPRSRGPKALFDAMQQLSVMSANQADFAWVTQSLPYELVLAASRAAAAEGAQALQFLLMNVFPSAPAEHRMKPILTSEWIPLGASARMTGASG",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "QBA31013.1": {
-                  "complete_seq": "MNVDKFEGAELHLHITGSISAALVPWWVHWLRELHPNLVVNVSVTPAASRFLAVRSLQHLANGTVWTDSWDEPDTPREVNSGRSGCSECFLIFPATLDTVMRLAQGRADSPALLMLQVTDAPIVIADTFPGTNEIVESHVQALKLRRNVEFAPRVSGVRASNRSTAEVGFNLPGAITVANKMLKEGRPHE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acschembio.8b01058"
       }
 }

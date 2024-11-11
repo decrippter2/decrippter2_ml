@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1285024,
             "end": 1291221,
-            "core_sequences": [],
+            "core_sequences": ["DYPPPGANPKHDPPPRNPGHH"],
             "protein_ids": [
                   "WP_041182602.1"
             ],
             "WP_041182602.1": {
                   "complete_seq": "MNHSKKSPAKGAASLQRPAGAKGRPEPLDQRLWKHVGGGDYPPPGANPKHDPPPRNPGHH",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MNHSKKSPAKGAASLQRPAGAKGRPEPLDQRLWKHVGGG",
+                  "core_seq": "DYPPPGANPKHDPPPRNPGHH",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1073/pnas.1818275116"
       }
 }

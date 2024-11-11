@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["GLLTAAQCAALLASCSTGWGCGGGSGMCSSYILYCN"],
             "protein_ids": [
                   "EOO99819.1"
             ],
             "EOO99819.1": {
                   "complete_seq": "MEKALNMESLVEELELDELEGHVGNGLLTAAQCAALLASCSTGWGCGGGSGMCSSYILYCN",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEKALNMESLVEELELDELEGHVGN",
+                  "core_seq": "GLLTAAQCAALLASCSTGWGCGGGSGMCSSYILYCN",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acschembio.8b00599"
       }
 }

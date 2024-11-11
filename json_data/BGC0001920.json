@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 10368,
             "end": 22235,
-            "core_sequences": [],
+            "core_sequences": ["CLGVGSCNDFAGCGYAIVCFW"],
             "protein_ids": [
                   "BBD82040.1"
             ],
             "BBD82040.1": {
                   "complete_seq": "MSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSAIYEPPMLQEVGDFEELTK",
+                  "core_seq": "CLGVGSCNDFAGCGYAIVCFW",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1002/cbic.201800315"
       }
 }

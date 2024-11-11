@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 2136,
             "end": 7545,
-            "core_sequences": [],
+            "core_sequences": ["LLGRSGNDRLVLSKN"],
             "protein_ids": [
                   "WP_106975170.1"
             ],
             "WP_106975170.1": {
                   "complete_seq": "MKKAYEAPTLARLGSFRKKTGLLGRSGNDRLVLSKN",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKKAYEAPTLARLGSFRKKTG",
+                  "core_seq": "LLGRSGNDRLVLSKN",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/nchembio.2319"
       }
 }

@@ -4,23 +4,23 @@
             "ncomp": 2,
             "start": 134923,
             "end": 155574,
-            "core_sequences": [],
+            "core_sequences": ["SCVGTACACSSTSSSS","STTTTGCTTSSCSSSSS"],
             "protein_ids": [
                   "WP_078651956.1",
                   "WP_078651955.1"
             ],
             "WP_078651956.1": {
                   "complete_seq": "MNSSEELDLNALEISDLIDELGRDNETLSQVMAASCVGTACACSSTSSSS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MNSSEELDLNALEISDLIDELGRDNETLSQVMAA",
+                  "core_seq": "SCVGTACACSSTSSSS",
+                  "follower_seq": ""
             },
             "WP_078651955.1": {
                   "complete_seq": "MDAVESLDLNALEISDLIEDSNYSDETLSQAMAASTTTTGCTTSSCSSSSS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDAVESLDLNALEISDLIEDSNYSDETLSQAMAA",
+                  "core_seq": "STTTTGCTTSSCSSSSS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.tetlet.2017.12.056"
       }
 }

@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["LVVIVQADWNAPGWF"],
             "protein_ids": [
                   "QYB25761.1"
             ],
             "QYB25761.1": {
                   "complete_seq": "MKKAFYETPEFTAAGSFRSKTGLVVIVQADWNAPGWF",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKKAFYETPEFTAAGSFRSKTG",
+                  "core_seq": "LVVIVQADWNAPGWF",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1039/d1sc02695j"
       }
 }

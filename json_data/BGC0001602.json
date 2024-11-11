@@ -4,16 +4,23 @@
             "ncomp": 1,
             "start": 1,
             "end": 6935,
-            "core_sequences": [],
+            "core_sequences": ["RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
+            "NKWGNAVIGAATGATRGVSWCRGFGPWGMTACGLGGAAIGGYLGYKSN"],
             "protein_ids": [
-                  "BBE52946.1"
+                  "BBE52947.1","BBE52948.1"
             ],
-            "BBE52946.1": {
-                  "complete_seq": "MLDKNIDLQRAIFHIKQDINLYSVVYGFKLPET",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "BBE52947.1": {
+                  "complete_seq": "MKNFNTLSFETLANIVGGRNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
+                  "leader_seq": "MKNFNTLSFETLANIVGG",
+                  "core_seq": "RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "BBE52948.1": {
+                  "complete_seq": "MALKTLEKHELRNVMGGNKWGNAVIGAATGATRGVSWCRGFGPWGMTACGLGGAAIGGYLGYKSN",
+                  "leader_seq": "MALKTLEKHELRNVMGG",
+                  "core_seq": "NKWGNAVIGAATGATRGVSWCRGFGPWGMTACGLGGAAIGGYLGYKSN",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1128/AEM.02815-18"
       }
 }

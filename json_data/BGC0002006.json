@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 2833928,
             "end": 2837273,
-            "core_sequences": [],
+            "core_sequences": ["GQGGGQSEDKRRAYNC"],
             "protein_ids": [
                   "WP_103055247.1"
             ],
             "WP_103055247.1": {
                   "complete_seq": "MDSLLSTETVISDDELLPIEVGGTAELTEGQGGGQSEDKRRAYNC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDSLLSTETVISDDELLPIEVGGTAELTE",
+                  "core_seq": "GQGGGQSEDKRRAYNC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1039/c7cc08620b"
       }
 }

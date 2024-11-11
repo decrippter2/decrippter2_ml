@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 2487000,
             "end": 2494800,
-            "core_sequences": [],
+            "core_sequences": ["CWFWSY"],
             "protein_ids": [
-                  "ACL76468.1"
+                  "ACL76470.1"
             ],
-            "ACL76468.1": {
-                  "complete_seq": "MVLNEDALKLVIVEVKLHINQRLFEQGYITEEMYTKAKEIILKS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "ACL76470.1": {
+                  "complete_seq": "MKGKIKLLVLTVLSLVGVFAATASAGACWFWSYYQRECPKSLLK",
+                  "leader_seq": "MKGKIKLLVLTVLSLVGVFAATASAGA",
+                  "core_seq": "CWFWSY",
+                  "follower_seq": "YQRECPKSLLK"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1002/anie.202016378"
       }
 }

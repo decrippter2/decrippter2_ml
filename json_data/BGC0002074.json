@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["GYGNAWDSKNGLF"],
             "protein_ids": [
                   "QCY49166.1"
             ],
             "QCY49166.1": {
                   "complete_seq": "MYEQELKEEFTAQDYVPPMLAEVGEFSEDTLGYGNAWDSKNGLF",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MYEQELKEEFTAQDYVPPMLAEVGEFSEDTL",
+                  "core_seq": "GYGNAWDSKNGLF",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acs.joc.9b02231"
       }
 }

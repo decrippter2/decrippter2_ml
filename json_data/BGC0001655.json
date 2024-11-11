@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 360089,
             "end": 365660,
-            "core_sequences": [],
+            "core_sequences": ["GRPNWGFENDWSCVRVC"],
             "protein_ids": [
                   "WP_014911574.1"
             ],
             "WP_014911574.1": {
                   "complete_seq": "MDEEKIGNEISAYETPTVTEMGAFSEVTLGRPNWGFENDWSCVRVC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDEEKIGNEISAYETPTVTEMGAFSEVTL",
+                  "core_seq": "GRPNWGFENDWSCVRVC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/nchembio.2319"
       }
 }

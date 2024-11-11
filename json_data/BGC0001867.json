@@ -4,16 +4,55 @@
             "ncomp": 1,
             "start": 272419,
             "end": 283341,
-            "core_sequences": [],
+            "core_sequences": ["TIGGTIVSITCETCDLLVGKMC","TBKSTNGCGCKPGHTLSSFLCTLECWLA",
+            "GPGCTGGWWAFTDCTAGGGSCEG","GSSYRNGKCTFGPACPS","GLCTLTSNLAAVCCGGCRRATSE",
+            "MDCVSSTAQQTECRPGGPRASYCWDDLR","FFCVQGTANRFTINVC"],
             "protein_ids": [
-                  "CAX31840.1"
+                  "CAE20414.1","CAE20416.1","CAE20417.1","CAE20418.1","CAE20419.1",
+                  "CAE20420.1","CAE20422.1"
             ],
-            "CAX31840.1": {
-                  "complete_seq": "MQADGISEWPQAFLKLSATPDCCAMRYERFCKHYRHKSKAAPNTTGVVAYLNGW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "CAE20414.1": {
+                  "complete_seq": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKASGFAITTEDLKAHQANSQKNLSDAELEGVAGGTIGGTIVSITCETCDLLVGKMC",
+                  "leader_seq": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKASGFAITTEDLKAHQANSQKNLSDAELEGVAGG",
+                  "core_seq": "TIGGTIVSITCETCDLLVGKMC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "CAE20416.1": {
+                  "complete_seq": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTDDFERNTHRQTLSDDELEGVAGGKSTNGCGCKPGHTLSSFLCTLECWL",
+                  "leader_seq": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTDDFERNTHRQTLSDDELEGVAGG",
+                  "core_seq": "TBKSTNGCGCKPGHTLSSFLCTLECWLA",
+                  "follower_seq": ""
+            },
+            "CAE20417.1": {
+                  "complete_seq": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTEDLNTHRQNLSDDELEGLHGAGPGCTGGWWAFTDCTAGGGSCEG",
+                  "leader_seq": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTEDLNTHRQNLSDDELEGLHGA",
+                  "core_seq": "GPGCTGGWWAFTDCTAGGGSCEG",
+                  "follower_seq": ""
+            },
+            "CAE20418.1": {
+                  "complete_seq": "MSEEQLKAFLTKVQADTSLQEQLKAEGADPVAIAKAAGFAITTEDLNSHRQNLSDDELEGVAGGGSSYRNGKCTFGPACPS",
+                  "leader_seq": "MSEEQLKAFLTKVQADTSLQEQLKAEGADPVAIAKAAGFAITTEDLNSHRQNLSDDELEGVAGG",
+                  "core_seq": "GSSYRNGKCTFGPACPS",
+                  "follower_seq": ""
+            },
+            "CAE20419.1": {
+                  "complete_seq": "MSEEQLKGFLSKVQSDASLQEQLKVEGADVVAIAKAAGFSITTEDLNSHRQNLSEDELEGVAGGGLCTLTSNLAAVCCGGCRRATSE",
+                  "leader_seq": "MSEEQLKGFLSKVQSDASLQEQLKVEGADVVAIAKAAGFSITTEDLNSHRQNLSEDELEGVAGG",
+                  "core_seq": "GLCTLTSNLAAVCCGGCRRATSE",
+                  "follower_seq": ""
+            },
+            "CAE20420.1": {
+                  "complete_seq": "MSEEQLKAFIAKVQADPSLQEQLKAEGADVVSIAKAAGFSITTEDLNSHITTKLNLSEEELEGVAGAMDCVSSTAQQTECRPGGPRASYCWDDLR",
+                  "leader_seq": "MSEEQLKAFIAKVQADPSLQEQLKAEGADVVSIAKAAGFSITTEDLNSHITTKLNLSEEELEGVAGA",
+                  "core_seq": "MDCVSSTAQQTECRPGGPRASYCWDDLR",
+                  "follower_seq": ""
+            },
+            "CAE20422.1": {
+                  "complete_seq": "MSEEQLKAFIAKVQADTSLQEQLKAEGADVVAIAKAAGFSITTEDLEKEHRQTLSDDDLEGVAGGFFCVQGTANRFTINVC",
+                  "leader_seq": "MSEEQLKAFIAKVQADTSLQEQLKAEGADVVAIAKAAGFSITTEDLEKEHRQTLSDDDLEGVAGG",
+                  "core_seq": "FFCVQGTANRFTINVC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1016/bs.mie.2018.01.038"
       }
 }

@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 7655773,
             "end": 7662064,
-            "core_sequences": [],
+            "core_sequences": ["CLGVGSCNDFAGCGYAIVCFW"],
             "protein_ids": [
-                  "AJE44470.1"
+                  "WP_107070498.1"
             ],
-            "AJE44470.1": {
-                  "complete_seq": "MKLSLARDVTLTDINSGAVLLDGRRGRYWQLNASGCAVLRRLLDGEGPDAVVAGMAAAAPVDAERVRKDIQALIGSLSAAELVEVDR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_107070498.1": {
+                  "complete_seq": "MLQEIGDFDELTKCLGVGSCNDFAGCGYAIVCFW",
+                  "leader_seq": "MLQEIGDFDELTK",
+                  "core_seq": "CLGVGSCNDFAGCGYAIVCFW",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acschembio.6b01002"
       }
 }

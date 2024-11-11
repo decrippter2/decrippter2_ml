@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 604806,
             "end": 621192,
-            "core_sequences": [],
+            "core_sequences": ["SCNCFCYICCSCSSA"],
             "protein_ids": [
                   "ADG87276.1"
             ],
             "ADG87276.1": {
                   "complete_seq": "MDLNDLPMDVFELADSGVAVESLTAGHGMTEVGASCNCFCYICCSCSSA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MDLNDLPMDVFELADSGVAVESLTAGHGMTEVGA",
+                  "core_seq": "SCNCFCYICCSCSSA",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.6b08987"
       }
 }

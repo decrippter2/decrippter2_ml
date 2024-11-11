@@ -6,10 +6,10 @@
             "end": 8391,
             "core_sequences": [],
             "protein_ids": [
-                  "QTH19313.1"
+                  "QTH19314.1"
             ],
-            "QTH19313.1": {
-                  "complete_seq": "MQKFFEAISAIGIVGYFLGKFTSIPLIDKYTLYFGVMLMIGVIGRFIIKVINSEEETHDSNK",
+            "QTH19314.1": {
+                  "complete_seq": "MINTAWKIIKALQKYGTKAYNVIKKGGQAMYDSFMAAKAKGWTHAAWWLVEHGSTLGTFYDLLKAAGLID",
                   "leader_seq": "TBA",
                   "core_seq": "TBA",
                   "follower_seq": "TBA"

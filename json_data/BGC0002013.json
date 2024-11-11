@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 235088,
             "end": 246792,
-            "core_sequences": [],
+            "core_sequences": ["FIIGSTCC"],
             "protein_ids": [
                   "WP_107116988.1"
             ],
             "WP_107116988.1": {
                   "complete_seq": "MFENTTAEIEEVDIEVGFIIGSTCCSLEMEEDDLDVAAEETEAV",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MFENTTAEIEEVDIEVG",
+                  "core_seq": "FIIGSTCC",
+                  "follower_seq": "SLEMEEDDLDVAAEETEAV"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/s41429-018-0105-4\n\n"
       }
 }

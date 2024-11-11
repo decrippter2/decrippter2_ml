@@ -8,14 +8,14 @@
                   "WYTAEWGLELIFVFPRFI"
             ],
             "protein_ids": [
-                  "AAZ55182.1"
+                  "WP_255266122.1"
             ],
-            "AAZ55182.1": {
-                  "complete_seq": "METTGAEFRLRPEISVAQTDYGMVLLDGRSGEYWQLNDTAALIVQRLLDGHSPADVAQFLTSEYEVERTDAERDIAALVTSLKENGMALP",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_255266122.1": {
+                  "complete_seq": "MEKKKYTAPQLAKVGEFKEATGWYTAEWGLELIFVFPRFI",
+                  "leader_seq": "MEKKKYTAPQLAKVGEFKEATG",
+                  "core_seq": "WYTAEWGLELIFVFPRFI",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.8b09928"
       }
 }

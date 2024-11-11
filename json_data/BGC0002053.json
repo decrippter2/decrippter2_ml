@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["GFIGWGKDIFGHYGG"],
             "protein_ids": [
                   "QOE83931.1"
             ],
             "QOE83931.1": {
                   "complete_seq": "MEEQNELSTVEPYAPPMLAEVGEFNEDTLGFIGWGKDIFGHYGG",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEEQNELSTVEPYAPPMLAEVGEFNEDTL",
+                  "core_seq": "GFIGWGKDIFGHYGG",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acs.jnatprod.8b00449"
       }
 }

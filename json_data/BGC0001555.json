@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 15749,
             "end": 19808,
-            "core_sequences": [],
+            "core_sequences": ["ASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL"],
             "protein_ids": [
-                  "WP_001323890.1"
+                  "WP_001259758.1"
             ],
-            "WP_001323890.1": {
-                  "complete_seq": "MDRKRTKLELLFAFIINATAIYIALAIYDCVFRGKDFLSMHTFCFSALMSAICYFVGDNYYSISDKIKRRSYENSDSK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_001259758.1": {
+                  "complete_seq": "MRTLTLNELDSVSGGASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL",
+                  "leader_seq": "MRTLTLNELDSVSGG",
+                  "core_seq": "ASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1099/13500872-140-9-2383"
       }
 }

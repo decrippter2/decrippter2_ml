@@ -4,37 +4,16 @@
             "ncomp": 4,
             "start": 1,
             "end": 22640,
-            "core_sequences": [],
+            "core_sequences": ["SCTTTSVSTSSSSSSS"],
             "protein_ids": [
-                  "QVN25643.1",
-                  "QVN25648.1",
-                  "QVN25651.1",
-                  "QVN25655.1"
+                  "QVN25651.1"
             ],
-            "QVN25643.1": {
-                  "complete_seq": "MPRKGPAPKRPVIIDPVYSSPLVTSLINKILLDGKRSTAERIVYGAMEGLREKTGADPVITLKRALENVKPSLEVKSRRVGGATYQVPIEVKPGRAATLALRWVVGYSRARREKTMTERLMNELLDASNGLGAAVKKREDTHKMAESNKAFAHYRW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "QVN25648.1": {
-                  "complete_seq": "MSHDPRPQCLYLVGDTFGRRLTEHRGVPPDRQVSFEDFLNDTAPHADVVVPVHAGGDSELRDETDRICAERSTPSVGLQLLPTKILCGPVVVPGRTACYACYRKRAAQHAGTARPYDMDAALSGLPEGFGRQHLSVSSGLLNLALTEIATGVTGIGGTVRTFNLVSGAVSSAVTVSVNRCPRCGDRFSQARADSAMPVPELLR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
             "QVN25651.1": {
                   "complete_seq": "MEQQIELDVLEISDLIAGAGENDDLAQVMAASCTTTSVSTSSSSSSS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEQQIELDVLEISDLIAGAGENDDLAQVMAA",
+                  "core_seq": "SCTTTSVSTSSSSSSS",
+                  "follower_seq": ""
             },
-            "QVN25655.1": {
-                  "complete_seq": "MTHSAWGCVDSTLDFVRSTSWRVRLRRRSHRVWRGGVGAMYLSIVMWDLKKSEATVESLREYLRDYAVDAYSTLDGMRLKAWFSDSARQLWGAVYLWDSPEQMPGLYKVSRVIDLIGYPPTSVGGFTLEATAEGKSVHETLAGLGIALEGGTR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://doi.org/10.1073/pnas.1307111110"
       }
 }

@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 86914,
             "end": 98680,
-            "core_sequences": [],
+            "core_sequences": ["SVMAAIATVAYHC"],
             "protein_ids": [
-                  "KPC82025.1"
+                  "WP_107418454.1"
             ],
-            "KPC82025.1": {
-                  "complete_seq": "MDEVAFSDLVSKIKEAELAMTDEQRAVIDPAAGEKALEELAGVSPEDLQAFLEEKAGISPDEEAQGSVMAAIATVAYHC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_107418454.1": {
+                  "complete_seq": "MSETTTAAQVDEVAFSDLVSKIKEAELAMTDEQRAVIDPAAGEKALEELAGVSPEDLQAFLEEKAGISPDEEAQGSVMAAIATVAYHC",
+                  "leader_seq": "MSETTTAAQVDEVAFSDLVSKIKEAELAMTDEQRAVIDPAAGEKALEELAGVSPEDLQAFLEEKAGISPDEEAQG",
+                  "core_seq": "SVMAAIATVAYHC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1039/d0sc06835g"
       }
 }

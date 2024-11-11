@@ -1,19 +1,27 @@
 {
       "mibig_acc": {
             "accession": "LC389591.1",
-            "ncomp": 1,
+            "ncomp": 2,
             "start": 1,
             "end": 1143,
-            "core_sequences": [],
+            "core_sequences": ["KNWSVAKCGGTIGTNIAIGAWRGARAGSFFGQPVSVGAGALIGASAGAIGGSVQCVGWLAGGGR",
+                  "NNVNWGSVAGSCGKGAVMGIYFGNPILGCANGAATSLVLQTTSGIYKNYQKKR"],
             "protein_ids": [
+                  "BBE52938.1",
                   "BBE52939.1"
             ],
+            "BBE52938.1": {
+                  "complete_seq": "MKVLNECQLQTVVGGKNWSVAKCGGTIGTNIAIGAWRGARAGSFFGQPVSVGAGALIGASAGAIGGSVQCVGWLAGGGR",
+                  "leader_seq": "MKVLNECQLQTVVGG",
+                  "core_seq": "KNWSVAKCGGTIGTNIAIGAWRGARAGSFFGQPVSVGAGALIGASAGAIGGSVQCVGWLAGGGR",
+                  "follower_seq": ""
+            },
             "BBE52939.1": {
                   "complete_seq": "MIEKVSKNELSRIYGGNNVNWGSVAGSCGKGAVMGIYFGNPILGCANGAATSLVLQTTSGIYKNYQKKR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MIEKVSKNELSRIYGG",
+                  "core_seq": "NNVNWGSVAGSCGKGAVMGIYFGNPILGCANGAATSLVLQTTSGIYKNYQKKR",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/AEM.02815-18"
       }
 }

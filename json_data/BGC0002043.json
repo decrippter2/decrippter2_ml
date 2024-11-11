@@ -4,23 +4,16 @@
             "ncomp": 2,
             "start": 11281,
             "end": 13433,
-            "core_sequences": [],
+            "core_sequences": ["YIYY"],
             "protein_ids": [
-                  "QLH55578.1",
-                  "QLH55580.1"
+                  "QLH55578.1"
             ],
             "QLH55578.1": {
                   "complete_seq": "MKKALYSLAVLMRFARADKLSAPYIYY",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKKALYSLAVLMRFARADKLSAP",
+                  "core_seq": "YIYY",
+                  "follower_seq": ""
             },
-            "QLH55580.1": {
-                  "complete_seq": "MRREHEGAAVRREFFRSAYLLGAPWDIGRPQQAFVQLWEAGAISGEVLDVGCGFAENALFLAAKGLPVCGVDMMEPAILRARETASLRGLDVDLRVGNALELATLGRRFDTILDSALLHVFEPGDRPAFAASLASVLRPGGHYHALYFRDGPRAVPPEALNATFGEGWRVKSIQEAHYEQTDPEGAQAWLATIERVPPSSSTED",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acschembio.0c00430"
       }
 }

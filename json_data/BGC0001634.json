@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 9373,
             "end": 14846,
-            "core_sequences": [],
+            "core_sequences": ["GYFYGSYKEYWVRRII"],
             "protein_ids": [
                   "WP_018511015.1"
             ],
             "WP_018511015.1": {
                   "complete_seq": "MKQQKKAYVKPSLFKQGDFSKKTAGYFYGSYKEYWVRRII",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKQQKKAYVKPSLFKQGDFSKKTA",
+                  "core_seq": "GYFYGSYKEYWVRRII",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/nchembio.2319"
       }
 }

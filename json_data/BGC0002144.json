@@ -8,15 +8,14 @@
                   "ATCARCDSSSRCGASGKSSGSASSIST"
             ],
             "protein_ids": [
-                  "RCCGEPOP_RS37510"
+                  "WP_164841440.1"
             ],
-            "RCCGEPOP_RS37510": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_164841440.1": {
+                  "complete_seq": "MTTQILNPPQFGTEIEFVDAGDSTVQTAATCARCDSSSRCGASGKSSGSASSIST",
+                  "leader_seq": "MTTQILNPPQFGTEIEFVDAGDSTVQTA",
+                  "core_seq": "ATCARCDSSSRCGASGKSSGSASSIST",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://www.ncbi.nlm.nih.gov/pubmed/31594941"
       }
 }

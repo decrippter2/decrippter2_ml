@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 396027,
             "end": 407939,
-            "core_sequences": [],
+            "core_sequences": ["CLGVGSCNDFAGCGYAIVCFW"],
             "protein_ids": [
-                  "SFF02595.1"
+                  "WP_103079660.1"
             ],
-            "SFF02595.1": {
-                  "complete_seq": "MGQLPHAGGTVRPVTSVTDHRPNKVGLTDPKREDIMSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_103079660.1": {
+                  "complete_seq": "MSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW",
+                  "leader_seq": "MSAIYEPPMLQEVGDFEELTK",
+                  "core_seq": "CLGVGSCNDFAGCGYAIVCFW",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1002/cbic.201800315"
       }
 }

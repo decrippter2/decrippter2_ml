@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 18549,
             "end": 34000,
-            "core_sequences": [],
+            "core_sequences": ["CLGIGSCNDFAGCGYAVVCFW"],
             "protein_ids": [
-                  "RMI87914.1"
+                  "WP_106963308.1"
             ],
-            "RMI87914.1": {
-                  "complete_seq": "MRISARADYAVRAALELASSGDDGPLKAEAIADAQDIPHKFLESILNDMRRGGLVVSQRGGNGGYRLAKPADAISIADVIRVVEGPLVSVRGVRPPELSYSGPAESLLPLWIALRSNVRQILEGVSLADVASSRLPAGVAALADAPTAWVNP",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_106963308.1": {
+                  "complete_seq": "MTAIYEPPALQEIGDFDELTKCLGIGSCNDFAGCGYAVVCFW",
+                  "leader_seq": "MTAIYEPPALQEIGDFDELTK",
+                  "core_seq": "CLGIGSCNDFAGCGYAVVCFW",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://dx.doi.org/10.3390/md17020127"
       }
 }
