@@ -4,23 +4,16 @@
             "ncomp": 2,
             "start": 1,
             "end": 6932,
-            "core_sequences": [],
+            "core_sequences": ["ITSISLCTPGCTSAGGGSNCSFCC"],
             "protein_ids": [
-                  "QYZ85378.1",
-                  "QYZ85381.1"
+                  "QYZ85378.1"
             ],
             "QYZ85378.1": {
                   "complete_seq": "MPTIEMTAPAGAELDLFDLDLEVSVEQMSLTPAITSISLCTPGCTSAGGGSNCSFCC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MPTIEMTAPAGAELDLFDLDLEVSVEQMSLTPA",
+                  "core_seq": "ITSISLCTPGCTSAGGGSNCSFCC",
+                  "follower_seq": ""
             },
-            "QYZ85381.1": {
-                  "complete_seq": "MPTPPAQPTHPNPPPTHSSPPAQPAHANPPTHPSPLTPPRKLLLGVSGSVAALGLPGYLYAFRAAGVSEIIAVVTTSALQFLPVTGLAALCDRVCTDGDSSLGHVALARWAEHTLVLPATAHLLGCLANGLAPSLLATTLLAVDGPVTLAPAMNAAMWRRPAVRRNVATLRADGHQVIDPVPGAVYEVASRAVVAGIAVPPPAVVLERISA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.cclet.2021.06.010"
       }
 }

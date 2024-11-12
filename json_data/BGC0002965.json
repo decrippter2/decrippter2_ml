@@ -8,15 +8,14 @@
                   "HTDGQTNTVTDGGDGRYTNKDSDTDHRED"
             ],
             "protein_ids": [
-                  "FB471_2428"
+                  "WP_141997876.1"
             ],
-            "FB471_2428": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_141997876.1": {
+                  "complete_seq": "MPVHQHERPTETGAFPSSGHFPLGRRFGMVDTAPEPASPVRPFGLTLGTRPRQVTPLNPADIGYDEDAQMGLMRDDGGQLVPMSRHTDGQTNTVTDGGDGRYTNKDSDTDHRED",
+                  "leader_seq": "MPVHQHERPTETGAFPSSGHFPLGRRFGMVDTAPEPASPVRPFGLTLGTRPRQVTPLNPADIGYDEDAQMGLMRDDGGQLVPMSR",
+                  "core_seq": "HTDGQTNTVTDGGDGRYTNKDSDTDHRED",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.2c09004"
       }
 }

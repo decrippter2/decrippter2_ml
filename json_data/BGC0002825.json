@@ -8,15 +8,14 @@
                   "GWYGSQWDGPTGQRD"
             ],
             "protein_ids": [
-                  "NopA"
+                  "WP_171983241.1"
             ],
-            "NopA": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_171983241.1": {
+                  "complete_seq": "MQQESVYESPVLFKVGTFEYDTQGWYGSQWDGPTGQRD",
+                  "leader_seq": "MQQESVYESPVLFKVGTFEYDTQ",
+                  "core_seq": "GWYGSQWDGPTGQRD",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://dx.doi.org/10.1039/d3sc02380j"
       }
 }

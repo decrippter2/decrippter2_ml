@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 170670,
             "end": 171864,
-            "core_sequences": [],
+            "core_sequences": ["ELGTTTSTAGSKTHFDD"],
             "protein_ids": [
                   "WP_019056920.1"
             ],
             "WP_019056920.1": {
                   "complete_seq": "MQPFALNYARPAAQLELSAPYTYDSGLQLNVLADGRVAAHDLALLRELGTTTSTAGSKTHFDD",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MQPFALNYARPAAQLELSAPYTYDSGLQLNVLADGRVAAHDLALLR",
+                  "core_seq": "ELGTTTSTAGSKTHFDD",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1016/j.micres.2020.126669"
       }
 }

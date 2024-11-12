@@ -5,17 +5,17 @@
             "start": 826896,
             "end": 828748,
             "core_sequences": [
-                  "MLNKNHSVDQKMPINHPLLSRLIKEVENEQKTAMMFKYDRTHNRHNRGQ"
+                  "YDRTHNRHNRGQ"
             ],
             "protein_ids": [
                   "WP_003713099.1"
             ],
             "WP_003713099.1": {
                   "complete_seq": "MLNKNHSVDQKMPINHPLLSRLIKEVENEQKTAMMFKYDRTHNRHNRGQ",
-                  "leader_seq": "",
-                  "core_seq": "MLNKNHSVDQKMPINHPLLSRLIKEVENEQKTAMMFKYDRTHNRHNRGQ",
+                  "leader_seq": "MLNKNHSVDQKMPINHPLLSRLIKEVENEQKTAMMFK",
+                  "core_seq": "YDRTHNRHNRGQ",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.2c00521"
       }
 }

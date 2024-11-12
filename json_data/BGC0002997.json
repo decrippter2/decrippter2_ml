@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1301726,
             "end": 1304139,
-            "core_sequences": [],
+            "core_sequences": ["WTFRF"],
             "protein_ids": [
                   "CAQ83239.1"
             ],
             "CAQ83239.1": {
                   "complete_seq": "MNVSTKNHDAKLFPQGDNSKNRDNRETNNNRDKSEYENYPELSQWTFRF",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MNVSTKNHDAKLFPQGDNSKNRDNRETNNNRDKSEYENYPELSQ",
+                  "core_seq": "WTFRF",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.3c04355"
       }
 }

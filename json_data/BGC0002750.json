@@ -8,21 +8,14 @@
                   "AWYIWY"
             ],
             "protein_ids": [
-                  null,
-                  null
+                  "WP_218105334.1"
             ],
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_218105334.1": {
+                  "complete_seq": "MRLLFSLKNKMSQQKSLKAHAWYIWY",
+                  "leader_seq": "MRLLFSLKNKMSQQKSLKAH",
+                  "core_seq": "AWYIWY",
+                  "follower_seq": ""
             },
-            "Unidentified protein1": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://dx.doi.org/10.1002/anie.202208361"
       }
 }

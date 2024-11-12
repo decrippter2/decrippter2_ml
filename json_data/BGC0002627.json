@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 17114,
             "end": 23279,
-            "core_sequences": [],
+            "core_sequences": ["RRRGGSSRVITNTPGVPGCN"],
             "protein_ids": [
-                  "CBN59341.1"
+                  "CBN59342.1"
             ],
-            "CBN59341.1": {
-                  "complete_seq": "MWDGHPARLCIQFRQLAHPNLLPSVFLRQDLRNCLETGLFPKIIGNKRSIKLETGFLLTCRVRQTVVSSERIKVMLLTHPTNCTKELYAGEEYYKCPHSFPFY",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "CBN59342.1": {
+                  "complete_seq": "MTSSTSQPEPMTREELQAKLIAKAWQDESFKQELLSNPTAVIAKEMGVDNIPGITIQIVEETPTTYYLVLPSKPTDDTEELSDAELEAIAGGRRRGGSSRVITNTPGVPGCN",
+                  "leader_seq": "MTSSTSQPEPMTREELQAKLIAKAWQDESFKQELLSNPTAVIAKEMGVDNIPGITIQIVEETPTTYYLVLPSKPTDDTEELSDAELEAIAGG",
+                  "core_seq": "RRRGGSSRVITNTPGVPGCN",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1073/pnas.2113120119"
       }
 }

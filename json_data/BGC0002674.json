@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1,
             "end": 4772,
-            "core_sequences": [],
+            "core_sequences": ["NLVCPPMPDYIKRLSTGKGVSSVYMAWQIANCKSSGSCMKGQTNRTC"],
             "protein_ids": [
                   "BAR87969.1"
             ],
             "BAR87969.1": {
                   "complete_seq": "MGNSILNKMTVEEMEAVKGGNLVCPPMPDYIKRLSTGKGVSSVYMAWQIANCKSSGSCMKGQTNRTC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MGNSILNKMTVEEMEAVKGG",
+                  "core_seq": "NLVCPPMPDYIKRLSTGKGVSSVYMAWQIANCKSSGSCMKGQTNRTC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.3390/microorganisms9112276"
       }
 }

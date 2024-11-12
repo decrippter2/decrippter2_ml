@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 910426,
             "end": 914716,
-            "core_sequences": [],
+            "core_sequences": ["KGDTTHATGPNGDDPGDPDFL"],
             "protein_ids": [
                   "ALN78924.1"
             ],
             "ALN78924.1": {
                   "complete_seq": "MSKQDVYSNNALPQDEAARPLARIAARELSLDEIAAISGGKGDTTHATGPNGDDPGDPDFL",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSKQDVYSNNALPQDEAARPLARIAARELSLDEIAAISGG",
+                  "core_seq": "KGDTTHATGPNGDDPGDPDFL",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acschembio.1c00672"
       }
 }

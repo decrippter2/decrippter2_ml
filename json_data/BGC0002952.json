@@ -4,30 +4,16 @@
             "ncomp": 3,
             "start": 2280171,
             "end": 2282026,
-            "core_sequences": [],
+            "core_sequences": ["RVFIVLPP"],
             "protein_ids": [
-                  "BCU11647.1",
-                  "BCU11648.1",
-                  "BCU11649.1"
+                  "BCU11647.1"
             ],
             "BCU11647.1": {
                   "complete_seq": "MKNKTLLPQLTTPVERQHQAAASSESGANSLSASRVFIVLPPFAEDGAE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKNKTLLPQLTTPVERQHQAAASSESGANSLSAS",
+                  "core_seq": "RVFIVLPP",
+                  "follower_seq": "FAEDGAE"
             },
-            "BCU11648.1": {
-                  "complete_seq": "MLCNGGGLEGMKPLYRKTLLRLFPIVFDLERANQLSLLPDKDLVDLCPLIELYQVTKSPILFFYTVLKTLI",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "BCU11649.1": {
-                  "complete_seq": "MVLKSNKKLYYISAHKHAFEIDNLYPLNLFEGFVERIEKIEKTENCVLESSCKIDHDKLYPVRFNIGFPNNSIKQLHAVMDFFRRVESRVDVKLNLSLFQQFIGNDFKLDKMTDLMLGIDLRRDLSDSRLKIGLTIEDYPEKQKAAVILNNNIDEVTSNLLISNRLHIGFDFYLNGRSEMELYPHIMQQDFQKLDVQQRLSKVLSPPALQVVPACTRICVGISKANRDKIIYYYLENMGDFLNYFTVNDTARKVHAYYLKQPVVEMCVALPESELLAGTTIKNLNLYYLL",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.1c05732"
       }
 }

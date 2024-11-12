@@ -8,21 +8,14 @@
                   "VY"
             ],
             "protein_ids": [
-                  "ABK73646.1",
-                  "ABK75244.1"
+                  "ABK73646.1"
             ],
-            "ABK73646.1": {
-                  "complete_seq": "MSTQVAEQITFDPDVSWRLHHQVAVRPEPFGALLYHFGTRKLSFLKNRTVVEVVNSLADHPDARSALCAAGVADDQQAPYLHALGVLVQSNMLVPGNPEGSQ",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
             "ABK75244.1": {
                   "complete_seq": "MPYICDLDHNCRDHTRRKGVHMEPNQHVEAETELVTETLVEEVSIDGMCGVY",
                   "leader_seq": "MPYICDLDHNCRDHTRRKGVHMEPNQHVEAETELVTETLVEEVSIDGMCG",
                   "core_seq": "VY",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "http://dx.doi.org/10.1039/D0SC01172J"
       }
 }

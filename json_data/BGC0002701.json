@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 563667,
             "end": 573643,
-            "core_sequences": [],
+            "core_sequences": ["AGITTIITICSVLSVYKCC"],
             "protein_ids": [
-                  "WP_187144229.1"
+                  "WP_187144231.1"
             ],
-            "WP_187144229.1": {
-                  "complete_seq": "MNAVLELQKLAQATDGKGQAAEATITIITVGKSTLSVYKCN",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_187144231.1": {
+                  "complete_seq": "MNAVLELQKLAHDTDGKGQAADAGITTIITICSVLSVYKCC",
+                  "leader_seq": "MNAVLELQKLAHDTDGKGQAAD",
+                  "core_seq": "AGITTIITICSVLSVYKCC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1038/s41467-022-29325-1"
       }
 }

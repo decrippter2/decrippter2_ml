@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1430750,
             "end": 1435010,
-            "core_sequences": [],
+            "core_sequences": ["WGK"],
             "protein_ids": [
                   "AAN59156.1"
             ],
             "AAN59156.1": {
-                  "complete_seq": "MAYSLTFQNPNDNLTDEEVAKYMEKITKALTEKIGAEVR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "complete_seq": "MLTKKEFSVPKTTKVNCWGKH",
+                  "leader_seq": "MLTKKEFSVPKTTKVNC",
+                  "core_seq": "WGK",
+                  "follower_seq": "H"
             },
-            "ref": ""
+            "ref":"https://doi.org/10.1128/mBio.02688-20"
       }
 }

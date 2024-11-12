@@ -8,15 +8,14 @@
                   "GLDATTDTVMKWVDDGGTISKSRDDT"
             ],
             "protein_ids": [
-                  "DF048_RS17500"
+                  "WP_124608906.1"
             ],
-            "DF048_RS17500": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_124608906.1": {
+                  "complete_seq": "MGPLTVLLGSPLDTEKKSGIIRIVTPKGDVISIQAKDVISSSNADAGGDLKRYAIPGDAIVTIEVTGSVLRGLDATTDTVMKWVDDGGTISKSRDDT",
+                  "leader_seq": "MGPLTVLLGSPLDTEKKSGIIRIVTPKGDVISIQAKDVISSSNADAGGDLKRYAIPGDAIVTIEVTGSVLR",
+                  "core_seq": "GLDATTDTVMKWVDDGGTISKSRDDT",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "TBA"
       }
 }

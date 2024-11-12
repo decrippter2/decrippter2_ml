@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 11128,
             "end": 17958,
-            "core_sequences": [],
+            "core_sequences": ["KYSLQGFGVMIP"],
             "protein_ids": [
                   "RFP52073.1"
             ],
             "RFP52073.1": {
                   "complete_seq": "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPHKYSLQGFGVMIPFAGDDAE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPH",
+                  "core_seq": "KYSLQGFGVMIP",
+                  "follower_seq": "FAGDDAE"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.26434/chemrxiv-2021-v70zf"
       }
 }

@@ -4,16 +4,22 @@
             "ncomp": 1,
             "start": 16966,
             "end": 22797,
-            "core_sequences": [],
+            "core_sequences": ["ATITTTWTVTTTSAFTSTVSNHC","ATITTTWTVTTTSGFISSVSNNC"],
             "protein_ids": [
-                  "KXZ21038.1"
+                  "WP_197464678.1","WP_197464677.1"
             ],
-            "KXZ21038.1": {
-                  "complete_seq": "MKGLLLTNYYLVYRSFFAYTGLAILVSGIMFYFGDASMHRFVAMLIILFVAMPALEVIKYEGKSGYDKYVLTLPVSRRNIVQSHYFFYFLIVIIGALLSYGIFYVYGLVSDTPTDGIFNIVSFGTFIVLFAGAIVYPLLYIFGPEKSDAIVIGGAMGGLFATFGLQSLVGYLIEQLPPSNLNIDPSLYVPIIYIMFGAGIYIISFFIAAFIYHKKEF",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_197464678.1": {
+                  "complete_seq": "MNAVLELQKLAHDTDGKGIAVDATITTTWTVTTTSAFTSTVSNHC",
+                  "leader_seq": "MNAVLELQKLAHDTDGKGIAVD",
+                  "core_seq": "ATITTTWTVTTTSAFTSTVSNHC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "WP_197464677.1": {
+                  "complete_seq": "MNAVLELQKLAHDTDGKGIAVDATITTTWTVTTTSGFISSVSNNC",
+                  "leader_seq": "MNAVLELQKLAHDTDGKGIAVD",
+                  "core_seq": "ATITTTWTVTTTSGFISSVSNNC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1038/s41467-022-29325-1"
       }
 }

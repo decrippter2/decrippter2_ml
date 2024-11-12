@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 626503,
             "end": 639333,
-            "core_sequences": [],
+            "core_sequences": ["GRSCTVTIM"],
             "protein_ids": [
                   "WP_036784545.1"
             ],
             "WP_036784545.1": {
                   "complete_seq": "MSNWTEEDQHTAISALMERCASDANFYQSALADPAAAIKTVSGKALPEGFNLRLVANEGADLTLVLPDPVSEDLSDADLEAVAGGGRSCTVTIM",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSNWTEEDQHTAISALMERCASDANFYQSALADPAAAIKTVSGKALPEGFNLRLVANEGADLTLVLPDPVSEDLSDADLEAVAGG",
+                  "core_seq": "GRSCTVTIM",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1073/pnas.2113120119"
       }
 }

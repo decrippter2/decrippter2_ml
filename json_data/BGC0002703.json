@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1550022,
             "end": 1563049,
-            "core_sequences": [],
+            "core_sequences": ["GCGFTCSPFSSW"],
             "protein_ids": [
-                  "WP_162224178.1"
+                  "WP_162224177.1"
             ],
-            "WP_162224178.1": {
-                  "complete_seq": "MTSSRADRAGRPATGDSSGRLRTADCTDRPRTADRTDRLPTADAPHR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_162224177.1": {
+                  "complete_seq": "MSVAIEADAGSKEQYDSEFTVETTEDVPEQEAGHRDGCGFTCSPFSSW",
+                  "leader_seq": "MSVAIEADAGSKEQYDSEFTVETTEDVPEQEAGHRD",
+                  "core_seq": "GCGFTCSPFSSW",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://dx.doi.org/10.21203/rs.3.rs-1476892/v1"
       }
 }

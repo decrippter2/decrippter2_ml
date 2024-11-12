@@ -8,14 +8,13 @@
                   "KYSLQGFGVMIP"
             ],
             "protein_ids": [
-                  "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPHKYSLQGFGVMIPFAGDDAE"
+                  "RFP52073.1"
             ],
-            "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPHKYSLQGFGVMIPFAGDDAE": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "RFP52073.1": {
+                  "complete_seq": "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPHKYSLQGFGVMIPFAGDDAE",
+                  "leader_seq": "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPH",
+                  "core_seq": "KYSLQGFGVMIP",
+                  "follower_seq": "FAGDDAE"
             },
             "ref": ""
       }

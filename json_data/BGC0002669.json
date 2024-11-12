@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 260197,
             "end": 303140,
-            "core_sequences": [],
+            "core_sequences": ["SVMAAAATVAFHC"],
             "protein_ids": [
-                  "WP_199922668.1"
+                  "WP_107048385.1"
             ],
-            "WP_199922668.1": {
-                  "complete_seq": "MDTKKVISGALLIFVLYTIITQPTKSADIVLIGFQGISDAAHGIGEFMTELVR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_107048385.1": {
+                  "complete_seq": "MSEAMASAVDEAAFADLVSKIQAAEASMTDEQRAVIDPAAGEKALEELAGVSPEELQAFLEEKAGISPDEEAQGSVMAAAATVAFHC",
+                  "leader_seq": "MSEAMASAVDEAAFADLVSKIQAAEASMTDEQRAVIDPAAGEKALEELAGVSPEELQAFLEEKAGISPDEEAQG",
+                  "core_seq": "SVMAAAATVAFHC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/jacs.1c11669"
       }
 }

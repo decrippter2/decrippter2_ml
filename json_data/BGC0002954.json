@@ -5,17 +5,17 @@
             "start": 6106308,
             "end": 6110041,
             "core_sequences": [
-                  "MTILQELAASDAPQLLQLIADGATDAPAPIMAGFDNRPTWDNKGGSFDNRPSWDNWSKK"
+                  "FDNRPTWDNKGGSFDNRPSWDNWSKK"
             ],
             "protein_ids": [
                   "WP_034267136.1"
             ],
             "WP_034267136.1": {
                   "complete_seq": "MTILQELAASDAPQLLQLIADGATDAPAPIMAGFDNRPTWDNKGGSFDNRPSWDNWSKK",
-                  "leader_seq": "",
-                  "core_seq": "MTILQELAASDAPQLLQLIADGATDAPAPIMAGFDNRPTWDNKGGSFDNRPSWDNWSKK",
+                  "leader_seq": "MTILQELAASDAPQLLQLIADGATDAPAPIMAG",
+                  "core_seq": "FDNRPTWDNKGGSFDNRPSWDNWSKK",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1021/acschembio.2c00621"
       }
 }

@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1462774,
             "end": 1469467,
-            "core_sequences": [],
+            "core_sequences": ["CSCYTRICCDIDS"],
             "protein_ids": [
-                  null
+                 "WP_162224169.1"
             ],
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_162224169.1": {
+                  "complete_seq": "MSVTQHTSDVKAEIETEYARDGSDALDDSSEPMRACSCYTRICCDIDS",
+                  "leader_seq": "MSVTQHTSDVKAEIETEYARDGSDALDDSSEPMRA",
+                  "core_seq": "CSCYTRICCDIDS",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://dx.doi.org/10.21203/rs.3.rs-1476892/v1"
       }
 }

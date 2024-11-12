@@ -7,7 +7,13 @@
             "core_sequences": [
                   "WYGWASNDGEGTAII"
             ],
-            "protein_ids": [],
-            "ref": ""
+            "protein_ids": ["WP_106974329.1_2"],
+            "WP_106974329.1_2": {
+                  "complete_seq": "MIENEIVEYEAPEMLPVGEFSELTMWYGWASNDGEGTAII",
+                  "leader_seq": "MIENEIVEYEAPEMLPVGEFSELTM",
+                  "core_seq": "WYGWASNDGEGTAII",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1021/acs.biochem.4c00035"
       }
 }

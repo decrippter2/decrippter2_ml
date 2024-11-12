@@ -5,18 +5,17 @@
             "start": 60174,
             "end": 85555,
             "core_sequences": [
-                  "MSATEIVVEDVLAELLDGDDVAALTELETDPSLMPTAVGSIIYTFMIHC"
+                  "VGSIIYTFMIHC"
             ],
             "protein_ids": [
-                  "LpvA"
+                  "WP_159043817.1"
             ],
-            "LpvA": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_159043817.1": {
+                  "complete_seq": "MSATEIVVEDVLAELLDGDDVAALTELETDPSLMPTAVGSIIYTFMIHC",
+                  "leader_seq": "MSATEIVVEDVLAELLDGDDVAALTELETDPSLMPTA",
+                  "core_seq": "VGSIIYTFMIHC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1101/2023.10.25.564083"
       }
 }

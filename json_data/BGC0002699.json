@@ -6,21 +6,15 @@
             "end": 107223,
             "core_sequences": [],
             "protein_ids": [
-                  "ACC84960.1",
-                  "ACC84959.1"
-            ],
-            "ACC84960.1": {
-                  "complete_seq": "MYTLNILKDSTAVMYEKMTFPAFQYVLQEINSKESLIAIAASYQEEPVGLVLAEIRTYNQSAEVLSLFVEPSHRCAGIGTNLLNRLETELTYRRCKKVELVYMTGKSTTPALENLLHKCGWTSPQPRMLVCKGEMEKGIQAPWLKQYSQLPAAYTIFPWREITTQERQAIERQQATQPWIPEDLIPFKYDKQIEPLNSLGLRYQGQVVGWLISHRIFPDTIRYTCAFCRPDIQKKGRMITLFYEAAKLQLNAKIPHFIWTTPMNHQSMVAFVKYRCLPYLTSIQETRIISKLLLG",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "WP_067772729.1"
+            ]
             },
-            "ACC84959.1": {
-                  "complete_seq": "MSQENLEQFYVLVQNSEQLQELLGATENTDSFNELAVRLGQDNGYNFTIQEVDAFVTENLQNVNAELRDEELELVAGGKGKSCPLDTQFTACFLRSGCWGSKC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_067772729.1": {
+                  "complete_seq": "MNNSNLQNFYTLIQNSQELQAQLGAADSPESFAETAVRLGEENGYSFTTEDVNTFISQQRSRANAELSEADLEAVAGGKRRECPSDTRFTFCVFVSSCWGSAC",
+                  "leader_seq": "MNNSNLQNFYTLIQNSQELQAQLGAADSPESFAETAVRLGEENGYSFTTEDVNTFISQQRSRANAELSEADLEAVAGG",
+                  "core_seq": "KRRECPSDTRFTFCVFVSSCWGSAC",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1073/pnas.2113120119"
       }
 }

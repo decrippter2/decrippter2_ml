@@ -4,16 +4,16 @@
             "ncomp": 1,
             "start": 1,
             "end": 12751,
-            "core_sequences": [],
+            "core_sequences": ["ITSWSLCTAGCITGRIMGCNK"],
             "protein_ids": [
                   "MBX4267527.1"
             ],
             "MBX4267527.1": {
                   "complete_seq": "MAKFDDFDLDVKVSKTSEKDKEHITSWSLCTAGCITGRIMGCNK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MAKFDDFDLDVKVSKTSEKDKEH",
+                  "core_seq": "ITSWSLCTAGCITGRIMGCNK",
+                  "follower_seq": ""
             },
-            "ref": ""
+            "ref": "https://dx.doi.org/10.3389/fmicb.2021.801467"
       }
 }

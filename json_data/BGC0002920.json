@@ -4,30 +4,16 @@
             "ncomp": 3,
             "start": 1,
             "end": 24093,
-            "core_sequences": [],
+            "core_sequences": ["MQEQTAYESPALVEVGTFECDTQ"],
             "protein_ids": [
-                  null,
-                  null,
-                  null
+                  "WP_189061731.1"
             ],
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_189061731.1": {
+                  "complete_seq": "MQEQTAYESPALVEVGTFECDTQGWWGANWDGPSGMRD",
+                  "leader_seq": "MQEQTAYESPALVEVGTFECDTQ",
+                  "core_seq": "GWWGANWDGPSGMRD",
+                  "follower_seq": ""
             },
-            "Unidentified protein1": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "Unidentified protein2": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": ""
+            "ref": "https://doi.org/10.1039/D3SC02380J"
       }
 }

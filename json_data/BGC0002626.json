@@ -4,7 +4,7 @@
             "ncomp": 3,
             "start": 52927,
             "end": 58912,
-            "core_sequences": [],
+            "core_sequences": ["KYPSD","KYPSD","KWPSD"],
             "protein_ids": [
                   "MBU7585865.1",
                   "MBU7585863.1",
@@ -12,22 +12,22 @@
             ],
             "MBU7585865.1": {
                   "complete_seq": "MSTNTTKAANVEAVPFFARFLEEQVAEVSDTAPYESRKYPSDWEEY",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSTNTTKAANVEAVPFFARFLEEQVAEVSDTAPYESR",
+                  "core_seq": "KYPSD",
+                  "follower_seq": "WEEY"
             },
             "MBU7585863.1": {
                   "complete_seq": "MSTNTVKPANVEAVPFFARFLEEQVTEVSDTSPRNTLKYPSDWEEY",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSTNTVKPANVEAVPFFARFLEEQVTEVSDTSPRNTL",
+                  "core_seq": "KYPSD",
+                  "follower_seq": "WEEY"
             },
             "MBU7585864.1": {
                   "complete_seq": "MSTNTTKAANIEAAPFFARFLEEQVAEVSDTAPYETKKWPSDWEEY",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSTNTTKAANIEAAPFFARFLEEQVAEVSDTAPYETK",
+                  "core_seq": "KWPSD",
+                  "follower_seq": "WEEY"
             },
-            "ref": ""
+            "ref": "https://doi.org/10.1128/msphere.00562-21"
       }
 }
