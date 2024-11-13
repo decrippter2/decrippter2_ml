@@ -13,7 +13,7 @@
                   "leader_seq": "MEREIVWTEIEESDLAAVVSAS",
                   "core_seq": "NVKDGPT",
                   "follower_seq": "VSSSNVKDR"
-            },,
+            },
             "BAP82648.1_2": {
                   "complete_seq": "MEREIVWTEIEESDLAAVVSASNVKDGPTVSSSNVKDR",
                   "leader_seq": "MEREIVWTEIEESDLAAVVSASNVKDGPTVSSS",
