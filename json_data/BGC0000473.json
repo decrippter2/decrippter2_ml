@@ -11,24 +11,6 @@
                   "CAO82083.1",
                   "CAO82085.1"
             ],
-            "CAO82088.1": {
-                  "complete_seq": "MINNCPFAISLNPDVQIIDTKDGYTLHGAESEPNTWLTLAITSSKLLFSFPTLLLVLPAELKIVESVFEYLLKCSVPRLNHLLTNGLIKCQELYLNQQNSLTTVKGYHFHKCWPG",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "CAO82082.1": {
-                  "complete_seq": "MRLPILSPPVKRPHFIQPALCVDLENGRPEDLVHIRMDLLHAANYNDPAAFANRSFNQVMHSSASQSSASQGWGGFGSMAGFY",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "CAO82083.1": {
-                  "complete_seq": "MSKNKTTTTSSEVPSNPEPTPPEPSKSEPTTITTPEPKKSYVPTSQTGLQDYSYWCQYVKDQAKKSDKDPKSFRRGRIWA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
             "CAO82085.1": {
                   "complete_seq": "MRITPMDKKNILPQQGKPVFRTTTGKLPSYLAELSEEALGGNGLEASHCATICAFDGAEASHCATICAFDGDEA",
                   "leader_seq": "TBA",

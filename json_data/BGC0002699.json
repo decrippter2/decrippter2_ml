@@ -4,7 +4,7 @@
             "ncomp": 2,
             "start": 94655,
             "end": 107223,
-            "core_sequences": [],
+            "core_sequences": ["KRRECPSDTRFTFCVFVSSCWGSAC"],
             "protein_ids": [
                   "WP_067772729.1"
             ]
