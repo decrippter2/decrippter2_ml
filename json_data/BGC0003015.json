@@ -5,18 +5,18 @@
             "start": 384982,
             "end": 389408,
             "core_sequences": [
-                  "MQTTRPIQSDSEIQILSIATPATKLTQGGGGPTPEYFLMPIDPAWLQANLPNTGKYN"
+                  "GGGGPTPEYFLMPIDPAWLQANLPNTGKYN"
             ],
             "protein_ids": [
                   "CUI65249.1"
             ],
             "CUI65249.1": {
                   "complete_seq": "MQTTRPIQSDSEIQILSIATPATKLTQGGGGPTPEYFLMPIDPAWLQANLPNTGKYN",
-                  "leader_seq": "",
-                  "core_seq": "MQTTRPIQSDSEIQILSIATPATKLTQGGGGPTPEYFLMPIDPAWLQANLPNTGKYN",
+                  "leader_seq": "MQTTRPIQSDSEIQILSIATPATKLTQ",
+                  "core_seq": "GGGGPTPEYFLMPIDPAWLQANLPNTGKYN",
                   "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/acs.jnatprod.3c00536",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "achromonodin-1"

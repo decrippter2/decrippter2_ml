@@ -4,17 +4,17 @@
             "ncomp": 1,
             "start": 210462,
             "end": 213723,
-            "core_sequences": [],
+            "core_sequences": ["DARGEEHAAALITACRWHTSGC"],
             "protein_ids": [
                   "SCD65293.1"
             ],
             "SCD65293.1": {
-                  "complete_seq": "MMEHDIDALQVLPEDVRTEDARGEEHAAALITACRWHTSGC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "complete_seq": "MAAGHRQPFRTPDRHPSRPKETEMMEHDIDALQVLPEDVRTEDARGEEHAAALITACRWHTSGC",
+                  "leader_seq": "MAAGHRQPFRTPDRHPSRPKETEMMEHDIDALQVLPEDVRTE",
+                  "core_seq": "DARGEEHAAALITACRWHTSGC",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41467-022-33890-w",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "LanIV (Streptomyces)"

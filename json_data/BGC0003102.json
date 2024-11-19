@@ -9,10 +9,10 @@
             "EKB09399.1": {
                   "complete_seq": "MADSTHFFERVYDVVREIPIGKVTTYGAIAKAIGAPRSARMVGYAMNASHFDDSVPAHRVVNRVGMLSGKHHFDGTNLMQQLLESEGIVVKNNQVQDFQAHLWIPPVEF",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "SRWWQGVLPTVSHECRMNSFQHIFTCC",
                   "follower_seq": "TBA"
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "LANII-687"

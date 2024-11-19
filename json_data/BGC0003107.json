@@ -11,10 +11,10 @@
             "EKU73223.1": {
                   "complete_seq": "MLLSQKGTPPDTITFRGQEITCLLEKRSAATQITAIDQDIDIR",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "GTSYGESLDATFPDGTPRGELTFS",
                   "follower_seq": "TBA"
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "LAS-995"

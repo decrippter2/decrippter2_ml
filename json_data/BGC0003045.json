@@ -11,12 +11,12 @@
                   "WP_167316983.1"
             ],
             "WP_167316983.1": {
-                  "complete_seq": "MDTNENIRSNAQDDVIELSVASVETKGVLPIGNEFMGHAATPGITE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "complete_seq": "MTQSQETEMDTNENIRSNAQDDVIELSVASVETKGVLPIGNEFMGHAATPGITE",
+                  "leader_seq": "MTQSQETEMDTNENIRSNAQDDVIELSVASVETK",
+                  "core_seq": "GVLPIGNEFMGHAATPGITE",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1002/bip.22326",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "Rhodanodin"

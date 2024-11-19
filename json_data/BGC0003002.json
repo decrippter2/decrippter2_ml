@@ -4,17 +4,17 @@
             "ncomp": 1,
             "start": 1,
             "end": 11487,
-            "core_sequences": [],
+            "core_sequences": ["VSTLSVSSPCPGWPSSFTWSNC"],
             "protein_ids": [
                   "AHB63594.1"
             ],
             "AHB63594.1": {
                   "complete_seq": "MQEILELQELPSASATEDMPLVSTLSVSSPCPGWPSSFTWSNC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MQEILELQELPSASATEDMPL",
+                  "core_seq": "VSTLSVSSPCPGWPSSFTWSNC",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1039/D0OB01215G",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "NAI-112"

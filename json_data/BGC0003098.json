@@ -9,10 +9,22 @@
             "ADP40535.1": {
                   "complete_seq": "MNLYVFGLVLCSIDWEGSDTDVSVDALLGATLLDMGEGEI",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
                   "follower_seq": "TBA"
             },
-            "ref": "",
+            "ADP40535.1__": {
+                  "complete_seq": "MNLYVFGLVLCSIDWEGSDTDVSVDALLGATLLDMGEGEI",
+                  "leader_seq": "TBA",
+                  "core_seq": "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
+                  "follower_seq": "TBA"
+            },
+            "ADP40535.1_": {
+                  "complete_seq": "MNLYVFGLVLCSIDWEGSDTDVSVDALLGATLLDMGEGEI",
+                  "leader_seq": "TBA",
+                  "core_seq": "GLIYGKYRDVLSGARLVTPPEVAL",
+                  "follower_seq": "TBA"
+            },
+            "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "LAS-1009",

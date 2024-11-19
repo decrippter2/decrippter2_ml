@@ -4,9 +4,15 @@
             "ncomp": 0,
             "start": 30345,
             "end": 34560,
-            "core_sequences": [],
-            "protein_ids": [],
-            "ref": "",
+            "core_sequences": ["GHSVDRIPEYFGPPGLPGPVLFYS"],
+            "protein_ids": ["WP_164724106.1"],
+            "WP_164724106.1": {
+                  "complete_seq": "MKNKHALTQRNEKALNAVSITRIPVKASKITRGHSVDRIPEYFGPPGLPGPVLFYS",
+                  "leader_seq": "MKNKHALTQRNEKALNAVSITRIPVKASKITR",
+                  "core_seq": "GHSVDRIPEYFGPPGLPGPVLFYS",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1021/acschembio.6b01154",
             "ripp_class": "Lasso peptide",
             "compound_name": []
       }

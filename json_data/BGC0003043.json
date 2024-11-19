@@ -4,17 +4,17 @@
             "ncomp": 1,
             "start": 33274,
             "end": 36598,
-            "core_sequences": [],
+            "core_sequences": ["ATTMECNTFGTCTNIGCSTIGC"],
             "protein_ids": [
                   "PBJ19532.1"
             ],
             "PBJ19532.1": {
                   "complete_seq": "MSEKILNMSGDFDFEFNAYQAPANTGEILATTMECNTFGTCTNIGCSTIGC",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MSEKILNMSGDFDFEFNAYQAPANTGEIL",
+                  "core_seq": "ATTMECNTFGTCTNIGCSTIGC",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41467-022-33890-w",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "LanII-23"

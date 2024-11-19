@@ -4,15 +4,15 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["TSQIWGSPVP"],
             "protein_ids": [
                   "ADA00388.1"
             ],
             "ADA00388.1": {
                   "complete_seq": "MTKKNIRPQQVAPVERETISTAKDQSGQVQAQTSQIWGSPVPFAGDDAE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MTKKNIRPQQVAPVERETISTAKDQSGQVQAQ",
+                  "core_seq": "TSQIWGSPVP",
+                  "follower_seq": "FAGDDAE"
             },
             "ref": "https://doi.org/10.1016/j.chembiol.2013.06.015",
             "ripp_class": "Cyanobactin",

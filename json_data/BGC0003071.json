@@ -10,8 +10,26 @@
             "protein_ids": [
                   null
             ],
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
+            "WP_027385891.1": {
+                  "complete_seq": "MENRKSKKPFFASFLEKQIEDPEKIKGGAVTSALVDNVTSVNKDNVTSSLLDHVTKPGGDNVTMKYPSDGDEDGNAV",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "WP_027385892.1": {
+                  "complete_seq": "MKNKDSKKKPFFASFLEKQIQDPEKIKGGSGDITTGVLKDSVTSALVDNITKPGQDVVSMKYPSDSDEDGDPV",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "WP_027385893.1": {
+                  "complete_seq": "MKNKDSKKKPFFASFLEKQIQDPEKIKGGSGDITTGVLKDSVTSALVDNITKPGQDVVSMKYPSDSDEDGDPV",
+                  "leader_seq": "TBA",
+                  "core_seq": "TBA",
+                  "follower_seq": "TBA"
+            },
+            "WP_027385894.1": {
+                  "complete_seq": "MKSKDSKKKPFFASFLEKQIQDPEKVKGGTEVTLSTQDNITKPLYDTVTKPTLDMMQTMKYPSDGDDDAPVV",
                   "leader_seq": "TBA",
                   "core_seq": "TBA",
                   "follower_seq": "TBA"

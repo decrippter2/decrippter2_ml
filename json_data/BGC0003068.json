@@ -5,18 +5,18 @@
             "start": 713514,
             "end": 716203,
             "core_sequences": [
-                  "MMNTFKLRLVSFGSAKALTRDGMGEEFIEGLVRDSLYPPAG"
+                  "DGMGEEFIEGLVRDSLYPPAG"
             ],
             "protein_ids": [
                   "EGF94505.1"
             ],
             "EGF94505.1": {
                   "complete_seq": "MMNTFKLRLVSFGSAKALTRDGMGEEFIEGLVRDSLYPPAG",
-                  "leader_seq": "",
-                  "core_seq": "MMNTFKLRLVSFGSAKALTRDGMGEEFIEGLVRDSLYPPAG",
+                  "leader_seq": "MMNTFKLRLVSFGSAKALTR",
+                  "core_seq": "DGMGEEFIEGLVRDSLYPPAG",
                   "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1007/s10295-018-2077-6",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "brevunsin"

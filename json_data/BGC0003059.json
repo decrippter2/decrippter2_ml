@@ -5,18 +5,18 @@
             "start": 114370,
             "end": 117816,
             "core_sequences": [
-                  "METYQVPELIEIGSFEEMTLGSKYSDTADESSYRW"
+                  "GSKYSDTADESSYRW"
             ],
             "protein_ids": [
                   "SEN48697.1"
             ],
             "SEN48697.1": {
                   "complete_seq": "MEYQVPELIEIGSFEEMTLGSKYSDTADESSYRW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEYQVPELIEIGSFEEMTL",
+                  "core_seq": "GSKYSDTADESSYRW",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/jacs.1c05017",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "Lihuanodin"

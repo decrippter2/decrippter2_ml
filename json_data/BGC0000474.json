@@ -4,15 +4,27 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["ATVSIC","FTGCMC","ITGCIC"],
             "protein_ids": [
                   "CAP64339.1"
             ],
             "CAP64339.1": {
                   "complete_seq": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEASITGCICAFDGAEASITGCICAFDGDEA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEAS",
+                  "core_seq": "ATVSIC",
+                  "follower_seq": "AFDGAEASFTGCMCAFDGAEASITGCICAFDGAEASITGCICAFDGDEA"
+            },
+            "CAP64339.1_2": {
+                  "complete_seq": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEASITGCICAFDGAEASITGCICAFDGDEA",
+                  "leader_seq": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEAS",
+                  "core_seq": "FTGCMC",
+                  "follower_seq": "AFDGAEASITGCICAFDGAEASITGCICAFDGDEA"
+            },
+            "CAP64339.1_3": {
+                  "complete_seq": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEASITGCICAFDGAEASITGCICAFDGDEA",
+                  "leader_seq": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEAS",
+                  "core_seq": "ITGCIC",
+                  "follower_seq": "AFDGAEASITGCICAFDGDEA"
             },
             "ref": "https://doi.org/10.1128/AEM.02392-07",
             "ripp_class": "Cyanobactin",

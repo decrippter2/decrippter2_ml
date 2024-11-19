@@ -13,22 +13,22 @@
             "Unidentified protein0": {
                   "complete_seq": "TBA",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "GWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG",
                   "follower_seq": "TBA"
             },
             "Unidentified protein1": {
                   "complete_seq": "TBA",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "GGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC",
                   "follower_seq": "TBA"
             },
-            "Unidentified protein2": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_009014449.1": {
+                  "complete_seq": "MFIIDNIEQKLYIKRGKEMRKENHGIDTLDYEISHQELSGKSAAGWQTAFRLTMQGRCGGVFTLSYECATPHVSCG",
+                  "leader_seq": "MFIIDNIEQKLYIKRGKEMRKENHGIDTLDYEISHQELSGKSAAG",
+                  "core_seq": "WQTAFRLTMQGRCGGVFTLSYECATPHVSCG",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "LANII-287",

@@ -8,15 +8,15 @@
                   "QAWRIW"
             ],
             "protein_ids": [
-                  "AKH82808.1"
+                  "undefined"
             ],
-            "AKH82808.1": {
-                  "complete_seq": "MVAERGFRRDPIGFVERAARAHGAPFRLPGGALCVADPETAVQVLRDNGRRYEEVTEFLRPRGGRLADPVTQVAVGRAARRVLRARLAGRENLFAQVVAGLGEDSRWPHAGHVMVHDALADVLLHPDSSPRLRHLMARCVRRHDVLIRSSNPLARVPQHLLRARLNRAVAEEVRIRRRADSATGALPAAPKDLLEAVRTATPADTDALEIAGAYVQLFRTSVAPVAHVVAWALLLAAHAGVDLAAVRPDRAVREALRLWPVAWLLTRTVRLPHEVAGAAVAPGETVAVCVYLLHRNEDVWPEASRFRPDRWAHATARGAYLPFGAGPRACTGGSIALDVATALVAALSHGSRLVVHGGSARPRVQGIITPPDFRLDRRATTASSAQAVVSSDDGR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "undefined": {
+                  "complete_seq": "MRKFIRRLQDVTAKQAWRIW",
+                  "leader_seq": "MRKFIRRLQDVTAK",
+                  "core_seq": "QAWRIW",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1002/anie.202311533",
             "ripp_class": "Cyptide",
             "compound_name": [
                   "Strecintide 839"

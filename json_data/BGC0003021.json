@@ -5,18 +5,18 @@
             "start": 609480,
             "end": 613343,
             "core_sequences": [
-                  "MDEEIYQPPELVELGDAREVTLGAADDDTADMNTAKYY"
+                  "GAADDDTADMNTAKYY"
             ],
             "protein_ids": [
-                  "KUP95556.1"
+                  "UPT23380.1"
             ],
-            "KUP95556.1": {
-                  "complete_seq": "MTAVKPASNVCSVATDDGAVLLDLGTGKFFGLNPTAAVIWAELATGKDMAALVPELASRFEVGEERMKTDIRELVEVLRRHRLIDERRTAK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "UPT23380.1": {
+                  "complete_seq": "MDEEIYQPPELVELGDAREVTLGAADDDTADMNTAKYY",
+                  "leader_seq": "MDEEIYQPPELVELGDAREVTL",
+                  "core_seq": "GAADDDTADMNTAKYY",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/jacs.1c05017",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "Cellulonodin-2"

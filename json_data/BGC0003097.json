@@ -11,10 +11,10 @@
             "ADP40535.1": {
                   "complete_seq": "MNLYVFGLVLCSIDWEGSDTDVSVDALLGATLLDMGEGEI",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "TAFPGWYSKVIGNRGRVCTVTVECMSVCQ",
                   "follower_seq": "TBA"
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "LANII-293"

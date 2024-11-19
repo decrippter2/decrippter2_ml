@@ -5,19 +5,19 @@
             "start": 684501,
             "end": 691090,
             "core_sequences": [
-                  "MSDNSTARAWKDPEDAARAVAPAHPSGEVDLGLFVGGLSDEEGGSEALGTGGCCPTWATGTHC"
+                  "SEALGTGGCCPTWATGTHC"
             ],
             "protein_ids": [
                   "RGD56942.1"
             ],
             "RGD56942.1": {
                   "complete_seq": "MSDNSTARAWKDPEDAARAVAPAHPSGEVDLGLFVGGLSDEEGGSEALGTGGCCPTWATGTHC",
-                  "leader_seq": "",
-                  "core_seq": "MSDNSTARAWKDPEDAARAVAPAHPSGEVDLGLFVGGLSDEEGGSEALGTGGCCPTWATGTHC",
+                  "leader_seq": "MSDNSTARAWKDPEDAARAVAPAHPSGEVDLGLFVGGLSDEEGG",
+                  "core_seq": "SEALGTGGCCPTWATGTHC",
                   "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41467-022-33890-w",
             "ripp_class": "Lanthipeptide",
-            "compound_name": []
+            "compound_name": ["LanII-57A"]
       }
 }

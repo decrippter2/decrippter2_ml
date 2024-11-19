@@ -11,10 +11,10 @@
             "EFV97055.1": {
                   "complete_seq": "MNSLFKIFKVSKAKCLCLMILMRLLVAQVWCLNKAIQGH",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "VTSKSLCTPGCKTGILMTCAIKTATCGCHFG",
                   "follower_seq": "TBA"
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "LANII-715"

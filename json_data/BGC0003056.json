@@ -5,19 +5,19 @@
             "start": 7675,
             "end": 13481,
             "core_sequences": [
-                  "MFNLDIIRAWKDENYRDSLTEAQRSQLPENPAGLIELTDEDMSSVSGGCCCGSSACSSLVHHMGVEESSTLA"
+                  "CCCGSSACSSLVHHMGVEESSTLA"
             ],
             "protein_ids": [
                   "MBD2325180.1"
             ],
             "MBD2325180.1": {
                   "complete_seq": "MFNLDIIRAWKDENYRDSLTEAQRSQLPENPAGLIELTDEDMSSVSGGCCCGSSACSSLVHHMGVEESSTLA",
-                  "leader_seq": "",
-                  "core_seq": "MFNLDIIRAWKDENYRDSLTEAQRSQLPENPAGLIELTDEDMSSVSGGCCCGSSACSSLVHHMGVEESSTLA",
+                  "leader_seq": "MFNLDIIRAWKDENYRDSLTEAQRSQLPENPAGLIELTDEDMSSVSGG",
+                  "core_seq": "CCCGSSACSSLVHHMGVEESSTLA",
                   "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41467-022-33890-w",
             "ripp_class": "Lanthipeptide",
-            "compound_name": []
+            "compound_name": ["LanII-2E"]
       }
 }

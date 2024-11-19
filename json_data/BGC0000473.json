@@ -4,20 +4,17 @@
             "ncomp": 4,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["HCATIC"],
             "protein_ids": [
-                  "CAO82088.1",
-                  "CAO82082.1",
-                  "CAO82083.1",
                   "CAO82085.1"
             ],
             "CAO82085.1": {
                   "complete_seq": "MRITPMDKKNILPQQGKPVFRTTTGKLPSYLAELSEEALGGNGLEASHCATICAFDGAEASHCATICAFDGDEA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MRITPMDKKNILPQQGKPVFRTTTGKLPSYLAELSEEALGGNGLEAS",
+                  "core_seq": "HCATIC",
+                  "follower_seq": "AFDGAEASHCATICAFDGDEA"
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1128/AEM.02392-07",
             "ripp_class": "Cyanobactin",
             "compound_name": [
                   "aerucyclamide A",

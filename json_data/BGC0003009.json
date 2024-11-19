@@ -6,27 +6,25 @@
             "end": 0,
             "core_sequences": [
                   "KNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
-                  "GAHANNMSCITGSKSCPCKEAEREDYN"
+                  "GAHANNMSCITGSKSCPNCKEAEREDYN"
             ],
             "protein_ids": [
-                  "PedA15.1",
-                  "PedA15.2"
+                  "WP_041881206.1",
+                  "WP_041881204.1"
             ],
-            "PedA15.1": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "PWP_041881206.1": {
+                  "complete_seq": "MKKVKLTNKISLDKKIISKLNDDQLRELEGGKNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
+                  "leader_seq": "MKKVKLTNKISLDKKIISKLNDDQLRELEGG",
+                  "core_seq": "KNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
+                  "follower_seq": ""
             },
-            "PedA15.2": {},
-            "Unidentified protein1": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_041881204.1": {
+                  "complete_seq": "MKKVKLTNKITLDKEIISKLNEDQLKELYGGGAHANNMSCITGSKSCPNCKEAEREDYN",
+                  "leader_seq": "MKKVKLTNKITLDKEIISKLNEDQLKELYGG",
+                  "core_seq": "GAHANNMSCITGSKSCPNCKEAEREDYN",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/acschembio.1c00106",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "PedA15.1",

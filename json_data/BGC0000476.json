@@ -4,20 +4,26 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["LTACITFC","CTLCCTLC"],
             "protein_ids": [
                   "ABI99461.1"
             ],
             "ABI99461.1": {
                   "complete_seq": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASLTACITFCAYDGVEPSCTLCCTLCAYDGE",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEAS",
+                  "core_seq": "LTACITFC",
+                  "follower_seq": "AYDGVEPSCTLCCTLCAYDGE"
             },
-            "ref": "",
+            "ABI99461.1_2": {
+                  "complete_seq": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASLTACITFCAYDGVEPSCTLCCTLCAYDGE",
+                  "leader_seq": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASLTACITFCAYDGVEPS",
+                  "core_seq": "CTLCCTLC",
+                  "follower_seq": "AYDGE"
+            },
+            "ref": "https://doi.org/10.1038/nchembio829",
             "ripp_class": "Cyanobactin",
             "compound_name": [
-                  "patellamide B"
+                  "patellamide B","ulithiacyclamide"
             ]
       }
 }

@@ -4,17 +4,17 @@
             "ncomp": 1,
             "start": 12716,
             "end": 16939,
-            "core_sequences": [],
+            "core_sequences": ["PCSCDCSGGAGAGSGNAESEQRLEI"],
             "protein_ids": [
-                  "OMI34823.1"
+                  "WP_158080382.1"
             ],
-            "OMI34823.1": {
-                  "complete_seq": "MRYRIATDVVWMADDGEVRLYDAGSGEFQTLNSTAAELWLLVSEGRTVDAVVTETVRRYALEDTAQAAVVARDVRDFLDSLAGQGLLLAADAPAPAPAPGPSA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_158080382.1": {
+                  "complete_seq": "MEKPAWVKPEMLPVEFGVELPCSCDCSGGAGAGSGNAESEQRLEI",
+                  "leader_seq": "MEKPAWVKPEMLPVEFGVEL",
+                  "core_seq": "PCSCDCSGGAGAGSGNAESEQRLEI",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/acsbiomedchemau.2c00085",
             "ripp_class": "Sactipeptide",
             "compound_name": [
                   "StsA"

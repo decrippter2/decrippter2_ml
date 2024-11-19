@@ -4,17 +4,17 @@
             "ncomp": 1,
             "start": 253,
             "end": 4870,
-            "core_sequences": [],
+            "core_sequences": ["GYFVGSYKEYWTRRIV"],
             "protein_ids": [
                   "ARA91546.1"
             ],
             "ARA91546.1": {
                   "complete_seq": "MKLQKKAYVKPSLFKQGDFSKKTAGYFVGSYKEYWTRRIV",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKLQKKAYVKPSLFKQGDFSKKTA",
+                  "core_seq": "GYFVGSYKEYWTRRIV",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41598-018-26620-0",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "9810-LP"

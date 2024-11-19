@@ -4,28 +4,28 @@
             "ncomp": 2,
             "start": 2671570,
             "end": 2674140,
-            "core_sequences": [],
+            "core_sequences": ["GIEPLGPVDEDQGEHYLFAGGITADD","GEALIDQDVGGGRQQFLTGIAQD"],
             "protein_ids": [
                   "WP_137865550.1",
-                  "WP_153802700.1"
+                  "WP_153802699.1"
             ],
             "WP_137865550.1": {
                   "complete_seq": "MKDFNELIDLGAISVETRGIEPLGPVDEDQGEHYLFAGGITADD",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKDFNELIDLGAISVETR",
+                  "core_seq": "GIEPLGPVDEDQGEHYLFAGGITADD",
+                  "follower_seq": ""
             },
-            "WP_153802700.1": {
-                  "complete_seq": "MPLACGTPFALPRAIIEMSAMLRSGLHYCQFDSGFVLFDLSADRYFLLTDQSAEQFGRVLSGGGTSADEHHLRDLGLLADDETGKPAPAILPPLAARSLVDEPTAKASMATTIFCIWEQRRARRDLQNKSLSDIVTGLGRRSDRLAPSSADDCREIAAAFVRAKRYMSSDDQCLVRGIAMARMLGCRGVAASLVFGVTMPFAAHSWVQVGDTVLTDSLDMVLHYRPIFAV",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_153802708.1": {
+                  "complete_seq": "MERTEVIEEVIDLGKASVETKGEALIDQDVGGGRQQFLTGIAQD",
+                  "leader_seq": "MERTEVIEEVIDLGKASVETK",
+                  "core_seq": "GEALIDQDVGGGRQQFLTGIAQD",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1002/bip.22326",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "sphingopyxin I",
-                  "II"
+                  "sphingopyxin II"
             ]
       }
 }
