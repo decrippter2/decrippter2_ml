@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1,
             "end": 28457,
-            "core_sequences": ["CLGVGSCNDFAGCGYAIVCFW"],
+            "core_sequences": [
+                  "CLGVGSCNDFAGCGYAIVCFW"
+            ],
             "protein_ids": [
                   "BBD82040.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CLGVGSCNDFAGCGYAIVCFW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1039/D0SC06308H"
+            "ref": "https://doi.org/10.1039/D0SC06308H",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "Lasso peptide MS-271"
+            ]
       }
 }

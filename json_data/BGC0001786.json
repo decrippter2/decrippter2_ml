@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 16281,
             "end": 27234,
-            "core_sequences": ["GPPGDRIEFGVLAQLPGLDRD"],
+            "core_sequences": [
+                  "GPPGDRIEFGVLAQLPGLDRD"
+            ],
             "protein_ids": [
                   "KHS42581.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GPPGDRIEFGVLAQLPGLDRD",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.tetlet.2017.07.064"
+            "ref": "https://doi.org/10.1016/j.tetlet.2017.07.064",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "subterisin"
+            ]
       }
 }

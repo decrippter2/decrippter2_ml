@@ -16,6 +16,8 @@
                   "core_seq": "GPPGDRIEFGVLAQLPGLDRD",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lasso peptide",
+            "compound_name": []
       }
 }

@@ -16,6 +16,11 @@
                   "core_seq": "VY",
                   "follower_seq": ""
             },
-            "ref": "http://dx.doi.org/10.1039/D0SC01172J"
+            "ref": "http://dx.doi.org/10.1039/D0SC01172J",
+            "ripp_class": "Mycofactocin",
+            "compound_name": [
+                  "Methylmycofactocinone-8",
+                  "Mycofactocinone-8"
+            ]
       }
 }

@@ -12,6 +12,10 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Cyptide",
+            "compound_name": [
+                  "Roseovertin"
+            ]
       }
 }

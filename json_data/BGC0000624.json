@@ -4,7 +4,10 @@
             "ncomp": 2,
             "start": 0,
             "end": 0,
-            "core_sequences": ["KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL","KNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFTSCR"],
+            "core_sequences": [
+                  "KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL",
+                  "KNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFTSCR"
+            ],
             "protein_ids": [
                   "ABQ84442.1",
                   "ABQ84443.1"
@@ -21,6 +24,11 @@
                   "core_seq": "KNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFTSCR",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.resmic.2009.06.009"
+            "ref": "https://doi.org/10.1016/j.resmic.2009.06.009",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "salivaricin CRL1328 \u00ce\u00b1 peptide",
+                  "salivaricin CRL1328 \u00ce\u00b2 peptide"
+            ]
       }
 }

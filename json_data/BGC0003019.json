@@ -16,6 +16,10 @@
                   "core_seq": "GVGFGRPDSILTQEQAKPMGLDRD",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "Benenodin-1"
+            ]
       }
 }

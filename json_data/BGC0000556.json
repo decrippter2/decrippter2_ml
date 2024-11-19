@@ -16,6 +16,10 @@
                   "core_seq": "VGSRYLCTPGSCWKLVCFTTTVK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1093/oxfordjournals.jbchem.a002918"
+            "ref": "https://doi.org/10.1093/oxfordjournals.jbchem.a002918",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "streptin"
+            ]
       }
 }

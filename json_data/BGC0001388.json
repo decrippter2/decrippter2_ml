@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["RNNLAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK"],
+            "core_sequences": [
+                  "RNNLAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK"
+            ],
             "protein_ids": [
                   "ALX37947.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "RNNLAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1186/s12866-016-0663-1"
+            "ref": "https://doi.org/10.1186/s12866-016-0663-1",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "gassericin E"
+            ]
       }
 }

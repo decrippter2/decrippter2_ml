@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 77019,
             "end": 79728,
-            "core_sequences": ["SYHWGDYHDWHHGWYGWWDD"],
+            "core_sequences": [
+                  "SYHWGDYHDWHHGWYGWWDD"
+            ],
             "protein_ids": [
                   "CCB72812.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SYHWGDYHDWHHGWYGWWDD",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1007/s13765-017-0268-x"
+            "ref": "https://doi.org/10.1007/s13765-017-0268-x",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "cattlecin"
+            ]
       }
 }

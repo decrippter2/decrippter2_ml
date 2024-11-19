@@ -23,6 +23,11 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Atropopeptide",
+            "compound_name": [
+                  "Varsorubin B2a",
+                  "Varsorubin B1"
+            ]
       }
 }

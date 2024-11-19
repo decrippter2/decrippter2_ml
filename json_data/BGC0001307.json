@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["GFGSKPLDSFGLNFF"],
+            "core_sequences": [
+                  "GFGSKPLDSFGLNFF"
+            ],
             "protein_ids": [
                   "ALT06552.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GFGSKPLDSFGLNFF",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acs.joc.5b01878"
+            "ref": "https://doi.org/10.1021/acs.joc.5b01878",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "chaxapeptin"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "MMNTFKLRLVSFGSAKALTRDGMGEEFIEGLVRDSLYPPAG",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "brevunsin"
+            ]
       }
 }

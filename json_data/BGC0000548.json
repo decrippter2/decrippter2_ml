@@ -16,6 +16,10 @@
                   "core_seq": "KRGSGWIATITDDCPNSVFVCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/aem.59.7.2014-2021.1993"
+            "ref": "https://doi.org/10.1128/aem.59.7.2014-2021.1993",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "salivaricin A"
+            ]
       }
 }

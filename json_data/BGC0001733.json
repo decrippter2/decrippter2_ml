@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1517859,
             "end": 1525928,
-            "core_sequences": ["VTGGSGIYGPIQAMYGAVVGDPKPGKDWGWRFPSPLPKPSPIPSPWKPPVDVQPMYGVVVSNDS"],
+            "core_sequences": [
+                  "VTGGSGIYGPIQAMYGAVVGDPKPGKDWGWRFPSPLPKPSPIPSPWKPPVDVQPMYGVVVSNDS"
+            ],
             "protein_ids": [
                   "WP_015143116.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "VTGGSGIYGPIQAMYGAVVGDPKPGKDWGWRFPSPLPKPSPIPSPWKPPVDVQPMYGVVVSNDS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1126/science.aao0157"
+            "ref": "https://doi.org/10.1126/science.aao0157",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "PcpA"
+            ]
       }
 }

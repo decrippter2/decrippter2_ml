@@ -16,6 +16,10 @@
                   "core_seq": "LIDHLGAPRWAVDTILGAIAVGNLASWVLALVPGPGWAVKAGLATAAAIVKHQGKAAAAAW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.02299-08"
+            "ref": "https://doi.org/10.1128/AEM.02299-08",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "lactocyclicin Q"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1,
             "end": 14987,
-            "core_sequences": ["CLGIGSCDDFAGCGYAIVCFW"],
+            "core_sequences": [
+                  "CLGIGSCDDFAGCGYAIVCFW"
+            ],
             "protein_ids": [
                   "QHZ32192.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CLGIGSCDDFAGCGYAIVCFW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.3390/antibiotics9020067"
+            "ref": "https://doi.org/10.3390/antibiotics9020067",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "humidimycin"
+            ]
       }
 }

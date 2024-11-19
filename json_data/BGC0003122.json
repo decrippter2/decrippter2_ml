@@ -16,6 +16,10 @@
                   "core_seq": "GGPYTTLAIGEEDPITTLAIGEEDPDPTTLALGEEDPTTLAIGEE",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Graspetide",
+            "compound_name": [
+                  "Plesiocin"
+            ]
       }
 }

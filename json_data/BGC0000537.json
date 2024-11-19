@@ -16,6 +16,10 @@
                   "core_seq": "ITSKSLCTPGCKTGILMTCPLKTATCGCHFG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.72.2.1148-1156.2006"
+            "ref": "https://doi.org/10.1128/AEM.72.2.1148-1156.2006",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "nisin U"
+            ]
       }
 }

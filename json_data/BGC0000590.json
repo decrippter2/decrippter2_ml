@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["GDPLADPNSQIVRQIMSNAAWGAAFGARGGLGGMAVGAAGGVTQTVLQGAAAHMPVNVPIPKVPMGPSWNGSKG"],
+            "core_sequences": [
+                  "GDPLADPNSQIVRQIMSNAAWGAAFGARGGLGGMAVGAAGGVTQTVLQGAAAHMPVNVPIPKVPMGPSWNGSKG"
+            ],
             "protein_ids": [
                   "ACP43450.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GDPLADPNSQIVRQIMSNAAWGAAFGARGGLGGMAVGAAGGVTQTVLQGAAAHMPVNVPIPKVPMGPSWNGSKG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1093/femsle/fnw095"
+            "ref": "https://doi.org/10.1093/femsle/fnw095",
+            "ripp_class": "Microviridin",
+            "compound_name": [
+                  "microcin N"
+            ]
       }
 }

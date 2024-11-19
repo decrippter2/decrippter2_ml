@@ -16,6 +16,10 @@
                   "core_seq": "GWYGSQWDGPTGQRD",
                   "follower_seq": ""
             },
-            "ref": "https://dx.doi.org/10.1039/d3sc02380j"
+            "ref": "https://dx.doi.org/10.1039/d3sc02380j",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "nocapeptin A"
+            ]
       }
 }

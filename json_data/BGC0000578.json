@@ -14,6 +14,10 @@
                   "core_seq": "GYFVGSYKEYWSRRII",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/nchembio.684"
+            "ref": "https://doi.org/10.1038/nchembio.684",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "SRO15-2005"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 37233,
             "end": 45653,
-            "core_sequences": ["DGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS"],
+            "core_sequences": [
+                  "DGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS"
+            ],
             "protein_ids": [
                   "CAE55705.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "DGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/aac.00744-09"
+            "ref": "https://doi.org/10.1128/aac.00744-09",
+            "ripp_class": "Microcin",
+            "compound_name": [
+                  "microcin M"
+            ]
       }
 }

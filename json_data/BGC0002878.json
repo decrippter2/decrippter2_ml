@@ -4,9 +4,13 @@
             "ncomp": 1,
             "start": 424733,
             "end": 430131,
-            "core_sequences": ["GSCTVCHWGRTVLCDDFSTQA","GTCTVCHWGYTILCDDFSTRS"],
+            "core_sequences": [
+                  "GSCTVCHWGRTVLCDDFSTQA",
+                  "GTCTVCHWGYTILCDDFSTRS"
+            ],
             "protein_ids": [
-                  "ACY95978.1","ACY95979.1"
+                  "ACY95978.1",
+                  "ACY95979.1"
             ],
             "ACY95978.1": {
                   "complete_seq": "MSALLEPRDAGTTNLDALATVPSEAPAFQAGSCTVCHWGRTVLCDDFSTQA",
@@ -20,6 +24,10 @@
                   "core_seq": "GTCTVCHWGYTILCDDFSTRS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/anie.202302490"
+            "ref": "https://doi.org/10.1002/anie.202302490",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "Curvocidin A"
+            ]
       }
 }

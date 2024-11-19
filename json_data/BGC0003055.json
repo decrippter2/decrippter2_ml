@@ -16,6 +16,8 @@
                   "core_seq": "MSNEDIVRSWKDPETARTAPGHPVGEPDLTALSGGEEQITVYDICTTNQTGCGTCGSFSFGCC",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": []
       }
 }

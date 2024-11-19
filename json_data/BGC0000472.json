@@ -14,6 +14,10 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": "https://doi.org/10.1016/j.chembiol.2013.06.015"
+            "ref": "https://doi.org/10.1016/j.chembiol.2013.06.015",
+            "ripp_class": "Cyanobactin",
+            "compound_name": [
+                  "anacyclamide A10"
+            ]
       }
 }

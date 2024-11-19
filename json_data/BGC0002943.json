@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 33982,
             "end": 36147,
-            "core_sequences": ["VQATKKCDVETGEDQKGE"],
+            "core_sequences": [
+                  "VQATKKCDVETGEDQKGE"
+            ],
             "protein_ids": [
                   "CUB04731.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "VQATKKCDVETGEDQKGE",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1007/s00253-021-11545-y\n\n"
+            "ref": "https://doi.org/10.1007/s00253-021-11545-y\n\n",
+            "ripp_class": "Graspetide",
+            "compound_name": [
+                  "Marinomonasin"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1301726,
             "end": 1304139,
-            "core_sequences": ["WTFRF"],
+            "core_sequences": [
+                  "WTFRF"
+            ],
             "protein_ids": [
                   "CAQ83239.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "WTFRF",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.3c04355"
+            "ref": "https://doi.org/10.1021/jacs.3c04355",
+            "ripp_class": "other",
+            "compound_name": [
+                  "Photorhaptin A"
+            ]
       }
 }

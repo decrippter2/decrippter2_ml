@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 182318,
             "end": 188335,
-            "core_sequences": ["SGTCACVGLLTLLNTVCVGISCA"],
+            "core_sequences": [
+                  "SGTCACVGLLTLLNTVCVGISCA"
+            ],
             "protein_ids": [
                   "ALA50776.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SGTCACVGLLTLLNTVCVGISCA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/cbic.201500377"
+            "ref": "https://doi.org/10.1002/cbic.201500377",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "streptocollin"
+            ]
       }
 }

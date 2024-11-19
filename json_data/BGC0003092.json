@@ -28,6 +28,12 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "LANII-287",
+                  "LANII-286",
+                  "LANII-916"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "GKNGVFKTISHECHLNTWAFLATCCS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1111/j.1574-6968.2007.00740.x"
+            "ref": "https://doi.org/10.1111/j.1574-6968.2007.00740.x",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "macedocin"
+            ]
       }
 }

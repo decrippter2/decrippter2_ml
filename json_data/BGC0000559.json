@@ -16,6 +16,10 @@
                   "core_seq": "WKSESLCTPGCVTGALQTCFLQTLTCNCKISK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/jb.173.22.7387-7390.1991"
+            "ref": "https://doi.org/10.1128/jb.173.22.7387-7390.1991",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "subtilin"
+            ]
       }
 }

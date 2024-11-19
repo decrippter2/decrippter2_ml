@@ -16,6 +16,10 @@
                   "core_seq": "GGAGQYKEVEAGRWSDRIDSDDE",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.9b00805"
+            "ref": "https://doi.org/10.1021/acschembio.9b00805",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "burhizin"
+            ]
       }
 }

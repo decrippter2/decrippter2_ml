@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["SCTTCECCCSCSS"],
+            "core_sequences": [
+                  "SCTTCECCCSCSS"
+            ],
             "protein_ids": [
                   "AQM75228.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SCTTCECCCSCSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1039/C9QO01328H"
+            "ref": "https://doi.org/10.1039/C9QO01328H",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "nosiheptide"
+            ]
       }
 }

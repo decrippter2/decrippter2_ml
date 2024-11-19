@@ -6,6 +6,8 @@
             "end": 18223,
             "core_sequences": [],
             "protein_ids": [],
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": []
       }
 }

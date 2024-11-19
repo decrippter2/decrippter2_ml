@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["SCTTCECCCSCSS"],
+            "core_sequences": [
+                  "SCTTCECCCSCSS"
+            ],
             "protein_ids": [
                   "ACR48342.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SCTTCECCCSCSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/cb900133x"
+            "ref": "https://doi.org/10.1021/cb900133x",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "nosiheptide"
+            ]
       }
 }

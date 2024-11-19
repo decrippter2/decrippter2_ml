@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["SNCTSKGSPASCCSCCCC"],
+            "core_sequences": [
+                  "SNCTSKGSPASCCSCCCC"
+            ],
             "protein_ids": [
                   "AID54693.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SNCTSKGSPASCCSCCCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/cb500324n"
+            "ref": "https://doi.org/10.1021/cb500324n",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "cyclothiazomycin C"
+            ]
       }
 }

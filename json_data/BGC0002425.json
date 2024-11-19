@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["LVVIVQADWNAPGWF"],
+            "core_sequences": [
+                  "LVVIVQADWNAPGWF"
+            ],
             "protein_ids": [
                   "QYB25761.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "LVVIVQADWNAPGWF",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1039/d1sc02695j"
+            "ref": "https://doi.org/10.1039/d1sc02695j",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "stlassin"
+            ]
       }
 }

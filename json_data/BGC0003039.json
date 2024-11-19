@@ -36,6 +36,10 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "RuiA"
+            ]
       }
 }

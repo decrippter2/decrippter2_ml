@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 92736,
             "end": 124586,
-            "core_sequences": ["IASASCTTCICTCSCSS"],
+            "core_sequences": [
+                  "IASASCTTCICTCSCSS"
+            ],
             "protein_ids": [
                   "PYC67624.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "IASASCTTCICTCSCSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.8b03896"
+            "ref": "https://doi.org/10.1021/jacs.8b03896",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "Sch 18640"
+            ]
       }
 }

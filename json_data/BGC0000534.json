@@ -16,6 +16,10 @@
                   "core_seq": "MGKGAVGTISHECRYNSWAFLATCCS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1111/j.2041-1014.2011.00634.x"
+            "ref": "https://doi.org/10.1111/j.2041-1014.2011.00634.x",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "mutacin K8"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 86914,
             "end": 98680,
-            "core_sequences": ["SVMAAIATVAYHC"],
+            "core_sequences": [
+                  "SVMAAIATVAYHC"
+            ],
             "protein_ids": [
                   "WP_107418454.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SVMAAIATVAYHC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1039/d0sc06835g"
+            "ref": "https://doi.org/10.1039/d0sc06835g",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "thiostreptamide S4"
+            ]
       }
 }

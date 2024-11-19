@@ -4,7 +4,9 @@
             "ncomp": 2,
             "start": 284500,
             "end": 291500,
-            "core_sequences": ["GVGFPLADFFIHFD"],
+            "core_sequences": [
+                  "GVGFPLADFFIHFD"
+            ],
             "protein_ids": [
                   "WP_159064094.1"
             ],
@@ -14,6 +16,11 @@
                   "core_seq": "GVGFPLADFFIHFD",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.0c00109"
+            "ref": "https://doi.org/10.1021/acschembio.0c00109",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "canucin A",
+                  "canucin B"
+            ]
       }
 }

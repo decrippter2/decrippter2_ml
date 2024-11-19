@@ -16,6 +16,10 @@
                   "core_seq": "FTSHSLCTPGCITGVLMGCHIQSIGCNVHIHISK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.06588-11"
+            "ref": "https://doi.org/10.1128/AEM.06588-11",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "salivaricin D"
+            ]
       }
 }

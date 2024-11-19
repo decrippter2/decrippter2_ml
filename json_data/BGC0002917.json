@@ -7,13 +7,19 @@
             "core_sequences": [
                   "MEKLNHNAVTSLNEVSDSELDTILGGSRWWQGVLPTVSHECRMNSFQHIFTCC"
             ],
-            "protein_ids": ["WP_277601206.1"],
+            "protein_ids": [
+                  "WP_277601206.1"
+            ],
             "WP_277601206.1": {
                   "complete_seq": "MEKLNHNAVTSLNEVSDSELDTILGGSRWWQGVLPTVSHECRMNSFQHIFTCC",
                   "leader_seq": "MEKLNHNAVTSLNEVSDSELDTILGG",
                   "core_seq": "SRWWQGVLPTVSHECRMNSFQHIFTCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/aem.02123-22"
+            "ref": "https://doi.org/10.1128/aem.02123-22",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "Inecin L"
+            ]
       }
 }

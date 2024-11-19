@@ -24,6 +24,11 @@
                   "core_seq": "STPACAIGVVGITVAVTGISTACTSRCINK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/s41598-021-92370-1"
+            "ref": "https://doi.org/10.1038/s41598-021-92370-1",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "SmbA",
+                  "SmbB"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 42653,
             "end": 46158,
-            "core_sequences": ["GFIGWGDDIFGHYSGDF"],
+            "core_sequences": [
+                  "GFIGWGDDIFGHYSGDF"
+            ],
             "protein_ids": [
                   "WP_359792544.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GFIGWGDDIFGHYSGDF",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "anantin C"
+            ]
       }
 }

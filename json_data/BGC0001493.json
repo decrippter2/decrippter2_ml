@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 72758,
             "end": 75568,
-            "core_sequences": ["GIGSQTWDTIWLWD"],
+            "core_sequences": [
+                  "GIGSQTWDTIWLWD"
+            ],
             "protein_ids": [
                   "WP_157846923.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GIGSQTWDTIWLWD",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/ja.2016.108"
+            "ref": "https://doi.org/10.1038/ja.2016.108",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "achromosin"
+            ]
       }
 }

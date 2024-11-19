@@ -4,7 +4,9 @@
             "ncomp": 4,
             "start": 1,
             "end": 6178,
-            "core_sequences": ["ATPATPTAAQFVIQGSTICLVC"],
+            "core_sequences": [
+                  "ATPATPTAAQFVIQGSTICLVC"
+            ],
             "protein_ids": [
                   "QBA31011.1"
             ],
@@ -14,6 +16,13 @@
                   "core_seq": "ATPATPTAAQFVIQGSTICLVC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.8b01058"
+            "ref": "https://doi.org/10.1021/acschembio.8b01058",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "salinipeptin A",
+                  "salinipeptin B",
+                  "salinipeptin C",
+                  "salinipeptin D"
+            ]
       }
 }

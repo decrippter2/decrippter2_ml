@@ -16,6 +16,10 @@
                   "core_seq": "STPVLASVAVSMELLPTASVLYSDVAGCFKYSAKHHC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1007/BF00399418"
+            "ref": "https://doi.org/10.1007/BF00399418",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "lactocin S"
+            ]
       }
 }

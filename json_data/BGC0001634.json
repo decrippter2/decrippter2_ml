@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 9373,
             "end": 14846,
-            "core_sequences": ["GYFYGSYKEYWVRRII"],
+            "core_sequences": [
+                  "GYFYGSYKEYWVRRII"
+            ],
             "protein_ids": [
                   "WP_018511015.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GYFYGSYKEYWVRRII",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/nchembio.2319"
+            "ref": "https://doi.org/10.1038/nchembio.2319",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "keywimysin"
+            ]
       }
 }

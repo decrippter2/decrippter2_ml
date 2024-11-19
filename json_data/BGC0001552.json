@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 6877533,
             "end": 6882094,
-            "core_sequences": ["LLGRSGNDRLILSKN"],
+            "core_sequences": [
+                  "LLGRSGNDRLILSKN"
+            ],
             "protein_ids": [
                   "BAU68361.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "LLGRSGNDRLILSKN",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/bs.mie.2021.11.018"
+            "ref": "https://doi.org/10.1016/bs.mie.2021.11.018",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "citrulassin F"
+            ]
       }
 }

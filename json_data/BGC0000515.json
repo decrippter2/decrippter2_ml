@@ -16,6 +16,10 @@
                   "core_seq": "VTSKSLCTPGCITGVLMCLTQNSCVSCNSCIRC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/ja.2013.112"
+            "ref": "https://doi.org/10.1038/ja.2013.112",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "geobacillin I"
+            ]
       }
 }

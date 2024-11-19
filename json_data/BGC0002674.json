@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1,
             "end": 4772,
-            "core_sequences": ["NLVCPPMPDYIKRLSTGKGVSSVYMAWQIANCKSSGSCMKGQTNRTC"],
+            "core_sequences": [
+                  "NLVCPPMPDYIKRLSTGKGVSSVYMAWQIANCKSSGSCMKGQTNRTC"
+            ],
             "protein_ids": [
                   "BAR87969.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "NLVCPPMPDYIKRLSTGKGVSSVYMAWQIANCKSSGSCMKGQTNRTC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.3390/microorganisms9112276"
+            "ref": "https://doi.org/10.3390/microorganisms9112276",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "enterocin F4-9"
+            ]
       }
 }

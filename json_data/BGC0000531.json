@@ -16,6 +16,10 @@
                   "core_seq": "FSSLSLCSLGCTGVKNPSFNSYCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.66.8.3221-3229.2000"
+            "ref": "https://doi.org/10.1128/AEM.66.8.3221-3229.2000",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "mutacin I"
+            ]
       }
 }

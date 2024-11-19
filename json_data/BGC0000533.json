@@ -16,6 +16,10 @@
                   "core_seq": "FKSWSLCTPGCARTGSFNSYCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.65.9.3880-3887.1999"
+            "ref": "https://doi.org/10.1128/AEM.65.9.3880-3887.1999",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "mutacin III"
+            ]
       }
 }

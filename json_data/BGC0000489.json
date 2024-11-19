@@ -16,6 +16,10 @@
                   "core_seq": "MAKEFGIPAAVAGTVLNVVEAGGWVTTIVSILTAVGSGGLSLLAAAGRESIKAYLKKEIKKKGKRAVIAW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.3390/ijms151222706"
+            "ref": "https://doi.org/10.3390/ijms151222706",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "enterocin AS-48"
+            ]
       }
 }

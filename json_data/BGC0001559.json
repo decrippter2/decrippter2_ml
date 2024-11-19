@@ -16,6 +16,11 @@
                   "core_seq": "IYW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/s41557-023-01153-w"
+            "ref": "https://doi.org/10.1038/s41557-023-01153-w",
+            "ripp_class": "Crocagin",
+            "compound_name": [
+                  "crocagin A",
+                  "crocagin B"
+            ]
       }
 }

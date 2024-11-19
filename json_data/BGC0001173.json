@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 223361,
             "end": 233305,
-            "core_sequences": ["RCTCTTIISSSSTF"],
+            "core_sequences": [
+                  "RCTCTTIISSSSTF"
+            ],
             "protein_ids": [
                   "EHD25717.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "RCTCTTIISSSSTF",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/cb200339d"
+            "ref": "https://doi.org/10.1021/cb200339d",
+            "ripp_class": "LAP",
+            "compound_name": [
+                  "plantazolicin"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "IYWIADQFGIHLATGTARKLLDAMASGASLGTAFAAILGVTLPAWALAAAGALGATAA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1271/bbb.62.2438"
+            "ref": "https://doi.org/10.1271/bbb.62.2438",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "gassericin A"
+            ]
       }
 }

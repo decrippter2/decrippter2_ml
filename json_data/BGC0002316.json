@@ -4,9 +4,13 @@
             "ncomp": 1,
             "start": 1,
             "end": 9987,
-            "core_sequences": ["GVLTFGTTCWGTTCPSNNTISC","GPITFGTTCWGTPCPSANTVSC"],
+            "core_sequences": [
+                  "GVLTFGTTCWGTTCPSNNTISC",
+                  "GPITFGTTCWGTPCPSANTVSC"
+            ],
             "protein_ids": [
-                  "QBK47606.1","QBK47607.1"
+                  "QBK47606.1",
+                  "QBK47607.1"
             ],
             "QBK47606.1": {
                   "complete_seq": "MSAPVQDFDLDVDTTSFAAPGGGALSEDGIEARGPITFGTTCWGTPCPSANTVSC",
@@ -20,6 +24,10 @@
                   "core_seq": "GVLTFGTTCWGTTCPSNNTISC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/anie.201901342"
+            "ref": "https://doi.org/10.1002/anie.201901342",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "cebulantin"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "VLSIVACSSGCGSGKTAASCVATCGNKCFTNVGSLC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/cbic.201300595"
+            "ref": "https://doi.org/10.1002/cbic.201300595",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "paenicidin B"
+            ]
       }
 }

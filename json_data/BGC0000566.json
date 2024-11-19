@@ -16,6 +16,10 @@
                   "core_seq": "CCCCCTTCCFSIATGSGNSQGGSGSYTPGK",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "LAP",
+            "compound_name": [
+                  "streptolysin S"
+            ]
       }
 }

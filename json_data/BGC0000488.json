@@ -16,6 +16,10 @@
                   "core_seq": "VAGALGVQTAAATTIVNVILNAGTLVTVLGIIASIASGGAGTLMTIGWATFKATVQKLAKQSMARAIAY",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.69.3.1589-1597.2003"
+            "ref": "https://doi.org/10.1128/AEM.69.3.1589-1597.2003",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "circularin A"
+            ]
       }
 }

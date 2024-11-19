@@ -16,6 +16,10 @@
                   "core_seq": "AGPGTSTPDAFQPDPDEDVHYDS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1074/jbc.M116.722108"
+            "ref": "https://doi.org/10.1074/jbc.M116.722108",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "paeninodin"
+            ]
       }
 }

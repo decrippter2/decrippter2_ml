@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 79318,
             "end": 88354,
-            "core_sequences": ["GYPFWDNRDIFGGYTFIG"],
+            "core_sequences": [
+                  "GYPFWDNRDIFGGYTFIG"
+            ],
             "protein_ids": [
                   "EWC60872.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GYPFWDNRDIFGGYTFIG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1111/lam.12693"
+            "ref": "https://doi.org/10.1111/lam.12693",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "actinokineosin"
+            ]
       }
 }

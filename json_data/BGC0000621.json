@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["CCELCCNPACTGCY"],
+            "core_sequences": [
+                  "CCELCCNPACTGCY"
+            ],
             "protein_ids": [
                   "AAA23730.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CCELCCNPACTGCY",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.lfs.2010.03.015"
+            "ref": "https://doi.org/10.1016/j.lfs.2010.03.015",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "linaclotide"
+            ]
       }
 }

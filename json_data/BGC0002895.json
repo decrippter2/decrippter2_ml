@@ -16,6 +16,10 @@
                   "core_seq": "ANPGCNTTRYTTKQTFDTHGNWDVGADIEWD",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Microviridin",
+            "compound_name": [
+                  "Gra-7A"
+            ]
       }
 }

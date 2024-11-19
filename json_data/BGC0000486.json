@@ -16,6 +16,10 @@
                   "core_seq": "IYFIADKMGIQLAPAWYQDIVNWVSAGGTLTTGFAIIVGVTVPAWIAEAAAAFGIASA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.tim.2011.04.004"
+            "ref": "https://doi.org/10.1016/j.tim.2011.04.004",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "butyrivibriocin AR10"
+            ]
       }
 }

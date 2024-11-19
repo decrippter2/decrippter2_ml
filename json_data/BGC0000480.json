@@ -16,6 +16,11 @@
                   "core_seq": "ATGCMC",
                   "follower_seq": "AYDGAGASATGCMCAYDGAGASATACACAYDGAGASATACACAYE"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Cyanobactin",
+            "compound_name": [
+                  "tenuecyclamide A",
+                  "tenuecyclamide C"
+            ]
       }
 }

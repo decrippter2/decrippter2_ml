@@ -23,6 +23,11 @@
                   "core_seq": "TTWPCATVGVSVALCPTTKCTSQC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.chembiol.2008.07.020"
+            "ref": "https://doi.org/10.1016/j.chembiol.2008.07.020",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "haloduracin \u00ce\u00b2",
+                  "haloduracin \u00ce\u00b1"
+            ]
       }
 }

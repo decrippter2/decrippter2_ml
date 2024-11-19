@@ -16,6 +16,10 @@
                   "core_seq": "SSAPCTIYASVSASISATASWGC",
                   "follower_seq": ""
             },
-            "ref": "https://www.ncbi.nlm.nih.gov/pubmed/32407589"
+            "ref": "https://www.ncbi.nlm.nih.gov/pubmed/32407589",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "cacaoidin"
+            ]
       }
 }

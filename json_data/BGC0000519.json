@@ -27,6 +27,12 @@
             "ref": [
                   "https://doi.org/10.1002/anie.200905909",
                   "https://doi.org/10.1371/journal.pone.0064010"
+            ],
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "labyrinthopeptin A2",
+                  "labyrinthopeptin A1",
+                  "labyrinthopeptin A3"
             ]
       }
 }

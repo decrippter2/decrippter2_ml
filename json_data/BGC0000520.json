@@ -24,6 +24,11 @@
                   "core_seq": "TPATPAISILSAYISTNTCPTTKCTRAC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/bi0362065"
+            "ref": "https://doi.org/10.1021/bi0362065",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "lacticin 3147 A1",
+                  "lacticin 3147 A2"
+            ]
       }
 }

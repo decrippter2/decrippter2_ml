@@ -16,6 +16,10 @@
                   "core_seq": "CCCCSCCCCVSVSVGGGSASTGGGAAAGQGGN",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/cb500843r"
+            "ref": "https://doi.org/10.1021/cb500843r",
+            "ripp_class": "LAP",
+            "compound_name": [
+                  "clostridiolysin S"
+            ]
       }
 }

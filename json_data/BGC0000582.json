@@ -16,6 +16,10 @@
                   "core_seq": "ATPATPTVAQFVIQGSTICLVC",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Linaridin",
+            "compound_name": [
+                  "cypemycin"
+            ]
       }
 }

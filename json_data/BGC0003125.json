@@ -16,6 +16,8 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Thiopeptide",
+            "compound_name": []
       }
 }

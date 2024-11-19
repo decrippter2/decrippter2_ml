@@ -16,6 +16,10 @@
                   "core_seq": "GPVVVFDC",
                   "follower_seq": "MTADFLNDDPNNAELSALEMEELESWGAWDGEATS"
             },
-            "ref": "https://doi.org/10.1039/C2SC21190D"
+            "ref": "https://doi.org/10.1039/C2SC21190D",
+            "ripp_class": "Bottromycin",
+            "compound_name": [
+                  "bottromycin A2"
+            ]
       }
 }

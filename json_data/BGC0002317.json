@@ -4,7 +4,9 @@
             "ncomp": 3,
             "start": 46755,
             "end": 59082,
-            "core_sequences": ["EEN"],
+            "core_sequences": [
+                  "EEN"
+            ],
             "protein_ids": [
                   "KPA06478.1"
             ],
@@ -14,6 +16,12 @@
                   "core_seq": "EEN",
                   "follower_seq": "AMYTKGQVIVLS"
             },
-            "ref": "https://doi.org/10.1021/jacs.5b13529"
+            "ref": "https://doi.org/10.1021/jacs.5b13529",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "herbicolin O",
+                  "mcceh252",
+                  "pantocin A"
+            ]
       }
 }

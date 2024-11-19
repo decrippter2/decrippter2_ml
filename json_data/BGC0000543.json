@@ -16,6 +16,10 @@
                   "core_seq": "TAGPAIRASVKQCQKTLKATRLFTVSCKGKNGCK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1007/BF00447005"
+            "ref": "https://doi.org/10.1007/BF00447005",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "pep5"
+            ]
       }
 }

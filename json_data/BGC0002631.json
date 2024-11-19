@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1,
             "end": 3091,
-            "core_sequences": ["YLH"],
+            "core_sequences": [
+                  "YLH"
+            ],
             "protein_ids": [
                   "UID85535.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "YLH",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.3390/molecules26247483"
+            "ref": "https://doi.org/10.3390/molecules26247483",
+            "ripp_class": "Biarylitide",
+            "compound_name": [
+                  "Myxarylin"
+            ]
       }
 }

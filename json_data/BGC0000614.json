@@ -16,6 +16,10 @@
                   "core_seq": "IASASCTTCICTCSCSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/ja900488a"
+            "ref": "https://doi.org/10.1021/ja900488a",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "thiostrepton"
+            ]
       }
 }

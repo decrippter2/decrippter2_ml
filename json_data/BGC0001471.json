@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 708690,
             "end": 737346,
-            "core_sequences": ["ASSSSCTTCICTCSCSS"],
+            "core_sequences": [
+                  "ASSSSCTTCICTCSCSS"
+            ],
             "protein_ids": [
                   "WP_091614358.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "ASSSSCTTCICTCSCSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.8b03896"
+            "ref": "https://doi.org/10.1021/jacs.8b03896",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "saalfelduracin"
+            ]
       }
 }

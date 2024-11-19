@@ -4,7 +4,10 @@
             "ncomp": 2,
             "start": 1,
             "end": 14448,
-            "core_sequences": ["VPTT","IPSTS"],
+            "core_sequences": [
+                  "VPTT",
+                  "IPSTS"
+            ],
             "protein_ids": [
                   "QGA72599.1",
                   "QGA72586.1"
@@ -21,6 +24,11 @@
                   "core_seq": "IPSTS",
                   "follower_seq": "GV"
             },
-            "ref": "https://doi.org/10.1021/acschembio.9b00620"
+            "ref": "https://doi.org/10.1021/acschembio.9b00620",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "muscoride A",
+                  "muscoride B"
+            ]
       }
 }

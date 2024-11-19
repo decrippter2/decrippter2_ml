@@ -16,6 +16,10 @@
                   "core_seq": "YDRTHNRHNRGQ",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.2c00521"
+            "ref": "https://doi.org/10.1021/jacs.2c00521",
+            "ripp_class": "other",
+            "compound_name": [
+                  "Triceptide (YhhB) note: structure show here was a trypsin digested fragment"
+            ]
       }
 }

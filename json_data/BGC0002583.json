@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1430750,
             "end": 1435010,
-            "core_sequences": ["WGK"],
+            "core_sequences": [
+                  "WGK"
+            ],
             "protein_ids": [
                   "AAN59156.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "WGK",
                   "follower_seq": "H"
             },
-            "ref":"https://doi.org/10.1128/mBio.02688-20"
+            "ref": "https://doi.org/10.1128/mBio.02688-20",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "tryglysin B"
+            ]
       }
 }

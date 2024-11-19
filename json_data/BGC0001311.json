@@ -14,6 +14,10 @@
                   "core_seq": "GWKQTIACTIAQGTLGCLVSYGLGNGGYCCTYTVECSKTCNK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.chembiol.2015.11.014"
+            "ref": "https://doi.org/10.1016/j.chembiol.2015.11.014",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "flavecins"
+            ]
       }
 }

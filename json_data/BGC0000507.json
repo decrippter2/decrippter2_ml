@@ -16,6 +16,10 @@
                   "core_seq": "SLGPAIKATRQVCPKATRFVTVSCKKSDCQ",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/s41598-021-90613-9"
+            "ref": "https://doi.org/10.1038/s41598-021-90613-9",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "epicidin"
+            ]
       }
 }

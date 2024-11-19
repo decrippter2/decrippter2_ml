@@ -16,6 +16,10 @@
                   "core_seq": "GNGVVLTLTHECNLATWTKKLKCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1371/journal.pone.0077751"
+            "ref": "https://doi.org/10.1371/journal.pone.0077751",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "salivaricin 9"
+            ]
       }
 }

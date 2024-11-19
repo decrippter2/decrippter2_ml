@@ -16,6 +16,10 @@
                   "core_seq": "GAPSLINSEDNPAFPQRV",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/bip.22326"
+            "ref": "https://doi.org/10.1002/bip.22326",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "rubrivinodin"
+            ]
       }
 }

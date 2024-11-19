@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 563667,
             "end": 573643,
-            "core_sequences": ["AGITTIITICSVLSVYKCC"],
+            "core_sequences": [
+                  "AGITTIITICSVLSVYKCC"
+            ],
             "protein_ids": [
                   "WP_187144231.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "AGITTIITICSVLSVYKCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/s41467-022-29325-1"
+            "ref": "https://doi.org/10.1038/s41467-022-29325-1",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "paenithipeptin"
+            ]
       }
 }

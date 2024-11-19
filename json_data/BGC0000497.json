@@ -24,6 +24,11 @@
                   "core_seq": "STPACAIGVVGITVAVTGISTACTSRCINK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.femsle.2005.09.003"
+            "ref": "https://doi.org/10.1016/j.femsle.2005.09.003",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "BHT-A\u00ce\u00b1",
+                  "BHT-A\u00ce\u00b2"
+            ]
       }
 }

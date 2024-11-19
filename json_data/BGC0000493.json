@@ -16,6 +16,10 @@
                   "core_seq": "LVNQLGISKSLANTILGAIAVGNLASWLLALVPGPGWATKAALATAETIVKHEGKAAAIAW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1271/bbb.130014"
+            "ref": "https://doi.org/10.1271/bbb.130014",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "leucocyclicin Q"
+            ]
       }
 }

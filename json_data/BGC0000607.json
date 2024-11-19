@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["SCTTCVCTCSCCTT"],
+            "core_sequences": [
+                  "SCTTCVCTCSCCTT"
+            ],
             "protein_ids": [
                   "AIU53942.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SCTTCVCTCSCCTT",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/jb.00396-16"
+            "ref": "https://doi.org/10.1128/jb.00396-16",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "micrococcin P1"
+            ]
       }
 }

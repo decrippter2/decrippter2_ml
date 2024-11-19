@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["CTTSSSSS"],
+            "core_sequences": [
+                  "CTTSSSSS"
+            ],
             "protein_ids": [
                   "BBA31805.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CTTSSSSS",
                   "follower_seq": "SLDISDVDFE"
             },
-            "ref": "https://doi.org/10.1038/s41598-017-03308-5"
+            "ref": "https://doi.org/10.1038/s41598-017-03308-5",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "telomestatin"
+            ]
       }
 }

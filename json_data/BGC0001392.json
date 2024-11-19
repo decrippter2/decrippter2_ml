@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 6791760,
             "end": 6813685,
-            "core_sequences": ["SHPTHTVATDDEGHLCTTIICA"],
+            "core_sequences": [
+                  "SHPTHTVATDDEGHLCTTIICA"
+            ],
             "protein_ids": [
                   "ACU62756.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SHPTHTVATDDEGHLCTTIICA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/anie.201500927"
+            "ref": "https://doi.org/10.1002/anie.201500927",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "pinensins"
+            ]
       }
 }

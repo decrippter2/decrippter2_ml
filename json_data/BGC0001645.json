@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 29465,
             "end": 35073,
-            "core_sequences": ["LAGQGSPDLLGGHSLL"],
+            "core_sequences": [
+                  "LAGQGSPDLLGGHSLL"
+            ],
             "protein_ids": [
                   "WP_107064568.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "LAGQGSPDLLGGHSLL",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/nchembio.2319"
+            "ref": "https://doi.org/10.1038/nchembio.2319",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "lagmysin"
+            ]
       }
 }

@@ -17,6 +17,10 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "other",
+            "compound_name": [
+                  "Triceptide (SjiB) note: structure show here was a trypsin digested fragment"
+            ]
       }
 }

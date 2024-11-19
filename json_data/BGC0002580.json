@@ -6,7 +6,8 @@
             "end": 1782,
             "core_sequences": [],
             "protein_ids": [
-                  "QIC51115.1","QIC51116.1"
+                  "QIC51115.1",
+                  "QIC51116.1"
             ],
             "QIC51115.1": {
                   "complete_seq": "MKNQLNFEILSDEELQGINGGIRGTGKGLAAAMVSGAAMGGAIGAFGGPVGAIMGAWGGAVGGAMKYSI",
@@ -20,6 +21,10 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "lactococcin MN"
+            ]
       }
 }

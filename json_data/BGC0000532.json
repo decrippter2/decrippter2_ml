@@ -16,6 +16,10 @@
                   "core_seq": "NRWWQGVVPTVSYECRMNSWQHVFTCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1074/jbc.275.21.15845"
+            "ref": "https://doi.org/10.1074/jbc.275.21.15845",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "mutacin II"
+            ]
       }
 }

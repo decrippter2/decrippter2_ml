@@ -16,6 +16,10 @@
                   "core_seq": "SSGWVCTLTIECGTVICAC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1111/j.1365-2958.2009.06708.x"
+            "ref": "https://doi.org/10.1111/j.1365-2958.2009.06708.x",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "actagardine"
+            ]
       }
 }

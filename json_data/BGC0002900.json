@@ -16,6 +16,10 @@
                   "core_seq": "DKEIQTSLSNGGSTCSMYKALLPGHIAACAASAYFYGSSGCTAMRYVSEYIRKNC",
                   "follower_seq": ""
             },
-            "ref": "https://dx.doi.org/10.1038/s41467-022-33890-w"
+            "ref": "https://dx.doi.org/10.1038/s41467-022-33890-w",
+            "ripp_class": "Glycocin",
+            "compound_name": [
+                  "Glk-2"
+            ]
       }
 }

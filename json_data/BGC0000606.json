@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["SWGSCSCQASSSCAQP"],
+            "core_sequences": [
+                  "SWGSCSCQASSSCAQP"
+            ],
             "protein_ids": [
                   "BAO57434.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SWGSCSCQASSSCAQP",
                   "follower_seq": "QDM"
             },
-            "ref": "https://doi.org/10.1021/jacs.0c05541"
+            "ref": "https://doi.org/10.1021/jacs.0c05541",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "lactazole"
+            ]
       }
 }

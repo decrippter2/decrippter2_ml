@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 6185533,
             "end": 6189849,
-            "core_sequences": ["YWGCALKCAGPCLGVCAIDTASPVMDAVGTASGYAGGHG"],
+            "core_sequences": [
+                  "YWGCALKCAGPCLGVCAIDTASPVMDAVGTASGYAGGHG"
+            ],
             "protein_ids": [
                   "WP_000433373.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "YWGCALKCAGPCLGVCAIDTASPVMDAVGTASGYAGGHG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.9b01519"
+            "ref": "https://doi.org/10.1021/jacs.9b01519",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "huazacin"
+            ]
       }
 }

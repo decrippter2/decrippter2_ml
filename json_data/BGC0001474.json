@@ -16,6 +16,10 @@
                   "core_seq": "VASASCTTCICTCSCSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.8b03896"
+            "ref": "https://doi.org/10.1021/jacs.8b03896",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "thiopeptin"
+            ]
       }
 }

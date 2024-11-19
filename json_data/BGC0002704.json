@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 218712,
             "end": 226675,
-            "core_sequences":  ["GLPSASMYSFEHCC"],
+            "core_sequences": [
+                  "GLPSASMYSFEHCC"
+            ],
             "protein_ids": [
                   "WP_162224287.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GLPSASMYSFEHCC",
                   "follower_seq": ""
             },
-            "ref": "https://dx.doi.org/10.21203/rs.3.rs-1476892/v1"
+            "ref": "https://dx.doi.org/10.21203/rs.3.rs-1476892/v1",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "archalan \u00ce\u00b2"
+            ]
       }
 }

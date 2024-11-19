@@ -4,9 +4,13 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["NIGLFTSTCFSSQCFSSKCFTDTCFSSNCFTGRHQCGYTHGSC","NFGLYTSQCYSSQCYSSKCYSDSCYSSDCYTGRHMCGYTHGYSC"],
+            "core_sequences": [
+                  "NIGLFTSTCFSSQCFSSKCFTDTCFSSNCFTGRHQCGYTHGSC",
+                  "NFGLYTSQCYSSQCYSSKCYSDSCYSSDCYTGRHMCGYTHGYSC"
+            ],
             "protein_ids": [
-                  "ALR96369.1", "ALR96377.1"
+                  "ALR96369.1",
+                  "ALR96377.1"
             ],
             "ALR96369.1": {
                   "complete_seq": "MANNVFDLDVEVKSVNSVNQNIGLFTSTCFSSQCFSSKCFTDTCFSSNCFTGRHQCGYTHGSC",
@@ -20,6 +24,10 @@
                   "core_seq": "NFGLYTSQCYSSQCYSSKCYSDSCYSSDCYTGRHMCGYTHGYSC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AAC.01813-15"
+            "ref": "https://doi.org/10.1128/AAC.01813-15",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "penisin"
+            ]
       }
 }

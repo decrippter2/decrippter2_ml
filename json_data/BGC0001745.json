@@ -4,9 +4,11 @@
             "ncomp": 3,
             "start": 27903,
             "end": 33295,
-            "core_sequences": ["WYFVTNDDEGAIVGSDSN",
+            "core_sequences": [
+                  "WYFVTNDDEGAIVGSDSN",
                   "VDLSIFELLDEEPLFPIRPLYGLPI",
-                  "AVAAMYGVVFPWDNEFPWPRWGG"],
+                  "AVAAMYGVVFPWDNEFPWPRWGG"
+            ],
             "protein_ids": [
                   "WP_019503884.1",
                   "WP_019503881.1",
@@ -30,6 +32,15 @@
                   "core_seq": "AVAAMYGVVFPWDNEFPWPRWGG",
                   "follower_seq": ""
             },
-            "ref": ["https://doi.org/10.1002/anie.201400478","https://doi.org/10.1126/science.aao0157"]
+            "ref": [
+                  "https://doi.org/10.1002/anie.201400478",
+                  "https://doi.org/10.1126/science.aao0157"
+            ],
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "PlpA1",
+                  "PlpA2",
+                  "PlpA3"
+            ]
       }
 }

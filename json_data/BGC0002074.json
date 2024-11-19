@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["GYGNAWDSKNGLF"],
+            "core_sequences": [
+                  "GYGNAWDSKNGLF"
+            ],
             "protein_ids": [
                   "QCY49166.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GYGNAWDSKNGLF",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acs.joc.9b02231"
+            "ref": "https://doi.org/10.1021/acs.joc.9b02231",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "huascopeptin"
+            ]
       }
 }

@@ -45,6 +45,14 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "modified MalA1(1a)",
+                  "modified MalA1(1b)",
+                  "modified MalA1 (1c)",
+                  "modified MalA2 (2a)",
+                  "modified MalA2(2b)"
+            ]
       }
 }

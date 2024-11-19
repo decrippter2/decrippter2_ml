@@ -16,6 +16,10 @@
                   "core_seq": "GSDGPIIEFFNPNGVMHYG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.6b01154"
+            "ref": "https://doi.org/10.1021/acschembio.6b01154",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "klebsidin"
+            ]
       }
 }

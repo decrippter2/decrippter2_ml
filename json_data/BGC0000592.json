@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["FGTTLKYPSDWEEY"],
+            "core_sequences": [
+                  "FGTTLKYPSDWEEY"
+            ],
             "protein_ids": [
                   "CAQ16116.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "FGTTLKYPSDWEEY",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/ange.200802730"
+            "ref": "https://doi.org/10.1002/ange.200802730",
+            "ripp_class": "Microviridin",
+            "compound_name": [
+                  "microviridin B"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "GSGVIPTISHECHMNSFQFVFTCCS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/aem.62.5.1799-1802.1996"
+            "ref": "https://doi.org/10.1128/aem.62.5.1799-1802.1996",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "variacin"
+            ]
       }
 }

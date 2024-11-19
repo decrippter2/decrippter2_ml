@@ -4,7 +4,9 @@
             "ncomp": 3,
             "start": 1,
             "end": 24093,
-            "core_sequences": ["MQEQTAYESPALVEVGTFECDTQ"],
+            "core_sequences": [
+                  "MQEQTAYESPALVEVGTFECDTQ"
+            ],
             "protein_ids": [
                   "WP_189061731.1"
             ],
@@ -14,6 +16,12 @@
                   "core_seq": "GWWGANWDGPSGMRD",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1039/D3SC02380J"
+            "ref": "https://doi.org/10.1039/D3SC02380J",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "longipeptin A",
+                  "longipeptin B",
+                  "longipeptin C"
+            ]
       }
 }

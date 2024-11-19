@@ -25,6 +25,11 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Linaridin",
+            "compound_name": [
+                  "solabiomycin A",
+                  "solabiomycin B"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 539080,
             "end": 543757,
-            "core_sequences": ["VNSWGKH"],
+            "core_sequences": [
+                  "VNSWGKH"
+            ],
             "protein_ids": [
                   "SQF39787.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "VNSWGKH",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1101/467670"
+            "ref": "https://doi.org/10.1101/467670",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "WGK"
+            ]
       }
 }

@@ -32,6 +32,12 @@
                   "core_seq": "GAFVGQPEAVNPLGREIQG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/ja308173b"
+            "ref": "https://doi.org/10.1021/ja308173b",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "caulosegnin I",
+                  "caulosegnin II",
+                  "caulosegnin III"
+            ]
       }
 }

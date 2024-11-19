@@ -4,10 +4,13 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["YKSKSACTPGCPTGILMTCPLKTATCGCHITGK",
-                  "TSQHSFCTPNCLTGFLCPPKTQLTCTCKLKGQ"],
+            "core_sequences": [
+                  "YKSKSACTPGCPTGILMTCPLKTATCGCHITGK",
+                  "TSQHSFCTPNCLTGFLCPPKTQLTCTCKLKGQ"
+            ],
             "protein_ids": [
-                  "ASY03212.1","ASY03215.1"
+                  "ASY03212.1",
+                  "ASY03215.1"
             ],
             "ASY03212.1": {
                   "complete_seq": "MGKFDDFDLDVTKTAAQGGIEPKYKSKSACTPGCPTGILMTCPLKTATCGCHITGK",
@@ -21,6 +24,10 @@
                   "core_seq": "TSQHSFCTPNCLTGFLCPPKTQLTCTCKLKGQ",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1101/2022.02.15.480493"
+            "ref": "https://doi.org/10.1101/2022.02.15.480493",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "nisin O"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 5655747,
             "end": 5659282,
-            "core_sequences": ["GCSANDACYFCDTRDNCKACDASDFCIKSDT"],
+            "core_sequences": [
+                  "GCSANDACYFCDTRDNCKACDASDFCIKSDT"
+            ],
             "protein_ids": [
                   "WP_019688961.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GCSANDACYFCDTRDNCKACDASDFCIKSDT",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.9b00457"
+            "ref": "https://doi.org/10.1021/acschembio.9b00457",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "freyrasin"
+            ]
       }
 }

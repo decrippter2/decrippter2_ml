@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 2790122,
             "end": 2798888,
-            "core_sequences": ["KMSKAWCRSMVVSCVYNLVDFSSSSDGKKTCALYRKYC"],
+            "core_sequences": [
+                  "KMSKAWCRSMVVSCVYNLVDFSSSSDGKKTCALYRKYC"
+            ],
             "protein_ids": [
                   "WP_041176876.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "KMSKAWCRSMVVSCVYNLVDFSSSSDGKKTCALYRKYC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.8b00599"
+            "ref": "https://doi.org/10.1021/acschembio.8b00599",
+            "ripp_class": "Glycocin",
+            "compound_name": [
+                  "listeriocytocin"
+            ]
       }
 }

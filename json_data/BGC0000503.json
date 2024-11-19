@@ -16,6 +16,10 @@
                   "core_seq": "CRQSCSFGPFTFVCDGNTK",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "cinnamycin"
+            ]
       }
 }

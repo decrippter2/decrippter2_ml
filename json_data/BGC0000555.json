@@ -24,6 +24,11 @@
                   "core_seq": "CSTNTFSLSDYWGNKGNWCTATHECMSWCK",
                   "follower_seq": ""
             },
-            "ref": "http://dx.doi.org/10.2174/138920109787048580"
+            "ref": "http://dx.doi.org/10.2174/138920109787048580",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "staphylococcin C55 \u00ce\u00b1",
+                  "staphylococcin C55 \u00ce\u00b2"
+            ]
       }
 }

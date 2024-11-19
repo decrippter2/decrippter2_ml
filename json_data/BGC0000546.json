@@ -16,6 +16,10 @@
                   "core_seq": "GSQISLLICEYSSLSVTLCTP",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/cb500199h"
+            "ref": "https://doi.org/10.1021/cb500199h",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "SAL-2242"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "MRTGNAN",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.3390/ijms25137213"
+            "ref": "https://doi.org/10.3390/ijms25137213",
+            "ripp_class": "Microcin",
+            "compound_name": [
+                  "microcin C7"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "GSQLVYREWVGHSNVIKPGP",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1007/s00253-012-3973-8"
+            "ref": "https://doi.org/10.1007/s00253-012-3973-8",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "lariatin"
+            ]
       }
 }

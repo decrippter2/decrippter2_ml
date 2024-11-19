@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1259086,
             "end": 1262598,
-            "core_sequences": ["AKGDGWKVM"],
+            "core_sequences": [
+                  "AKGDGWKVM"
+            ],
             "protein_ids": [
                   "ABJ66530.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "AKGDGWKVM",
                   "follower_seq": "AKGDGWE"
             },
-            "ref": "https://doi.org/10.1016/bs.mie.2018.04.016"
+            "ref": "https://doi.org/10.1016/bs.mie.2018.04.016",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "streptide"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "nisin A"
+            ]
       }
 }

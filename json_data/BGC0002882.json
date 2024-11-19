@@ -16,6 +16,10 @@
                   "core_seq": "ITTTVTSSEICVSLVSASVTATWDSGC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/s41467-022-32774-3"
+            "ref": "https://doi.org/10.1038/s41467-022-32774-3",
+            "ripp_class": "other",
+            "compound_name": [
+                  "kintamdin 7"
+            ]
       }
 }

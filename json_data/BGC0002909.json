@@ -32,6 +32,12 @@
                   "core_seq": "LEWWEHASYIIAIIGGAAAIAT",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/s41467-023-37287-1"
+            "ref": "https://doi.org/10.1038/s41467-023-37287-1",
+            "ripp_class": "other",
+            "compound_name": [
+                  "Daptide 1",
+                  "Daptide 2",
+                  "Daptide 3"
+            ]
       }
 }

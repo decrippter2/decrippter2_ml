@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 936309,
             "end": 942253,
-            "core_sequences": ["SCTTTSVSTSSSSSS"],
+            "core_sequences": [
+                  "SCTTTSVSTSSSSSS"
+            ],
             "protein_ids": [
                   "QAZ50823.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SCTTTSVSTSSSSSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1126/scitranslmed.aay5445"
+            "ref": "https://doi.org/10.1126/scitranslmed.aay5445",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "cutimycin"
+            ]
       }
 }

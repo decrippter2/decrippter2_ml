@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 2312434,
             "end": 2313194,
-            "core_sequences": ["TTHSGKYYGNGVYCTKNKCTVDWAKATTCIAGMSIGGFLGGAIPGKC"],
+            "core_sequences": [
+                  "TTHSGKYYGNGVYCTKNKCTVDWAKATTCIAGMSIGGFLGGAIPGKC"
+            ],
             "protein_ids": [
                   "AFK59992.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "TTHSGKYYGNGVYCTKNKCTVDWAKATTCIAGMSIGGFLGGAIPGKC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/aem.62.5.1676-1682.1996"
+            "ref": "https://doi.org/10.1128/aem.62.5.1676-1682.1996",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "enterocin A"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 4366121,
             "end": 4375355,
-            "core_sequences": ["GDCGGTCTWTKDCSICPSWSCWSWSC"],
+            "core_sequences": [
+                  "GDCGGTCTWTKDCSICPSWSCWSWSC"
+            ],
             "protein_ids": [
                   "EEM14528.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GDCGGTCTWTKDCSICPSWSCWSWSC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/aem.00299-15"
+            "ref": "https://doi.org/10.1128/aem.00299-15",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "pseudomycoicidin"
+            ]
       }
 }

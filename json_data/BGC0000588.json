@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["GDVNWVDVGKTVATNGAGVIGGAFGAGLCGPVCAGAFAVGSSAAVAALYDAAGNSNSAKQKPEGLPPEAWNYAEGRMCNWSPNNLSDVCL"],
+            "core_sequences": [
+                  "GDVNWVDVGKTVATNGAGVIGGAFGAGLCGPVCAGAFAVGSSAAVAALYDAAGNSNSAKQKPEGLPPEAWNYAEGRMCNWSPNNLSDVCL"
+            ],
             "protein_ids": [
                   "AAP03989.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GDVNWVDVGKTVATNGAGVIGGAFGAGLCGPVCAGAFAVGSSAAVAALYDAAGNSNSAKQKPEGLPPEAWNYAEGRMCNWSPNNLSDVCL",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/aac.48.2.505-513.2004"
+            "ref": "https://doi.org/10.1128/aac.48.2.505-513.2004",
+            "ripp_class": "Microcin",
+            "compound_name": [
+                  "microcin L"
+            ]
       }
 }

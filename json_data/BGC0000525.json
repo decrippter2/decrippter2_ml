@@ -24,6 +24,11 @@
                   "core_seq": "TITLSTCAILSKPLGNNGYLCTVTKECMPSCN",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/bi100871b"
+            "ref": "https://doi.org/10.1021/bi100871b",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "lichenicidin VK21 A1",
+                  "lichenicidin VK21 A2"
+            ]
       }
 }

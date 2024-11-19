@@ -24,6 +24,11 @@
                   "core_seq": "SGFFGRSWLI",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.2c02824"
+            "ref": "https://doi.org/10.1021/jacs.2c02824",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "pyritide A1",
+                  "pyritide A2"
+            ]
       }
 }

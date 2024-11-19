@@ -16,6 +16,10 @@
                   "core_seq": "YTEVSPQSTIVCVSLRICNWSLRFCPSFKVKCPM",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/bip.22876"
+            "ref": "https://doi.org/10.1002/bip.22876",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "geobacillin II"
+            ]
       }
 }

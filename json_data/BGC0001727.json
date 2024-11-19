@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1552554,
             "end": 1565755,
-            "core_sequences": ["SGLICTPSCATGTLNCQVSLSFCKTC"],
+            "core_sequences": [
+                  "SGLICTPSCATGTLNCQVSLSFCKTC"
+            ],
             "protein_ids": [
                   "ADM69291.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SGLICTPSCATGTLNCQVSLSFCKTC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1111/jam.13580"
+            "ref": "https://doi.org/10.1111/jam.13580",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "paenilan"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1489807,
             "end": 1500652,
-            "core_sequences": ["MNLITDVLAGLVHFIGWLV"],
+            "core_sequences": [
+                  "MNLITDVLAGLVHFIGWLV"
+            ],
             "protein_ids": [
                   "POX53806.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "MNLITDVLAGLVHFIGWLV",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/nchembio.684"
+            "ref": "https://doi.org/10.1038/nchembio.684",
+            "ripp_class": "Proteusin",
+            "compound_name": [
+                  "SWA-2138"
+            ]
       }
 }

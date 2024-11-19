@@ -16,6 +16,10 @@
                   "core_seq": "VLSIVACSSGCGSGKTAASCVETCGNRCFTNVGSLC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/ja3089229"
+            "ref": "https://doi.org/10.1021/ja3089229",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "paenicidin A"
+            ]
       }
 }

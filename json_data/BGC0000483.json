@@ -14,6 +14,11 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Cyanobactin",
+            "compound_name": [
+                  "aeruginosamide B",
+                  "aeruginosamide C"
+            ]
       }
 }

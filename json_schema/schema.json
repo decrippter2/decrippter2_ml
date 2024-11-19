@@ -21,6 +21,17 @@
         }
       }
     },
+    "compound_name": {
+      "title": "Name of compound",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "ripp_class":  {
+      "title": "RiPP class name",
+      "type": "string"
+    },
     "ref": {
       "title": "References in DOI format",
       "type": "array",

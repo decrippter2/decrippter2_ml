@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["GGMGWAQCAALLAQCSSAGSFGCGGGWSQAYSQCNTYRRSCNK"],
+            "core_sequences": [
+                  "GGMGWAQCAALLAQCSSAGSFGCGGGWSQAYSQCNTYRRSCNK"
+            ],
             "protein_ids": [
                   "WP_002130747.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GGMGWAQCAALLAQCSSAGSFGCGGGWSQAYSQCNTYRRSCNK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.8b00599"
+            "ref": "https://doi.org/10.1021/acschembio.8b00599",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "bacillicn CER074"
+            ]
       }
 }

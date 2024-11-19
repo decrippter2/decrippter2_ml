@@ -4,7 +4,11 @@
             "ncomp": 3,
             "start": 52927,
             "end": 58912,
-            "core_sequences": ["KYPSD","KYPSD","KWPSD"],
+            "core_sequences": [
+                  "KYPSD",
+                  "KYPSD",
+                  "KWPSD"
+            ],
             "protein_ids": [
                   "MBU7585865.1",
                   "MBU7585863.1",
@@ -28,6 +32,12 @@
                   "core_seq": "KWPSD",
                   "follower_seq": "WEEY"
             },
-            "ref": "https://doi.org/10.1128/msphere.00562-21"
+            "ref": "https://doi.org/10.1128/msphere.00562-21",
+            "ripp_class": "Microviridin",
+            "compound_name": [
+                  "microviridin 1688",
+                  "microviridin 1739",
+                  "microviridin 1748"
+            ]
       }
 }

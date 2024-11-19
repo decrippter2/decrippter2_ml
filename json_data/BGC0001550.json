@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 2136,
             "end": 7545,
-            "core_sequences": ["LLGRSGNDRLVLSKN"],
+            "core_sequences": [
+                  "LLGRSGNDRLVLSKN"
+            ],
             "protein_ids": [
                   "WP_106975170.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "LLGRSGNDRLVLSKN",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/nchembio.2319"
+            "ref": "https://doi.org/10.1038/nchembio.2319",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "citrulassin D"
+            ]
       }
 }

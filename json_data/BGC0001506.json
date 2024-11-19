@@ -21,6 +21,11 @@
                   "core_seq": "GFIGWGNDIFGHYSGG",
                   "follower_seq": "VDEQIELTTAEPYAPPTLTEVGEFNEDTLGFIGWGNDIFGHYSGGF"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "anantin B1",
+                  "anantin B2"
+            ]
       }
 }

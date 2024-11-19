@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 2822511,
             "end": 2838784,
-            "core_sequences": ["CAWYDISCKLGNKGAWCTLTVECQSSCN"],
+            "core_sequences": [
+                  "CAWYDISCKLGNKGAWCTLTVECQSSCN"
+            ],
             "protein_ids": [
                   "AMQ71638.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CAWYDISCKLGNKGAWCTLTVECQSSCN",
                   "follower_seq": ""
             },
-            "ref": "https://dx.doi.org/10.1111/jam.15290"
+            "ref": "https://dx.doi.org/10.1111/jam.15290",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "amyloliquecidin GF610"
+            ]
       }
 }

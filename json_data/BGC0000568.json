@@ -16,6 +16,10 @@
                   "core_seq": "VGIGGGGGGGGGGSCGGQGGGCGGCSNGCSGGNGGSGGSGSHI",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.jmb.2019.05.050"
+            "ref": "https://doi.org/10.1016/j.jmb.2019.05.050",
+            "ripp_class": "LAP",
+            "compound_name": [
+                  "microcin B17"
+            ]
       }
 }

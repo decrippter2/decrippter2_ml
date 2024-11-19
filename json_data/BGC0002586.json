@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1,
             "end": 11905,
-            "core_sequences": ["KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGVKHSSGGGGSYHC"],
+            "core_sequences": [
+                  "KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGVKHSSGGGGSYHC"
+            ],
             "protein_ids": [
                   "AOF43525.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGVKHSSGGGGSYHC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/1873-3468.13708"
+            "ref": "https://doi.org/10.1002/1873-3468.13708",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "ASM1"
+            ]
       }
 }

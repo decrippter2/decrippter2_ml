@@ -4,7 +4,10 @@
             "ncomp": 2,
             "start": 221557,
             "end": 226277,
-            "core_sequences": ["AVTLKDCEHITTHTYTVAWGDCQVEM","LASANKTIVSVVHSCVCKPSEVDCF"],
+            "core_sequences": [
+                  "AVTLKDCEHITTHTYTVAWGDCQVEM",
+                  "LASANKTIVSVVHSCVCKPSEVDCF"
+            ],
             "protein_ids": [
                   "WDD98117.1",
                   "WDD98118.1"
@@ -21,6 +24,11 @@
                   "core_seq": "LASANKTIVSVVHSCVCKPSEVDCF",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.3390/md22090388"
+            "ref": "https://doi.org/10.3390/md22090388",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "thalassomonasin A",
+                  "thalassomonasin B"
+            ]
       }
 }

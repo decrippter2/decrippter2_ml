@@ -16,6 +16,10 @@
                   "core_seq": "CTFTLPGGGGVCTLTSECIC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1111/j.1574-6968.1995.tb07460.x"
+            "ref": "https://doi.org/10.1111/j.1574-6968.1995.tb07460.x",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "mersacidin"
+            ]
       }
 }

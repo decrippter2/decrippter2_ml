@@ -24,6 +24,11 @@
                   "core_seq": "INPYLYP",
                   "follower_seq": "FAGDDAE"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "prenylagaramide B",
+                  "prenylagaramide C"
+            ]
       }
 }

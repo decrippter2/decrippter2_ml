@@ -4,7 +4,9 @@
             "ncomp": 7,
             "start": 2708890,
             "end": 2716448,
-            "core_sequences": ["TYKFPSDLEDR"],
+            "core_sequences": [
+                  "TYKFPSDLEDR"
+            ],
             "protein_ids": [
                   "WP_083782369.1"
             ],
@@ -14,6 +16,16 @@
                   "core_seq": "TYKFPSDLEDR",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.9b00240"
+            "ref": "https://doi.org/10.1021/acschembio.9b00240",
+            "ripp_class": "Microviridin",
+            "compound_name": [
+                  "microviridin N9",
+                  "microviridin N8",
+                  "microviridin N7",
+                  "microviridin N6",
+                  "microviridin N5",
+                  "microviridin N4",
+                  "microviridin N3"
+            ]
       }
 }

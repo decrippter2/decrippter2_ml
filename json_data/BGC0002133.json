@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 68380,
             "end": 79542,
-            "core_sequences": ["MCSSCPMCGPLCP"],
+            "core_sequences": [
+                  "MCSSCPMCGPLCP"
+            ],
             "protein_ids": [
                   "WP_161912153.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "MCSSCPMCGPLCP",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acs.biochem.1c00443"
+            "ref": "https://doi.org/10.1021/acs.biochem.1c00443",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "group 1 methanobactin"
+            ]
       }
 }

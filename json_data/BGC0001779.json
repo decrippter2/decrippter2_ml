@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 7655773,
             "end": 7662064,
-            "core_sequences": ["CLGVGSCNDFAGCGYAIVCFW"],
+            "core_sequences": [
+                  "CLGVGSCNDFAGCGYAIVCFW"
+            ],
             "protein_ids": [
                   "WP_107070498.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CLGVGSCNDFAGCGYAIVCFW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.6b01002"
+            "ref": "https://doi.org/10.1021/acschembio.6b01002",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "siamycin"
+            ]
       }
 }

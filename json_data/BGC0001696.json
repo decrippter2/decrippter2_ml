@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["VMAAAATVAFHC"],
+            "core_sequences": [
+                  "VMAAAATVAFHC"
+            ],
             "protein_ids": [
                   "BBC15198.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "VMAAAATVAFHC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acs.jnatprod.7b00607"
+            "ref": "https://doi.org/10.1021/acs.jnatprod.7b00607",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "neothioviridamide"
+            ]
       }
 }

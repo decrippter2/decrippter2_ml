@@ -4,7 +4,9 @@
             "ncomp": 4,
             "start": 1,
             "end": 13427,
-            "core_sequences": ["VVSTCTI"],
+            "core_sequences": [
+                  "VVSTCTI"
+            ],
             "protein_ids": [
                   "AMQ23504.1"
             ],
@@ -14,6 +16,13 @@
                   "core_seq": "VVSTCTI",
                   "follower_seq": "KMDEDIEETQ"
             },
-            "ref": "https://doi.org/10.1039/C5SC03021H"
+            "ref": "https://doi.org/10.1039/C5SC03021H",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "azolemycin B",
+                  "azolemycin A",
+                  "azolemycin D",
+                  "azolemycin C"
+            ]
       }
 }

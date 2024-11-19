@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 70874,
             "end": 75253,
-            "core_sequences": ["GGDGSIAEYFNRPMHIHDWQIMDSGYYG"],
+            "core_sequences": [
+                  "GGDGSIAEYFNRPMHIHDWQIMDSGYYG"
+            ],
             "protein_ids": [
                   "KVR35741.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GGDGSIAEYFNRPMHIHDWQIMDSGYYG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/cbic.201900707"
+            "ref": "https://doi.org/10.1002/cbic.201900707",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "ubonodin"
+            ]
       }
 }

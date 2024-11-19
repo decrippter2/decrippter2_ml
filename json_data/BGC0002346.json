@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1,
             "end": 11935,
-            "core_sequences": ["CASTCSAGPFTFACDGSTK"],
+            "core_sequences": [
+                  "CASTCSAGPFTFACDGSTK"
+            ],
             "protein_ids": [
                   "QDF63358.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CASTCSAGPFTFACDGSTK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.01876-19"
+            "ref": "https://doi.org/10.1128/AEM.01876-19",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "kyamicin"
+            ]
       }
 }

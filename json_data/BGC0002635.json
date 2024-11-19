@@ -4,7 +4,9 @@
             "ncomp": 2,
             "start": 1,
             "end": 6932,
-            "core_sequences": ["ITSISLCTPGCTSAGGGSNCSFCC"],
+            "core_sequences": [
+                  "ITSISLCTPGCTSAGGGSNCSFCC"
+            ],
             "protein_ids": [
                   "QYZ85378.1"
             ],
@@ -14,6 +16,11 @@
                   "core_seq": "ITSISLCTPGCTSAGGGSNCSFCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.cclet.2021.06.010"
+            "ref": "https://doi.org/10.1016/j.cclet.2021.06.010",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "daspyromycin A",
+                  "daspyromycin B"
+            ]
       }
 }

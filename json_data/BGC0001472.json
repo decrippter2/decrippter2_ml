@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 4868,
             "end": 17729,
-            "core_sequences": ["SCTTTSVSTSSSSSSS"],
+            "core_sequences": [
+                  "SCTTTSVSTSSSSSSS"
+            ],
             "protein_ids": [
                   "AGN11670.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SCTTTSVSTSSSSSSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1073/pnas.1307111110"
+            "ref": "https://doi.org/10.1073/pnas.1307111110",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "berninamycin A"
+            ]
       }
 }

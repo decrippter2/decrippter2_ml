@@ -4,9 +4,13 @@
             "ncomp": 4,
             "start": 155004,
             "end": 161953,
-            "core_sequences": ["GPR","APR"],
+            "core_sequences": [
+                  "GPR",
+                  "APR"
+            ],
             "protein_ids": [
-                  "WP_030877127.1","WP_030877127.1_2"
+                  "WP_030877127.1",
+                  "WP_030877127.1_2"
             ],
             "WP_030877127.1": {
                   "complete_seq": "MRKDSDLRLDDLAHVNPEQLQGFLEERSTAAVHGATDAYFSGPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR",
@@ -20,6 +24,13 @@
                   "core_seq": "APR",
                   "follower_seq": "AQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR"
             },
-            "ref": "http://dx.doi.org/10.1093/nar/gkz192"
+            "ref": "http://dx.doi.org/10.1093/nar/gkz192",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "thiovarsolin A",
+                  "thiovarsolin B",
+                  "thiovarsolin C",
+                  "thiovarsolin D"
+            ]
       }
 }

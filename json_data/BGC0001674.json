@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 396027,
             "end": 407939,
-            "core_sequences": ["CLGVGSCNDFAGCGYAIVCFW"],
+            "core_sequences": [
+                  "CLGVGSCNDFAGCGYAIVCFW"
+            ],
             "protein_ids": [
                   "WP_103079660.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CLGVGSCNDFAGCGYAIVCFW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/cbic.201800315"
+            "ref": "https://doi.org/10.1002/cbic.201800315",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "MS-271"
+            ]
       }
 }

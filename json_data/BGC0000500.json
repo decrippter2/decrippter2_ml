@@ -21,6 +21,11 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "carnolysin A1",
+                  "carnolysin A2"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "ATCARCDSSSRCGASGKSSGSASSIST",
                   "follower_seq": ""
             },
-            "ref": "https://www.ncbi.nlm.nih.gov/pubmed/31594941"
+            "ref": "https://www.ncbi.nlm.nih.gov/pubmed/31594941",
+            "ripp_class": "LAP",
+            "compound_name": [
+                  "phazolicin"
+            ]
       }
 }

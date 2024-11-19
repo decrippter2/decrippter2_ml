@@ -4,7 +4,9 @@
             "ncomp": 2,
             "start": 11281,
             "end": 13433,
-            "core_sequences": ["YIYY"],
+            "core_sequences": [
+                  "YIYY"
+            ],
             "protein_ids": [
                   "QLH55578.1"
             ],
@@ -14,6 +16,11 @@
                   "core_seq": "YIYY",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.0c00430"
+            "ref": "https://doi.org/10.1021/acschembio.0c00430",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "cittilin A",
+                  "cittilin B"
+            ]
       }
 }

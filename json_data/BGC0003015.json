@@ -16,6 +16,10 @@
                   "core_seq": "MQTTRPIQSDSEIQILSIATPATKLTQGGGGPTPEYFLMPIDPAWLQANLPNTGKYN",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "achromonodin-1"
+            ]
       }
 }

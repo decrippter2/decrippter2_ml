@@ -16,6 +16,10 @@
                   "core_seq": "TGSQVSLLVCEYSSLSVVLCTP",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1080/09168451.2016.1238297"
+            "ref": "https://doi.org/10.1080/09168451.2016.1238297",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "AmfS"
+            ]
       }
 }

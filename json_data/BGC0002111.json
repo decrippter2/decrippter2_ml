@@ -32,6 +32,11 @@
                   "core_seq": "ATITTTWTVTTTGAWASTISNNC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.isci.2021.102480"
+            "ref": "https://doi.org/10.1016/j.isci.2021.102480",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "andalusicin A",
+                  "andalusicin B"
+            ]
       }
 }

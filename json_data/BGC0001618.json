@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["ITSFSLCTPGCAKTGSFNSYCC"],
+            "core_sequences": [
+                  "ITSFSLCTPGCAKTGSFNSYCC"
+            ],
             "protein_ids": [
                   "ARD24445.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "ITSFSLCTPGCAKTGSFNSYCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.micres.2017.02.003"
+            "ref": "https://doi.org/10.1016/j.micres.2017.02.003",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "hyicin 3682"
+            ]
       }
 }

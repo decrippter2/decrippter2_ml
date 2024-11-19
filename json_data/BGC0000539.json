@@ -16,6 +16,10 @@
                   "core_seq": "KKKSGVIPTVSHDCHMNSFQFVFTCCS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/aac.01623-08"
+            "ref": "https://doi.org/10.1128/aac.01623-08",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "nukacin ISK-1"
+            ]
       }
 }

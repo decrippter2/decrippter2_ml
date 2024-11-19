@@ -24,6 +24,11 @@
                   "core_seq": "TTPACFTIGLGVGALFSAKFC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.3390/toxins5050895"
+            "ref": "https://doi.org/10.3390/toxins5050895",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "cytolysin ClyLl",
+                  "cytolysin ClyLs"
+            ]
       }
 }

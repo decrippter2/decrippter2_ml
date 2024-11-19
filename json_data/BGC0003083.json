@@ -21,6 +21,11 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "sphingopyxin I",
+                  "II"
+            ]
       }
 }

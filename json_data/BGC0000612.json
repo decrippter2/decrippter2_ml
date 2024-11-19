@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 4977401,
             "end": 4998568,
-            "core_sequences": ["SCTTCVCTCSCCTT"],
+            "core_sequences": [
+                  "SCTTCVCTCSCCTT"
+            ],
             "protein_ids": [
                   "AAP11956.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SCTTCVCTCSCCTT",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1073/pnas.0900008106"
+            "ref": "https://doi.org/10.1073/pnas.0900008106",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "thiocillin I"
+            ]
       }
 }

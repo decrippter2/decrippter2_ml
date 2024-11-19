@@ -16,6 +16,10 @@
                   "core_seq": "TSIAPFC",
                   "follower_seq": "SYDGVDASTSIAPFCSYDGVDASTSIAPFCSYDD"
             },
-            "ref": "https://doi.org/10.1038/nchembio.84"
+            "ref": "https://doi.org/10.1038/nchembio.84",
+            "ripp_class": "Cyanobactin",
+            "compound_name": [
+                  "trunkamide"
+            ]
       }
 }

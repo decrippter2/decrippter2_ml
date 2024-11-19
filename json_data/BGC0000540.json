@@ -16,6 +16,10 @@
                   "core_seq": "ASIIKTTIKVSKAVCKTLTCICTGSCSNCK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.micres.2015.08.001"
+            "ref": "https://doi.org/10.1016/j.micres.2015.08.001",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "paenibacillin"
+            ]
       }
 }

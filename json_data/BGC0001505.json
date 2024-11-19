@@ -4,7 +4,9 @@
             "ncomp": 2,
             "start": 0,
             "end": 0,
-            "core_sequences": ["AQGVSYFP"],
+            "core_sequences": [
+                  "AQGVSYFP"
+            ],
             "protein_ids": [
                   "AVD53611.1"
             ],
@@ -14,6 +16,11 @@
                   "core_seq": "AQGVSYFP",
                   "follower_seq": "FAGDDAE"
             },
-            "ref": "https://doi.org/10.26434/chemrxiv.5346739.v1"
+            "ref": "https://doi.org/10.26434/chemrxiv.5346739.v1",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "anacyclamide D8P",
+                  "sphaerocyclamide"
+            ]
       }
 }

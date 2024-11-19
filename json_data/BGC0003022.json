@@ -6,6 +6,8 @@
             "end": 34560,
             "core_sequences": [],
             "protein_ids": [],
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lasso peptide",
+            "compound_name": []
       }
 }

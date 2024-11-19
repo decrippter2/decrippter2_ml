@@ -16,6 +16,11 @@
                   "core_seq": "TLPVPTLC",
                   "follower_seq": "SYDGVDASTVPTLCSYDD"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Cyanobactin",
+            "compound_name": [
+                  "patellin 2",
+                  "patellin 3"
+            ]
       }
 }

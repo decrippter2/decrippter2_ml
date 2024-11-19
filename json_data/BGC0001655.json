@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 360089,
             "end": 365660,
-            "core_sequences": ["GRPNWGFENDWSCVRVC"],
+            "core_sequences": [
+                  "GRPNWGFENDWSCVRVC"
+            ],
             "protein_ids": [
                   "WP_014911574.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GRPNWGFENDWSCVRVC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/nchembio.2319"
+            "ref": "https://doi.org/10.1038/nchembio.2319",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "LP2006"
+            ]
       }
 }

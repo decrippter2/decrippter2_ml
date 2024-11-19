@@ -40,6 +40,13 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "other",
+            "compound_name": [
+                  "myxopeptin B",
+                  "myxopeptin C",
+                  "myxopeptin D",
+                  "myxopeptin E"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["SCTTCECSCSCSS"],
+            "core_sequences": [
+                  "SCTTCECSCSCSS"
+            ],
             "protein_ids": [
                   "ADH93699.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SCTTCECSCSCSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1007/s10529-010-0460-0"
+            "ref": "https://doi.org/10.1007/s10529-010-0460-0",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "nocathiacin I"
+            ]
       }
 }

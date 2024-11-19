@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 604806,
             "end": 621192,
-            "core_sequences": ["SCNCFCYICCSCSSA"],
+            "core_sequences": [
+                  "SCNCFCYICCSCSSA"
+            ],
             "protein_ids": [
                   "ADG87276.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SCNCFCYICCSCSSA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.6b08987"
+            "ref": "https://doi.org/10.1021/jacs.6b08987",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "thiomuracin"
+            ]
       }
 }

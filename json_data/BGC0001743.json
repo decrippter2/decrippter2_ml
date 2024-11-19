@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 9158,
             "end": 12204,
-            "core_sequences": ["IVWIAKQFGVHLTTSLTQKALDLLSAGSSLGTVAAAVLGVTLPAWAVAAAGALGGTAA"],
+            "core_sequences": [
+                  "IVWIAKQFGVHLTTSLTQKALDLLSAGSSLGTVAAAVLGVTLPAWAVAAAGALGGTAA"
+            ],
             "protein_ids": [
                   "PCL98053.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "IVWIAKQFGVHLTTSLTQKALDLLSAGSSLGTVAAAVLGVTLPAWAVAAAGALGGTAA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/aem.01801-17"
+            "ref": "https://doi.org/10.1128/aem.01801-17",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "plantaricyclin"
+            ]
       }
 }

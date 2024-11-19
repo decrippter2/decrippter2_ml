@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 910426,
             "end": 914716,
-            "core_sequences": ["KGDTTHATGPNGDDPGDPDFL"],
+            "core_sequences": [
+                  "KGDTTHATGPNGDDPGDPDFL"
+            ],
             "protein_ids": [
                   "ALN78924.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "KGDTTHATGPNGDDPGDPDFL",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.1c00672"
+            "ref": "https://doi.org/10.1021/acschembio.1c00672",
+            "ripp_class": "Graspetide",
+            "compound_name": [
+                  "Thatisin"
+            ]
       }
 }

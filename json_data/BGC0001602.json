@@ -4,10 +4,13 @@
             "ncomp": 1,
             "start": 1,
             "end": 6935,
-            "core_sequences": ["RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
-            "NKWGNAVIGAATGATRGVSWCRGFGPWGMTACGLGGAAIGGYLGYKSN"],
+            "core_sequences": [
+                  "RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
+                  "NKWGNAVIGAATGATRGVSWCRGFGPWGMTACGLGGAAIGGYLGYKSN"
+            ],
             "protein_ids": [
-                  "BBE52947.1","BBE52948.1"
+                  "BBE52947.1",
+                  "BBE52948.1"
             ],
             "BBE52947.1": {
                   "complete_seq": "MKNFNTLSFETLANIVGGRNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
@@ -21,6 +24,10 @@
                   "core_seq": "NKWGNAVIGAATGATRGVSWCRGFGPWGMTACGLGGAAIGGYLGYKSN",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.02815-18"
+            "ref": "https://doi.org/10.1128/AEM.02815-18",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "gassericin-T"
+            ]
       }
 }

@@ -26,6 +26,11 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "PedA15.1",
+                  "PedA15.2"
+            ]
       }
 }

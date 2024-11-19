@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 6818977,
             "end": 6822202,
-            "core_sequences": ["SKKSKPGDGIRGKGVRG"],
+            "core_sequences": [
+                  "SKKSKPGDGIRGKGVRG"
+            ],
             "protein_ids": [
                   "QSY49196.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SKKSKPGDGIRGKGVRG",
                   "follower_seq": "RFMFMDETPEAEATTSIRDSLADLAETLESEARK"
             },
-            "ref": "https://doi.org/10.1021/acs.jnatprod.2c00065"
+            "ref": "https://doi.org/10.1021/acs.jnatprod.2c00065",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "alboverticillin"
+            ]
       }
 }

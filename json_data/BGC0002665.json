@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1675130,
             "end": 1686044,
-            "core_sequences": ["MGQPNVQSVENQQASGDVKDLENTPQATEEALFEEFDLDDIEVIESKVFA"],
+            "core_sequences": [
+                  "MGQPNVQSVENQQASGDVKDLENTPQATEEALFEEFDLDDIEVIESKVFA"
+            ],
             "protein_ids": [
                   "WP_007252214.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "MGQPNVQSVENQQASGDVKDLENTPQATEEALFEEFDLDDIEVIESKVFA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acschembio.2c00087"
+            "ref": "https://doi.org/10.1021/acschembio.2c00087",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "3-thiaglutamate"
+            ]
       }
 }

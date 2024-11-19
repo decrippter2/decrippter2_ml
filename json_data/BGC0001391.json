@@ -4,9 +4,13 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["INTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG","GTPAITTAISAIIAATAQSPCPTSACSKSCNK"],
+            "core_sequences": [
+                  "INTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG",
+                  "GTPAITTAISAIIAATAQSPCPTSACSKSCNK"
+            ],
             "protein_ids": [
-                  "ANP43731.1","ANP43734.1"
+                  "ANP43731.1",
+                  "ANP43734.1"
             ],
             "ANP43731.1": {
                   "complete_seq": "MLDVIKNRKKIEEKLELPEILLEEVEEHSAMGGINTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG",
@@ -20,6 +24,10 @@
                   "core_seq": "GTPAITTAISAIIAATAQSPCPTSACSKSCNK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.3389/fmicb.2016.01115"
+            "ref": "https://doi.org/10.3389/fmicb.2016.01115",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "thusin"
+            ]
       }
 }

@@ -12,6 +12,12 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "LAS-1009",
+                  "LAS-1010",
+                  "LAS-917"
+            ]
       }
 }

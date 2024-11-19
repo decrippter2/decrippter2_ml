@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 2487000,
             "end": 2494800,
-            "core_sequences": ["CWFWSY"],
+            "core_sequences": [
+                  "CWFWSY"
+            ],
             "protein_ids": [
                   "ACL76470.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CWFWSY",
                   "follower_seq": "YQRECPKSLLK"
             },
-            "ref": "https://doi.org/10.1002/anie.202016378"
+            "ref": "https://doi.org/10.1002/anie.202016378",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "Rc-AIP1"
+            ]
       }
 }

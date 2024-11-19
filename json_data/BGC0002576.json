@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1,
             "end": 3141,
-            "core_sequences": ["FIVSSSCS"],
+            "core_sequences": [
+                  "FIVSSSCS"
+            ],
             "protein_ids": [
                   "UBK24780.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "FIVSSSCS",
                   "follower_seq": "SLELDVDEE"
             },
-            "ref": "https://doi.org/10.1016/j.chembiol.2021.08.005"
+            "ref": "https://doi.org/10.1016/j.chembiol.2021.08.005",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "mechercharmycin"
+            ]
       }
 }

@@ -14,6 +14,10 @@
                   "core_seq": "SQSPGNCASCSNSASANCTGGLG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/nchembio.2462"
+            "ref": "https://doi.org/10.1038/nchembio.2462",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "klebsazolicin"
+            ]
       }
 }

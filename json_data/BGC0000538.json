@@ -16,6 +16,10 @@
                   "core_seq": "ITSISLCTPGCKTGALMGCNMKTATCNCSIHVSK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1111/j.1432-1033.1991.tb16317.x"
+            "ref": "https://doi.org/10.1111/j.1432-1033.1991.tb16317.x",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "nisin Z"
+            ]
       }
 }

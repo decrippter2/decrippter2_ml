@@ -24,6 +24,11 @@
                   "core_seq": "GGPLAGEEMGGITTLGISQD",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "xanthomonin II",
+                  "xanthomonin I"
+            ]
       }
 }

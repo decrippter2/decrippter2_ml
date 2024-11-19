@@ -16,6 +16,10 @@
                   "core_seq": "SKKSKPGDGIRGKGVRG",
                   "follower_seq": "RFMFMDETPEAEATTSIRDSLADLAETLESEARK"
             },
-            "ref": "https://dx.doi.org/10.1021/acs.jnatprod.2c00065"
+            "ref": "https://dx.doi.org/10.1021/acs.jnatprod.2c00065",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "triculamin"
+            ]
       }
 }

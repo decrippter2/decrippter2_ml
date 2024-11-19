@@ -16,6 +16,10 @@
                   "core_seq": "VTSWSLCTPGCTSPGGGSNCSFCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.chembiol.2007.11.009"
+            "ref": "https://doi.org/10.1016/j.chembiol.2007.11.009",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "microbisporicin A2"
+            ]
       }
 }

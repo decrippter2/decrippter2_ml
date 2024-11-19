@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["STNCFCYPCCSCSAPSS"],
+            "core_sequences": [
+                  "STNCFCYPCCSCSAPSS"
+            ],
             "protein_ids": [
                   "ATG31918.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "STNCFCYPCCSCSAPSS",
                   "follower_seq": "SA"
             },
-            "ref": "https://doi.org/10.1099/mic.0.000538"
+            "ref": "https://doi.org/10.1099/mic.0.000538",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "kocurin"
+            ]
       }
 }

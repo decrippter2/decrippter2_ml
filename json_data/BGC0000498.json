@@ -16,6 +16,10 @@
                   "core_seq": "GADRGWIKTLTKDCPNVISSICAGTIITACKNCA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1099/mic.0.26437-0"
+            "ref": "https://doi.org/10.1099/mic.0.26437-0",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "bovicin HJ50"
+            ]
       }
 }

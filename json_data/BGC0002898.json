@@ -16,6 +16,10 @@
                   "core_seq": "SSSKNKSKIQETLFSTNNFSSFRKHGFDSVSFSATSISLSKGNSNGGGGGGGGGGGCCCCCCCCCG",
                   "follower_seq": "SGSATLEEIGK"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "LAP",
+            "compound_name": [
+                  "Lap-1"
+            ]
       }
 }

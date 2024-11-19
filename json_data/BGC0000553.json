@@ -16,6 +16,10 @@
                   "core_seq": "TGSQVSLLVCEYSSLSVVLCTP",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "SRO15-2212"
+            ]
       }
 }

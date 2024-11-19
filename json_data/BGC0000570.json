@@ -16,6 +16,10 @@
                   "core_seq": "GLSQGVEPDIGQTYFEESRINQD",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.chembiol.2013.03.013"
+            "ref": "https://doi.org/10.1016/j.chembiol.2013.03.013",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "astexin-1"
+            ]
       }
 }

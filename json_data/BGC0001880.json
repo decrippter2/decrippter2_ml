@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1339,
             "end": 9601,
-            "core_sequences": ["ISPALLASLV"],
+            "core_sequences": [
+                  "ISPALLASLV"
+            ],
             "protein_ids": [
                   "QGX02581.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "ISPALLASLV",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/cbic.201900511"
+            "ref": "https://doi.org/10.1002/cbic.201900511",
+            "ripp_class": "Cyanobactin",
+            "compound_name": [
+                  "scytodecamide"
+            ]
       }
 }

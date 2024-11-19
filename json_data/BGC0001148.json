@@ -4,9 +4,13 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["NVKDGPT","NVKDR"],
+            "core_sequences": [
+                  "NVKDGPT",
+                  "NVKDR"
+            ],
             "protein_ids": [
-                  "BAP82648.1","BAP82648.1_2"
+                  "BAP82648.1",
+                  "BAP82648.1_2"
             ],
             "BAP82648.1": {
                   "complete_seq": "MEREIVWTEIEESDLAAVVSASNVKDGPTVSSSNVKDR",
@@ -20,6 +24,10 @@
                   "core_seq": "NVKDR",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/nchembio.1697"
+            "ref": "https://doi.org/10.1038/nchembio.1697",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "pheganomycin"
+            ]
       }
 }

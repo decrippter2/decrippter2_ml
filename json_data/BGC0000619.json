@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK"],
+            "core_sequences": [
+                  "RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK"
+            ],
             "protein_ids": [
                   "BAM09405.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.02815-18"
+            "ref": "https://doi.org/10.1128/AEM.02815-18",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "gassericin T"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 317875,
             "end": 335464,
-            "core_sequences": ["CASTCSAGPFTFVCDGTTK"],
+            "core_sequences": [
+                  "CASTCSAGPFTFVCDGTTK"
+            ],
             "protein_ids": [
                   "WP_019631332.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CASTCSAGPFTFVCDGTTK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1007/s10295-016-1788-9"
+            "ref": "https://doi.org/10.1007/s10295-016-1788-9",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "cinnamycin B"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1876183,
             "end": 1882234,
-            "core_sequences": ["RCSCTTIPCCCCCGG"],
+            "core_sequences": [
+                  "RCSCTTIPCCCCCGG"
+            ],
             "protein_ids": [
                   "QQB07036.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "RCSCTTIPCCCCCGG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/cb200339d"
+            "ref": "https://doi.org/10.1021/cb200339d",
+            "ripp_class": "LAP",
+            "compound_name": [
+                  "corynazolicin"
+            ]
       }
 }

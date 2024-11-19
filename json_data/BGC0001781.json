@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 158350,
             "end": 161251,
-            "core_sequences": ["GLPIGWWIERPSGWYFPI"],
+            "core_sequences": [
+                  "GLPIGWWIERPSGWYFPI"
+            ],
             "protein_ids": [
                   "GAT69128.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GLPIGWWIERPSGWYFPI",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/ejoc.201601334"
+            "ref": "https://doi.org/10.1002/ejoc.201601334",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "sphaericin"
+            ]
       }
 }

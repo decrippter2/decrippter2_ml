@@ -16,6 +16,10 @@
                   "core_seq": "IASKFLCTPGCAKTGSFNSYCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.ijmm.2013.08.012"
+            "ref": "https://doi.org/10.1016/j.ijmm.2013.08.012",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "gallidermin"
+            ]
       }
 }

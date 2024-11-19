@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 9724,
             "end": 23523,
-            "core_sequences": ["SCTTCTCCCSCCA"],
+            "core_sequences": [
+                  "SCTTCTCCCSCCA"
+            ],
             "protein_ids": [
                   "EFJ68961.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SCTTCTCCCSCCA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.cell.2014.08.032"
+            "ref": "https://doi.org/10.1016/j.cell.2014.08.032",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "lactocillin"
+            ]
       }
 }

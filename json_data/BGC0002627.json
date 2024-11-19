@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 17114,
             "end": 23279,
-            "core_sequences": ["RRRGGSSRVITNTPGVPGCN"],
+            "core_sequences": [
+                  "RRRGGSSRVITNTPGVPGCN"
+            ],
             "protein_ids": [
                   "CBN59342.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "RRRGGSSRVITNTPGVPGCN",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1073/pnas.2113120119"
+            "ref": "https://doi.org/10.1073/pnas.2113120119",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "kamptornamide"
+            ]
       }
 }

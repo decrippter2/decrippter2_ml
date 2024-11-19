@@ -16,6 +16,10 @@
                   "core_seq": "KGGSGVIHTISHECNMNSWQFVFTCCS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1111/j.1574-6976.2006.00045.x"
+            "ref": "https://doi.org/10.1111/j.1574-6976.2006.00045.x",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "lacticin 481"
+            ]
       }
 }

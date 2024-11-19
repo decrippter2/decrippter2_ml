@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1,
             "end": 16516,
-            "core_sequences": ["GCWIAGSRGCGFVTRT"],
+            "core_sequences": [
+                  "GCWIAGSRGCGFVTRT"
+            ],
             "protein_ids": [
                   "QIZ86020.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GCWIAGSRGCGFVTRT",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/anie.201916321"
+            "ref": "https://doi.org/10.1002/anie.201916321",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "landornamide A"
+            ]
       }
 }

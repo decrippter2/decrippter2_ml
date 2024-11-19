@@ -16,6 +16,10 @@
                   "core_seq": "GLDATTDTVMKWVDDGGTISKSRDDT",
                   "follower_seq": ""
             },
-            "ref": "TBA"
+            "ref": "TBA",
+            "ripp_class": "Graspetide",
+            "compound_name": [
+                  "Gra-4"
+            ]
       }
 }

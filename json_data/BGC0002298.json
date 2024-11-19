@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1626600,
             "end": 1632400,
-            "core_sequences": ["GLGRLLADRVIPVGRLVP"],
+            "core_sequences": [
+                  "GLGRLLADRVIPVGRLVP"
+            ],
             "protein_ids": [
                   "WP_143755684.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GLGRLLADRVIPVGRLVP",
                   "follower_seq": ""
             },
-            "ref": "https://www.ncbi.nlm.nih.gov/pubmed/30707253"
+            "ref": "https://www.ncbi.nlm.nih.gov/pubmed/30707253",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "lassomycin-like peptide"
+            ]
       }
 }

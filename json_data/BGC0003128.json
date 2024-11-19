@@ -16,6 +16,10 @@
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Head-to-tail cyclized peptide",
+            "compound_name": [
+                  "Pumilarin"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 260197,
             "end": 303140,
-            "core_sequences": ["SVMAAAATVAFHC"],
+            "core_sequences": [
+                  "SVMAAAATVAFHC"
+            ],
             "protein_ids": [
                   "WP_107048385.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "SVMAAAATVAFHC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.1c11669"
+            "ref": "https://doi.org/10.1021/jacs.1c11669",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "TVA-YJ-2"
+            ]
       }
 }

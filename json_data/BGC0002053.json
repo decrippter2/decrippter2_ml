@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["GFIGWGKDIFGHYGG"],
+            "core_sequences": [
+                  "GFIGWGKDIFGHYGG"
+            ],
             "protein_ids": [
                   "QOE83931.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GFIGWGKDIFGHYGG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/acs.jnatprod.8b00449"
+            "ref": "https://doi.org/10.1021/acs.jnatprod.8b00449",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "ulleungdin"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "FKSWSFCTPGCAKTGSFNSYCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/S0014-5793(97)00425-0"
+            "ref": "https://doi.org/10.1016/S0014-5793(97)00425-0",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "mutacin B-Ny266"
+            ]
       }
 }

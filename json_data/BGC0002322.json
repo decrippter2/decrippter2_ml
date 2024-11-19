@@ -16,6 +16,10 @@
                   "core_seq": "GGVGKIIEYFIGGGVGRYG",
                   "follower_seq": ""
             },
-            "ref": "https://dx.doi.org/10.1074/jbc.ra118.006494"
+            "ref": "https://dx.doi.org/10.1074/jbc.ra118.006494",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "citrocin"
+            ]
       }
 }

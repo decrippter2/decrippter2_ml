@@ -24,6 +24,11 @@
                   "core_seq": "TISPIDTVKIIFRVSSHFGGNGGFGLFCTLSKECQPNCN",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1371/journal.pone.0091352"
+            "ref": "https://doi.org/10.1371/journal.pone.0091352",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "SBI-06990 A1",
+                  "SBI-06989 A2"
+            ]
       }
 }

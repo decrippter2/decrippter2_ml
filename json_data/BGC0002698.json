@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 626503,
             "end": 639333,
-            "core_sequences": ["GRSCTVTIM"],
+            "core_sequences": [
+                  "GRSCTVTIM"
+            ],
             "protein_ids": [
                   "WP_036784545.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "GRSCTVTIM",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1073/pnas.2113120119"
+            "ref": "https://doi.org/10.1073/pnas.2113120119",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "phaeornamide"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "SSSGWLCTLTIECGTIICACR",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.00639-06"
+            "ref": "https://doi.org/10.1128/AEM.00639-06",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "michiganin A"
+            ]
       }
 }

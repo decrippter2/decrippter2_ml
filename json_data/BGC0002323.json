@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 22148,
             "end": 31905,
-            "core_sequences": ["ITSKSLCTPGCKTGALQTCFAKTATCHCSGHVHTK"],
+            "core_sequences": [
+                  "ITSKSLCTPGCKTGALQTCFAKTATCHCSGHVHTK"
+            ],
             "protein_ids": [
                   "QGN18867.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "ITSKSLCTPGCKTGALQTCFAKTATCHCSGHVHTK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/jb.00639-19"
+            "ref": "https://doi.org/10.1128/jb.00639-19",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "nisin J"
+            ]
       }
 }

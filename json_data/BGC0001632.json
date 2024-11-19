@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 99832,
             "end": 105011,
-            "core_sequences": ["WLNGDNNWSTP"],
+            "core_sequences": [
+                  "WLNGDNNWSTP"
+            ],
             "protein_ids": [
                   "KXS89845.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "WLNGDNNWSTP",
                   "follower_seq": "FAGVNAAWLNGDNNWSTPFAGVNAAWLNGDNNWSTPFAADGAE"
             },
-            "ref": "https://doi.org/10.1002/anie.201509920"
+            "ref": "https://doi.org/10.1002/anie.201509920",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "kawaguchipeptin A"
+            ]
       }
 }

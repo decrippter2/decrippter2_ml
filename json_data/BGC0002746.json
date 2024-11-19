@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 8358,
             "end": 47015,
-            "core_sequences": ["WVIVTGIVGVIGSVVSSA"],
+            "core_sequences": [
+                  "WVIVTGIVGVIGSVVSSA"
+            ],
             "protein_ids": [
                   "THU83553.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "WVIVTGIVGVIGSVVSSA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/s41598-021-83106-2"
+            "ref": "https://doi.org/10.1038/s41598-021-83106-2",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "dendrothelin A"
+            ]
       }
 }

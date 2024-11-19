@@ -4,7 +4,10 @@
             "ncomp": 2,
             "start": 134923,
             "end": 155574,
-            "core_sequences": ["SCVGTACACSSTSSSS","STTTTGCTTSSCSSSSS"],
+            "core_sequences": [
+                  "SCVGTACACSSTSSSS",
+                  "STTTTGCTTSSCSSSSS"
+            ],
             "protein_ids": [
                   "WP_078651956.1",
                   "WP_078651955.1"
@@ -21,6 +24,11 @@
                   "core_seq": "STTTTGCTTSSCSSSSS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.tetlet.2017.12.056"
+            "ref": "https://doi.org/10.1016/j.tetlet.2017.12.056",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "radamycin",
+                  "globimycin"
+            ]
       }
 }

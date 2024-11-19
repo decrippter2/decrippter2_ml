@@ -16,6 +16,10 @@
                   "core_seq": "GMGSGSTDQNGQPKNLIGGISDD",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.tig.2024.08.002"
+            "ref": "https://doi.org/10.1016/j.tig.2024.08.002",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "sphingonodin II"
+            ]
       }
 }

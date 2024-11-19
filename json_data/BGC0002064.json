@@ -4,7 +4,10 @@
             "ncomp": 2,
             "start": 6108611,
             "end": 6117497,
-            "core_sequences": ["GSRGWGFEPGVRCLIWCD","GGGGRGYEYNKQCLIFC"],
+            "core_sequences": [
+                  "GSRGWGFEPGVRCLIWCD",
+                  "GGGGRGYEYNKQCLIFC"
+            ],
             "protein_ids": [
                   "QFU91026.1",
                   "QFU91025.1"
@@ -21,6 +24,11 @@
                   "core_seq": "GGGGRGYEYNKQCLIFC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.isci.2020.101785"
+            "ref": "https://doi.org/10.1016/j.isci.2020.101785",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "felipeptin A2",
+                  "felipeptin A1"
+            ]
       }
 }

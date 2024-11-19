@@ -16,6 +16,10 @@
                   "core_seq": "GGAGHVPEYFVGIGTPISFYG",
                   "follower_seq": ""
             },
-            "ref": ""
+            "ref": "",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "microcin J25"
+            ]
       }
 }

@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 3044506,
             "end": 3048678,
-            "core_sequences": ["LASTLGISTAAAKKAIDIIDAASTIASIISLIGIVTGAGAISYAIVATAKTMIKKYGKKYAAAW"],
+            "core_sequences": [
+                  "LASTLGISTAAAKKAIDIIDAASTIASIISLIGIVTGAGAISYAIVATAKTMIKKYGKKYAAAW"
+            ],
             "protein_ids": [
                   "ABS75254.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "LASTLGISTAAAKKAIDIIDAASTIASIISLIGIVTGAGAISYAIVATAKTMIKKYGKKYAAAW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/jb.01474-14"
+            "ref": "https://doi.org/10.1128/jb.01474-14",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "amylocyclicin"
+            ]
       }
 }

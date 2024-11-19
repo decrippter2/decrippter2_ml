@@ -16,6 +16,10 @@
                   "core_seq": "TGSRASLLLCGDSSLSITTCN",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1073/pnas.0404220101"
+            "ref": "https://doi.org/10.1073/pnas.0404220101",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "SapB"
+            ]
       }
 }

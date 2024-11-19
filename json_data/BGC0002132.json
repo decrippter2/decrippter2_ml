@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 367500,
             "end": 375954,
-            "core_sequences": ["MCACNPPWCGTC"],
+            "core_sequences": [
+                  "MCACNPPWCGTC"
+            ],
             "protein_ids": [
                   "WP_157235562.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "MCACNPPWCGTC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.6b06821"
+            "ref": "https://doi.org/10.1021/jacs.6b06821",
+            "ripp_class": "Methanobactin",
+            "compound_name": [
+                  "group 1 methanobactin"
+            ]
       }
 }

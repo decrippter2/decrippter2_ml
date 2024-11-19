@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["FATMRYPSDSDE"],
+            "core_sequences": [
+                  "FATMRYPSDSDE"
+            ],
             "protein_ids": [
                   "BAA81783.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "FATMRYPSDSDE",
                   "follower_seq": "DGFNFPV"
             },
-            "ref": "https://doi.org/10.1021/bi048034x"
+            "ref": "https://doi.org/10.1021/bi048034x",
+            "ripp_class": "Microviridin",
+            "compound_name": [
+                  "marinostatin"
+            ]
       }
 }

@@ -4,9 +4,13 @@
             "ncomp": 1,
             "start": 1776,
             "end": 9525,
-            "core_sequences": ["WGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG","SAILAITLGIFATGYGMGVQKAINDRRKK"],
+            "core_sequences": [
+                  "WGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG",
+                  "SAILAITLGIFATGYGMGVQKAINDRRKK"
+            ],
             "protein_ids": [
-                  "AAB81303.1","AAB81302.1"
+                  "AAB81303.1",
+                  "AAB81302.1"
             ],
             "AAB81303.1": {
                   "complete_seq": "MKSVKELNVKEMQQTIGGWGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG",
@@ -20,6 +24,10 @@
                   "core_seq": "SAILAITLGIFATGYGMGVQKAINDRRKK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1002/1873-3468.12648"
+            "ref": "https://doi.org/10.1002/1873-3468.12648",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "carnobacteriocin XY"
+            ]
       }
 }

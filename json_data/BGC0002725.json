@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 170670,
             "end": 171864,
-            "core_sequences": ["ELGTTTSTAGSKTHFDD"],
+            "core_sequences": [
+                  "ELGTTTSTAGSKTHFDD"
+            ],
             "protein_ids": [
                   "WP_019056920.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "ELGTTTSTAGSKTHFDD",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.micres.2020.126669"
+            "ref": "https://doi.org/10.1016/j.micres.2020.126669",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "prunipeptin"
+            ]
       }
 }

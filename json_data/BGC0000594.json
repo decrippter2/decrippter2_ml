@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["YGNTMKYPSDWEEY"],
+            "core_sequences": [
+                  "YGNTMKYPSDWEEY"
+            ],
             "protein_ids": [
                   "ACC54551.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "YGNTMKYPSDWEEY",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.3390/md19010017"
+            "ref": "https://doi.org/10.3390/md19010017",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "microviridin K"
+            ]
       }
 }

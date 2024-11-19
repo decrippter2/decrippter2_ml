@@ -4,7 +4,10 @@
             "ncomp": 3,
             "start": 0,
             "end": 0,
-            "core_sequences": ["SEAVEDYVIPIDKKR","GEAVEDYVIPIDKKR"],
+            "core_sequences": [
+                  "SEAVEDYVIPIDKKR",
+                  "GEAVEDYVIPIDKKR"
+            ],
             "protein_ids": [
                   "BDA39142.1"
             ],
@@ -20,6 +23,12 @@
                   "core_seq": "GEAVEDYVIPIDKKR",
                   "follower_seq": "GEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDKKRGEAVEDYVIPIDKRGEAVEDYVIPIDRKRGEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDK"
             },
-            "ref": "https://doi.org/10.1002/anie.202111076"
+            "ref": "https://doi.org/10.1002/anie.202111076",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "phomopsin A",
+                  "phomopsin B",
+                  "phomopsin E"
+            ]
       }
 }

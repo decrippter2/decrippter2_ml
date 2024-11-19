@@ -16,6 +16,10 @@
                   "core_seq": "HTDGQTNTVTDGGDGRYTNKDSDTDHRED",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1021/jacs.2c09004"
+            "ref": "https://doi.org/10.1021/jacs.2c09004",
+            "ripp_class": "Graspetide",
+            "compound_name": [
+                  "Amycolimiditide"
+            ]
       }
 }

@@ -16,6 +16,10 @@
                   "core_seq": "HLSATH",
                   "follower_seq": "SNALVENPFDDADEAGAADDK"
             },
-            "ref": "https://dx.doi.org/10.1101/2020.05.04.076059"
+            "ref": "https://dx.doi.org/10.1101/2020.05.04.076059",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "streptamidine"
+            ]
       }
 }

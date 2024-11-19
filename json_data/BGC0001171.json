@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1126697,
             "end": 1132588,
-            "core_sequences": ["CCSCSCSTCTCTCTCASSAATKM"],
+            "core_sequences": [
+                  "CCSCSCSTCTCTCTCASSAATKM"
+            ],
             "protein_ids": [
                   "WP_071661762.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "CCSCSCSTCTCTCTCASSAATKM",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1371/journal.ppat.1000144"
+            "ref": "https://doi.org/10.1371/journal.ppat.1000144",
+            "ripp_class": "LAP",
+            "compound_name": [
+                  "listeriolysin S"
+            ]
       }
 }

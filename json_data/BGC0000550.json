@@ -16,6 +16,10 @@
                   "core_seq": "GNGVFKTISHECHLNTWAFLATCCS",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1155/2012/738503"
+            "ref": "https://doi.org/10.1155/2012/738503",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "salivaricin G32"
+            ]
       }
 }

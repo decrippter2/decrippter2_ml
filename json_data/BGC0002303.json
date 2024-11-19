@@ -4,11 +4,15 @@
             "ncomp": 1,
             "start": 4374106,
             "end": 4390172,
-            "core_sequences": ["STPTCAAATISWLGSQLTVKTYKEGC","TSAPCGAASVSWLASQFTVKTYKEGC",
-            "TTPVCAASVASSTWCASAASAISGATYEAGC"
+            "core_sequences": [
+                  "STPTCAAATISWLGSQLTVKTYKEGC",
+                  "TSAPCGAASVSWLASQFTVKTYKEGC",
+                  "TTPVCAASVASSTWCASAASAISGATYEAGC"
             ],
             "protein_ids": [
-                  "ALC22072.1","ALC22073.1","ALC22074.1"
+                  "ALC22072.1",
+                  "ALC22073.1",
+                  "ALC22074.1"
             ],
             "ALC22072.1": {
                   "complete_seq": "MADLQQTGSISELVAGYDTYSEAGELVAEAAADAPASTPTCAAATISWLGSQLTVKTYKEGC",
@@ -28,6 +32,10 @@
                   "core_seq": "TTPVCAASVASSTWCASAASAISGATYEAGC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1371/journal.pbio.3001026"
+            "ref": "https://doi.org/10.1371/journal.pbio.3001026",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "pristinin A3"
+            ]
       }
 }

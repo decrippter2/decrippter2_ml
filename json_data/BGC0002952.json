@@ -4,7 +4,9 @@
             "ncomp": 3,
             "start": 2280171,
             "end": 2282026,
-            "core_sequences": ["RVFIVLPP"],
+            "core_sequences": [
+                  "RVFIVLPP"
+            ],
             "protein_ids": [
                   "BCU11647.1"
             ],
@@ -14,6 +16,12 @@
                   "core_seq": "RVFIVLPP",
                   "follower_seq": "FAEDGAE"
             },
-            "ref": "https://doi.org/10.1021/jacs.1c05732"
+            "ref": "https://doi.org/10.1021/jacs.1c05732",
+            "ripp_class": "Cyanobactin",
+            "compound_name": [
+                  "Argicyclamide A",
+                  "Argicyclamide B",
+                  "Argicyclamide C"
+            ]
       }
 }

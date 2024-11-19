@@ -14,6 +14,10 @@
                   "core_seq": "CMGCWASKSIAMTRVCALPHPAMRAI",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1074/jbc.RA118.005369"
+            "ref": "https://doi.org/10.1074/jbc.RA118.005369",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "sporulation killing factor"
+            ]
       }
 }

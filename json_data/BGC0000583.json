@@ -16,6 +16,10 @@
                   "core_seq": "ATPAVAQFVIQGSTICLVC",
                   "follower_seq": "TBA"
             },
-            "ref": "https://doi.org/10.1128/jb.00171-11"
+            "ref": "https://doi.org/10.1128/jb.00171-11",
+            "ripp_class": "Linaridin",
+            "compound_name": [
+                  "grisemycin"
+            ]
       }
 }

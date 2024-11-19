@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 235088,
             "end": 246792,
-            "core_sequences": ["FIIGSTCC"],
+            "core_sequences": [
+                  "FIIGSTCC"
+            ],
             "protein_ids": [
                   "WP_107116988.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "FIIGSTCC",
                   "follower_seq": "SLEMEEDDLDVAAEETEAV"
             },
-            "ref": "https://doi.org/10.1038/s41429-018-0105-4\n\n"
+            "ref": "https://doi.org/10.1038/s41429-018-0105-4\n\n",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "curacozole"
+            ]
       }
 }

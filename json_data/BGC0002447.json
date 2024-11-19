@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 1,
             "end": 8196,
-            "core_sequences": ["VVSKLGWTGINIGTANALIGALMTGSDIWTAISVAGLAFGGGIGTAISTIGRKAIMEMVEKVGKKKAAQW"],
+            "core_sequences": [
+                  "VVSKLGWTGINIGTANALIGALMTGSDIWTAISVAGLAFGGGIGTAISTIGRKAIMEMVEKVGKKKAAQW"
+            ],
             "protein_ids": [
                   "QBY34566.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "VVSKLGWTGINIGTANALIGALMTGSDIWTAISVAGLAFGGGIGTAISTIGRKAIMEMVEKVGKKKAAQW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/msystems.00047-20"
+            "ref": "https://doi.org/10.1128/msystems.00047-20",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "cerecyclin"
+            ]
       }
 }

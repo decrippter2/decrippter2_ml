@@ -23,6 +23,11 @@
                   "core_seq": "ITVCISVC",
                   "follower_seq": "AYDGE"
             },
-            "ref": "https://doi.org/10.1016/j.sbi.2014.10.006"
+            "ref": "https://doi.org/10.1016/j.sbi.2014.10.006",
+            "ripp_class": "Cyanobactin",
+            "compound_name": [
+                  "patellamide A",
+                  "patellamide C"
+            ]
       }
 }

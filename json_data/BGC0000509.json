@@ -16,6 +16,10 @@
                   "core_seq": "SASIVKTTIKASKKLCRGFTLTCGCHFTGKK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.chembiol.2011.05.007"
+            "ref": "https://doi.org/10.1016/j.chembiol.2011.05.007",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "epilancin 15x"
+            ]
       }
 }

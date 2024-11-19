@@ -16,6 +16,11 @@
                   "core_seq": "LEGGHALLATTTTTQNSCSCPATTDAKDGGCACSC",
                   "follower_seq": ""
             },
-            "ref": "https://dx.doi.org/10.1021/jacs.3c06014"
+            "ref": "https://dx.doi.org/10.1021/jacs.3c06014",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "Myxococin A",
+                  "Myxococin B"
+            ]
       }
 }

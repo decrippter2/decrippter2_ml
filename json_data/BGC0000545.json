@@ -16,6 +16,10 @@
                   "core_seq": "GNGVLKTISHECNMNTWQFLFTCC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.67.9.4111-4118.2001"
+            "ref": "https://doi.org/10.1128/AEM.67.9.4111-4118.2001",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "ruminococcin A"
+            ]
       }
 }

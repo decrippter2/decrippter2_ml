@@ -4,9 +4,13 @@
             "ncomp": 1,
             "start": 1,
             "end": 4918,
-            "core_sequences": ["GTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH","KKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI"],
+            "core_sequences": [
+                  "GTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH",
+                  "KKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI"
+            ],
             "protein_ids": [
-                  "ACR43769.1","ACR43770.1"
+                  "ACR43769.1",
+                  "ACR43770.1"
             ],
             "ACR43769.1": {
                   "complete_seq": "MKELSEKELRECVGGGTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH",
@@ -20,6 +24,10 @@
                   "core_seq": "KKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.02600-09"
+            "ref": "https://doi.org/10.1128/AEM.02600-09",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "lactococcin G"
+            ]
       }
 }

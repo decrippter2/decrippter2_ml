@@ -16,6 +16,10 @@
                   "core_seq": "LYGVRNDEEINWHFDYWT",
                   "follower_seq": ""
             },
-            "ref": "https://dx.doi.org/10.1128/AEM.01752-19"
+            "ref": "https://dx.doi.org/10.1128/AEM.01752-19",
+            "ripp_class": "Lasso peptide",
+            "compound_name": [
+                  "Leepeptin"
+            ]
       }
 }

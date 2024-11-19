@@ -24,6 +24,11 @@
                   "core_seq": "VTTSIPCTVMVSAAVCPTLVCSNKCGGRG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/AEM.06497-11"
+            "ref": "https://doi.org/10.1128/AEM.06497-11",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "enterocin W \u00ce\u00b1",
+                  "enterocin W \u00ce\u00b2"
+            ]
       }
 }

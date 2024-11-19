@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["LTANLGISSYAAKKVIDIINTGSAVATIIALVTAVVGGGLITAGIVATAKSLIKKYGAKYAAAW"],
+            "core_sequences": [
+                  "LTANLGISSYAAKKVIDIINTGSAVATIIALVTAVVGGGLITAGIVATAKSLIKKYGAKYAAAW"
+            ],
             "protein_ids": [
                   "BAT21392.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "LTANLGISSYAAKKVIDIINTGSAVATIIALVTAVVGGGLITAGIVATAKSLIKKYGAKYAAAW",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1128/JB.00692-15"
+            "ref": "https://doi.org/10.1128/JB.00692-15",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "enterocin NKR-5-3B"
+            ]
       }
 }

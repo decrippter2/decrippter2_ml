@@ -16,6 +16,10 @@
                   "core_seq": "ECASTCSFGIVTIVCDGTTK",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1038/nchembio.2537"
+            "ref": "https://doi.org/10.1038/nchembio.2537",
+            "ripp_class": "Lanthipeptide",
+            "compound_name": [
+                  "divamide B"
+            ]
       }
 }

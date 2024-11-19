@@ -21,6 +21,11 @@
                   "core_seq": "GNAACVIGCIGSCVISEGIGSLVGTAFTLG",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1073/pnas.0913554107"
+            "ref": "https://doi.org/10.1073/pnas.0913554107",
+            "ripp_class": "Sactipeptide",
+            "compound_name": [
+                  "thuricin CD \u00ce\u00b1",
+                  "thuricin CD \u00ce\u00b2"
+            ]
       }
 }

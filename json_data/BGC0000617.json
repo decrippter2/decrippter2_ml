@@ -4,7 +4,9 @@
             "ncomp": 1,
             "start": 0,
             "end": 0,
-            "core_sequences": ["KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC"],
+            "core_sequences": [
+                  "KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC"
+            ],
             "protein_ids": [
                   "AAG28763.1"
             ],
@@ -14,6 +16,10 @@
                   "core_seq": "KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1111/j.1574-6976.2010.00244.x"
+            "ref": "https://doi.org/10.1111/j.1574-6976.2010.00244.x",
+            "ripp_class": "TBA",
+            "compound_name": [
+                  "coagulin"
+            ]
       }
 }

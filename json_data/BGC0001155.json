@@ -16,6 +16,10 @@
                   "core_seq": "SCNCVCGFCCSCSPSA",
                   "follower_seq": ""
             },
-            "ref": "https://doi.org/10.1016/j.chembiol.2013.07.005"
+            "ref": "https://doi.org/10.1016/j.chembiol.2013.07.005",
+            "ripp_class": "Thiopeptide",
+            "compound_name": [
+                  "GE2270"
+            ]
       }
 }
