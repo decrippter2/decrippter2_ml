@@ -1,18 +1,18 @@
 {
       "mibig_acc": {
-            "accession": "RVT50611.1",
+            "accession": "NZ_SACT01000005.1",
             "ncomp": 1,
             "start": 311922,
             "end": 334529,
-            "core_sequences": [],
-            "protein_ids": [],
-            "EKU73223.1": {
-                  "complete_seq": "MLLSQKGTPPDTITFRGQEITCLLEKRSAATQITAIDQDIDIR",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "core_sequences": ["GTIDPQNSEEHPVLSRRLEN"],
+            "protein_ids": ["WP_233259133.1"],
+            "WP_233259133.1": {
+                  "complete_seq": "MNETLELEFTDLGDAKEVTKGTIDPQNSEEHPVLSRRLEN",
+                  "leader_seq": "MNETLELEFTDLGDAKEVTK",
+                  "core_seq": "GTIDPQNSEEHPVLSRRLEN",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/acs.biochem.2c00029",
             "ripp_class": "Lasso peptide",
             "compound_name": [
                   "Rubrinodin"

@@ -5,19 +5,19 @@
             "start": 46150,
             "end": 57773,
             "core_sequences": [
-                  "MENQAVRVISEVTAKAQANPDFAHEYVNNPNKVLSDAGMQIPEGMNIHVIVGAPANSEIPNSTSTDVYLLLPQVNEEIKDESLATAAAASCQSTSSTCVTVP"
+                  "AASCQSTSSTCVTVPSCVSCVSSASTNSCS"
             ],
             "protein_ids": [
-                  "CccA"
+                 "WP_073335637.1"
             ],
-            "CccA": {
-                  "complete_seq": "GDVEKGKKVFVQKCAQCHTVZBGGKHKVGPNLWGLFGRKTGQAPGFSYTBABKSKGIVWBZZTLMEYLZBPKKYIPGTKMIFAGIKKKGERADLIAYLKSATS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_073335637.1": {
+                  "complete_seq": "MENQAVRVISEVTAKAQANPDFAHEYVNNPNKVLSDAGMQIPEGMNIHVIVGAPANSEIPNSTSTDVYLLLPQVNEEIKDESLATAAAASCQSTSSTCVTVPSCVSCVSSASTNSCS",
+                  "leader_seq": "MENQAVRVISEVTAKAQANPDFAHEYVNNPNKVLSDAGMQIPEGMNIHVIVGAPANSEIPNSTSTDVYLLLPQVNEEIKDESLATAA",
+                  "core_seq": "AASCQSTSSTCVTVPSCVSCVSSASTNSCS",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41467-023-43604-5",
             "ripp_class": "Thiopeptide",
-            "compound_name": []
+            "compound_name": ["carnazolamide"]
       }
 }

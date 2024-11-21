@@ -16,8 +16,8 @@
                   "core_seq": "GQAIVELDVSGGNLRFLPGIAAE",
                   "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1016/j.jclepro.2022.135136",
             "ripp_class": "Lasso peptide",
-            "compound_name": []
+            "compound_name": ["novosphingonodin II"]
       }
 }

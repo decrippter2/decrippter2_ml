@@ -4,15 +4,15 @@
             "ncomp": 1,
             "start": 1,
             "end": 7383,
-            "core_sequences": [],
+            "core_sequences": ["GDGVMHTLTHECHMNTWQFLLTCC"],
             "protein_ids": [
-                  "EFH71250.1"
+                   "WP_004111352.1"
             ],
-            "EFH71250.1": {
-                  "complete_seq": "MLTHGILNAQLAAAIAKLRHKDQFVVSDCGLPVPAGVEVIDLALVFGIPRFPDVLASIKDDLVLESGIMAEEACDDVPETWIKDLLGVPLTYVPHDGERGFKALVSQAKFVIRTGETTPYSNVLLRCGVPF",
-                  "leader_seq": "TBA",
+            "WP_004111352.1": {
+                  "complete_seq": "MKDVLVEITDAELDEILGAGDGVMHTLTHECHMNTWQFLLTCC",
+                  "leader_seq": "MKDVLVEITDAELDEILGA",
                   "core_seq": "GDGVMHTLTHECHMNTWQFLLTCC",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
             "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lanthipeptide",

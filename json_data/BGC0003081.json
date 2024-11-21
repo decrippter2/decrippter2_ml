@@ -6,27 +6,26 @@
             "end": 813082,
             "core_sequences": [
                   "GSTVSGGC",
-                  "GSTISGGC",
                   "GSTISGGC"
             ],
             "protein_ids": [
-                  "WP_033267993.1",
-                  "WP_033268125.1"
+                  "WP_199838955.1",
+                  "WP_218039239.1"
             ],
-            "WP_033267993.1": {
-                  "complete_seq": "MKGIAVGIVLAIVGLILWLTTKEVETPVVSLHKAGLVLAIVGGAEALFALLGLGKKANK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_199838955.1": {
+                  "complete_seq": "MTIMDLQGLEVPGERDAQALGSTVSGGC",
+                  "leader_seq": "MTIMDLQGLEVPGERDAQAL",
+                  "core_seq": "GSTVSGGC",
+                  "follower_seq": ""
             },
-            "WP_033268125.1": {
-                  "complete_seq": "MTVPTREEIVAQLAEILHEVAGVLPADVTEEKSLVEELDVDSLAMAEVIVVAEERFGIALPEEEMKDMRTVLDIVLRVEKQLAS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_218039239.1": {
+                  "complete_seq": "MTIMDLQGLEVPGERDAQALGSTISGGC",
+                  "leader_seq": "MTIMDLQGLEVPGERDAQAL",
+                  "core_seq": "GSTISGGC",
+                  "follower_seq": ""
             },
-            "ref": "",
-            "ripp_class": "Linaridin",
+            "ref": "https://doi.org/10.1016/j.bmcl.2023.129323",
+            "ripp_class": "TBA",
             "compound_name": [
                   "solabiomycin A",
                   "solabiomycin B"

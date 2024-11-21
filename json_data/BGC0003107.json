@@ -4,15 +4,15 @@
             "ncomp": 1,
             "start": 5045200,
             "end": 5067520,
-            "core_sequences": [],
+            "core_sequences": ["GTSYGESLDATFPDGTPRGELTFS"],
             "protein_ids": [
-                  "EKU73223.1"
+                  "EKU73221.1"
             ],
-            "EKU73223.1": {
-                  "complete_seq": "MLLSQKGTPPDTITFRGQEITCLLEKRSAATQITAIDQDIDIR",
-                  "leader_seq": "TBA",
+            "EKU73221.1": {
+                  "complete_seq": "MEKESYESPELVELGSFESLTQGTSYGESLDATFPDGTPRGELTFS",
+                  "leader_seq": "MEKESYESPELVELGSFESLTQ",
                   "core_seq": "GTSYGESLDATFPDGTPRGELTFS",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
             "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lasso peptide",

@@ -5,18 +5,18 @@
             "start": 321250,
             "end": 322611,
             "core_sequences": [
-                  "WFIWY"
+                  "WFIW"
             ],
             "protein_ids": [
                   null
             ],
             "Unidentified protein0": {
-                  "complete_seq": "TBA",
+                  "complete_seq": "VIKIVNSFSKRFRTEKSLKSATWFIWYS",
                   "leader_seq": "TBA",
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1039/D4SC03469D",
             "ripp_class": "Atropopeptide",
             "compound_name": [
                   "Scabrirubin"

@@ -1,6 +1,6 @@
 {
       "mibig_acc": {
-            "accession": "JOFN01000055.1",
+            "accession": "NZ_JBEZAH010000019.1",
             "ncomp": 2,
             "start": 9444,
             "end": 10656,
@@ -8,22 +8,15 @@
                   "WYQWL"
             ],
             "protein_ids": [
-                  null,
-                  null
+                  "WP_362161288.1"
             ],
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_362161288.1": {
+                  "complete_seq": "MEEFMKLVHLVNKFRSEKSLKAYSWYQWL",
+                  "leader_seq": "MEEFMKLVHLVNKFRSEKSLKAYS",
+                  "core_seq": "WYQWL",
+                  "follower_seq": ""
             },
-            "Unidentified protein1": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "ref": "",
+            "ref": "https://doi.org/10.1039/D4SC03469D",
             "ripp_class": "Atropopeptide",
             "compound_name": [
                   "Varsorubin B2a",

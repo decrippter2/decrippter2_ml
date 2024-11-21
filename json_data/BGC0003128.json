@@ -8,15 +8,15 @@
                   "LAKEFGIPGSVAAVVLNVVEAGGAVTTIVSILTAVGSGGLSLIAAAGKETIRQYLKNEIKKKGRKAVIAW"
             ],
             "protein_ids": [
-                  null
+                  "WP_017358050.1"
             ],
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_017358050.1": {
+                  "complete_seq": "MTETRNEIKLHVLFGALAVGFLMLALFSFSLQVLPVADLAKEFGIPGSVAAVVLNVVEAGGAVTTIVSILTAVGSGGLSLIAAAGKETIRQYLKNEIKKKGRKAVIAW",
+                  "leader_seq": "MTETRNEIKLHVLFGALAVGFLMLALFSFSLQVLPVAD",
+                  "core_seq": "LAKEFGIPGSVAAVVLNVVEAGGAVTTIVSILTAVGSGGLSLIAAAGKETIRQYLKNEIKKKGRKAVIAW",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1099/mgen.0.000134",
             "ripp_class": "Head-to-tail cyclized peptide",
             "compound_name": [
                   "Pumilarin"

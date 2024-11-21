@@ -4,25 +4,27 @@
             "ncomp": 3,
             "start": 228536,
             "end": 269479,
-            "core_sequences": [],
-            "protein_ids": [],
-            "ADP40535.1": {
-                  "complete_seq": "MNLYVFGLVLCSIDWEGSDTDVSVDALLGATLLDMGEGEI",
-                  "leader_seq": "TBA",
+            "core_sequences": ["GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
+            "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW","GLIYGKYRDVLSGARLVTPPEVAL"
+            ],
+            "protein_ids": ["WP_157769145.1","EID50813.1","EID50715.1"],
+            "WP_157769145.1": {
+                  "complete_seq": "MYTKAQLTRLGSFEEATHGWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
+                  "leader_seq": "MYTKAQLTRLGSFEEATH",
                   "core_seq": "GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
-            "ADP40535.1__": {
-                  "complete_seq": "MNLYVFGLVLCSIDWEGSDTDVSVDALLGATLLDMGEGEI",
-                  "leader_seq": "TBA",
+            "EID50813.1": {
+                  "complete_seq": "MYIKPEFKKISSFAHITRGWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
+                  "leader_seq": "MYIKPEFKKISSFAHITR",
                   "core_seq": "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
-            "ADP40535.1_": {
-                  "complete_seq": "MNLYVFGLVLCSIDWEGSDTDVSVDALLGATLLDMGEGEI",
-                  "leader_seq": "TBA",
+            "EID50715.1": {
+                  "complete_seq": "MYIKARFMKMNSFADCTHGLIYGKYRDVLSGARLVTPPEVAL",
+                  "leader_seq": "MYIKARFMKMNSFADCTH",
                   "core_seq": "GLIYGKYRDVLSGARLVTPPEVAL",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
             "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lasso peptide",

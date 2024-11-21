@@ -4,23 +4,25 @@
             "ncomp": 3,
             "start": 1,
             "end": 15558,
-            "core_sequences": [],
-            "protein_ids": [
-                  null,
-                  null,
-                  null
+            "core_sequences": ["GWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG","GGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC",
+            "WQTAFRLTMQGRCGGVFTLSYECATPHVSCG"
             ],
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
+            "protein_ids": [
+                  "EFX57959.1",
+                  "WP_000649492.1",
+                  "WP_009014449.1"
+            ],
+            "EFX57959.1": {
+                  "complete_seq": "MYTNYCKDDHLKKKRRNKPMAKDAERPVIDSLDFEVANQELAGKSGSGWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG",
+                  "leader_seq": "MYTNYCKDDHLKKKRRNKPMAKDAERPVIDSLDFEVANQELAGKSGS",
                   "core_seq": "GWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
-            "Unidentified protein1": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
+            "WP_000649492.1": {
+                  "complete_seq": "MKCDEFKNEIDTLEFEVSNQELAGKSGSGGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC",
+                  "leader_seq": "MKCDEFKNEIDTLEFEVSNQELAGKSGS",
                   "core_seq": "GGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
             "WP_009014449.1": {
                   "complete_seq": "MFIIDNIEQKLYIKRGKEMRKENHGIDTLDYEISHQELSGKSAAGWQTAFRLTMQGRCGGVFTLSYECATPHVSCG",

@@ -4,15 +4,15 @@
             "ncomp": 1,
             "start": 6988,
             "end": 23147,
-            "core_sequences": [],
+            "core_sequences": ["TSIPCGTLIIATLTQCFNDTLVWGSCRLGTRACC"],
             "protein_ids": [
-                  "EKB09399.1"
+                  "EEZ90381.1"
             ],
-            "EKB09399.1": {
-                  "complete_seq": "MADSTHFFERVYDVVREIPIGKVTTYGAIAKAIGAPRSARMVGYAMNASHFDDSVPAHRVVNRVGMLSGKHHFDGTNLMQQLLESEGIVVKNNQVQDFQAHLWIPPVEF",
-                  "leader_seq": "TBA",
+            "EEZ90381.1": {
+                  "complete_seq": "MVKEPELDFVVELDDEDLDVSGGTSIPCGTLIIATLTQCFNDTLVWGSCRLGTRACC",
+                  "leader_seq": "MVKEPELDFVVELDDEDLDVSGG",
                   "core_seq": "TSIPCGTLIIATLTQCFNDTLVWGSCRLGTRACC",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
             "ref": "https://doi.org/10.1038/s41564-023-01524-6",
             "ripp_class": "Lanthipeptide",

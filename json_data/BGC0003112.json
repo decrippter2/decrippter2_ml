@@ -11,12 +11,12 @@
                   "KNC66709.1"
             ],
             "KNC66709.1": {
-                  "complete_seq": "MRLEDTEEKFNKPFQALDQALSKCPAHIEFEQDNYYVTDFDSAKQAMGNPDGNYVEQSDFFNVNGAMFSTRDVQIAIGKDAILSLKRYYEQRRSKIIEQFKHQINLGQRWPDSANDLMYNAFYDFLVDNQRSPQLRKLLDQVLIYSLYSGQKTHGAGWRRAFIRMRVHRALRAVFKARRQQNPYQGNNRDVIDILLASSPENESPKALAQIFLSFFFAINSSMAFTLAWSLYFCAKEGGVLHPAPWIVKEALRLWPVAWNLPRTPSKAHTLGNWTSSRRTPLQSAHTCCIATRTTGRNPSAFIRHAGKMPLLTRPICRLAGAPINALPLPLH",
+                  "complete_seq": "MKTIKAKLLRALGVRSAKPSTSAKYFWHHYNNI",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "WHHYN",
                   "follower_seq": "TBA"
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/jacs.3c07140",
             "ripp_class": "Cyptide",
             "compound_name": [
                   "Rubrin"

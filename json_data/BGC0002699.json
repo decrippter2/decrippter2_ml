@@ -14,13 +14,14 @@
             "compound_name": [
                   "nostolysamide A",
                   "nostolysamide B"
-            ]
-      },
-      "WP_067772729.1": {
-            "complete_seq": "MNNSNLQNFYTLIQNSQELQAQLGAADSPESFAETAVRLGEENGYSFTTEDVNTFISQQRSRANAELSEADLEAVAGGKRRECPSDTRFTFCVFVSSCWGSAC",
-            "leader_seq": "MNNSNLQNFYTLIQNSQELQAQLGAADSPESFAETAVRLGEENGYSFTTEDVNTFISQQRSRANAELSEADLEAVAGG",
-            "core_seq": "KRRECPSDTRFTFCVFVSSCWGSAC",
-            "follower_seq": ""
-      },
-      "ref": "https://doi.org/10.1073/pnas.2113120119"
+            ],
+
+            "WP_067772729.1": {
+                  "complete_seq": "MNNSNLQNFYTLIQNSQELQAQLGAADSPESFAETAVRLGEENGYSFTTEDVNTFISQQRSRANAELSEADLEAVAGGKRRECPSDTRFTFCVFVSSCWGSAC",
+                  "leader_seq": "MNNSNLQNFYTLIQNSQELQAQLGAADSPESFAETAVRLGEENGYSFTTEDVNTFISQQRSRANAELSEADLEAVAGG",
+                  "core_seq": "KRRECPSDTRFTFCVFVSSCWGSAC",
+                  "follower_seq": ""
+            },
+            "ref": "https://doi.org/10.1073/pnas.2113120119"
+      }
 }
