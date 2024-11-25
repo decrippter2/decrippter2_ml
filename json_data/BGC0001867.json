@@ -6,7 +6,7 @@
             "end": 283341,
             "core_sequences": [
                   "TIGGTIVSITCETCDLLVGKMC",
-                  "TBKSTNGCGCKPGHTLSSFLCTLECWLA",
+                  "KSTNGCGCKPGHTLSSFLCTLECWL",
                   "GPGCTGGWWAFTDCTAGGGSCEG",
                   "GSSYRNGKCTFGPACPS",
                   "GLCTLTSNLAAVCCGGCRRATSE",
@@ -31,7 +31,7 @@
             "CAE20416.1": {
                   "complete_seq": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTDDFERNTHRQTLSDDELEGVAGGKSTNGCGCKPGHTLSSFLCTLECWL",
                   "leader_seq": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTDDFERNTHRQTLSDDELEGVAGG",
-                  "core_seq": "TBKSTNGCGCKPGHTLSSFLCTLECWLA",
+                  "core_seq": "KSTNGCGCKPGHTLSSFLCTLECWL",
                   "follower_seq": ""
             },
             "CAE20417.1": {

@@ -5,7 +5,7 @@
             "start": 0,
             "end": 0,
             "core_sequences": [
-                  "ATGCMC"
+                  "ATGCMC", "ATACAC"
             ],
             "protein_ids": [
                   "ACA04484.1"
@@ -16,7 +16,13 @@
                   "core_seq": "ATGCMC",
                   "follower_seq": "AYDGAGASATGCMCAYDGAGASATACACAYDGAGASATACACAYE"
             },
-            "ref": "",
+            "ACA04484.2": {
+                  "complete_seq": "MDKKNILPQQGKPVIRITTGQLPSFLAELSEEALGDAGVGASATGCMCAYDGAGASATGCMCAYDGAGASATACACAYDGAGASATACACAYE",
+                  "leader_seq": "MDKKNILPQQGKPVIRITTGQLPSFLAELSEEALGDAGVGASATGCMCAYDGAGASATGCMCAYDGAGAS",
+                  "core_seq": "ATACAC",
+                  "follower_seq": "AYDGAGASATACACAYE"
+            },
+            "ref": "https://doi.org/10.1038/nchembio.84",
             "ripp_class": "Cyanobactin",
             "compound_name": [
                   "tenuecyclamide A",

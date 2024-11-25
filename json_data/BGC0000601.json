@@ -4,7 +4,7 @@
             "ncomp": 1,
             "start": 213941,
             "end": 220032,
-            "core_sequences": [],
+            "core_sequences": ["CMGCWASKSIAMTRVCALPHPAMRAI"],
             "protein_ids": [
                   "CAB11984.1"
             ],
@@ -15,7 +15,7 @@
                   "follower_seq": ""
             },
             "ref": "https://doi.org/10.1074/jbc.RA118.005369",
-            "ripp_class": "TBA",
+            "ripp_class": "Sactipeptide",
             "compound_name": [
                   "sporulation killing factor"
             ]

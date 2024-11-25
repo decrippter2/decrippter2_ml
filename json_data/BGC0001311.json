@@ -4,7 +4,7 @@
             "ncomp": 1,
             "start": 1,
             "end": 15410,
-            "core_sequences": [],
+            "core_sequences": ["GWKQTIACTIAQGTLGCLVSYGLGNGGYCCTYTVECSKTCNK"],
             "protein_ids": [
                   "WP_009985589.1"
             ],

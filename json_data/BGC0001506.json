@@ -4,25 +4,25 @@
             "ncomp": 2,
             "start": 3033,
             "end": 5863,
-            "core_sequences": [],
+            "core_sequences": ["GFIGWGNDIFGHYSGGF","GFIGWGNDIFGHYSGG"],
             "protein_ids": [
                   "WP_234325512.1",
                   "WP_031104469.1"
             ],
-            "WP_234325512.1": {
-                  "complete_seq": "",
-                  "leader_seq": "TBA",
+            "WP_158761618.1": {
+                  "complete_seq": "MDEQIELTTAEPYAPPTLTEVGEFNEDTLGFIGWGNDIFGHYSGGF",
+                  "leader_seq": "MDEQIELTTAEPYAPPTLTEVGEFNEDTL",
                   "core_seq": "GFIGWGNDIFGHYSGGF",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
             "WP_031104469.1": {
-                  "complete_seq": "",
-                  "leader_seq": "TBA",
+                  "complete_seq": "MDEQIELTTAEPYAPPTLTEVGEFNEDTLGFIGWGNDIFGHYSGGF",
+                  "leader_seq": "MDEQIELTTAEPYAPPTLTEVGEFNEDTL",
                   "core_seq": "GFIGWGNDIFGHYSGG",
-                  "follower_seq": "VDEQIELTTAEPYAPPTLTEVGEFNEDTLGFIGWGNDIFGHYSGGF"
+                  "follower_seq": "F"
             },
-            "ref": "",
-            "ripp_class": "TBA",
+            "ref": "https://doi.org/10.1038/nchembio.2319",
+            "ripp_class": "Lasso peptide",
             "compound_name": [
                   "anantin B1",
                   "anantin B2"

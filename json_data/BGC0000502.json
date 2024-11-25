@@ -5,7 +5,7 @@
             "start": 0,
             "end": 0,
             "core_sequences": [
-                  "TTPLCVGVIIGLTTSIKICK"
+                  "TTPLCVGVIIGLTTSIKICK","TTPLCVGVIIGITASIKICK"
             ],
             "protein_ids": [
                   "AHJ59545.1",
@@ -14,7 +14,6 @@
                   "AHJ59543.1",
                   "AHJ59549.1",
                   "AHJ59546.1",
-                  "AHJ59539.1",
                   "AHJ59548.1"
             ],
             "AHJ59545.1": {
@@ -37,38 +36,31 @@
             },
             "AHJ59543.1": {
                   "complete_seq": "MSKGYKFTKEELVEAWKDPQVREKLKDLPNHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGITASIKICK",
-                  "leader_seq": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPE",
-                  "core_seq": "TTPLCVGVIIGLTTSIKICK",
+                  "leader_seq": "MSKGYKFTKEELVEAWKDPQVREKLKDLPNHPSGKALNELSEEELAEIQGASDVQPE",
+                  "core_seq": "TTPLCVGVIIGITASIKICK",
                   "follower_seq": ""
             },
             "AHJ59549.1": {
                   "complete_seq": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
-                  "leader_seq": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPE",
+                  "leader_seq": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPE",
                   "core_seq": "TTPLCVGVIIGLTTSIKICK",
                   "follower_seq": ""
             },
             "AHJ59546.1": {
                   "complete_seq": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
-                  "leader_seq": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPE",
+                  "leader_seq": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPE",
                   "core_seq": "TTPLCVGVIIGLTTSIKICK",
                   "follower_seq": ""
             },
-            "AHJ59539.1": {
-                  "complete_seq": "MIRELVERILEDIQFKNVCSQGTIAIDGISKQELEIILGTLDKSTLLSKAAETWK",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
             "AHJ59548.1": {
                   "complete_seq": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
-                  "leader_seq": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPE",
+                  "leader_seq": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPE",
                   "core_seq": "TTPLCVGVIIGLTTSIKICK",
                   "follower_seq": ""
             },
             "ref": "https://doi.org/10.1128/AEM.03751-13",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
-                  "cerecidin",
                   "cerecidin A1",
                   "cerecidin A2",
                   "cerecidin A3",

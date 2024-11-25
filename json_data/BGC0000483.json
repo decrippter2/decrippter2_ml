@@ -4,17 +4,23 @@
             "ncomp": 2,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["FFPC","FFPVC"],
             "protein_ids": [
-                  "CCH92968.1"
+                  "WP_043998581.1"
             ],
-            "CCH92968.1": {
-                  "complete_seq": "MRLPLLSPPIKRPHFIQPGLCVDLENGRPEDLVHIRMDLLHAANYNDPAAFANRSFNQVMHSSASQSSASQGWGGFGSMGGFY",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_043998581.1": {
+                  "complete_seq": "MDKKNILPHQGKPVLRTTNGKLPSHLAELSEEALGGAGMDASFFPCSYDGADASFFPVCSYDGADASFFPCSYDDGDA",
+                  "leader_seq": "MDKKNILPHQGKPVLRTTNGKLPSHLAELSEEALGGAGMDAS",
+                  "core_seq": "FFPC",
+                  "follower_seq": "SYDGADASFFPVCSYDGADASFFPCSYDDGDA"
             },
-            "ref": "",
+            "WP_043998581.2": {
+                  "complete_seq": "MDKKNILPHQGKPVLRTTNGKLPSHLAELSEEALGGAGMDASFFPCSYDGADASFFPVCSYDGADASFFPCSYDDGDA",
+                  "leader_seq": "MDKKNILPHQGKPVLRTTNGKLPSHLAELSEEALGGAGMDASFFPCSYDGADAS",
+                  "core_seq": "FFPVC",
+                  "follower_seq": "SYDGADASFFPCSYDDGDA"
+            },
+            "ref": "https://doi.org/10.1016/j.chembiol.2013.06.015",
             "ripp_class": "Cyanobactin",
             "compound_name": [
                   "aeruginosamide B",

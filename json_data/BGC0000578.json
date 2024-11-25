@@ -4,7 +4,7 @@
             "ncomp": 1,
             "start": 4289783,
             "end": 4294787,
-            "core_sequences": [],
+            "core_sequences": ["GYFVGSYKEYWSRRII"],
             "protein_ids": [
                   "WP_010071616.1"
             ],
@@ -15,7 +15,7 @@
                   "follower_seq": ""
             },
             "ref": "https://doi.org/10.1038/nchembio.684",
-            "ripp_class": "TBA",
+            "ripp_class": "Lasso peptide",
             "compound_name": [
                   "SRO15-2005"
             ]

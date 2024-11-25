@@ -12,9 +12,9 @@
             ],
             "WP_003970682.1": {
                   "complete_seq": "MRLDSIATQETATALPESMATQDFANSVLAGAVPGFHSDAETPAMATPAVAQFVIQGSTICLVC",
-                  "leader_seq": "TBA",
+                  "leader_seq": "MRLDSIATQETATALPESMATQDFANSVLAGAVPGFHSDAETPAM",
                   "core_seq": "ATPAVAQFVIQGSTICLVC",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
             "ref": "https://doi.org/10.1128/jb.00171-11",
             "ripp_class": "Linaridin",

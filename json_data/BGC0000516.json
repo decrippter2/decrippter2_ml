@@ -10,7 +10,7 @@
             "protein_ids": [
                   "EDY04300.1"
             ],
-            "EDY04303.1": {
+            "EDY04300.1": {
                   "complete_seq": "MEKQEQTFVSKISEEELKKLAGGYTEVSPQSTIVCVSLRICNWSLRFCPSFKVKCPM",
                   "leader_seq": "MEKQEQTFVSKISEEELKKLAGG",
                   "core_seq": "YTEVSPQSTIVCVSLRICNWSLRFCPSFKVKCPM",

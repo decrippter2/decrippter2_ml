@@ -4,7 +4,7 @@
             "ncomp": 2,
             "start": 5500,
             "end": 20549,
-            "core_sequences": [],
+            "core_sequences": ["TGIGVVVAVVAGAVANTGAGVNQVAGGNINVVGNINVNANVSVNMNQTT"],
             "protein_ids": [
                   "AFS60639.1"
             ],

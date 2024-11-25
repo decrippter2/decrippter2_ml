@@ -14,10 +14,10 @@
                   "complete_seq": "MDEQTEFSTTEPYAPPTLTEVGEFNEDTLGFIGWGDDIFGHYSGDF",
                   "leader_seq": "MDEQTEFSTTEPYAPPTLTEVGEFNEDTL",
                   "core_seq": "GFIGWGDDIFGHYSGDF",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
-            "ref": "",
-            "ripp_class": "TBA",
+            "ref": "https://doi.org/10.1038/nchembio.2319",
+            "ripp_class": "Lasso peptide",
             "compound_name": [
                   "anantin C"
             ]

@@ -4,17 +4,17 @@
             "ncomp": 1,
             "start": 8170944,
             "end": 8185829,
-            "core_sequences": [],
+            "core_sequences": ["TDGGGASTVSLLSCISAASVLLCL"],
             "protein_ids": [
-                  "EFL36745.1"
+                  "WP_039934377.1"
             ],
-            "EFL36745.1": {
-                  "complete_seq": "MNSTPQVETVEIADAQLDAISGGLSVNAVNTVTDTVDGIAPVSGLVDTAVGTVEGVTGLNTAPVTGLVSGL",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "WP_039934377.1": {
+                  "complete_seq": "MALLDLQTIETEERTDGGGASTVSLLSCISAASVLLCL",
+                  "leader_seq": "MALLDLQTIETEER",
+                  "core_seq": "TDGGGASTVSLLSCISAASVLLCL",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/cb500199h",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "informatipeptin"

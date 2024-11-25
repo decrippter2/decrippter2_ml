@@ -9,13 +9,13 @@
                   "WP_016326148.1"
             ],
             "WP_016326148.1": {
-                  "complete_seq": "MDGLVEFRTEDGVRVVVEGVEDEDGARLVSRGDGPARAARTFEDSLDGVRAAAASALRVFRDGSLRPDAVELEFGVKLSAEAGAVIAKGSAEGHLVVRLNWSPEPSPTRTEPRPSATRPEPRPSPAGPEAPDAAALS",
+                  "complete_seq": "MQTVVDAHVPSSPGGARRVPHLNSARSCTIMNLLTDILAGLVHFVGWLV",
                   "leader_seq": "TBA",
-                  "core_seq": "TBA",
+                  "core_seq": "MNLLTDILAGLVHFVGWLV",
                   "follower_seq": "TBA"
             },
-            "ref": "",
-            "ripp_class": "TBA",
+            "ref": "https://doi.org/10.1038/nchembio.684",
+            "ripp_class": "n-FORMILATED PEPTIDE TBA",
             "compound_name": [
                   "SLI-2138"
             ]

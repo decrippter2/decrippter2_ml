@@ -4,7 +4,7 @@
             "ncomp": 2,
             "start": 0,
             "end": 0,
-            "core_sequences": [],
+            "core_sequences": ["GWVACVGACGTVCLASGGVGTEFAAASYFL","GNAACVIGCIGSCVISEGIGSLVGTAFTLG"],
             "protein_ids": [
                   "AED99782.1",
                   "AED99783.1"
@@ -24,8 +24,8 @@
             "ref": "https://doi.org/10.1073/pnas.0913554107",
             "ripp_class": "Sactipeptide",
             "compound_name": [
-                  "thuricin CD \u00ce\u00b1",
-                  "thuricin CD \u00ce\u00b2"
+                  "thuricin CD a",
+                  "thuricin CD b"
             ]
       }
 }

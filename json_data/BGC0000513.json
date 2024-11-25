@@ -8,48 +8,18 @@
                   "SNLSLLASCANSTVSLLTCH"
             ],
             "protein_ids": [
-                  "CAM03499.1",
-                  "CAM03500.1",
-                  "CAM03501.1",
-                  "CAM03502.1",
-                  null,
-                  null,
-                  null
+                  "CAM03500.1"
             ],
             "CAM03500.1": {
                   "complete_seq": "MEMVLELQELDAPNELAYGDPSHGGGSNLSLLASCANSTVSLLTCH",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "Unidentified protein4": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "Unidentified protein5": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
-            },
-            "Unidentified protein6": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MEMVLELQELDAPNELAYGDPSHGGG",
+                  "core_seq": "SNLSLLASCANSTVSLLTCH",
+                  "follower_seq": ""
             },
             "ref": "https://doi.org/10.1111/j.1365-2958.2005.04587.x",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
-                  "Ery-9",
-                  "Ery-6",
-                  "Ery-8",
-                  "Ery-7",
-                  "Ery-5",
-                  "Ery-4",
-                  "Ery-3"
+                  "Erythreapeptin"
             ]
       }
 }

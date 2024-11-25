@@ -4,15 +4,15 @@
             "ncomp": 1,
             "start": 1600261,
             "end": 1628555,
-            "core_sequences": [],
+            "core_sequences": ["YAIG"],
             "protein_ids": [
                   "EED49417.1"
             ],
             "EED49417.1": {
                   "complete_seq": "MKLILTLLVSGLCALAAPAAKRDGVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGGSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGSVEDYAIGIDKKRGTVEDYAIGIDKRGGSVEDYAIGIDKRHGGH",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKLILTLLVSGLCALAAPAAKRDGVED",
+                  "core_seq": "YAIG",
+                  "follower_seq": "IDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGGSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGSVEDYAIGIDKKRGTVEDYAIGIDKRGGSVEDYAIGIDKRHGGH"
             },
             "ref": "https://doi.org/10.1016/j.fgb.2014.04.011",
             "ripp_class": "Dikaritin",
