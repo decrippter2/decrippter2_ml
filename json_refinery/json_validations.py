@@ -77,6 +77,17 @@ def check_emptiness(json_dict, filename):
         print(filename, " is missing reference")
 
 
+def check_class(json_dict, filename):
+    class_info = json_dict["mibig_acc"]["ripp_class"]
+    if class_info == "TBA" or class_info == "":
+        print(filename, " is missing RiPP class")
+
+
+def find_class_members(json_dict, filename, class_name):
+    if json_dict["mibig_acc"]["ripp_class"] == class_name:
+        print(filename, " presents class: ", class_name)
+
+
 def main():
     count_core = 0
     count_prots = 0
@@ -96,9 +107,11 @@ def main():
             check_accession(dictionary, file)
             check_prot_ids(dictionary, file)
             check_sequence_info(dictionary, file)
+            check_class(dictionary, file)
             check_cores(dictionary, file)
             count_core += len(dictionary["mibig_acc"]["core_sequences"])
             count_prots += len(dictionary["mibig_acc"]["protein_ids"])
+
     print(count_core, " core sequences")
     print(count_prots, " proteins")
 

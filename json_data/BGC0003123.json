@@ -6,7 +6,7 @@
             "end": 0,
             "core_sequences": ["WVLHVI"],
             "protein_ids": [],
-            "EDM74818.1": {
+            "___": {
                   "complete_seq": "MKMVKAFVKRFKKDEDLANHAWVLHVI",
                   "leader_seq": "MKMVKAFVKRFKKDEDLANHA",
                   "core_seq": "WVLHVI",
