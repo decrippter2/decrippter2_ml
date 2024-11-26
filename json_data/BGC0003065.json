@@ -10,14 +10,13 @@
             "protein_ids": [
                   "IM867_13380"
             ],
-            "IM867_13380": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "QOS58364.1": {
+                  "complete_seq": "MSTAVTDAFPLGRDENRNDQVTEWRPFGMRYGVQPTPIPVPLSDTKYDPDQQVLVVADGQPCAKIERAGTMRVTYPDGQKPGQSDVEKD",
+                  "leader_seq": "MSTAVTDAFPLGRDENRNDQVTEWRPFGMRYGVQPTPIPVPLSDTKYDPDQQVLVVADGQPCAKIER",
+                  "core_seq": "AGTMRVTYPDGQKPGQSDVEKD",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41557-022-01022-y\n\n",
             "ripp_class": "Graspetide",
             "compound_name": [
                   "fuscimiditide"

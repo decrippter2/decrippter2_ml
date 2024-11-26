@@ -12,9 +12,9 @@
             ],
             "Unidentified protein0": {
                   "complete_seq": "VIKIVNSFSKRFRTEKSLKSATWFIWYS",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "VIKIVNSFSKRFRTEKSLKSAT",
+                  "core_seq": "WFIW",
+                  "follower_seq": "YS"
             },
             "ref": "https://doi.org/10.1039/D4SC03469D",
             "ripp_class": "Atropopeptide",

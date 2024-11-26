@@ -12,9 +12,9 @@
             ],
             "KNC66709.1": {
                   "complete_seq": "MKTIKAKLLRALGVRSAKPSTSAKYFWHHYNNI",
-                  "leader_seq": "TBA",
+                  "leader_seq": "MKTIKAKLLRALGVRSAKPSTSAKYF",
                   "core_seq": "WHHYN",
-                  "follower_seq": "TBA"
+                  "follower_seq": "NI"
             },
             "ref": "https://doi.org/10.1021/jacs.3c07140",
             "ripp_class": "Cyptide",

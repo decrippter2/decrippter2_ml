@@ -10,14 +10,14 @@
             "protein_ids": [
                   "AMQ71638.1"
             ],
-            "AMQ71641.1": {
+            "AMQ71638.1": {
                   "complete_seq": "MSIIETWKNPALRMNSQVVNPAGDLMEELSDDEMEMLAGGCAWYDISCKLGNKGAWCTLTVECQSSCN",
                   "leader_seq": "MSIIETWKNPALRMNSQVVNPAGDLMEELSDDEMEMLAGG",
                   "core_seq": "CAWYDISCKLGNKGAWCTLTVECQSSCN",
                   "follower_seq": ""
             },
             "ref": "https://dx.doi.org/10.1111/jam.15290",
-            "ripp_class": "TBA",
+            "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "amyloliquecidin GF610"
             ]

@@ -5,18 +5,18 @@
             "start": 3394561,
             "end": 3395671,
             "core_sequences": [
-                  "MHHHHHHAMKQYNRILAYKKSIELSLEHLLEISGGSSKATVNRTQKLTNVYPSGNDFEFDQVWD"
+                  "SSKATVNRTQKLTNVYPSGNDFEFDQVWD"
             ],
             "protein_ids": [
                   "WP_161520682.1"
             ],
             "WP_161520682.1": {
                   "complete_seq": "MKQYNRILAYKKSIELSLEHLLEISGGSSKATVNRTQKLTNVYPSGNDFEFDQVWD",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKQYNRILAYKKSIELSLEHLLEISGG",
+                  "core_seq": "SSKATVNRTQKLTNVYPSGNDFEFDQVWD",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41467-022-33890-w",
             "ripp_class": "Microviridin",
             "compound_name": [
                   "Gra-7B"

@@ -4,18 +4,18 @@
             "ncomp": 1,
             "start": 165839,
             "end": 195619,
-            "core_sequences": [],
+            "core_sequences": ["GGGVITTFTHECYYNSVSPASWGGCCK"],
             "protein_ids": [
                   "MBX4265661.1"
             ],
             "MBX4265661.1": {
-                  "complete_seq": "MKKKIKTKKVLALLFCTITMSVAAVSTSLCPFWLFNECKMPKSLYKID",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "complete_seq": "MKKLNEEALEAINDVTDEELEKLTGAGGGVITTFTHECYYNSVSPASWGGCCK",
+                  "leader_seq": "MKKLNEEALEAINDVTDEELEKLTGA",
+                  "core_seq": "GGGVITTFTHECYYNSVSPASWGGCCK",
+                  "follower_seq": ""
             },
-            "ref": "",
-            "ripp_class": "TBA",
+            "ref": "https://doi.org/10.3389/fmicb.2021.801467",
+            "ripp_class": "Lanthipeptide",
             "compound_name": [
                   "estericin A"
             ]

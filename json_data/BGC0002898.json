@@ -5,18 +5,18 @@
             "start": 129447,
             "end": 132091,
             "core_sequences": [
-                  "SSSKNKSKIQETLFSTNNFSSFRKHGFDSVSFSATSISLSKGNSNGGGGGGGGGGGCCCCCCCCCG"
+                  "DSVSFSATSISLSKGNSNGGGGGGGGGGGCCCCCCCCCGSGSATLEEIGK"
             ],
             "protein_ids": [
                   "WP_010770535.1"
             ],
             "WP_010770535.1": {
                   "complete_seq": "MVSSSKNKSKIQETLFSTNNFSSFRKHGFDSVSFSATSISLSKGNSNGGGGGGGGGGGCCCCCCCCCGSGSATLEEIGK",
-                  "leader_seq": "MV",
-                  "core_seq": "SSSKNKSKIQETLFSTNNFSSFRKHGFDSVSFSATSISLSKGNSNGGGGGGGGGGGCCCCCCCCCG",
-                  "follower_seq": "SGSATLEEIGK"
+                  "leader_seq": "MVSSSKNKSKIQETLFSTNNFSSFRKHGF",
+                  "core_seq": "DSVSFSATSISLSKGNSNGGGGGGGGGGGCCCCCCCCCGSGSATLEEIGK",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1038/s41467-022-33890-w",
             "ripp_class": "LAP",
             "compound_name": [
                   "Lap-1"

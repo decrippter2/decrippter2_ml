@@ -4,18 +4,18 @@
             "ncomp": 1,
             "start": 23858,
             "end": 27702,
-            "core_sequences": [],
-            "protein_ids": [],
-            "BBD82040.1": {
-                  "complete_seq": "MSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+            "core_sequences": ["FAADAWAAQDMASGNPLTTTFCCSVQCG"],
+            "protein_ids": ["WP_171084027.1"],
+            "WP_171084027.1": {
+                  "complete_seq": "MSTEDLMSGFSFHVDAEEFAADAWAAQDMASGNPLTTTFCCSVQCG",
+                  "leader_seq": "MSTEDLMSGFSFHVDAEE",
+                  "core_seq": "FAADAWAAQDMASGNPLTTTFCCSVQCG",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/jacs.2c06808",
             "ripp_class": "Lanthipeptide",
             "compound_name": [
-                  "unnamed product"
+                  "SmoA"
             ]
       }
 }

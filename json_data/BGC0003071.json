@@ -5,36 +5,40 @@
             "start": 308433,
             "end": 313504,
             "core_sequences": [
-                  "GVSTSLKDVVTSPLGDTLTLKTLDNGTTPAADTPVT LKYPSDSDEGGFDPGFPPGLDPEIHP"
+                  "AVTSALVDNVTSVNKDNVTSSLLDHVTKPGGDNVTMKYPSDGDEDGNAV",
+                  "GVSTSLKDVVTSPLGDTLTLKTLDNGTTPAADTPVTLKYPSDSDEGGFDPGFPPGLDPEIHP",
+                  "SGDITTGVLKDSVTSALVDNITKPGQDVVSMKYPSDSDEDGDPV",
+                  "TEVTLSTQDNITKPLYDTVTKPTLDMMQTMKYPSDGDDDAPVV"
+
             ],
             "protein_ids": [
-                  null
+                  "WP_027385891.1","WP_027385892.1","WP_027385893.1","WP_027385894.1"
             ],
             "WP_027385891.1": {
                   "complete_seq": "MENRKSKKPFFASFLEKQIEDPEKIKGGAVTSALVDNVTSVNKDNVTSSLLDHVTKPGGDNVTMKYPSDGDEDGNAV",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MENRKSKKPFFASFLEKQIEDPEKIKGG",
+                  "core_seq": "AVTSALVDNVTSVNKDNVTSSLLDHVTKPGGDNVTMKYPSDGDEDGNAV",
+                  "follower_seq": ""
             },
             "WP_027385892.1": {
                   "complete_seq": "MKNKDSKKKPFFASFLEKQIQDPEKIKGGSGDITTGVLKDSVTSALVDNITKPGQDVVSMKYPSDSDEDGDPV",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKNKDSKKKPFFASFLEKQIQDPEKIKGG",
+                  "core_seq": "SGDITTGVLKDSVTSALVDNITKPGQDVVSMKYPSDSDEDGDPV",
+                  "follower_seq": ""
             },
             "WP_027385893.1": {
-                  "complete_seq": "MKNKDSKKKPFFASFLEKQIQDPEKIKGGSGDITTGVLKDSVTSALVDNITKPGQDVVSMKYPSDSDEDGDPV",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "complete_seq": "MKNKNSKKEPFFAAFLEKQLQDPEKIQGGGVSTSLKDVVTSPLGDTLTLKTLDNGTTPAADTPVTLKYPSDSDEGGFDPGFPPGLDPEIHP",
+                  "leader_seq": "MKNKNSKKEPFFAAFLEKQLQDPEKIQGG",
+                  "core_seq": "GVSTSLKDVVTSPLGDTLTLKTLDNGTTPAADTPVTLKYPSDSDEGGFDPGFPPGLDPEIHP",
+                  "follower_seq": ""
             },
             "WP_027385894.1": {
                   "complete_seq": "MKSKDSKKKPFFASFLEKQIQDPEKVKGGTEVTLSTQDNITKPLYDTVTKPTLDMMQTMKYPSDGDDDAPVV",
-                  "leader_seq": "TBA",
-                  "core_seq": "TBA",
-                  "follower_seq": "TBA"
+                  "leader_seq": "MKSKDSKKKPFFASFLEKQIQDPEKVKGG",
+                  "core_seq": "TEVTLSTQDNITKPLYDTVTKPTLDMMQTMKYPSDGDDDAPVV",
+                  "follower_seq": ""
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1021/jacs.1c02316",
             "ripp_class": "Graspetide",
             "compound_name": [
                   "chryseoviridin"

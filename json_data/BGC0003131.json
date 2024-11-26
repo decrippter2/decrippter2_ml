@@ -14,7 +14,7 @@
                   "complete_seq": "MKNSNLFKIASVTSIVSLFAIATFLMGSSEGIASLASIDFNSGNQFALDLATNLGISRKTAYAAIGVIMTTGDVLTILSLLAVVLGGTGLVTAAMVATAKKLATKHGKKYAAEW",
                   "leader_seq": "MKNSNLFKIASVTSIVSLFAIATFLMGSSEGIASLASIDFNSGNQFALD",
                   "core_seq": "LATNLGISRKTAYAAIGVIMTTGDVLTILSLLAVVLGGTGLVTAAMVATAKKLATKHGKKYAAEW",
-                  "follower_seq": "TBA"
+                  "follower_seq": ""
             },
             "ref": "https://doi.org/10.3390/ijms25042020",
             "ripp_class": "Head-to-tail cyclized peptide",
