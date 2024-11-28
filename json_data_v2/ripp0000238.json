@@ -25,7 +25,6 @@
                   ],
                   "core": [
                         "GPR",
-                        "APR",
                         "APR"
                   ],
                   "follower": [
@@ -43,7 +42,6 @@
                   ],
                   "core": [
                         "GPR",
-                        "APR",
                         "APR"
                   ],
                   "follower": [
