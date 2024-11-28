@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "QTQQ01000011.1",
+            "mibig_acc": "BGC0002894"
+      },
+      "compound_name": [
+            "Gra-4"
+      ],
+      "ripp_class": "Graspetide",
+      "ref": [
+            "TBA"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_124608906.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MGPLTVLLGSPLDTEKKSGIIRIVTPKGDVISIQAKDVISSSNADAGGDLKRYAIPGDAIVTIEVTGSVLRGLDATTDTVMKWVDDGGTISKSRDDT",
+                  "leader": [],
+                  "core": [
+                        "GLDATTDTVMKWVDDGGTISKSRDDT"
+                  ],
+                  "follower": []
+            }
+      ]
+}

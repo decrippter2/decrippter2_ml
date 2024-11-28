@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MN724926.1",
+            "mibig_acc": "BGC0002330"
+      },
+      "compound_name": [
+            "landornamide A"
+      ],
+      "ripp_class": "Proteusin",
+      "ref": [
+            "https://doi.org/10.1002/anie.201916321"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QIZ86020.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSTRKEAEEQLAIKALKDPSFREKLKANPKAVISSEFNTQVPDDLTIEVVEETATKMYLVLPAPEAVEEELSEEQLEAVAGGGCWIAGSRGCGFVTRT",
+                  "leader": [
+                        "MSTRKEAEEQLAIKALKDPSFREKLKANPKAVISSEFNTQVPDDLTIEVVEETATKMYLVLPAPEAVEEELSEEQLEAVAGG"
+                  ],
+                  "core": [
+                        "GCWIAGSRGCGFVTRT"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,32 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MW686201.1",
+            "mibig_acc": "BGC0002635"
+      },
+      "compound_name": [
+            "daspyromycin A",
+            "daspyromycin B"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.cclet.2021.06.010"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QYZ85378.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MPTIEMTAPAGAELDLFDLDLEVSVEQMSLTPAITSISLCTPGCTSAGGGSNCSFCC",
+                  "leader": [
+                        "MPTIEMTAPAGAELDLFDLDLEVSVEQMSLTPA"
+                  ],
+                  "core": [
+                        "ITSISLCTPGCTSAGGGSNCSFCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_CP049228.1 ",
+            "mibig_acc": "BGC0002917"
+      },
+      "compound_name": [
+            "Inecin L"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/aem.02123-22"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_277601206.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEKLNHNAVTSLNEVSDSELDTILGGSRWWQGVLPTVSHECRMNSFQHIFTCC",
+                  "leader": [],
+                  "core": [
+                        "SRWWQGVLPTVSHECRMNSFQHIFTCC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

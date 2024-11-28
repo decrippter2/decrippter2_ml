@@ -1,0 +1,33 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NC_010628.1",
+            "mibig_acc": "BGC0002049"
+      },
+      "compound_name": [
+            "microviridin N9",
+            "microviridin N8",
+            "microviridin N7",
+            "microviridin N6",
+            "microviridin N5",
+            "microviridin N4",
+            "microviridin N3"
+      ],
+      "ripp_class": "Microviridin",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.9b00240"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_083782369.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MPTNTVKTVDVVAVPFFARFLEEQATEGTEVPWTYKFPSDLEDR",
+                  "leader": [],
+                  "core": [
+                        "TYKFPSDLEDR"
+                  ],
+                  "follower": []
+            }
+      ]
+}

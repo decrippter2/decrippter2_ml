@@ -1,0 +1,34 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AM774406.1",
+            "mibig_acc": "BGC0000473"
+      },
+      "compound_name": [
+            "aerucyclamide A",
+            "aerucyclamide B",
+            "aerucyclamide C",
+            "aerucyclamide D"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1128/AEM.02392-07"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAO82085.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRITPMDKKNILPQQGKPVFRTTTGKLPSYLAELSEEALGGNGLEASHCATICAFDGAEASHCATICAFDGDEA",
+                  "leader": [
+                        "MRITPMDKKNILPQQGKPVFRTTTGKLPSYLAELSEEALGGNGLEAS"
+                  ],
+                  "core": [
+                        "HCATIC"
+                  ],
+                  "follower": [
+                        "AFDGAEASHCATICAFDGDEA"
+                  ]
+            }
+      ]
+}

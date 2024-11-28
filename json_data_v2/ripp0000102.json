@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP004117.1",
+            "mibig_acc": "BGC0000572"
+      },
+      "compound_name": [
+            "capistruin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2009.11.009"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AHI78086.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MVRLLAKLLRSTIHGSNGVSLDAVSSTHGTPGFQTPDARVISRFGFN",
+                  "leader": [
+                        "MVRLLAKLLRSTIHGSNGVSLDAVSSTH"
+                  ],
+                  "core": [
+                        "GTPGFQTPDARVISRFGFN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KT305743.1",
+            "mibig_acc": "BGC0001307"
+      },
+      "compound_name": [
+            "chaxapeptin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acs.joc.5b01878"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ALT06552.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEPQMTELQPEAYEAPSLIEVGEFSEDTLGFGSKPLDSFGLNFF",
+                  "leader": [
+                        "MEPQMTELQPEAYEAPSLIEVGEFSEDTL"
+                  ],
+                  "core": [
+                        "GFGSKPLDSFGLNFF"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

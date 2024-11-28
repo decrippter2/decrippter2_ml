@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "GU949560.1",
+            "mibig_acc": "BGC0000525"
+      },
+      "compound_name": [
+            "lichenicidin VK21 A1",
+            "lichenicidin VK21 A2"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/bi100871b"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ADM36017.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKTMKNSAAREAFKGANHPAGMVSEEELKALVGGNDVNPETTPATTSSWTCITAGVTVSASLCPTTKCTSRC",
+                  "leader": [
+                        "MKTMKNSAAREAFKGANHPAGMVSEEELKALVGGNDVNPE"
+                  ],
+                  "core": [
+                        "TTPATTSSWTCITAGVTVSASLCPTTKCTSRC",
+                        "TITLSTCAILSKPLGNNGYLCTVTKECMPSCN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ADM36018.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKKEMILSWKNPMYRTESSYHPAGNILKELQEEEQHSIAGGTITLSTCAILSKPLGNNGYLCTVTKECMPSCN",
+                  "leader": [
+                        "MSKKEMILSWKNPMYRTESSYHPAGNILKELQEEEQHSIAGG"
+                  ],
+                  "core": [
+                        "TTPATTSSWTCITAGVTVSASLCPTTKCTSRC",
+                        "TITLSTCAILSKPLGNNGYLCTVTKECMPSCN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

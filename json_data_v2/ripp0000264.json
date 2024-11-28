@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP004370.1",
+            "mibig_acc": "BGC0002115"
+      },
+      "compound_name": [
+            "streptamidine"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://dx.doi.org/10.1101/2020.05.04.076059"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AGI92077.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEHEKVFAPIADPGQLAHLSATHSNALVENPFDDADEAGAADDK",
+                  "leader": [
+                        "MEHEKVFAPIADPGQLA"
+                  ],
+                  "core": [
+                        "HLSATH"
+                  ],
+                  "follower": [
+                        "SNALVENPFDDADEAGAADDK"
+                  ]
+            }
+      ]
+}

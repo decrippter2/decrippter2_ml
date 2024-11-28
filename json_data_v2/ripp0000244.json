@@ -1,0 +1,169 @@
+{
+      "identifiers": {
+            "ncbi_acc": "BX548175.1",
+            "mibig_acc": "BGC0001867"
+      },
+      "compound_name": [
+            "prochlorosins"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/bs.mie.2018.01.038"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAE20414.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKASGFAITTEDLKAHQANSQKNLSDAELEGVAGGTIGGTIVSITCETCDLLVGKMC",
+                  "leader": [
+                        "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKASGFAITTEDLKAHQANSQKNLSDAELEGVAGG"
+                  ],
+                  "core": [
+                        "TIGGTIVSITCETCDLLVGKMC",
+                        "KSTNGCGCKPGHTLSSFLCTLECWL",
+                        "GPGCTGGWWAFTDCTAGGGSCEG",
+                        "GSSYRNGKCTFGPACPS",
+                        "GLCTLTSNLAAVCCGGCRRATSE",
+                        "MDCVSSTAQQTECRPGGPRASYCWDDLR",
+                        "FFCVQGTANRFTINVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "CAE20416.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTDDFERNTHRQTLSDDELEGVAGGKSTNGCGCKPGHTLSSFLCTLECWL",
+                  "leader": [
+                        "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTDDFERNTHRQTLSDDELEGVAGG"
+                  ],
+                  "core": [
+                        "TIGGTIVSITCETCDLLVGKMC",
+                        "KSTNGCGCKPGHTLSSFLCTLECWL",
+                        "GPGCTGGWWAFTDCTAGGGSCEG",
+                        "GSSYRNGKCTFGPACPS",
+                        "GLCTLTSNLAAVCCGGCRRATSE",
+                        "MDCVSSTAQQTECRPGGPRASYCWDDLR",
+                        "FFCVQGTANRFTINVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "CAE20417.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTEDLNTHRQNLSDDELEGLHGAGPGCTGGWWAFTDCTAGGGSCEG",
+                  "leader": [
+                        "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTEDLNTHRQNLSDDELEGLHGA"
+                  ],
+                  "core": [
+                        "TIGGTIVSITCETCDLLVGKMC",
+                        "KSTNGCGCKPGHTLSSFLCTLECWL",
+                        "GPGCTGGWWAFTDCTAGGGSCEG",
+                        "GSSYRNGKCTFGPACPS",
+                        "GLCTLTSNLAAVCCGGCRRATSE",
+                        "MDCVSSTAQQTECRPGGPRASYCWDDLR",
+                        "FFCVQGTANRFTINVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "CAE20418.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSEEQLKAFLTKVQADTSLQEQLKAEGADPVAIAKAAGFAITTEDLNSHRQNLSDDELEGVAGGGSSYRNGKCTFGPACPS",
+                  "leader": [
+                        "MSEEQLKAFLTKVQADTSLQEQLKAEGADPVAIAKAAGFAITTEDLNSHRQNLSDDELEGVAGG"
+                  ],
+                  "core": [
+                        "TIGGTIVSITCETCDLLVGKMC",
+                        "KSTNGCGCKPGHTLSSFLCTLECWL",
+                        "GPGCTGGWWAFTDCTAGGGSCEG",
+                        "GSSYRNGKCTFGPACPS",
+                        "GLCTLTSNLAAVCCGGCRRATSE",
+                        "MDCVSSTAQQTECRPGGPRASYCWDDLR",
+                        "FFCVQGTANRFTINVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "CAE20419.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSEEQLKGFLSKVQSDASLQEQLKVEGADVVAIAKAAGFSITTEDLNSHRQNLSEDELEGVAGGGLCTLTSNLAAVCCGGCRRATSE",
+                  "leader": [
+                        "MSEEQLKGFLSKVQSDASLQEQLKVEGADVVAIAKAAGFSITTEDLNSHRQNLSEDELEGVAGG"
+                  ],
+                  "core": [
+                        "TIGGTIVSITCETCDLLVGKMC",
+                        "KSTNGCGCKPGHTLSSFLCTLECWL",
+                        "GPGCTGGWWAFTDCTAGGGSCEG",
+                        "GSSYRNGKCTFGPACPS",
+                        "GLCTLTSNLAAVCCGGCRRATSE",
+                        "MDCVSSTAQQTECRPGGPRASYCWDDLR",
+                        "FFCVQGTANRFTINVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "CAE20420.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSEEQLKAFIAKVQADPSLQEQLKAEGADVVSIAKAAGFSITTEDLNSHITTKLNLSEEELEGVAGAMDCVSSTAQQTECRPGGPRASYCWDDLR",
+                  "leader": [
+                        "MSEEQLKAFIAKVQADPSLQEQLKAEGADVVSIAKAAGFSITTEDLNSHITTKLNLSEEELEGVAGA"
+                  ],
+                  "core": [
+                        "TIGGTIVSITCETCDLLVGKMC",
+                        "KSTNGCGCKPGHTLSSFLCTLECWL",
+                        "GPGCTGGWWAFTDCTAGGGSCEG",
+                        "GSSYRNGKCTFGPACPS",
+                        "GLCTLTSNLAAVCCGGCRRATSE",
+                        "MDCVSSTAQQTECRPGGPRASYCWDDLR",
+                        "FFCVQGTANRFTINVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "CAE20422.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSEEQLKAFIAKVQADTSLQEQLKAEGADVVAIAKAAGFSITTEDLEKEHRQTLSDDDLEGVAGGFFCVQGTANRFTINVC",
+                  "leader": [
+                        "MSEEQLKAFIAKVQADTSLQEQLKAEGADVVAIAKAAGFSITTEDLEKEHRQTLSDDDLEGVAGG"
+                  ],
+                  "core": [
+                        "TIGGTIVSITCETCDLLVGKMC",
+                        "KSTNGCGCKPGHTLSSFLCTLECWL",
+                        "GPGCTGGWWAFTDCTAGGGSCEG",
+                        "GSSYRNGKCTFGPACPS",
+                        "GLCTLTSNLAAVCCGGCRRATSE",
+                        "MDCVSSTAQQTECRPGGPRASYCWDDLR",
+                        "FFCVQGTANRFTINVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

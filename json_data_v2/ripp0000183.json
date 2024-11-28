@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KR080485.1",
+            "mibig_acc": "BGC0001388"
+      },
+      "compound_name": [
+            "gassericin E"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1186/s12866-016-0663-1"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ALX37947.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKNFNTLSFETLANIVGGRNNLAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
+                  "leader": [
+                        "MKNFNTLSFETLANIVGG"
+                  ],
+                  "core": [
+                        "RNNLAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

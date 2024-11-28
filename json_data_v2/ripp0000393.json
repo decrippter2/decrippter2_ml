@@ -1,0 +1,42 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NC_008048.1",
+            "mibig_acc": "BGC0003083"
+      },
+      "compound_name": [
+            "sphingopyxin I",
+            "sphingopyxin II"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1002/bip.22326"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_137865550.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKDFNELIDLGAISVETRGIEPLGPVDEDQGEHYLFAGGITADD",
+                  "leader": [],
+                  "core": [
+                        "GIEPLGPVDEDQGEHYLFAGGITADD",
+                        "GEALIDQDVGGGRQQFLTGIAQD"
+                  ],
+                  "follower": []
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_153802708.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MERTEVIEEVIDLGKASVETKGEALIDQDVGGGRQQFLTGIAQD",
+                  "leader": [],
+                  "core": [
+                        "GIEPLGPVDEDQGEHYLFAGGITADD",
+                        "GEALIDQDVGGGRQQFLTGIAQD"
+                  ],
+                  "follower": []
+            }
+      ]
+}

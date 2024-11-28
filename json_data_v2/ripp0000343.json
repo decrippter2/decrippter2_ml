@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KB944852.1",
+            "mibig_acc": "BGC0002900"
+      },
+      "compound_name": [
+            "Glk-2"
+      ],
+      "ripp_class": "Glycocin",
+      "ref": [
+            "https://dx.doi.org/10.1038/s41467-022-33890-w"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EOK06278.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKLLRELTDKEIQTSLSNGGSTCSMYKALLPGHIAACAASAYFYGSSGCTAMRYVSEYIRKNC",
+                  "leader": [
+                        "MSKLLRELT"
+                  ],
+                  "core": [
+                        "DKEIQTSLSNGGSTCSMYKALLPGHIAACAASAYFYGSSGCTAMRYVSEYIRKNC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EQ963480.1",
+            "mibig_acc": "BGC0000627"
+      },
+      "compound_name": [
+            "ustiloxin B"
+      ],
+      "ripp_class": "Dikaritin",
+      "ref": [
+            "https://doi.org/10.1016/j.fgb.2014.04.011"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EED49417.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKLILTLLVSGLCALAAPAAKRDGVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGGSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGSVEDYAIGIDKKRGTVEDYAIGIDKRGGSVEDYAIGIDKRHGGH",
+                  "leader": [
+                        "MKLILTLLVSGLCALAAPAAKRDGVED"
+                  ],
+                  "core": [
+                        "YAIG"
+                  ],
+                  "follower": [
+                        "IDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNTVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGGSVEDYAIGIDKRNSVEDYAIGIDKRNSVEDYAIGIDKRGSVEDYAIGIDKKRGTVEDYAIGIDKRGGSVEDYAIGIDKRHGGH"
+                  ]
+            }
+      ]
+}

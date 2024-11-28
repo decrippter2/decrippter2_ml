@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "ABVH01000020.1",
+            "mibig_acc": "BGC0000516"
+      },
+      "compound_name": [
+            "geobacillin II"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1002/bip.22876"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EDY04300.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEKQEQTFVSKISEEELKKLAGGYTEVSPQSTIVCVSLRICNWSLRFCPSFKVKCPM",
+                  "leader": [
+                        "MEKQEQTFVSKISEEELKKLAGG"
+                  ],
+                  "core": [
+                        "YTEVSPQSTIVCVSLRICNWSLRFCPSFKVKCPM"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

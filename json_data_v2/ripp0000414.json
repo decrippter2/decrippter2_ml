@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JABAIC010000014.1",
+            "mibig_acc": "BGC0003133"
+      },
+      "compound_name": [
+            "novosphingonodin II"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1016/j.jclepro.2022.135136"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "NLR41351.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTENTPREDTLIDLGEASTTTKGQAIVELDVSGGNLRFLPGIAAE",
+                  "leader": [
+                        "MTENTPREDTLIDLGEASTTTK"
+                  ],
+                  "core": [
+                        "GQAIVELDVSGGNLRFLPGIAAE"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JROO01000009.1",
+            "mibig_acc": "BGC0001176"
+      },
+      "compound_name": [
+            "streptomonomicin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2014.11.017"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "KIH99826.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSAYEIPTLTRIGKFKDVTKSLGSSPYNDILGYPALIVIYP",
+                  "leader": [
+                        "MSAYEIPTLTRIGKFKDVTK"
+                  ],
+                  "core": [
+                        "SLGSSPYNDILGYPALIVIYP"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,42 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_RDTD01000009.1",
+            "mibig_acc": "BGC0003081"
+      },
+      "compound_name": [
+            "solabiomycin A",
+            "solabiomycin B"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1016/j.bmcl.2023.129323"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_199838955.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTIMDLQGLEVPGERDAQALGSTVSGGC",
+                  "leader": [],
+                  "core": [
+                        "GSTVSGGC",
+                        "GSTISGGC"
+                  ],
+                  "follower": []
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_218039239.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTIMDLQGLEVPGERDAQALGSTISGGC",
+                  "leader": [],
+                  "core": [
+                        "GSTVSGGC",
+                        "GSTISGGC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

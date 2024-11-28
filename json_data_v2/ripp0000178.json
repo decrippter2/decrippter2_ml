@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EQ963476.1",
+            "mibig_acc": "BGC0001306"
+      },
+      "compound_name": [
+            "asperipin 2a"
+      ],
+      "ripp_class": "Ustiloxin",
+      "ref": [
+            "https://doi.org/10.1016/j.fgb.2015.12.010"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EED52438.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MHLSRYIAVLLSASSFVSALPLQNDVISDDGSKPIDAIMATAMEHKVVNPENLDATPATPENPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPDDLDKRFYYTGYKRNAETPDDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDK",
+                  "leader": [
+                        "MHLSRYIAVLLSASSFVSALPLQNDVISDDGSKPIDAIMATAMEHKVVNPENLDATPATPENPEDLDKR"
+                  ],
+                  "core": [
+                        "FYYTGY"
+                  ],
+                  "follower": [
+                        "KRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPDDLDKRFYYTGYKRNAETPDDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDKRFYYTGYKRNAETPEDLDK"
+                  ]
+            }
+      ]
+}

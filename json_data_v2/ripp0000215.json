@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LN681175.1",
+            "mibig_acc": "BGC0001638"
+      },
+      "compound_name": [
+            "klebsazolicin"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.2462"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_200528167.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKIKNRFGSQLASFNSPVKKGLYSQSPGNCASCSNSASANCTGGLG",
+                  "leader": [],
+                  "core": [
+                        "SQSPGNCASCSNSASANCTGGLG"
+                  ],
+                  "follower": []
+            }
+      ]
+}

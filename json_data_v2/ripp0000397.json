@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP002280.1",
+            "mibig_acc": "BGC0003097"
+      },
+      "compound_name": [
+            "LANII-293"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41564-023-01524-6"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_080556864.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MPQDITLLEEISEQDLSQVNGGTAFPGWYSKVIGNRGRVCTVTVECMSVCQ",
+                  "leader": [],
+                  "core": [
+                        "TAFPGWYSKVIGNRGRVCTVTVECMSVCQ"
+                  ],
+                  "follower": []
+            }
+      ]
+}

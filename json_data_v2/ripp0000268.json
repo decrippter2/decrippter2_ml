@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_AZUO01000002.1",
+            "mibig_acc": "BGC0002133"
+      },
+      "compound_name": [
+            "group 1 methanobactin"
+      ],
+      "ripp_class": "Methanobactin",
+      "ref": [
+            "https://doi.org/10.1021/acs.biochem.1c00443"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_161912153.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MAIKIAKKEVLPVVGRLGAMCSSCPMCGPLCP",
+                  "leader": [],
+                  "core": [
+                        "MCSSCPMCGPLCP"
+                  ],
+                  "follower": []
+            }
+      ]
+}

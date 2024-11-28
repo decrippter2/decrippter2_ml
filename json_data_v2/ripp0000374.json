@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "SDE08566.1",
+            "mibig_acc": "BGC0003026"
+      },
+      "compound_name": [
+            "Lapparbin"
+      ],
+      "ripp_class": "Cyptide",
+      "ref": [
+            "https://doi.org/10.1021/jacs.3c07140"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "undefined",
+                        "uniprot": ""
+                  },
+                  "complete": "MAKRMLYKAASKLGFTTKGAAGAYPWIP",
+                  "leader": [
+                        "MAKRMLYKAASKLGFTTK"
+                  ],
+                  "core": [
+                        "GAAGAYPWIP"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

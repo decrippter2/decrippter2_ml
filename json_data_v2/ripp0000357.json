@@ -1,0 +1,33 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AP024565.1",
+            "mibig_acc": "BGC0002952"
+      },
+      "compound_name": [
+            "Argicyclamide A",
+            "Argicyclamide B",
+            "Argicyclamide C"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1021/jacs.1c05732"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BCU11647.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKNKTLLPQLTTPVERQHQAAASSESGANSLSASRVFIVLPPFAEDGAE",
+                  "leader": [
+                        "MKNKTLLPQLTTPVERQHQAAASSESGANSLSAS"
+                  ],
+                  "core": [
+                        "RVFIVLPP"
+                  ],
+                  "follower": [
+                        "FAEDGAE"
+                  ]
+            }
+      ]
+}

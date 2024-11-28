@@ -1,0 +1,32 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MF593843.1",
+            "mibig_acc": "BGC0001802"
+      },
+      "compound_name": [
+            "thioholgamide A",
+            "thioholgamide B"
+      ],
+      "ripp_class": "Thioamitide",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.7b00676"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ATJ00792.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MVSAVDETAFADLVSKIQDAEASMTDEQRAVIDPASGEKALQELAGVSPEELQAFLEEKAGISPDEEAQGSVMAAAATVAFHC",
+                  "leader": [
+                        "MVSAVDETAFADLVSKIQDAEASMTDEQRAVIDPASGEKALQELAGVSPEELQAFLEEKAGISPDEEAQG"
+                  ],
+                  "core": [
+                        "SVMAAAATVAFHC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

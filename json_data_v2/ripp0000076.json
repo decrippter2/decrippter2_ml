@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_DS999645.1",
+            "mibig_acc": "BGC0000546"
+      },
+      "compound_name": [
+            "SAL-2242"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/cb500199h"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_008415578.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MALLDLQAMDTPQEEAVGDLATGSQISLLICEYSSLSVTLCTP",
+                  "leader": [],
+                  "core": [
+                        "GSQISLLICEYSSLSVTLCTP"
+                  ],
+                  "follower": []
+            }
+      ]
+}

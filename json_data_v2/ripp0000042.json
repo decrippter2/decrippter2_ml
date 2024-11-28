@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "U20348.1",
+            "mibig_acc": "BGC0000510"
+      },
+      "compound_name": [
+            "epilancin K7"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1111/j.1432-1033.1995.0587h.x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAA79236.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNNSLFDLNLNKGVETQKSDLSPQSASVLKTSIKVSKKYCKGVTLTCGCNITGGK",
+                  "leader": [
+                        "MNNSLFDLNLNKGVETQKSDLSPQ"
+                  ],
+                  "core": [
+                        "SASVLKTSIKVSKKYCKGVTLTCGCNITGGK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

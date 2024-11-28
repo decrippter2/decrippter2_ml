@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_CP031462.1",
+            "mibig_acc": "BGC0002005"
+      },
+      "compound_name": [
+            "RaxX"
+      ],
+      "ripp_class": "Sulfatyrotide",
+      "ref": [
+            "https://doi.org/10.1073/pnas.1818275116"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_041182602.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNHSKKSPAKGAASLQRPAGAKGRPEPLDQRLWKHVGGGDYPPPGANPKHDPPPRNPGHH",
+                  "leader": [],
+                  "core": [
+                        "DYPPPGANPKHDPPPRNPGHH"
+                  ],
+                  "follower": []
+            }
+      ]
+}

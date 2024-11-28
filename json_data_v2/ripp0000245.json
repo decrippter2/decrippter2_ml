@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MN265868.1",
+            "mibig_acc": "BGC0001880"
+      },
+      "compound_name": [
+            "scytodecamide"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1002/cbic.201900511"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QGX02581.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRPENQKENRCLQPKLSEPAMRSHAGMPVDLSEEELTAEVVNGGVFASMYGGTDGGVTASISPALLASLV",
+                  "leader": [
+                        "MRPENQKENRCLQPKLSEPAMRSHAGMPVDLSEEELTAEVVNGGVFASMYGGTDGGVTAS"
+                  ],
+                  "core": [
+                        "ISPALLASLV"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

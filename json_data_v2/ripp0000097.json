@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "L06719.1",
+            "mibig_acc": "BGC0000567"
+      },
+      "compound_name": [
+            "trifolitoxin"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1128/jb.175.12.3693-3702.1993"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAA26363.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDNKVAKNVEVKKGSIKATFKAAVLKSKTKVDIGGSRQGCVA",
+                  "leader": [
+                        "MDNKVAKNVEVKKGSIKATFKAAVLKSKTKV"
+                  ],
+                  "core": [
+                        "DIGGSRQGCVA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

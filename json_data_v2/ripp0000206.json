@@ -1,0 +1,32 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP012159.1",
+            "mibig_acc": "BGC0001559"
+      },
+      "compound_name": [
+            "crocagin A",
+            "crocagin B"
+      ],
+      "ripp_class": "Crocagin",
+      "ref": [
+            "https://doi.org/10.1038/s41557-023-01153-w"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "0000",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKTIKQISAGDRSKKGNIYW",
+                  "leader": [
+                        "MKKTIKQISAGDRSKKGN"
+                  ],
+                  "core": [
+                        "IYW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

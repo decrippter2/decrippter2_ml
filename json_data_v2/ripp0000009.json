@@ -1,0 +1,29 @@
+{
+      "identifiers": {
+            "ncbi_acc": "DQ869558.1",
+            "mibig_acc": "BGC0000476"
+      },
+      "compound_name": [
+            "patellamide B",
+            "ulithiacyclamide"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1038/nchembio829"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABI99461.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASLTACITFCAYDGVEPSCTLCCTLCAYDGE",
+                  "leader": [],
+                  "core": [
+                        "LTACITFC",
+                        "CTLCCTLC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

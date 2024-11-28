@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FJ438820.1",
+            "mibig_acc": "BGC0000610"
+      },
+      "compound_name": [
+            "nosiheptide"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1021/cb900133x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACR48342.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDAAHLSDLDIDALEISEFLDESRLEDSEVVAKVMSASCTTCECCCSCSS",
+                  "leader": [
+                        "MDAAHLSDLDIDALEISEFLDESRLEDSEVVAKVMSA"
+                  ],
+                  "core": [
+                        "SCTTCECCCSCSS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

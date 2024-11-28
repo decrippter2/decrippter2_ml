@@ -1,0 +1,29 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EU290742.1",
+            "mibig_acc": "BGC0000477"
+      },
+      "compound_name": [
+            "patellin 2",
+            "patellin 3"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.84"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACA04491.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNKKNILPQLGQPVIRLTAGQLSSQLAELSEEALGGVDASTLPVPTLCSYDGVDASTVPTLCSYDD",
+                  "leader": [],
+                  "core": [
+                        "TLPVPTLC",
+                        "TVPTLC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

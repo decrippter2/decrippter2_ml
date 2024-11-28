@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LLZK01000133.1",
+            "mibig_acc": "BGC0002921"
+      },
+      "compound_name": [
+            "lipoavitide"
+      ],
+      "ripp_class": "other",
+      "ref": [
+            "https://doi.org/10.1101/2023.10.25.564083"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_159043817.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSATEIVVEDVLAELLDGDDVAALTELETDPSLMPTAVGSIIYTFMIHC",
+                  "leader": [],
+                  "core": [
+                        "VGSIIYTFMIHC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

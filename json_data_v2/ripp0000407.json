@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KNC66709.1",
+            "mibig_acc": "BGC0003112"
+      },
+      "compound_name": [
+            "Rubrin"
+      ],
+      "ripp_class": "Cyptide",
+      "ref": [
+            "https://doi.org/10.1021/jacs.3c07140"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "KNC66709.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKTIKAKLLRALGVRSAKPSTSAKYFWHHYNNI",
+                  "leader": [
+                        "MKTIKAKLLRALGVRSAKPSTSAKYF"
+                  ],
+                  "core": [
+                        "WHHYN"
+                  ],
+                  "follower": [
+                        "NI"
+                  ]
+            }
+      ]
+}

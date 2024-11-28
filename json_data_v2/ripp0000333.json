@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LN831790.1",
+            "mibig_acc": "BGC0002835"
+      },
+      "compound_name": [
+            "massatide A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://dx.doi.org/10.1101/2023.10.26.563470"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CQR66067.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDTHELIEGFDAYVEAEELNEDAMVDAPATTVPCTVASFATGYFSC",
+                  "leader": [
+                        "MDTHELIEGFDAYVEAEELNEDAMVDAPA"
+                  ],
+                  "core": [
+                        "TTVPCTVASFATGYFSC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

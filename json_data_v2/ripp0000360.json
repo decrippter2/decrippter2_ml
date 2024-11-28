@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "VFML01000001.1",
+            "mibig_acc": "BGC0002965"
+      },
+      "compound_name": [
+            "Amycolimiditide"
+      ],
+      "ripp_class": "Graspetide",
+      "ref": [
+            "https://doi.org/10.1021/jacs.2c09004"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_141997876.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MPVHQHERPTETGAFPSSGHFPLGRRFGMVDTAPEPASPVRPFGLTLGTRPRQVTPLNPADIGYDEDAQMGLMRDDGGQLVPMSRHTDGQTNTVTDGGDGRYTNKDSDTDHRED",
+                  "leader": [],
+                  "core": [
+                        "HTDGQTNTVTDGGDGRYTNKDSDTDHRED"
+                  ],
+                  "follower": []
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB593691.1",
+            "mibig_acc": "BGC0000575"
+      },
+      "compound_name": [
+            "lariatin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1007/s00253-012-3973-8"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAL72546.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTSQPSKKTYNAPSLVQRGKFARTTAGSQLVYREWVGHSNVIKPGP",
+                  "leader": [
+                        "MTSQPSKKTYNAPSLVQRGKFARTTA"
+                  ],
+                  "core": [
+                        "GSQLVYREWVGHSNVIKPGP"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AWGB01000012.1",
+            "mibig_acc": "BGC0003019"
+      },
+      "compound_name": [
+            "Benenodin-1"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/jacs.7b04830"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ESQ92588.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEKIETHEDLIDLGAASSETKGVGFGRPDSILTQEQAKPMGLDRD",
+                  "leader": [
+                        "MEKIETHEDLIDLGAASSETK"
+                  ],
+                  "core": [
+                        "GVGFGRPDSILTQEQAKPMGLDRD"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

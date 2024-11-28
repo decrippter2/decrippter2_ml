@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CDHL01000044.1",
+            "mibig_acc": "BGC0002322"
+      },
+      "compound_name": [
+            "citrocin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://dx.doi.org/10.1074/jbc.ra118.006494"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CEJ66604.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKQTFVPKKLVKVGKATELTKGGVGKIIEYFIGGGVGRYG",
+                  "leader": [
+                        "MKKQTFVPKKLVKVGKATELTK"
+                  ],
+                  "core": [
+                        "GGVGKIIEYFIGGGVGRYG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

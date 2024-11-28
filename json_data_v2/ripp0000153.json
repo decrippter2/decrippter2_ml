@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AY007251.1",
+            "mibig_acc": "BGC0000623"
+      },
+      "compound_name": [
+            "plantaricin W a",
+            "plantaricin W b"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1099/00221287-147-3-643"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAG02566.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTKTSRRKNAIANYLEPVDEKSINESFGAGDPEARSGIPCTIGAAVAASIAVCPTTKCSKRCGKRKK",
+                  "leader": [
+                        "MTKTSRRKNAIANYLEPVDEKSINESFGAGDPEAR"
+                  ],
+                  "core": [
+                        "SGIPCTIGAAVAASIAVCPTTKCSKRCGKRKK",
+                        "KCKWWNISCDLGNNGHVCTLSHECQVSCN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AAG02567.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKISKIEAQARKDFFKKIDTNSNLLNVNGAKCKWWNISCDLGNNGHVCTLSHECQVSCN",
+                  "leader": [
+                        "MKISKIEAQARKDFFKKIDTNSNLLNVNGA"
+                  ],
+                  "core": [
+                        "SGIPCTIGAAVAASIAVCPTTKCSKRCGKRKK",
+                        "KCKWWNISCDLGNNGHVCTLSHECQVSCN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

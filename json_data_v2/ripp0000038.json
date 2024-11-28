@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "HQ871873.1",
+            "mibig_acc": "BGC0000506"
+      },
+      "compound_name": [
+            "entianin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.01962-10"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AEK64494.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKFDDFDLDVVKVSKQDSKITPQWKSESVCTPGCVTGLLQTCFLQTITCNCKISK",
+                  "leader": [
+                        "MSKFDDFDLDVVKVSKQDSKITPQ"
+                  ],
+                  "core": [
+                        "WKSESVCTPGCVTGLLQTCFLQTITCNCKISK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

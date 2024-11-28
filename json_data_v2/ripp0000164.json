@@ -1,0 +1,71 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JQ951924.1",
+            "mibig_acc": "BGC0001167"
+      },
+      "compound_name": [
+            "piricyclamide 7005E2",
+            "piricyclamide 7005E3",
+            "piricyclamide 7005E4"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1371/journal.pone.0043002"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AFK79988.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKTKKLTPRNSAPVQRENAATVSRDGNAIAPNNEFMQTGSYSGPFAGDDAE",
+                  "leader": [
+                        "MKTKKLTPRNSAPVQRENAATVSRDGNAIAPN"
+                  ],
+                  "core": [
+                        "NEFMQTGSYSGP",
+                        "TFCDLATKQCYP",
+                        "WILLADGTRPKNAP"
+                  ],
+                  "follower": [
+                        "FAGDDAE"
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AFK79996.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKTPKLTPRITAPVQRDNIATVPSDGNVITPATFCDLATKQCYPFAGDDAV",
+                  "leader": [
+                        "MKTPKLTPRITAPVQRDNIATVPSDGNVITPA"
+                  ],
+                  "core": [
+                        "NEFMQTGSYSGP",
+                        "TFCDLATKQCYP",
+                        "WILLADGTRPKNAP"
+                  ],
+                  "follower": [
+                        "FAGDDAV"
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AFK79987.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNSAPVQRENAATVSRDGNAIAPQWILLADGTRPKNAPFAGDDAE",
+                  "leader": [
+                        "MNSAPVQRENAATVSRDGNAIAPQ"
+                  ],
+                  "core": [
+                        "NEFMQTGSYSGP",
+                        "TFCDLATKQCYP",
+                        "WILLADGTRPKNAP"
+                  ],
+                  "follower": [
+                        "FAGDDAE"
+                  ]
+            }
+      ]
+}

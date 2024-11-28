@@ -1,0 +1,71 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP011340.1",
+            "mibig_acc": "BGC0002303"
+      },
+      "compound_name": [
+            "unnamed compound",
+            "unnamed compound",
+            "pristinin A3"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1371/journal.pbio.3001026"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ALC22072.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MADLQQTGSISELVAGYDTYSEAGELVAEAAADAPASTPTCAAATISWLGSQLTVKTYKEGC",
+                  "leader": [
+                        "MADLQQTGSISELVAGYDTYSEAGELVAEAAADAPA"
+                  ],
+                  "core": [
+                        "STPTCAAATISWLGSQLTVKTYKEGC",
+                        "TSAPCGAASVSWLASQFTVKTYKEGC",
+                        "TTPVCAASVASSTWCASAASAISGATYEAGC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ALC22073.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDKTGAITELIEGYDSYSDAEELNSTAAAEAPATSAPCGAASVSWLASQFTVKTYKEGC",
+                  "leader": [
+                        "MDKTGAITELIEGYDSYSDAEELNSTAAAEAPA"
+                  ],
+                  "core": [
+                        "STPTCAAATISWLGSQLTVKTYKEGC",
+                        "TSAPCGAASVSWLASQFTVKTYKEGC",
+                        "TTPVCAASVASSTWCASAASAISGATYEAGC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ALC22074.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MQNNTEIMDLIANYDAYADVDELNVTAAADAPATTPVCAASVASSTWCASAASAISGATYEAGC",
+                  "leader": [
+                        "MQNNTEIMDLIANYDAYADVDELNVTAAADAPA"
+                  ],
+                  "core": [
+                        "STPTCAAATISWLGSQLTVKTYKEGC",
+                        "TSAPCGAASVSWLASQFTVKTYKEGC",
+                        "TTPVCAASVASSTWCASAASAISGATYEAGC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

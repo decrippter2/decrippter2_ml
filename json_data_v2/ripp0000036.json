@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "L37110.1",
+            "mibig_acc": "BGC0000504"
+      },
+      "compound_name": [
+            "cytolysin ClyLl",
+            "cytolysin ClyLs"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.3390/toxins5050895"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAA62648.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MENLSVVPSFEELSVEEMEAIQGSGDVQAETTPVCAVAATAAASSAACGWVGGGIFTGVTVVVSLKHC",
+                  "leader": [
+                        "MENLSVVPSFEELSVEEMEAIQGSGDVQAE"
+                  ],
+                  "core": [
+                        "TTPVCAVAATAAASSAACGWVGGGIFTGVTVVVSLKHC",
+                        "TTPACFTIGLGVGALFSAKFC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AAA62649.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MLNKENQENYYSNKLELVGPSFEELSLEEMEAIQGSGDVQAETTPACFTIGLGVGALFSAKFC",
+                  "leader": [
+                        "MLNKENQENYYSNKLELVGPSFEELSLEEMEAIQGSGDVQAE"
+                  ],
+                  "core": [
+                        "TTPVCAVAATAAASSAACGWVGGGIFTGVTVVVSLKHC",
+                        "TTPACFTIGLGVGALFSAKFC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

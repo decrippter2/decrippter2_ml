@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP002047.1",
+            "mibig_acc": "BGC0001229"
+      },
+      "compound_name": [
+            "SBI-06990 A1",
+            "SBI-06989 A2"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1371/journal.pone.0091352"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ADI10109.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MQKDTDILGAWDEAELVELSEADVHGGTDPAVTGLILGIVAIQAGVAVGVSAAFCPTTKCTSRC",
+                  "leader": [
+                        "MQKDTDILGAWDEAELVELSEADVHGG"
+                  ],
+                  "core": [
+                        "TISPIDTVKIIFRVSSHFGGNGGFGLFCTLSKECQPNCN",
+                        "TDPAVTGLILGIVAIQAGVAVGVSAAFCPTTKCTSRC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ADI10110.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MHQEFEGDISLVEELAEQDLHDAAQHGGTISPIDTVKIIFRVSSHFGGNGGFGLFCTLSKECQPNCN",
+                  "leader": [
+                        "MHQEFEGDISLVEELAEQDLHDAAQHGG"
+                  ],
+                  "core": [
+                        "TISPIDTVKIIFRVSSHFGGNGGFGLFCTLSKECQPNCN",
+                        "TDPAVTGLILGIVAIQAGVAVGVSAAFCPTTKCTSRC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

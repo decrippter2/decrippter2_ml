@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AJ009631.3",
+            "mibig_acc": "BGC0000587"
+      },
+      "compound_name": [
+            "microcin H47"
+      ],
+      "ripp_class": "Microcin",
+      "ref": [
+            "https://doi.org/10.1128/aac.01606-06"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAB54534.2",
+                        "uniprot": ""
+                  },
+                  "complete": "MREITESQLRYISGAGGAPATSANAAGAAAIVGALAGIPGGPLGVVVGAVSAGLTTAIGSTVGSGSASSSAGGGS",
+                  "leader": [],
+                  "core": [
+                        "GGAPATSANAAGAAAIVGALAGIPGGPLGVVVGAVSAGLTTAIGSTVGSGSASSSAGGGS"
+                  ],
+                  "follower": []
+            }
+      ]
+}

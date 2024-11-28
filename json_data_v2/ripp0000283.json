@@ -1,0 +1,34 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MG788286.1",
+            "mibig_acc": "BGC0002319"
+      },
+      "compound_name": [
+            "salinipeptin A",
+            "salinipeptin B",
+            "salinipeptin C",
+            "salinipeptin D"
+      ],
+      "ripp_class": "Linaridin",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.8b01058"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QBA31011.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MGAGDVLATFGTPRPFARIDHRRKVSEVRSELTSTRPDSSATHPESLAAQEFANTALGAATPGFHADCETPAMATPATPTAAQFVIQGSTICLVC",
+                  "leader": [
+                        "MGAGDVLATFGTPRPFARIDHRRKVSEVRSELTSTRPDSSATHPESLAAQEFANTALGAATPGFHADCETPAM"
+                  ],
+                  "core": [
+                        "ATPATPTAAQFVIQGSTICLVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

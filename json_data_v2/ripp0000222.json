@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LC310987.1",
+            "mibig_acc": "BGC0001696"
+      },
+      "compound_name": [
+            "neothioviridamide"
+      ],
+      "ripp_class": "Thioamitide",
+      "ref": [
+            "https://doi.org/10.1021/acs.jnatprod.7b00607"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BBC15198.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSEAMVSAVDEAAFADLVSKIQDAEASMTDEQRAVIDPAAGEKALEELAGVSPEELQAFLEEKAGISPDEEAQGSVMAAAATVAFHC",
+                  "leader": [
+                        "MSEAMVSAVDEAAFADLVSKIQDAEASMTDEQRAVIDPAAGEKALEELAGVSPEELQAFLEEKAGISPDEEAQGS"
+                  ],
+                  "core": [
+                        "VMAAAATVAFHC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

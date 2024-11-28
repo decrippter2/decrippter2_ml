@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "GCA_001493375.1",
+            "mibig_acc": "BGC0003061"
+      },
+      "compound_name": [
+            "Specialicin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1016/j.bmc.2018.11.007"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_104530897.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSATTVYEPPALQEIGDFDELTKCLGVGSCVDFAGCGYAVVCFW",
+                  "leader": [],
+                  "core": [
+                        "CLGVGSCVDFAGCGYAVVCFW"
+                  ],
+                  "follower": []
+            }
+      ]
+}

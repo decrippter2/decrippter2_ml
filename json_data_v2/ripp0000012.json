@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "HQ655154.1",
+            "mibig_acc": "BGC0000479"
+      },
+      "compound_name": [
+            "prenylagaramide B",
+            "prenylagaramide C"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2011.01.019"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AED99431.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPHQAYLGIPLPFAGDDAE",
+                  "leader": [
+                        "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPH"
+                  ],
+                  "core": [
+                        "QAYLGIPLP",
+                        "INPYLYP"
+                  ],
+                  "follower": [
+                        "FAGDDAE"
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AED99432.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPHINPYLYPFAGDDAE",
+                  "leader": [
+                        "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPH"
+                  ],
+                  "core": [
+                        "QAYLGIPLP",
+                        "INPYLYP"
+                  ],
+                  "follower": [
+                        "FAGDDAE"
+                  ]
+            }
+      ]
+}

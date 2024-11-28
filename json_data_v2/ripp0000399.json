@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "ALJM01000003.1",
+            "mibig_acc": "BGC0003100"
+      },
+      "compound_name": [
+            "LANII-734"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41564-023-01524-6"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EJP18835.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKIKSKIKNMIDGANMQKNYDCDLKELNVENNIDLVSDEELEKTFGGNMVIRARWTITSKCPSSIGHCC",
+                  "leader": [
+                        "MKKIKSKIKNMIDGANMQKNYDCDLKELNVENNIDLVSDEELEKTFGG"
+                  ],
+                  "core": [
+                        "NMVIRARWTITSKCPSSIGHCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

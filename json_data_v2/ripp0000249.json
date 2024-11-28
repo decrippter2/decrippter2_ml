@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LS483343.1",
+            "mibig_acc": "BGC0001929"
+      },
+      "compound_name": [
+            "WGK"
+      ],
+      "ripp_class": "Streptide",
+      "ref": [
+            "https://doi.org/10.1101/467670"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "SQF39787.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSPKKEFNAPKTTKVNSWGKH",
+                  "leader": [
+                        "MSPKKEFNAPKTTK"
+                  ],
+                  "core": [
+                        "VNSWGKH"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

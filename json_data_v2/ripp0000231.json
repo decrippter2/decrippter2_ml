@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "BDCX01000012.1",
+            "mibig_acc": "BGC0001781"
+      },
+      "compound_name": [
+            "sphaericin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1002/ejoc.201601334"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "GAT69128.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRKRYESPALTCEGTFFEKTKGLPIGWWIERPSGWYFPI",
+                  "leader": [
+                        "MRKRYESPALTCEGTFFEKTK"
+                  ],
+                  "core": [
+                        "GLPIGWWIERPSGWYFPI"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

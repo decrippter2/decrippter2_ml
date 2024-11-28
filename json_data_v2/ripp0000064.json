@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EF060238.1",
+            "mibig_acc": "BGC0000534"
+      },
+      "compound_name": [
+            "mutacin K8"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1111/j.2041-1014.2011.00634.x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABK59354.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKNTTNEMLELIQEVSLDELDQVIGGMGKGAVGTISHECRYNSWAFLATCCS",
+                  "leader": [
+                        "MKNTTNEMLELIQEVSLDELDQVIGG"
+                  ],
+                  "core": [
+                        "MGKGAVGTISHECRYNSWAFLATCCS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

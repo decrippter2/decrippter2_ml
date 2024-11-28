@@ -1,0 +1,29 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AF062647.2",
+            "mibig_acc": "BGC0000499"
+      },
+      "compound_name": [
+            "butyrivibriocin OR79"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/aem.65.5.2128-2135.1999"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAC19355.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNKELNALTNPIDEKELEQILGGGNGVIKTISHECHMNTWQFIFTCCS",
+                  "leader": [
+                        "TBA"
+                  ],
+                  "core": [],
+                  "follower": [
+                        "TBA"
+                  ]
+            }
+      ]
+}

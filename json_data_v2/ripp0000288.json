@@ -1,0 +1,25 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_JOIU01000038.1",
+            "mibig_acc": "BGC0002337"
+      },
+      "compound_name": [
+            "SflA"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.0c00267"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_030348588.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MPVAVPDLLKTDGFRDAGPLEIDDETIPFEDDDREDREHTACLSDPWVTATTRFACDLNS",
+                  "leader": [],
+                  "core": [],
+                  "follower": []
+            }
+      ]
+}

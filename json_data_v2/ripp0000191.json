@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "PYBW01000040.1",
+            "mibig_acc": "BGC0001474"
+      },
+      "compound_name": [
+            "thiopeptin"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1021/jacs.8b03896"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "PYC80213.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSAPTEIQNLGVVGLTGLDTDTLEISDYLDESLLDEHDLTVTMVASASCTTCICTCSCSS",
+                  "leader": [
+                        "MSAPTEIQNLGVVGLTGLDTDTLEISDYLDESLLDEHDLTVTM"
+                  ],
+                  "core": [
+                        "VASASCTTCICTCSCSS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

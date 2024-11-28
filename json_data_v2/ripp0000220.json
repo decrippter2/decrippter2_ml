@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KY938841.1",
+            "mibig_acc": "BGC0001660"
+      },
+      "compound_name": [
+            "mathermycin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/aem.00926-17"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ARW80050.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSMTMTLQQAVVDDEFRSVLLADPAAFGLSVESLPGAVERQDHEAIEAFTEAVVASEIYACASTCSFGPFTIACDGTTK",
+                  "leader": [
+                        "MSMTMTLQQAVVDDEFRSVLLADPAAFGLSVESLPGAVERQDHEAIEAFTEAVVASEIYA"
+                  ],
+                  "core": [
+                        "CASTCSFGPFTIACDGTTK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

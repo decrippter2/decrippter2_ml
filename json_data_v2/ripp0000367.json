@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KF765778",
+            "mibig_acc": "BGC0003002"
+      },
+      "compound_name": [
+            "NAI-112"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1039/D0OB01215G"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AHB63594.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MQEILELQELPSASATEDMPLVSTLSVSSPCPGWPSSFTWSNC",
+                  "leader": [
+                        "MQEILELQELPSASATEDMPL"
+                  ],
+                  "core": [
+                        "VSTLSVSSPCPGWPSSFTWSNC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

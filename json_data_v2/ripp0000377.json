@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "GCA_000482465.1",
+            "mibig_acc": "BGC0003039"
+      },
+      "compound_name": [
+            "RuiA"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41467-022-33890-w"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_157607478.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKQLSKLNLKTDKVVNLSKDNSQGVVGGRPQSNPNSKVYCLSDLCTFTGATFSC",
+                  "leader": [],
+                  "core": [
+                        "RPQSNPNSKVYCLSDLCTFTGATFSC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

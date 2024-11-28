@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB179778.1",
+            "mibig_acc": "BGC0000552"
+      },
+      "compound_name": [
+            "SmbA",
+            "SmbB"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41598-021-92370-1"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAD72777.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKEIQKAGLQEELSILMDDANNLEQLTAGIGTTVVNSTFSIVLGNKGYICTVTVECMRNCSK",
+                  "leader": [
+                        "MKEIQKAGLQEELSILMDDANNLEQLTAGI"
+                  ],
+                  "core": [
+                        "GTTVVNSTFSIVLGNKGYICTVTVECMRNCSK",
+                        "STPACAIGVVGITVAVTGISTACTSRCINK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "BAD72776.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKSNLLKINNVTEMEKNMVTLIKDEDMLAGGSTPACAIGVVGITVAVTGISTACTSRCINK",
+                  "leader": [
+                        "MKSNLLKINNVTEMEKNMVTLIKDEDMLAGG"
+                  ],
+                  "core": [
+                        "GTTVVNSTFSIVLGNKGYICTVTVECMRNCSK",
+                        "STPACAIGVVGITVAVTGISTACTSRCINK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

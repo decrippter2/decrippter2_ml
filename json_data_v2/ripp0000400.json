@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JH815539.1",
+            "mibig_acc": "BGC0003101"
+      },
+      "compound_name": [
+            "LANII-695"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41564-023-01524-6"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EEZ90381.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MVKEPELDFVVELDDEDLDVSGGTSIPCGTLIIATLTQCFNDTLVWGSCRLGTRACC",
+                  "leader": [
+                        "MVKEPELDFVVELDDEDLDVSGG"
+                  ],
+                  "core": [
+                        "TSIPCGTLIIATLTQCFNDTLVWGSCRLGTRACC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

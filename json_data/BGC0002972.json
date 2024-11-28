@@ -5,22 +5,21 @@
             "start": 92374,
             "end": 102750,
             "core_sequences": [
-                  "MSASRDSKSRVTEVRSAVSSRPAPVRLAKRGDAAHSLMLSRVLPDNGVSRLDVAGFQSSI"
+
             ],
             "protein_ids": [
-                  "SjiA"
+                  "WP_369405959.1"
             ],
-            "SjiA": {},
-            "Unidentified protein0": {
-                  "complete_seq": "TBA",
+            "WP_369405959.1": {
+                  "complete_seq": "MSASRDSKSRVTEVRSAVSSRPAPVRLAKRGDAAHSLMLSRVLPDNGVSRLDVAGFQSSI",
                   "leader_seq": "TBA",
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": "",
+            "ref": "https://doi.org/10.1002/anie.202107192",
             "ripp_class": "other",
             "compound_name": [
-                  "Triceptide (SjiB) note: structure show here was a trypsin digested fragment"
+                  "SjiA"
             ]
       }
 }

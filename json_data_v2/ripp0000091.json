@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB434921.1",
+            "mibig_acc": "BGC0000561"
+      },
+      "compound_name": [
+            "thermophilin 1277"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1111/j.1365-2672.2008.04059.x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAJ10685.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MMNATENQIFVETVSDQELEMLIGGADRGWIKTLTKDCPNVISSICAGTIITACKNCA",
+                  "leader": [
+                        "MMNATENQIFVETVSDQELEMLIGG"
+                  ],
+                  "core": [
+                        "ADRGWIKTLTKDCPNVISSICAGTIITACKNCA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MK806443.1",
+            "mibig_acc": "BGC0002485"
+      },
+      "compound_name": [
+            "muscoride A",
+            "muscoride B"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.9b00620"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QGA72599.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKPENQKQTRLQPKLSEPTVRVMPGIQLDLSEEELTNGGVGVGGVNASQYGGGDGGVSPSIPSTSGV",
+                  "leader": [
+                        "MKPENQKQTRLQPKLSEPTVRVMPGIQLDLSEEELTNGGVGVGGVNASQYGGGDGGVSPS"
+                  ],
+                  "core": [
+                        "VPTT",
+                        "IPSTS"
+                  ],
+                  "follower": [
+                        "GV"
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "QGA72586.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKPENQKQTRLQPKLSEPTVRVMPGIQLDLSEEELTNGGVGVGGVNASQYGGGDGGVSPSVPTTGV",
+                  "leader": [
+                        "MKPENQKQTRLQPKLSEPTVRVMPGIQLDLSEEELTNGGVGVGGVNASQYGGGDGGVSPS"
+                  ],
+                  "core": [
+                        "VPTT",
+                        "IPSTS"
+                  ],
+                  "follower": [
+                        "GV"
+                  ]
+            }
+      ]
+}

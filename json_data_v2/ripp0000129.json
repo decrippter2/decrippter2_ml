@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "HQ446454.1",
+            "mibig_acc": "BGC0000599"
+      },
+      "compound_name": [
+            "thuricin CD a",
+            "thuricin CD b"
+      ],
+      "ripp_class": "Sactipeptide",
+      "ref": [
+            "https://doi.org/10.1073/pnas.0913554107"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AED99782.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEVLNKQNVNIIPESEEVGGWVACVGACGTVCLASGGVGTEFAAASYFL",
+                  "leader": [
+                        "MEVLNKQNVNIIPESEEVG"
+                  ],
+                  "core": [
+                        "GWVACVGACGTVCLASGGVGTEFAAASYFL",
+                        "GNAACVIGCIGSCVISEGIGSLVGTAFTLG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AED99783.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEVMNNALITKVDEEIGGNAACVIGCIGSCVISEGIGSLVGTAFTLG",
+                  "leader": [
+                        "MEVMNNALITKVDEEIG"
+                  ],
+                  "core": [
+                        "GWVACVGACGTVCLASGGVGTEFAAASYFL",
+                        "GNAACVIGCIGSCVISEGIGSLVGTAFTLG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

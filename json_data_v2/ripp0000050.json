@@ -1,0 +1,54 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FN178622.1",
+            "mibig_acc": "BGC0000519"
+      },
+      "compound_name": [
+            "labyrinthopeptin A2",
+            "labyrinthopeptin A1",
+            "labyrinthopeptin A3"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            [
+                  "https://doi.org/10.1002/anie.200905909",
+                  "https://doi.org/10.1371/journal.pone.0064010"
+            ]
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAX48972.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MASILELQDLEVERASSAADSNASVWECCSTGSWVPFTCC",
+                  "leader": [
+                        "MASILELQDLEVERASSAAD"
+                  ],
+                  "core": [
+                        "SDWSLWECCSTGSLFACC",
+                        "SNASVWECCSTGSWVPFTCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "CAX48973.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MASILELQNLDVEHARGENRSDWSLWECCSTGSLFACC",
+                  "leader": [
+                        "MASILELQNLDVEHARGENR"
+                  ],
+                  "core": [
+                        "SDWSLWECCSTGSLFACC",
+                        "SNASVWECCSTGSWVPFTCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

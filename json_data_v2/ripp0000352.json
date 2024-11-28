@@ -1,0 +1,29 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MKGP02000097.1",
+            "mibig_acc": "BGC0002925"
+      },
+      "compound_name": [],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1038/s41929-022-00822-2"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "RFP52073.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPHKYSLQGFGVMIPFAGDDAE",
+                  "leader": [
+                        "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPH"
+                  ],
+                  "core": [
+                        "KYSLQGFGVMIP"
+                  ],
+                  "follower": [
+                        "FAGDDAE"
+                  ]
+            }
+      ]
+}

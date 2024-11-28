@@ -1,0 +1,49 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP001738",
+            "mibig_acc": "BGC0002878"
+      },
+      "compound_name": [
+            "Curvocidin A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1002/anie.202302490"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACY95978.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSALLEPRDAGTTNLDALATVPSEAPAFQAGSCTVCHWGRTVLCDDFSTQA",
+                  "leader": [
+                        "MSALLEPRDAGTTNLDALATVPSEAPAFQA"
+                  ],
+                  "core": [
+                        "GSCTVCHWGRTVLCDDFSTQA",
+                        "GTCTVCHWGYTILCDDFSTRS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ACY95979.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSALLEPRDAGATNLDALAAVPSEAPAHQAGTCTVCHWGYTILCDDFSTRS",
+                  "leader": [
+                        "MSALLEPRDAGATNLDALAAVPSEAPAHQA"
+                  ],
+                  "core": [
+                        "GSCTVCHWGRTVLCDDFSTQA",
+                        "GTCTVCHWGYTILCDDFSTRS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

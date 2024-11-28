@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LC029806.1",
+            "mibig_acc": "BGC0002674"
+      },
+      "compound_name": [
+            "enterocin F4-9"
+      ],
+      "ripp_class": "Glycocin",
+      "ref": [
+            "https://doi.org/10.3390/microorganisms9112276"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAR87969.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MGNSILNKMTVEEMEAVKGGNLVCPPMPDYIKRLSTGKGVSSVYMAWQIANCKSSGSCMKGQTNRTC",
+                  "leader": [
+                        "MGNSILNKMTVEEMEAVKGG"
+                  ],
+                  "core": [
+                        "NLVCPPMPDYIKRLSTGKGVSSVYMAWQIANCKSSGSCMKGQTNRTC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

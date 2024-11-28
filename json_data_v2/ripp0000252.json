@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_CP033071.1",
+            "mibig_acc": "BGC0002006"
+      },
+      "compound_name": [
+            "albusnodin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1039/c7cc08620b"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_103055247.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDSLLSTETVISDDELLPIEVGGTAELTEGQGGGQSEDKRRAYNC",
+                  "leader": [],
+                  "core": [
+                        "GQGGGQSEDKRRAYNC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

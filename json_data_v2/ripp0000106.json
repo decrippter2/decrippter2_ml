@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AP012320.1",
+            "mibig_acc": "BGC0000576"
+      },
+      "compound_name": [
+            "rubrivinodin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1002/bip.22326"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAL94044.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDEELELEIVDLGDAKELTQGAPSLINSEDNPAFPQRV",
+                  "leader": [
+                        "MDEELELEIVDLGDAKELTQ"
+                  ],
+                  "core": [
+                        "GAPSLINSEDNPAFPQRV"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP000419.1",
+            "mibig_acc": "BGC0001209"
+      },
+      "compound_name": [
+            "streptide"
+      ],
+      "ripp_class": "Streptide",
+      "ref": [
+            "https://doi.org/10.1016/bs.mie.2018.04.016"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABJ66530.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKELEKVLESSSMAKGDGWKVMAKGDGWE",
+                  "leader": [
+                        "MSKELEKVLESSSM"
+                  ],
+                  "core": [
+                        "AKGDGWKVM"
+                  ],
+                  "follower": [
+                        "AKGDGWE"
+                  ]
+            }
+      ]
+}

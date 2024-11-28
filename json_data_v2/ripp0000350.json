@@ -1,0 +1,29 @@
+{
+      "identifiers": {
+            "ncbi_acc": "BMMK00000000.1",
+            "mibig_acc": "BGC0002920"
+      },
+      "compound_name": [
+            "longipeptin A",
+            "longipeptin B",
+            "longipeptin C"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1039/D3SC02380J"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_189061731.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MQEQTAYESPALVEVGTFECDTQGWWGANWDGPSGMRD",
+                  "leader": [],
+                  "core": [
+                        "GWWGANWDGPSGMRD"
+                  ],
+                  "follower": []
+            }
+      ]
+}

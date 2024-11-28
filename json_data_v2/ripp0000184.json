@@ -1,0 +1,49 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KT454399.1",
+            "mibig_acc": "BGC0001391"
+      },
+      "compound_name": [
+            "thusin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.3389/fmicb.2016.01115"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ANP43731.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MLDVIKNRKKIEEKLELPEILLEEVEEHSAMGGINTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG",
+                  "leader": [
+                        "MLDVIKNRKKIEEKLELPEILLEEVEEHSAMGG"
+                  ],
+                  "core": [
+                        "INTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG",
+                        "GTPAITTAISAIIAATAQSPCPTSACSKSCNK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ANP43734.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MLKEEKLEKITGLIPESELEEHLSGESSGAGTPAITTAISAIIAATAQSPCPTSACSKSCNK",
+                  "leader": [
+                        "MLKEEKLEKITGLIPESELEEHLSGESSGA"
+                  ],
+                  "core": [
+                        "INTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG",
+                        "GTPAITTAISAIIAATAQSPCPTSACSKSCNK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

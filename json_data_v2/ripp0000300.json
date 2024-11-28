@@ -1,0 +1,49 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FJ938036.1",
+            "mibig_acc": "BGC0002577"
+      },
+      "compound_name": [
+            "lactococcin G"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1128/AEM.02600-09"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACR43769.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKELSEKELRECVGGGTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH",
+                  "leader": [
+                        "MKELSEKELRECVGG"
+                  ],
+                  "core": [
+                        "GTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH",
+                        "KKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ACR43770.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKNNNNFFKGMEIIEDQELVSITGGKKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI",
+                  "leader": [
+                        "MKNNNNFFKGMEIIEDQELVSITGG"
+                  ],
+                  "core": [
+                        "GTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH",
+                        "KKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

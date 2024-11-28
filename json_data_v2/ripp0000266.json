@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MT210103.1",
+            "mibig_acc": "BGC0002130"
+      },
+      "compound_name": [
+            "cacaoidin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://www.ncbi.nlm.nih.gov/pubmed/32407589"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QKI29070.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MGEVVEMVAGFDTYADVEELNQIAVGEAPESSAPCTIYASVSASISATASWGC",
+                  "leader": [
+                        "MGEVVEMVAGFDTYADVEELNQIAVGEAPE"
+                  ],
+                  "core": [
+                        "SSAPCTIYASVSASISATASWGC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

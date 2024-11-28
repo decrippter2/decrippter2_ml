@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EU014074.1",
+            "mibig_acc": "BGC0000622"
+      },
+      "compound_name": [
+            "megacin"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1128/JB.00557-08"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABS44967.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSTVEVTNIPEVFKNFNEYNETVDLALLIVSDDIQVNKDVIIEQRGFISKVAFPKERPEEDEVVALVPDEEQTSMEDQEVTEEPIELVDYTQKTLYTKYANNLYVKVMETVNDDDETDKLVHVSAVYLQEVNGTFIRKVIAYEDGVQFIESEVVPGEGEEIDPETELTIPNEAIEVTPDEGILPQVKLPVPCFNNSTGCCTFSNNGKTVHYKWCGPGCSGTGACTTANTKNGLDKCCCNHDKCYGQTKTYPNRCKCDLSLLNCSVSKRDPGSDRVWSAFVFKRLYYKCASHGM",
+                  "leader": [
+                        "MSTVEVTNIPEVFKNFNEYNETVDLALLIVSDDIQVNKDVIIEQRGFISKVAFPKERPEEDEVVALVPDEEQTSMEDQEVTEEPIELVDYTQKTLYTKYANNLYVKVMETVNDDDETDKLVHVSAVYLQEVNGTFIRKVIAYEDGVQFIESEVVPGEGEEIDPETELTIPNEAIEVTPDEGILPQ"
+                  ],
+                  "core": [
+                        "VKLPVPCFNNSTGCCTFSNNGKTVHYKWCGPGCSGTGACTTANTKNGLDKCCCNHDKCYGQTKTYPNRCKCDLSLLNCSVSKRDPGSDRVWSAFVFKRLYYKCASHGM"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

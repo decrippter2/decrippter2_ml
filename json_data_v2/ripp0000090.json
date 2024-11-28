@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JX912247.1",
+            "mibig_acc": "BGC0000560"
+      },
+      "compound_name": [
+            "subtilomycin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.3390/md11061878"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AGL93171.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEKNNIFDLDINKKMESTSEVSAQTWATIGKTIVQSVKKCRTFTCGCSLGSCSNCN",
+                  "leader": [
+                        "MEKNNIFDLDINKKMESTSEVSAQ"
+                  ],
+                  "core": [
+                        "TWATIGKTIVQSVKKCRTFTCGCSLGSCSNCN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

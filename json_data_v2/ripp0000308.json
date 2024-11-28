@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MKGP02000097.1",
+            "mibig_acc": "BGC0002629"
+      },
+      "compound_name": [
+            "limnothamide"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.26434/chemrxiv-2021-v70zf"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "RFP52073.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPHKYSLQGFGVMIPFAGDDAE",
+                  "leader": [
+                        "MKKDLKALMPQTVAPVQRETSATVSRDGNAITPH"
+                  ],
+                  "core": [
+                        "KYSLQGFGVMIP"
+                  ],
+                  "follower": [
+                        "FAGDDAE"
+                  ]
+            }
+      ]
+}

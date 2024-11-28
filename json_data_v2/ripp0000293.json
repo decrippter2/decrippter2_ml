@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MZ182273.1",
+            "mibig_acc": "BGC0002425"
+      },
+      "compound_name": [
+            "stlassin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1039/d1sc02695j"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QYB25761.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKAFYETPEFTAAGSFRSKTGLVVIVQADWNAPGWF",
+                  "leader": [
+                        "MKKAFYETPEFTAAGSFRSKTG"
+                  ],
+                  "core": [
+                        "LVVIVQADWNAPGWF"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

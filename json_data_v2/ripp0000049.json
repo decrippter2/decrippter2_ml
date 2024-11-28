@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "GG657757.1",
+            "mibig_acc": "BGC0000518"
+      },
+      "compound_name": [
+            "informatipeptin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/cb500199h"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_039934377.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MALLDLQTIETEERTDGGGASTVSLLSCISAASVLLCL",
+                  "leader": [],
+                  "core": [
+                        "TDGGGASTVSLLSCISAASVLLCL"
+                  ],
+                  "follower": []
+            }
+      ]
+}

@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_KB900627.1",
+            "mibig_acc": "BGC0002132"
+      },
+      "compound_name": [
+            "group 1 methanobactin"
+      ],
+      "ripp_class": "Methanobactin",
+      "ref": [
+            "https://doi.org/10.1021/jacs.6b06821"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_157235562.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTIKVVKKEILPVIGRVQAMCACNPPWCGTC",
+                  "leader": [],
+                  "core": [
+                        "MCACNPPWCGTC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

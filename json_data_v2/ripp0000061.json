@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AF238860.1",
+            "mibig_acc": "BGC0000531"
+      },
+      "compound_name": [
+            "mutacin I"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.66.8.3221-3229.2000"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAG48564.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSNTQLLEVLGTETFDVQEDLFAFDTTDTTIVASNDDPDTRFSSLSLCSLGCTGVKNPSFNSYCC",
+                  "leader": [
+                        "MSNTQLLEVLGTETFDVQEDLFAFDTTDTTIVASNDDPDTR"
+                  ],
+                  "core": [
+                        "FSSLSLCSLGCTGVKNPSFNSYCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

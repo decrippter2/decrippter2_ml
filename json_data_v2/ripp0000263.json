@@ -1,0 +1,70 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP035727.2",
+            "mibig_acc": "BGC0002111"
+      },
+      "compound_name": [
+            "andalusicin A",
+            "andalusicin B"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.isci.2021.102480"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QQY95970.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNTVLELQKLAHDTEGKGQAAEATITTTWTVTTTGVWASTISNNC",
+                  "leader": [
+                        "MNTVLELQKLAHDTEGKGQAAE"
+                  ],
+                  "core": [
+                        "ATITTTWTVTTTGVWASTISNNC",
+                        "ATITTTWTVTTTGVWASTISNNC",
+                        "ATITTTWTVTTTGAWASTISNNC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "QQY95972.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNTVLELQKLVHDTEGKGQAAEATITTTWTVTTTGVWASTISNNC",
+                  "leader": [
+                        "MNTVLELQKLVHDTEGKGQAAE"
+                  ],
+                  "core": [
+                        "ATITTTWTVTTTGVWASTISNNC",
+                        "ATITTTWTVTTTGVWASTISNNC",
+                        "ATITTTWTVTTTGAWASTISNNC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "QQY95976.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNTVLELQKLAHDTEGKGQAAEATITTTWTVTTTGAWASTISNNC",
+                  "leader": [
+                        "MNTVLELQKLAHDTEGKGQAAE"
+                  ],
+                  "core": [
+                        "ATITTTWTVTTTGVWASTISNNC",
+                        "ATITTTWTVTTTGVWASTISNNC",
+                        "ATITTTWTVTTTGAWASTISNNC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

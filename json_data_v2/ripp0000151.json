@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "M18346.1",
+            "mibig_acc": "BGC0000621"
+      },
+      "compound_name": [
+            "linaclotide"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1016/j.lfs.2010.03.015"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAA23730.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKSILFIFLSVLSFSPFAQDAKPVESSKEKITLESKKCNIAKKSNKSGPESMNSSNYCCELCCNPACTGCY",
+                  "leader": [
+                        "MKKSILFIFLSVLSFSPFAQDAKPVESSKEKITLESKKCNIAKKSNKSGPESMNSSNY"
+                  ],
+                  "core": [
+                        "CCELCCNPACTGCY"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

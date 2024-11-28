@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_MKCP01000039.1",
+            "mibig_acc": "BGC0002015"
+      },
+      "compound_name": [
+            "aborycin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.3390/md17020127"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_106963308.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTAIYEPPALQEIGDFDELTKCLGIGSCNDFAGCGYAVVCFW",
+                  "leader": [],
+                  "core": [
+                        "CLGIGSCNDFAGCGYAVVCFW"
+                  ],
+                  "follower": []
+            }
+      ]
+}

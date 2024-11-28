@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB007043.2",
+            "mibig_acc": "BGC0000491"
+      },
+      "compound_name": [
+            "gassericin A"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1271/bbb.62.2438"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAA22261.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MVTKYGRNLGLNKVELFAIWAVLVVALLLTTANIYWIADQFGIHLATGTARKLLDAMASGASLGTAFAAILGVTLPAWALAAAGALGATAA",
+                  "leader": [
+                        "MVTKYGRNLGLNKVELFAIWAVLVVALLLTTAN"
+                  ],
+                  "core": [
+                        "IYWIADQFGIHLATGTARKLLDAMASGASLGTAFAAILGVTLPAWALAAAGALGATAA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

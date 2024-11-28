@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB600897.1",
+            "mibig_acc": "BGC0000505"
+      },
+      "compound_name": [
+            "enterocin W \u00ce\u00b1",
+            "enterocin W \u00ce\u00b2"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.06497-11"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAL50001.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKEELVGMAKEDFLNVICENDNKLENSGAKCPWWNLSCHLGNDGKICTYSHECTAGCNA",
+                  "leader": [
+                        "MKKEELVGMAKEDFLNVICENDNKLENSGA"
+                  ],
+                  "core": [
+                        "KCPWWNLSCHLGNDGKICTYSHECTAGCNA",
+                        "VTTSIPCTVMVSAAVCPTLVCSNKCGGRG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "BAL50002.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTELNKRLQLKRDVSTENSLKKISNTDETHGGVTTSIPCTVMVSAAVCPTLVCSNKCGGRG",
+                  "leader": [
+                        "MTELNKRLQLKRDVSTENSLKKISNTDETHGG"
+                  ],
+                  "core": [
+                        "KCPWWNLSCHLGNDGKICTYSHECTAGCNA",
+                        "VTTSIPCTVMVSAAVCPTLVCSNKCGGRG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

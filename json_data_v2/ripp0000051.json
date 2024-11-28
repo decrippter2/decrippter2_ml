@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AE001272.1",
+            "mibig_acc": "BGC0000520"
+      },
+      "compound_name": [
+            "lacticin 3147 A1",
+            "lacticin 3147 A2"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/bi0362065"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAC56053.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNKNEIETQPVTWLEEVSDQNFDEDVFGACSTNTFSLSDYWGNNGAWCTLTHECMAWCK",
+                  "leader": [
+                        "MNKNEIETQPVTWLEEVSDQNFDEDVFGA"
+                  ],
+                  "core": [
+                        "CSTNTFSLSDYWGNNGAWCTLTHECMAWCK",
+                        "TPATPAISILSAYISTNTCPTTKCTRAC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AAC56054.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKEKNMKKNDTIELQLGKYLEDDMIELAEGDESHGGTTPATPAISILSAYISTNTCPTTKCTRAC",
+                  "leader": [
+                        "MKEKNMKKNDTIELQLGKYLEDDMIELAEGDESHGGT"
+                  ],
+                  "core": [
+                        "CSTNTFSLSDYWGNNGAWCTLTHECMAWCK",
+                        "TPATPAISILSAYISTNTCPTTKCTRAC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

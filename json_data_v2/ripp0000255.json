@@ -1,0 +1,32 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MN731368.1",
+            "mibig_acc": "BGC0002043"
+      },
+      "compound_name": [
+            "cittilin A",
+            "cittilin B"
+      ],
+      "ripp_class": "Cittilin",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.0c00430"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QLH55578.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKALYSLAVLMRFARADKLSAPYIYY",
+                  "leader": [
+                        "MKKALYSLAVLMRFARADKLSAP"
+                  ],
+                  "core": [
+                        "YIYY"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

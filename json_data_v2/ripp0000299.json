@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MT776333.1",
+            "mibig_acc": "BGC0002576"
+      },
+      "compound_name": [
+            "mechercharmycin"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2021.08.005"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "UBK24780.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MIINSIIPFHYKISISEVKTMFEIIEEKVEMNNEVNENFIVSSSCSSLELDVDEE",
+                  "leader": [
+                        "MIINSIIPFHYKISISEVKTMFEIIEEKVEMNNEVNEN"
+                  ],
+                  "core": [
+                        "FIVSSSCS"
+                  ],
+                  "follower": [
+                        "SLELDVDEE"
+                  ]
+            }
+      ]
+}

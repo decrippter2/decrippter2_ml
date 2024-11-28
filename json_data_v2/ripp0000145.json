@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "HM467197.1",
+            "mibig_acc": "BGC0000615"
+      },
+      "compound_name": [
+            "TP-1161"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.01442-10"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ADO67770.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNKDIDLSAIEISDLISETEQSDDALSQVMAASCTTTGCACSSSSSST",
+                  "leader": [
+                        "MNKDIDLSAIEISDLISETEQSDDALSQVMAAS"
+                  ],
+                  "core": [
+                        "CTTTGCACSSSSSST"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

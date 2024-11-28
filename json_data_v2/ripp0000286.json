@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP001348.1",
+            "mibig_acc": "BGC0002328"
+      },
+      "compound_name": [
+            "Rc-AIP1"
+      ],
+      "ripp_class": "AIP",
+      "ref": [
+            "https://doi.org/10.1002/anie.202016378"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACL76470.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKGKIKLLVLTVLSLVGVFAATASAGACWFWSYYQRECPKSLLK",
+                  "leader": [
+                        "MKGKIKLLVLTVLSLVGVFAATASAGA"
+                  ],
+                  "core": [
+                        "CWFWSY"
+                  ],
+                  "follower": [
+                        "YQRECPKSLLK"
+                  ]
+            }
+      ]
+}

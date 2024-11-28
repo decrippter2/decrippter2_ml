@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP000560.1",
+            "mibig_acc": "BGC0000616"
+      },
+      "compound_name": [
+            "amylocyclicin"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1128/jb.01474-14"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABS75254.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MMNLVKSNKKSFILFGAALAAATLVYALLLTGTELNVAAAHAFSANAELASTLGISTAAAKKAIDIIDAASTIASIISLIGIVTGAGAISYAIVATAKTMIKKYGKKYAAAW",
+                  "leader": [
+                        "MMNLVKSNKKSFILFGAALAAATLVYALLLTGTELNVAAAHAFSANAE"
+                  ],
+                  "core": [
+                        "LASTLGISTAAAKKAIDIIDAASTIASIISLIGIVTGAGAISYAIVATAKTMIKKYGKKYAAAW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

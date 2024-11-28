@@ -1,0 +1,42 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_JOAW01000056.1",
+            "mibig_acc": "BGC0001506"
+      },
+      "compound_name": [
+            "anantin B1",
+            "anantin B2"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.2319"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_158761618.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDEQIELTTAEPYAPPTLTEVGEFNEDTLGFIGWGNDIFGHYSGGF",
+                  "leader": [],
+                  "core": [
+                        "GFIGWGNDIFGHYSGGF",
+                        "GFIGWGNDIFGHYSGG"
+                  ],
+                  "follower": []
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_031104469.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDEQIELTTAEPYAPPTLTEVGEFNEDTLGFIGWGNDIFGHYSGGF",
+                  "leader": [],
+                  "core": [
+                        "GFIGWGNDIFGHYSGGF",
+                        "GFIGWGNDIFGHYSGG"
+                  ],
+                  "follower": []
+            }
+      ]
+}

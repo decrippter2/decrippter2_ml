@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "BA000004.3",
+            "mibig_acc": "BGC0000517"
+      },
+      "compound_name": [
+            "haloduracin a",
+            "haloduracin b"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2008.07.020"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAB04173.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTNLLKEWKMPLERTHNNSNPAGDIFQELEDQDILAGVNGACAWYNISCRLGNKGAYCTLTVECMPSCN",
+                  "leader": [
+                        "MTNLLKEWKMPLERTHNNSNPAGDIFQELEDQDILAGVNGA"
+                  ],
+                  "core": [
+                        "CAWYNISCRLGNKGAYCTLTVECMPSCN",
+                        "TTWPCATVGVSVALCPTTKCTSQC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "BAB04172.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MVNSKDLRNPEFRKAQGLQFVDEVNEKELSSLAGSGDVHAQTTWPCATVGVSVALCPTTKCTSQC",
+                  "leader": [
+                        "MVNSKDLRNPEFRKAQGLQFVDEVNEKELSSLAGSGDVHAQ"
+                  ],
+                  "core": [
+                        "CAWYNISCRLGNKGAYCTLTVECMPSCN",
+                        "TTWPCATVGVSVALCPTTKCTSQC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

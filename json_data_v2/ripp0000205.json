@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NC_011980.1",
+            "mibig_acc": "BGC0001555"
+      },
+      "compound_name": [
+            "colicin V"
+      ],
+      "ripp_class": "Microcin",
+      "ref": [
+            "https://doi.org/10.1099/13500872-140-9-2383"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_001259758.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRTLTLNELDSVSGGASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL",
+                  "leader": [],
+                  "core": [
+                        "ASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL"
+                  ],
+                  "follower": []
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JX679672.1",
+            "mibig_acc": "BGC0000541"
+      },
+      "compound_name": [
+            "paenicidin A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/ja3089229"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AFW17838.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MAENLFDLDIQVNKSQGSVEPQVLSIVACSSGCGSGKTAASCVETCGNRCFTNVGSLC",
+                  "leader": [
+                        "MAENLFDLDIQVNKSQGSVEPQ"
+                  ],
+                  "core": [
+                        "VLSIVACSSGCGSGKTAASCVETCGNRCFTNVGSLC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

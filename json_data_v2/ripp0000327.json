@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_BARF01000025.1",
+            "mibig_acc": "BGC0002725"
+      },
+      "compound_name": [
+            "prunipeptin"
+      ],
+      "ripp_class": "Graspetide",
+      "ref": [
+            "https://doi.org/10.1016/j.micres.2020.126669"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_019056920.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MQPFALNYARPAAQLELSAPYTYDSGLQLNVLADGRVAAHDLALLRELGTTTSTAGSKTHFDD",
+                  "leader": [],
+                  "core": [
+                        "ELGTTTSTAGSKTHFDD"
+                  ],
+                  "follower": []
+            }
+      ]
+}

@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NC_018586.1",
+            "mibig_acc": "BGC0001864"
+      },
+      "compound_name": [
+            "listeriocytocin"
+      ],
+      "ripp_class": "Glycocin",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.8b00599"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_041176876.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTKGLDKMLLTKKKKDSMGLLNEIDVTTLDEQLGGKMSKAWCRSMVVSCVYNLVDFSSSSDGKKTCALYRKYC",
+                  "leader": [],
+                  "core": [
+                        "KMSKAWCRSMVVSCVYNLVDFSSSSDGKKTCALYRKYC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MT149903.1",
+            "mibig_acc": "BGC0002053"
+      },
+      "compound_name": [
+            "ulleungdin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acs.jnatprod.8b00449"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QOE83931.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEEQNELSTVEPYAPPMLAEVGEFNEDTLGFIGWGKDIFGHYGG",
+                  "leader": [
+                        "MEEQNELSTVEPYAPPMLAEVGEFNEDTL"
+                  ],
+                  "core": [
+                        "GFIGWGKDIFGHYGG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

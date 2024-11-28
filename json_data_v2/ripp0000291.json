@@ -1,0 +1,34 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MT362006.1",
+            "mibig_acc": "BGC0002363"
+      },
+      "compound_name": [
+            "berninamycin K",
+            "berninamycin J",
+            "berninamycin A",
+            "berninamycin B"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1073/pnas.1307111110"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QVN25651.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEQQIELDVLEISDLIAGAGENDDLAQVMAASCTTTSVSTSSSSSSS",
+                  "leader": [
+                        "MEQQIELDVLEISDLIAGAGENDDLAQVMAA"
+                  ],
+                  "core": [
+                        "SCTTTSVSTSSSSSSS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

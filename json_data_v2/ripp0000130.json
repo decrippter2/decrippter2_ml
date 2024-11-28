@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FJ977580.1",
+            "mibig_acc": "BGC0000600"
+      },
+      "compound_name": [
+            "thurincin H"
+      ],
+      "ripp_class": "Sactipeptide",
+      "ref": [
+            "https://doi.org/10.1111/j.1574-6968.2009.01749.x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACN24983.1",
+                        "uniprot": ""
+                  },
+                  "complete": "METPVVQPRDWTCWSCLVCAACSVELLNLVTAATGASTAS",
+                  "leader": [
+                        "METPVVQPR"
+                  ],
+                  "core": [
+                        "DWTCWSCLVCAACSVELLNLVTAATGASTAS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

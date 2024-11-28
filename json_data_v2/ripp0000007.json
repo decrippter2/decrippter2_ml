@@ -1,0 +1,29 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AM931579.1",
+            "mibig_acc": "BGC0000474"
+      },
+      "compound_name": [
+            "microcyclamide"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1128/AEM.02392-07"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAP64339.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEASITGCICAFDGAEASITGCICAFDGDEA",
+                  "leader": [],
+                  "core": [
+                        "ATVSIC",
+                        "FTGCMC",
+                        "ITGCIC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

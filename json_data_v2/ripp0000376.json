@@ -1,0 +1,42 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_AP024565",
+            "mibig_acc": "BGC0003036"
+      },
+      "compound_name": [
+            "MalA1",
+            "MalA2"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/acs.orglett.2c00573"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_061432523.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSQPDVERFYEIARNSEELQAMLGAAEDRDSFVETAVRLGQENGCNFTLDEANEFLNTKKGDAELSEQELEAVAGGRRRCNLNTRLTVCIIVSRNCWVATC",
+                  "leader": [],
+                  "core": [
+                        "RRRCNLNTRLTVCIIVSRNCWVATC",
+                        "RRGCNNTIIICRITYTRE"
+                  ],
+                  "follower": []
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_061432524.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSQPDVERFYEIVRNSEELQAMLGAAEDRDSFVETAVRLGQENGCNFTLDEANEFLNTKKGDAELSEQELEAVAGGRRGCNNTIIICRITYTRE",
+                  "leader": [],
+                  "core": [
+                        "RRRCNLNTRLTVCIIVSRNCWVATC",
+                        "RRGCNNTIIICRITYTRE"
+                  ],
+                  "follower": []
+            }
+      ]
+}

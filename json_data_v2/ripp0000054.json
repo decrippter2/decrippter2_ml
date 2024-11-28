@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "Z54312.2",
+            "mibig_acc": "BGC0000523"
+      },
+      "compound_name": [
+            "lactocin S"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1007/BF00399418"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAA91109.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKTEKKVLDELSLHASAKMGARDVESSMNADSTPVLASVAVSMELLPTASVLYSDVAGCFKYSAKHHC",
+                  "leader": [
+                        "MKTEKKVLDELSLHASAKMGARDVESSMNAD"
+                  ],
+                  "core": [
+                        "STPVLASVAVSMELLPTASVLYSDVAGCFKYSAKHHC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

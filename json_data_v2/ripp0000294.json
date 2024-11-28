@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MT795152.1",
+            "mibig_acc": "BGC0002442"
+      },
+      "compound_name": [
+            "toyoncin"
+      ],
+      "ripp_class": "Bacteriocin",
+      "ref": [
+            "https://doi.org/10.1128/aem.00185-21"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QTH19314.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MINTAWKIIKALQKYGTKAYNVIKKGGQAMYDSFMAAKAKGWTHAAWWLVEHGSTLGTFYDLLKAAGLID",
+                  "leader": [
+                        ""
+                  ],
+                  "core": [
+                        "MINTAWKIIKALQKYGTKAYNVIKKGGQAMYDSFMAAKAKGWTHAAWWLVEHGSTLGTFYDLLKAAGLID"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

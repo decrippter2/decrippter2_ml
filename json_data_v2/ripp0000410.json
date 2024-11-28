@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "GCF_900142785.1",
+            "mibig_acc": "BGC0003125"
+      },
+      "compound_name": [
+            "carnazolamide"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41467-023-43604-5"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_073335637.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MENQAVRVISEVTAKAQANPDFAHEYVNNPNKVLSDAGMQIPEGMNIHVIVGAPANSEIPNSTSTDVYLLLPQVNEEIKDESLATAAAASCQSTSSTCVTVPSCVSCVSSASTNSCS",
+                  "leader": [],
+                  "core": [
+                        "AASCQSTSSTCVTVPSCVSCVSSASTNSCS"
+                  ],
+                  "follower": []
+            }
+      ]
+}

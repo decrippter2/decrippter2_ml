@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP004085.1",
+            "mibig_acc": "BGC0001174"
+      },
+      "compound_name": [
+            "corynazolicin"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1021/cb200339d"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QQB07036.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSTLINKLPPAVSTDSSKIVSEVQAFEPTAARCSCTTIPCCCCCGG",
+                  "leader": [
+                        "MSTLINKLPPAVSTDSSKIVSEVQAFEPTAA"
+                  ],
+                  "core": [
+                        "RCSCTTIPCCCCCGG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

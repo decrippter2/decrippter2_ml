@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP001700.1",
+            "mibig_acc": "BGC0000501"
+      },
+      "compound_name": [
+            "catenulipeptin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/acs.chemrev.2c00210"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACU73104.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTEEMTLLDLQGMEQTETDSWGGSGHGGGGDSGLSVTGCNGHSGISLLCDL",
+                  "leader": [
+                        "MTEEMTLLDLQGMEQTETDSWGGS"
+                  ],
+                  "core": [
+                        "GHGGGGDSGLSVTGCNGHSGISLLCDL"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

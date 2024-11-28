@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AJ536588.1",
+            "mibig_acc": "BGC0000503"
+      },
+      "compound_name": [
+            "cinnamycin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1073/pnas.0230516100"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAD60520.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTASILQQSVVDADFRAALLENPAAFGASAAALPTPVEAQDQASLDFWTKDIAATEAFACRQSCSFGPFTFVCDGNTK",
+                  "leader": [
+                        "MTASILQQSVVDADFRAALLENPAAFGASAAALPTPVEAQDQASLDFWTKDIAATEAFA"
+                  ],
+                  "core": [
+                        "CRQSCSFGPFTFVCDGNTK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

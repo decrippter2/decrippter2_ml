@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JJOH01000097.1",
+            "mibig_acc": "BGC0001507"
+      },
+      "compound_name": [
+            "anantin C"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.2319"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_359792544.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDEQTEFSTTEPYAPPTLTEVGEFNEDTLGFIGWGDDIFGHYSGDF",
+                  "leader": [],
+                  "core": [
+                        "GFIGWGDDIFGHYSGDF"
+                  ],
+                  "follower": []
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AJ566621.1",
+            "mibig_acc": "BGC0000488"
+      },
+      "compound_name": [
+            "circularin A"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.69.3.1589-1597.2003"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAD97580.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MFLVAGALGVQTAAATTIVNVILNAGTLVTVLGIIASIASGGAGTLMTIGWATFKATVQKLAKQSMARAIAY",
+                  "leader": [
+                        "MFL"
+                  ],
+                  "core": [
+                        "VAGALGVQTAAATTIVNVILNAGTLVTVLGIIASIASGGAGTLMTIGWATFKATVQKLAKQSMARAIAY"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

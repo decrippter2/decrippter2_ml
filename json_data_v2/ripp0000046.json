@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP000557.1",
+            "mibig_acc": "BGC0000515"
+      },
+      "compound_name": [
+            "geobacillin I"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/ja.2013.112"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABO65649.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MAKFDDFDLDIVVKKQDDVVQPNVTSKSLCTPGCITGVLMCLTQNSCVSCNSCIRC",
+                  "leader": [
+                        "MAKFDDFDLDIVVKKQDDVVQPN"
+                  ],
+                  "core": [
+                        "VTSKSLCTPGCITGVLMCLTQNSCVSCNSCIRC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

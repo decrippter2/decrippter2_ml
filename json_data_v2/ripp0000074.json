@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "HF570921.1",
+            "mibig_acc": "BGC0000544"
+      },
+      "compound_name": [
+            "planosporicin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/jb.02291-12"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CCQ18695.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MGISSPALPQNTADLFQLDLEIGVEQSLASPAITSVSWCTPGCTSEGGGSGCSHCC",
+                  "leader": [
+                        "MGISSPALPQNTADLFQLDLEIGVEQSLASPA"
+                  ],
+                  "core": [
+                        "ITSVSWCTPGCTSEGGGSGCSHCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

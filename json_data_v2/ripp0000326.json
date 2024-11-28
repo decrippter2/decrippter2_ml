@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "ML974127.1",
+            "mibig_acc": "BGC0002705"
+      },
+      "compound_name": [
+            "archalan g"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://dx.doi.org/10.21203/rs.3.rs-1476892/v1"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_162224169.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSVTQHTSDVKAEIETEYARDGSDALDDSSEPMRACSCYTRICCDIDS",
+                  "leader": [],
+                  "core": [
+                        "CSCYTRICCDIDS"
+                  ],
+                  "follower": []
+            }
+      ]
+}

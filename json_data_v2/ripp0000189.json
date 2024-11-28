@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KC894738.1",
+            "mibig_acc": "BGC0001472"
+      },
+      "compound_name": [
+            "berninamycin A"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1073/pnas.1307111110"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AGN11670.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEQQIELDVLEISDLIAGAGENDDLAQVMAASCTTTSVSTSSSSSSS",
+                  "leader": [
+                        "MEQQIELDVLEISDLIAGAGENDDLAQVMAA"
+                  ],
+                  "core": [
+                        "SCTTTSVSTSSSSSSS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

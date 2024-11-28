@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AE004092.2",
+            "mibig_acc": "BGC0000566"
+      },
+      "compound_name": [
+            "streptolysin S"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1128/iai.68.7.4245-4254.2000"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAK33684.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MLKFTSNILATSVAETTQVAPGGCCCCCTTCCFSIATGSGNSQGGSGSYTPGK",
+                  "leader": [
+                        "MLKFTSNILATSVAETTQVAPGG"
+                  ],
+                  "core": [
+                        "CCCCCTTCCFSIATGSGNSQGGSGSYTPGK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

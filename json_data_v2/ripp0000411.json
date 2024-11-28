@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AMDH01000012",
+            "mibig_acc": "BGC0003128"
+      },
+      "compound_name": [
+            "Pumilarin"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1099/mgen.0.000134"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_017358050.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTETRNEIKLHVLFGALAVGFLMLALFSFSLQVLPVADLAKEFGIPGSVAAVVLNVVEAGGAVTTIVSILTAVGSGGLSLIAAAGKETIRQYLKNEIKKKGRKAVIAW",
+                  "leader": [],
+                  "core": [
+                        "LAKEFGIPGSVAAVVLNVVEAGGAVTTIVSILTAVGSGGLSLIAAAGKETIRQYLKNEIKKKGRKAVIAW"
+                  ],
+                  "follower": []
+            }
+      ]
+}

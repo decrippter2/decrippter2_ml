@@ -1,0 +1,50 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JYNI01000001.1",
+            "mibig_acc": "BGC0002640"
+      },
+      "compound_name": [
+            "thalassomonasin A",
+            "thalassomonasin B"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.3390/md22090388"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WDD98117.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKLTLKKKNLANLSKDLNELPNEQTKDINGGAVTLKDCEHITTHTYTVAWGDCQVEM",
+                  "leader": [
+                        "MKLTLKKKNLANLSKDLNELPNEQTKDINGG"
+                  ],
+                  "core": [
+                        "AVTLKDCEHITTHTYTVAWGDCQVEM",
+                        "LASANKTIVSVVHSCVCKPSEVDCF"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WDD98118.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKLTLKKKAVKQLSNDVNLLPKKETAAIAGGLASANKTIVSVVHSCVCKPSEVDCF",
+                  "leader": [
+                        "MKLTLKKKAVKQLSNDVNLLPKKETAAIAGG"
+                  ],
+                  "core": [
+                        "AVTLKDCEHITTHTYTVAWGDCQVEM",
+                        "LASANKTIVSVVHSCVCKPSEVDCF"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

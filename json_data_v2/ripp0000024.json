@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB462499.1",
+            "mibig_acc": "BGC0000492"
+      },
+      "compound_name": [
+            "lactocyclicin Q"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.02299-08"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAH29711.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKLIDHLGAPRWAVDTILGAIAVGNLASWVLALVPGPGWAVKAGLATAAAIVKHQGKAAAAAW",
+                  "leader": [
+                        "MK"
+                  ],
+                  "core": [
+                        "LIDHLGAPRWAVDTILGAIAVGNLASWVLALVPGPGWAVKAGLATAAAIVKHQGKAAAAAW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JN831266.1",
+            "mibig_acc": "BGC0000550"
+      },
+      "compound_name": [
+            "salivaricin G32"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1155/2012/738503"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AFB74479.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKDVVIESIKEVSLEELDQIIGAGNGVFKTISHECHLNTWAFLATCCS",
+                  "leader": [
+                        "MKKDVVIESIKEVSLEELDQIIGA"
+                  ],
+                  "core": [
+                        "GNGVFKTISHECHLNTWAFLATCCS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NC_019689.1",
+            "mibig_acc": "BGC0001733"
+      },
+      "compound_name": [
+            "PcpA"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1126/science.aao0157"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_015143116.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSSNILEKVKEFFVRLVKDDAFQSQLQNNSIDEVRNILQEAGYIFSKEEFETATIELLDLKERDEFHELTEEELVTAVGGVTGGSGIYGPIQAMYGAVVGDPKPGKDWGWRFPSPLPKPSPIPSPWKPPVDVQPMYGVVVSNDS",
+                  "leader": [],
+                  "core": [
+                        "VTGGSGIYGPIQAMYGAVVGDPKPGKDWGWRFPSPLPKPSPIPSPWKPPVDVQPMYGVVVSNDS"
+                  ],
+                  "follower": []
+            }
+      ]
+}

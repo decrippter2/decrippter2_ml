@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EU497962.2",
+            "mibig_acc": "BGC0000498"
+      },
+      "compound_name": [
+            "bovicin HJ50"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1099/mic.0.26437-0"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACA51934.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MMNATENQIFVETVSDQELEMLIGGADRGWIKTLTKDCPNVISSICAGTIITACKNCA",
+                  "leader": [
+                        "MMNATENQIFVETVSDQELEMLIG"
+                  ],
+                  "core": [
+                        "GADRGWIKTLTKDCPNVISSICAGTIITACKNCA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

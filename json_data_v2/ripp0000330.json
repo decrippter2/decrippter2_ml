@@ -1,0 +1,28 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP021118.1",
+            "mibig_acc": "BGC0002750"
+      },
+      "compound_name": [
+            "Tryptorubin A",
+            "Tryptorubin B"
+      ],
+      "ripp_class": "Atropopeptide",
+      "ref": [
+            "https://dx.doi.org/10.1002/anie.202208361"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_218105334.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRLLFSLKNKMSQQKSLKAHAWYIWY",
+                  "leader": [],
+                  "core": [
+                        "AWYIWY"
+                  ],
+                  "follower": []
+            }
+      ]
+}

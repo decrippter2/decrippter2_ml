@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_CP021272.1",
+            "mibig_acc": "BGC0002895"
+      },
+      "compound_name": [
+            "Gra-7A"
+      ],
+      "ripp_class": "Microviridin",
+      "ref": [
+            "https://doi.org/10.1038/s41467-022-33890-w"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_106184355.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRKQTQKDRTLAYKTANLITNEDLLKISGGANPGCNTTRYTTKQTFDTHGNWDVGADIEWD",
+                  "leader": [],
+                  "core": [
+                        "ANPGCNTTRYTTKQTFDTHGNWDVGADIEWD"
+                  ],
+                  "follower": []
+            }
+      ]
+}

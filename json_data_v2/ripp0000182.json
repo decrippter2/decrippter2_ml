@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_KB907211.1",
+            "mibig_acc": "BGC0001364"
+      },
+      "compound_name": [
+            "cinnamycin B"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1007/s10295-016-1788-9"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_019631332.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSPSTILRQAAADAEFRTALLTDPEVFGVAADAVPESVEQQDQESLGFWTEGVAAIDAYACASTCSAGPFTFVCDGTTK",
+                  "leader": [],
+                  "core": [
+                        "CASTCSAGPFTFVCDGTTK"
+                  ],
+                  "follower": []
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "Z34920.1",
+            "mibig_acc": "BGC0000485"
+      },
+      "compound_name": [
+            "acidocin B"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.04265-14"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAA84399.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MVTKYGRNLGLSKVELFAIWAVLVVALLLATANIYWIADQFGIHLATGTARKLLDAVASGASLGTAFAAILGVTLPAWALAAAGALGATAA",
+                  "leader": [
+                        "MVTKYGRNLGLSKVELFAIWAVLVVALLLATAN"
+                  ],
+                  "core": [
+                        "IYWIADQFGIHLATGTARKLLDAVASGASLGTAFAAILGVTLPAWALAAAGALGATAA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

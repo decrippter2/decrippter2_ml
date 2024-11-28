@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JQ728481.1",
+            "mibig_acc": "BGC0000540"
+      },
+      "compound_name": [
+            "paenibacillin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.micres.2015.08.001"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AFS60100.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKVDQMFDLDLRKSYEASELSPQASIIKTTIKVSKAVCKTLTCICTGSCSNCK",
+                  "leader": [
+                        "MKVDQMFDLDLRKSYEASELSPQ"
+                  ],
+                  "core": [
+                        "ASIIKTTIKVSKAVCKTLTCICTGSCSNCK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

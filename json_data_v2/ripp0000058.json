@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AM711867.1",
+            "mibig_acc": "BGC0000528"
+      },
+      "compound_name": [
+            "michiganin A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.00639-06"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAN02023.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNDILETETPVMVSPRWDMLLDAGEDTSPSVQTQIDAEFRRVVSPYMSSSGWLCTLTIECGTIICACR",
+                  "leader": [
+                        "MNDILETETPVMVSPRWDMLLDAGEDTSPSVQTQIDAEFRRVVSPYM"
+                  ],
+                  "core": [
+                        "SSSGWLCTLTIECGTIICACR"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

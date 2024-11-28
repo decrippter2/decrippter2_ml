@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AE014133.2",
+            "mibig_acc": "BGC0002583"
+      },
+      "compound_name": [
+            "tryglysin B"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1128/mBio.02688-20"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAN59156.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MLTKKEFSVPKTTKVNCWGKH",
+                  "leader": [
+                        "MLTKKEFSVPKTTKVNC"
+                  ],
+                  "core": [
+                        "WGK"
+                  ],
+                  "follower": [
+                        "H"
+                  ]
+            }
+      ]
+}

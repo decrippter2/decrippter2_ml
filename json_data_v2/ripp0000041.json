@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JQ979180.1",
+            "mibig_acc": "BGC0000509"
+      },
+      "compound_name": [
+            "epilancin 15x"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2011.05.007"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AFN69432.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKELFDLNLNKDIEAQKSDLNPQSASIVKTTIKASKKLCRGFTLTCGCHFTGKK",
+                  "leader": [
+                        "MKKELFDLNLNKDIEAQKSDLNPQ"
+                  ],
+                  "core": [
+                        "SASIVKTTIKASKKLCRGFTLTCGCHFTGKK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

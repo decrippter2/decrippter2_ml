@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "Y14023.1",
+            "mibig_acc": "BGC0000507"
+      },
+      "compound_name": [
+            "epicidin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41598-021-90613-9"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAA74348.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MENKKDLFDLEIKKDNMENNNELEAQSLGPAIKATRQVCPKATRFVTVSCKKSDCQ",
+                  "leader": [
+                        "MENKKDLFDLEIKKDNMENNNELEAQ"
+                  ],
+                  "core": [
+                        "SLGPAIKATRQVCPKATRFVTVSCKKSDCQ"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JX235926.1",
+            "mibig_acc": "BGC0000469"
+      },
+      "compound_name": [
+            "bottromycin A2"
+      ],
+      "ripp_class": "Bottromycin",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2012.08.013"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AFV25481.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MGPVVVFDCMTADFLNDDPNNAELSALEMEELESWGAWDGEATS",
+                  "leader": [
+                        "M"
+                  ],
+                  "core": [
+                        "GPVVVFDC"
+                  ],
+                  "follower": [
+                        "MTADFLNDDPNNAELSALEMEELESWGAWDGEATS"
+                  ]
+            }
+      ]
+}

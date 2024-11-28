@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FJ461733.2",
+            "mibig_acc": "BGC0000472"
+      },
+      "compound_name": [
+            "anacyclamide A10"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2013.06.015"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ADA00388.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTKKNIRPQQVAPVERETISTAKDQSGQVQAQTSQIWGSPVPFAGDDAE",
+                  "leader": [
+                        "MTKKNIRPQQVAPVERETISTAKDQSGQVQAQ"
+                  ],
+                  "core": [
+                        "TSQIWGSPVP"
+                  ],
+                  "follower": [
+                        "FAGDDAE"
+                  ]
+            }
+      ]
+}

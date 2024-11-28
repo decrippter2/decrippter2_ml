@@ -1,0 +1,71 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JAGKSW010000123.1",
+            "mibig_acc": "BGC0002626"
+      },
+      "compound_name": [
+            "microviridin 1688",
+            "microviridin 1739",
+            "microviridin 1748"
+      ],
+      "ripp_class": "Microviridin",
+      "ref": [
+            "https://doi.org/10.1128/msphere.00562-21"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "MBU7585865.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSTNTTKAANVEAVPFFARFLEEQVAEVSDTAPYESRKYPSDWEEY",
+                  "leader": [
+                        "MSTNTTKAANVEAVPFFARFLEEQVAEVSDTAPYESR"
+                  ],
+                  "core": [
+                        "KYPSD",
+                        "KYPSD",
+                        "KWPSD"
+                  ],
+                  "follower": [
+                        "WEEY"
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "MBU7585863.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSTNTVKPANVEAVPFFARFLEEQVTEVSDTSPRNTLKYPSDWEEY",
+                  "leader": [
+                        "MSTNTVKPANVEAVPFFARFLEEQVTEVSDTSPRNTL"
+                  ],
+                  "core": [
+                        "KYPSD",
+                        "KYPSD",
+                        "KWPSD"
+                  ],
+                  "follower": [
+                        "WEEY"
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "MBU7585864.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSTNTTKAANIEAAPFFARFLEEQVAEVSDTAPYETKKWPSDWEEY",
+                  "leader": [
+                        "MSTNTTKAANIEAAPFFARFLEEQVAEVSDTAPYETK"
+                  ],
+                  "core": [
+                        "KYPSD",
+                        "KYPSD",
+                        "KWPSD"
+                  ],
+                  "follower": [
+                        "WEEY"
+                  ]
+            }
+      ]
+}

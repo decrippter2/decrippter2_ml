@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_SACT01000005.1",
+            "mibig_acc": "BGC0003110"
+      },
+      "compound_name": [
+            "Rubrinodin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acs.biochem.2c00029"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_233259133.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNETLELEFTDLGDAKEVTKGTIDPQNSEEHPVLSRRLEN",
+                  "leader": [],
+                  "core": [
+                        "GTIDPQNSEEHPVLSRRLEN"
+                  ],
+                  "follower": []
+            }
+      ]
+}

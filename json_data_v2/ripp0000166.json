@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AE017262.2",
+            "mibig_acc": "BGC0001171"
+      },
+      "compound_name": [
+            "listeriolysin S"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1371/journal.ppat.1000144"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_071661762.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNIKSQSSNGYSNNAVGSEAMNYAAGCCSCSCSTCTCTCTCASSAATKM",
+                  "leader": [],
+                  "core": [
+                        "CCSCSCSTCTCTCTCASSAATKM"
+                  ],
+                  "follower": []
+            }
+      ]
+}

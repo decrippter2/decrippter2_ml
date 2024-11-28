@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "ACGO02000004.1",
+            "mibig_acc": "BGC0000628"
+      },
+      "compound_name": [
+            "lactocillin"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.cell.2014.08.032"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EFJ68961.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKGGVKMKDLFDIDEKSLENLDLGDFKILDSEDLSEKDEKSILGASCTTCTCCCSCCA",
+                  "leader": [
+                        "MKGGVKMKDLFDIDEKSLENLDLGDFKILDSEDLSEKDEKSILGA"
+                  ],
+                  "core": [
+                        "SCTTCTCCCSCCA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

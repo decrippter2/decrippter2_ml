@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CYTQ01000003",
+            "mibig_acc": "BGC0003015"
+      },
+      "compound_name": [
+            "achromonodin-1"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acs.jnatprod.3c00536"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CUI65249.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MQTTRPIQSDSEIQILSIATPATKLTQGGGGPTPEYFLMPIDPAWLQANLPNTGKYN",
+                  "leader": [
+                        "MQTTRPIQSDSEIQILSIATPATKLTQ"
+                  ],
+                  "core": [
+                        "GGGGPTPEYFLMPIDPAWLQANLPNTGKYN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

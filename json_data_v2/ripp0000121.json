@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB011418.1",
+            "mibig_acc": "BGC0000591"
+      },
+      "compound_name": [
+            "marinostatin"
+      ],
+      "ripp_class": "Microviridin",
+      "ref": [
+            "https://doi.org/10.1021/bi048034x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAA81783.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKTTPFFANLLASQTRELTENELEMTAGGTASQQSPVQEVPEQPFATMRYPSDSDEDGFNFPV",
+                  "leader": [
+                        "MKTTPFFANLLASQTRELTENELEMTAGGTASQQSPVQEVPEQP"
+                  ],
+                  "core": [
+                        "FATMRYPSDSDE"
+                  ],
+                  "follower": [
+                        "DGFNFPV"
+                  ]
+            }
+      ]
+}

@@ -1,25 +1,26 @@
 {
       "mibig_acc": {
-            "accession": "OV972893.1",
+            "accession": "CAKNWM010000002.1",
             "ncomp": 1,
-            "start": 8296985,
-            "end": 8302171,
+            "start": 5222259,
+            "end": 5226093,
             "core_sequences": [
-                  "ASEPTVQAVVQAVAVVNVGGPTLDVVQVVGGPTAVVVTGGPSAVVC"
+                  "MVTTFFIPSESDDQFFKK"
             ],
             "protein_ids": [
-                  null
+                  "ETHZIMBSS001_04717"
             ],
+            "ETHZIMBSS001_04717": {},
             "Unidentified protein0": {
                   "complete_seq": "TBA",
                   "leader_seq": "TBA",
                   "core_seq": "TBA",
                   "follower_seq": "TBA"
             },
-            "ref": "",
-            "ripp_class": "Proteusin",
+            "ref": "https://doi.org/10.1038/s41586-022-04862-3",
+            "ripp_class": "Lanthipeptide",
             "compound_name": [
-                  "pythonamide"
+                  "phospeptin"
             ]
       }
 }

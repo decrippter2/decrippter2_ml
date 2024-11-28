@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KV411304.1",
+            "mibig_acc": "BGC0002825"
+      },
+      "compound_name": [
+            "nocapeptin A"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://dx.doi.org/10.1039/d3sc02380j"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_171983241.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MQQESVYESPVLFKVGTFEYDTQGWYGSQWDGPTGQRD",
+                  "leader": [],
+                  "core": [
+                        "GWYGSQWDGPTGQRD"
+                  ],
+                  "follower": []
+            }
+      ]
+}

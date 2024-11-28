@@ -1,0 +1,42 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LRQV01000076.1",
+            "mibig_acc": "BGC0002935"
+      },
+      "compound_name": [
+            "pyritide A1",
+            "pyritide A2"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1021/jacs.2c02824"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_157527607.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDNVVTEAAEFADLDIVDLDLAVDEELAALSVGGLGNTEVGASGWLGSWVI",
+                  "leader": [],
+                  "core": [
+                        "SGWLGSWVI",
+                        "SGFFGRSWLI"
+                  ],
+                  "follower": []
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_157527609.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDNAATEATEFADLDIVNLDLPIDEELAAVSVGGLGNTEVGASGFFGRSWLI",
+                  "leader": [],
+                  "core": [
+                        "SGWLGSWVI",
+                        "SGFFGRSWLI"
+                  ],
+                  "follower": []
+            }
+      ]
+}

@@ -1,0 +1,67 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AJJQ00000000.1",
+            "mibig_acc": "BGC0003098"
+      },
+      "compound_name": [
+            "LAS-1009",
+            "LAS-1010",
+            "LAS-917"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1038/s41564-023-01524-6"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_157769145.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MYTKAQLTRLGSFEEATHGWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
+                  "leader": [],
+                  "core": [
+                        "GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
+                        "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
+                        "GLIYGKYRDVLSGARLVTPPEVAL"
+                  ],
+                  "follower": []
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "EID50813.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MYIKPEFKKISSFAHITRGWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
+                  "leader": [
+                        "MYIKPEFKKISSFAHITR"
+                  ],
+                  "core": [
+                        "GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
+                        "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
+                        "GLIYGKYRDVLSGARLVTPPEVAL"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "EID50715.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MYIKARFMKMNSFADCTHGLIYGKYRDVLSGARLVTPPEVAL",
+                  "leader": [
+                        "MYIKARFMKMNSFADCTH"
+                  ],
+                  "core": [
+                        "GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
+                        "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
+                        "GLIYGKYRDVLSGARLVTPPEVAL"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

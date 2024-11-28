@@ -1,0 +1,140 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KJ000001.1",
+            "mibig_acc": "BGC0000502"
+      },
+      "compound_name": [
+            "cerecidin A1",
+            "cerecidin A2",
+            "cerecidin A3",
+            "cerecidin A4",
+            "cerecidin A5",
+            "cerecidin A6",
+            "cerecidin A7"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.03751-13"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AHJ59545.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
+                  "leader": [
+                        "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPE"
+                  ],
+                  "core": [
+                        "TTPLCVGVIIGLTTSIKICK",
+                        "TTPLCVGVIIGITASIKICK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AHJ59547.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
+                  "leader": [
+                        "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPE"
+                  ],
+                  "core": [
+                        "TTPLCVGVIIGLTTSIKICK",
+                        "TTPLCVGVIIGITASIKICK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AHJ59544.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
+                  "leader": [
+                        "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPE"
+                  ],
+                  "core": [
+                        "TTPLCVGVIIGLTTSIKICK",
+                        "TTPLCVGVIIGITASIKICK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AHJ59543.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKGYKFTKEELVEAWKDPQVREKLKDLPNHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGITASIKICK",
+                  "leader": [
+                        "MSKGYKFTKEELVEAWKDPQVREKLKDLPNHPSGKALNELSEEELAEIQGASDVQPE"
+                  ],
+                  "core": [
+                        "TTPLCVGVIIGLTTSIKICK",
+                        "TTPLCVGVIIGITASIKICK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AHJ59549.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
+                  "leader": [
+                        "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPE"
+                  ],
+                  "core": [
+                        "TTPLCVGVIIGLTTSIKICK",
+                        "TTPLCVGVIIGITASIKICK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AHJ59546.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
+                  "leader": [
+                        "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPE"
+                  ],
+                  "core": [
+                        "TTPLCVGVIIGLTTSIKICK",
+                        "TTPLCVGVIIGITASIKICK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AHJ59548.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
+                  "leader": [
+                        "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPE"
+                  ],
+                  "core": [
+                        "TTPLCVGVIIGLTTSIKICK",
+                        "TTPLCVGVIIGITASIKICK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

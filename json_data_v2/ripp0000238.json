@@ -1,0 +1,44 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JOBF01000011.1",
+            "mibig_acc": "BGC0001849"
+      },
+      "compound_name": [
+            "thiovarsolin A",
+            "thiovarsolin B",
+            "thiovarsolin C",
+            "thiovarsolin D"
+      ],
+      "ripp_class": "Thioamitide",
+      "ref": [
+            "http://dx.doi.org/10.1093/nar/gkz192"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_030877127.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRKDSDLRLDDLAHVNPEQLQGFLEERSTAAVHGATDAYFSGPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR",
+                  "leader": [],
+                  "core": [
+                        "GPR",
+                        "APR"
+                  ],
+                  "follower": []
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_030877127.1_2",
+                        "uniprot": ""
+                  },
+                  "complete": "MRKDSDLRLDDLAHVNPEQLQGFLEERSTAAVHGATDAYFSGPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR",
+                  "leader": [],
+                  "core": [
+                        "GPR",
+                        "APR"
+                  ],
+                  "follower": []
+            }
+      ]
+}

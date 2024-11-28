@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NC_014815.1",
+            "mibig_acc": "BGC0002968"
+      },
+      "compound_name": [
+            "Triceptide (MscB) note: structure show here was a trypsin digested fragment"
+      ],
+      "ripp_class": "other",
+      "ref": [
+            "https://doi.org/10.1038/s41557-020-0519-z"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_013289092.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTTAPLRQDEPPVSLGRVRAEPLDRLSAADISPIVRRVMAAHLDQTRIPAAKFSSFI",
+                  "leader": [],
+                  "core": [
+                        "IPAAKFSSFI"
+                  ],
+                  "follower": []
+            }
+      ]
+}

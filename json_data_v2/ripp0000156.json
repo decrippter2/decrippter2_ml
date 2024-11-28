@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KJ504104.1",
+            "mibig_acc": "BGC0000626"
+      },
+      "compound_name": [
+            "thuricin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1371/journal.pone.0097121"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AHX39582.1",
+                        "uniprot": ""
+                  },
+                  "complete": "METEKYLQVVEDEEIEQLVGGAGPGWVETLTKDCPWNVPVACVTIMGQRICKKCY",
+                  "leader": [
+                        "METEKYLQVVEDEEIEQLVGG"
+                  ],
+                  "core": [
+                        "AGPGWVETLTKDCPWNVPVACVTIMGQRICKKCY"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

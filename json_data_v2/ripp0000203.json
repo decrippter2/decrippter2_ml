@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_CP009438.1",
+            "mibig_acc": "BGC0001551"
+      },
+      "compound_name": [
+            "citrulassin E"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.2319"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_107408983.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKAYEAPTLVRLGSFRQKTGLLQRHGNDRLILSKN",
+                  "leader": [],
+                  "core": [
+                        "LLQRHGNDRLILSKN"
+                  ],
+                  "follower": []
+            }
+      ]
+}

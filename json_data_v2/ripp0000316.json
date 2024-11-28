@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JAIFTG010000008.1",
+            "mibig_acc": "BGC0002667"
+      },
+      "compound_name": [
+            "estericin A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.3389/fmicb.2021.801467"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "MBX4265661.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKLNEEALEAINDVTDEELEKLTGAGGGVITTFTHECYYNSVSPASWGGCCK",
+                  "leader": [
+                        "MKKLNEEALEAINDVTDEELEKLTGA"
+                  ],
+                  "core": [
+                        "GGGVITTFTHECYYNSVSPASWGGCCK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

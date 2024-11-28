@@ -1,0 +1,29 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EU290743.1",
+            "mibig_acc": "BGC0000478"
+      },
+      "compound_name": [
+            "patellin 6",
+            "trunkamide"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.84"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACA04495.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNKKNILPQLGQPVIRLTAGQLSSQLAELSEEALGGVDASTFPVPTVCSYDGVDASTSIAPFCSYDD",
+                  "leader": [],
+                  "core": [
+                        "TFPVPTVC",
+                        "TSIAPFC"
+                  ],
+                  "follower": []
+            }
+      ]
+}

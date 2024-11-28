@@ -1,0 +1,42 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JXRA01000036.1",
+            "mibig_acc": "BGC0003009"
+      },
+      "compound_name": [
+            "PedA15.1",
+            "PedA15.2"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.1c00106"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_041881206.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKVKLTNKISLDKKIISKLNDDQLRELEGGKNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
+                  "leader": [],
+                  "core": [
+                        "KNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
+                        "GAHANNMSCITGSKSCPNCKEAEREDYN"
+                  ],
+                  "follower": []
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_041881204.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKVKLTNKITLDKEIISKLNEDQLKELYGGGAHANNMSCITGSKSCPNCKEAEREDYN",
+                  "leader": [],
+                  "core": [
+                        "KNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
+                        "GAHANNMSCITGSKSCPNCKEAEREDYN"
+                  ],
+                  "follower": []
+            }
+      ]
+}

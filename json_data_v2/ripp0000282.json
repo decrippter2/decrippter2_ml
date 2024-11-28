@@ -1,0 +1,28 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KQ948669.1",
+            "mibig_acc": "BGC0002318"
+      },
+      "compound_name": [
+            "canucin A",
+            "canucin B"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.0c00109"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_159064094.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSNSVHNTDRRTAMENMEPETSYEVPELVELGDYDDLTRGVGFPLADFFIHFD",
+                  "leader": [],
+                  "core": [
+                        "GVGFPLADFFIHFD"
+                  ],
+                  "follower": []
+            }
+      ]
+}

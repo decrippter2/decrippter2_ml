@@ -1,0 +1,27 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_MOEP01000024.1",
+            "mibig_acc": "BGC0001579"
+      },
+      "compound_name": [
+            "duramycin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.02698-16"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_071962206.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTASILQSVVDADFRAALIENPAAFGASTAVLPTPVEQQDQASLDFWTKDIAATEAFACKQSCSFGPFTFVCDGNTK",
+                  "leader": [],
+                  "core": [
+                        "CKQSCSFGPFTFVCDGNTK"
+                  ],
+                  "follower": []
+            }
+      ]
+}
