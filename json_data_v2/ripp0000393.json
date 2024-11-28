@@ -18,12 +18,15 @@
                         "uniprot": ""
                   },
                   "complete": "MKDFNELIDLGAISVETRGIEPLGPVDEDQGEHYLFAGGITADD",
-                  "leader": [],
-                  "core": [
-                        "GIEPLGPVDEDQGEHYLFAGGITADD",
-                        "GEALIDQDVGGGRQQFLTGIAQD"
+                  "leader": [
+                        "MKDFNELIDLGAISVETR"
                   ],
-                  "follower": []
+                  "core": [
+                        "GIEPLGPVDEDQGEHYLFAGGITADD"
+                  ],
+                  "follower": [
+                        ""
+                  ]
             },
             {
                   "protein_ids": {
@@ -31,12 +34,15 @@
                         "uniprot": ""
                   },
                   "complete": "MERTEVIEEVIDLGKASVETKGEALIDQDVGGGRQQFLTGIAQD",
-                  "leader": [],
+                  "leader": [
+                        "MERTEVIEEVIDLGKASVETK"
+                  ],
                   "core": [
-                        "GIEPLGPVDEDQGEHYLFAGGITADD",
                         "GEALIDQDVGGGRQQFLTGIAQD"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }

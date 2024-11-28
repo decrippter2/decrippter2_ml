@@ -18,12 +18,16 @@
                         "uniprot": ""
                   },
                   "complete": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASLTACITFCAYDGVEPSCTLCCTLCAYDGE",
-                  "leader": [],
+                  "leader": [
+                        "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEAS"
+                  ],
                   "core": [
                         "LTACITFC",
                         "CTLCCTLC"
                   ],
-                  "follower": []
+                  "follower": [
+                        "AYDGE"
+                  ]
             }
       ]
 }

@@ -20,12 +20,16 @@
                         "uniprot": ""
                   },
                   "complete": "MRKDSDLRLDDLAHVNPEQLQGFLEERSTAAVHGATDAYFSGPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR",
-                  "leader": [],
+                  "leader": [
+                        "MRKDSDLRLDDLAHVNPEQLQGFLEERSTAAVHGATDAYFS"
+                  ],
                   "core": [
                         "GPR",
                         "APR"
                   ],
-                  "follower": []
+                  "follower": [
+                        "AQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR"
+                  ]
             },
             {
                   "protein_ids": {
@@ -33,12 +37,16 @@
                         "uniprot": ""
                   },
                   "complete": "MRKDSDLRLDDLAHVNPEQLQGFLEERSTAAVHGATDAYFSGPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR",
-                  "leader": [],
+                  "leader": [
+                        "MRKDSDLRLDDLAHVNPEQLQGFLEERSTAAVHGATDAYFS"
+                  ],
                   "core": [
                         "GPR",
                         "APR"
                   ],
-                  "follower": []
+                  "follower": [
+                        "AQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR"
+                  ]
             }
       ]
 }

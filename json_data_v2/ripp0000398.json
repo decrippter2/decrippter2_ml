@@ -19,13 +19,15 @@
                         "uniprot": ""
                   },
                   "complete": "MYTKAQLTRLGSFEEATHGWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
-                  "leader": [],
-                  "core": [
-                        "GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
-                        "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
-                        "GLIYGKYRDVLSGARLVTPPEVAL"
+                  "leader": [
+                        "MYTKAQLTRLGSFEEATH"
                   ],
-                  "follower": []
+                  "core": [
+                        "GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
             },
             {
                   "protein_ids": {
@@ -37,9 +39,7 @@
                         "MYIKPEFKKISSFAHITR"
                   ],
                   "core": [
-                        "GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
-                        "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
-                        "GLIYGKYRDVLSGARLVTPPEVAL"
+                        "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW"
                   ],
                   "follower": [
                         ""
@@ -55,8 +55,6 @@
                         "MYIKARFMKMNSFADCTH"
                   ],
                   "core": [
-                        "GWFWGSYRDIFGALRGPNSGFEGGGGFTGGGVSGGSW",
-                        "GWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
                         "GLIYGKYRDVLSGARLVTPPEVAL"
                   ],
                   "follower": [

@@ -23,9 +23,7 @@
                         "MYTNYCKDDHLKKKRRNKPMAKDAERPVIDSLDFEVANQELAGKSGS"
                   ],
                   "core": [
-                        "GWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG",
-                        "GGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC",
-                        "WQTAFRLTMQGRCGGVFTLSYECATPHVSCG"
+                        "GWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG"
                   ],
                   "follower": [
                         ""
@@ -37,13 +35,15 @@
                         "uniprot": ""
                   },
                   "complete": "MKCDEFKNEIDTLEFEVSNQELAGKSGSGGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC",
-                  "leader": [],
-                  "core": [
-                        "GWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG",
-                        "GGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC",
-                        "WQTAFRLTMQGRCGGVFTLSYECATPHVSCG"
+                  "leader": [
+                        "MKCDEFKNEIDTLEFEVSNQELAGKSGS"
                   ],
-                  "follower": []
+                  "core": [
+                        "GGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
             },
             {
                   "protein_ids": {
@@ -51,13 +51,15 @@
                         "uniprot": ""
                   },
                   "complete": "MFIIDNIEQKLYIKRGKEMRKENHGIDTLDYEISHQELSGKSAAGWQTAFRLTMQGRCGGVFTLSYECATPHVSCG",
-                  "leader": [],
+                  "leader": [
+                        "MFIIDNIEQKLYIKRGKEMRKENHGIDTLDYEISHQELSGKSAAG"
+                  ],
                   "core": [
-                        "GWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG",
-                        "GGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC",
                         "WQTAFRLTMQGRCGGVFTLSYECATPHVSCG"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }

@@ -17,11 +17,15 @@
                         "uniprot": ""
                   },
                   "complete": "MSNWTEEDQHTAISALMERCASDANFYQSALADPAAAIKTVSGKALPEGFNLRLVANEGADLTLVLPDPVSEDLSDADLEAVAGGGRSCTVTIM",
-                  "leader": [],
+                  "leader": [
+                        "MSNWTEEDQHTAISALMERCASDANFYQSALADPAAAIKTVSGKALPEGFNLRLVANEGADLTLVLPDPVSEDLSDADLEAVAGG"
+                  ],
                   "core": [
                         "GRSCTVTIM"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }

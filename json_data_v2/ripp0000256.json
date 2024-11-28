@@ -23,11 +23,15 @@
                         "uniprot": ""
                   },
                   "complete": "MPTNTVKTVDVVAVPFFARFLEEQATEGTEVPWTYKFPSDLEDR",
-                  "leader": [],
+                  "leader": [
+                        "MPTNTVKTVDVVAVPFFARFLEEQATEGTEVPW"
+                  ],
                   "core": [
                         "TYKFPSDLEDR"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }

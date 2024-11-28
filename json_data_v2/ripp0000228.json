@@ -22,13 +22,15 @@
                         "uniprot": ""
                   },
                   "complete": "MENQQGANQNSQKSRTEIEATLVAKAWQNDDFRQELMSNPRKVFASEFNQEIPESTNIQVLEESNDTYYLVIPKKPDVSEELSDEALEAIAGGWYFVTNDDEGAIVGSDSN",
-                  "leader": [],
-                  "core": [
-                        "WYFVTNDDEGAIVGSDSN",
-                        "VDLSIFELLDEEPLFPIRPLYGLPI",
-                        "AVAAMYGVVFPWDNEFPWPRWGG"
+                  "leader": [
+                        "MENQQGANQNSQKSRTEIEATLVAKAWQNDDFRQELMSNPRKVFASEFNQEIPESTNIQVLEESNDTYYLVIPKKPDVSEELSDEALEAIAGG"
                   ],
-                  "follower": []
+                  "core": [
+                        "WYFVTNDDEGAIVGSDSN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
             },
             {
                   "protein_ids": {
@@ -36,13 +38,15 @@
                         "uniprot": ""
                   },
                   "complete": "MSIENAKSFYERVSTDKQFRTQLENTASAEERQKIIQAAGFEFTNQEWEIAKEQILATSESNNGELSEAELTAVSGGVDLSIFELLDEEPLFPIRPLYGLPI",
-                  "leader": [],
-                  "core": [
-                        "WYFVTNDDEGAIVGSDSN",
-                        "VDLSIFELLDEEPLFPIRPLYGLPI",
-                        "AVAAMYGVVFPWDNEFPWPRWGG"
+                  "leader": [
+                        "MSIENAKSFYERVSTDKQFRTQLENTASAEERQKIIQAAGFEFTNQEWEIAKEQILATSESNNGELSEAELTAVSGG"
                   ],
-                  "follower": []
+                  "core": [
+                        "VDLSIFELLDEEPLFPIRPLYGLPI"
+                  ],
+                  "follower": [
+                        ""
+                  ]
             },
             {
                   "protein_ids": {
@@ -50,13 +54,15 @@
                         "uniprot": ""
                   },
                   "complete": "MSIESAKAFYQRMTDDASFRTPFEAELSKEERQQLIKDSGYDFTAEEWQQAMTEIQAARSNEELNEEELEAIAGGAVAAMYGVVFPWDNEFPWPRWGG",
-                  "leader": [],
+                  "leader": [
+                        "MSIESAKAFYQRMTDDASFRTPFEAELSKEERQQLIKDSGYDFTAEEWQQAMTEIQAARSNEELNEEELEAIAGG"
+                  ],
                   "core": [
-                        "WYFVTNDDEGAIVGSDSN",
-                        "VDLSIFELLDEEPLFPIRPLYGLPI",
                         "AVAAMYGVVFPWDNEFPWPRWGG"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }

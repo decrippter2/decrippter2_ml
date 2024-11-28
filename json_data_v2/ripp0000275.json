@@ -23,9 +23,7 @@
                         "MADLQQTGSISELVAGYDTYSEAGELVAEAAADAPA"
                   ],
                   "core": [
-                        "STPTCAAATISWLGSQLTVKTYKEGC",
-                        "TSAPCGAASVSWLASQFTVKTYKEGC",
-                        "TTPVCAASVASSTWCASAASAISGATYEAGC"
+                        "STPTCAAATISWLGSQLTVKTYKEGC"
                   ],
                   "follower": [
                         ""
@@ -41,9 +39,7 @@
                         "MDKTGAITELIEGYDSYSDAEELNSTAAAEAPA"
                   ],
                   "core": [
-                        "STPTCAAATISWLGSQLTVKTYKEGC",
-                        "TSAPCGAASVSWLASQFTVKTYKEGC",
-                        "TTPVCAASVASSTWCASAASAISGATYEAGC"
+                        "TSAPCGAASVSWLASQFTVKTYKEGC"
                   ],
                   "follower": [
                         ""
@@ -59,8 +55,6 @@
                         "MQNNTEIMDLIANYDAYADVDELNVTAAADAPA"
                   ],
                   "core": [
-                        "STPTCAAATISWLGSQLTVKTYKEGC",
-                        "TSAPCGAASVSWLASQFTVKTYKEGC",
                         "TTPVCAASVASSTWCASAASAISGATYEAGC"
                   ],
                   "follower": [

@@ -17,12 +17,16 @@
                         "uniprot": ""
                   },
                   "complete": "MEREIVWTEIEESDLAAVVSASNVKDGPTVSSSNVKDR",
-                  "leader": [],
+                  "leader": [
+                        "MEREIVWTEIEESDLAAVVSAS"
+                  ],
                   "core": [
                         "NVKDGPT",
                         "NVKDR"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             },
             {
                   "protein_ids": {
@@ -30,12 +34,16 @@
                         "uniprot": ""
                   },
                   "complete": "MEREIVWTEIEESDLAAVVSASNVKDGPTVSSSNVKDR",
-                  "leader": [],
+                  "leader": [
+                        "MEREIVWTEIEESDLAAVVSAS"
+                  ],
                   "core": [
                         "NVKDGPT",
                         "NVKDR"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }

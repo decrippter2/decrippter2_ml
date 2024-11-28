@@ -18,12 +18,15 @@
                         "uniprot": ""
                   },
                   "complete": "MKKVKLTNKISLDKKIISKLNDDQLRELEGGKNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
-                  "leader": [],
-                  "core": [
-                        "KNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
-                        "GAHANNMSCITGSKSCPNCKEAEREDYN"
+                  "leader": [
+                        "MKKVKLTNKISLDKKIISKLNDDQLRELEGG"
                   ],
-                  "follower": []
+                  "core": [
+                        "KNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
             },
             {
                   "protein_ids": {
@@ -31,12 +34,15 @@
                         "uniprot": ""
                   },
                   "complete": "MKKVKLTNKITLDKEIISKLNEDQLKELYGGGAHANNMSCITGSKSCPNCKEAEREDYN",
-                  "leader": [],
+                  "leader": [
+                        "MKKVKLTNKITLDKEIISKLNEDQLKELYGG"
+                  ],
                   "core": [
-                        "KNAYNMSCITGSNLSCQSAKCDPEESLDNLIFGN",
                         "GAHANNMSCITGSKSCPNCKEAEREDYN"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }

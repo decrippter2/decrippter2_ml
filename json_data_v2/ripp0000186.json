@@ -19,12 +19,16 @@
                         "uniprot": ""
                   },
                   "complete": "MRFTPAIVIAAFCSLAVAAPAAKAIARSPSEAVEDYVIPIDKKRGEAVEDYVIPIDKKRGEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDKKRGEAVEDYVIPIDKRGEAVEDYVIPIDRKRGEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDK",
-                  "leader": [],
+                  "leader": [
+                        "MRFTPAIVIAAFCSLAVAAPAAKAIARSP"
+                  ],
                   "core": [
                         "SEAVEDYVIPIDKKR",
                         "GEAVEDYVIPIDKKR"
                   ],
-                  "follower": []
+                  "follower": [
+                        "GEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDKKRGEAVEDYVIPIDKRGEAVEDYVIPIDRKRGEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDK"
+                  ]
             }
       ]
 }

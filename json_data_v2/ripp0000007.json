@@ -17,13 +17,17 @@
                         "uniprot": ""
                   },
                   "complete": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEASITGCICAFDGAEASITGCICAFDGDEA",
-                  "leader": [],
+                  "leader": [
+                        "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEAS"
+                  ],
                   "core": [
                         "ATVSIC",
                         "FTGCMC",
                         "ITGCIC"
                   ],
-                  "follower": []
+                  "follower": [
+                        "AFDGAEASITGCICAFDGDEA"
+                  ]
             }
       ]
 }

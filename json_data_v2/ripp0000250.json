@@ -17,11 +17,15 @@
                         "uniprot": ""
                   },
                   "complete": "MTVKIAQKKVLPVIGRAAALCGSCYPCSCM",
-                  "leader": [],
+                  "leader": [
+                        "MTVKIAQKKVLPVIGRAAA"
+                  ],
                   "core": [
                         "LCGSCYPCSCM"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }

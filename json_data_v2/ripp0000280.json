@@ -21,7 +21,6 @@
                         "MSAPVQDFDLDVDTTSFAAPGGGALSEDGIEAR"
                   ],
                   "core": [
-                        "GVLTFGTTCWGTTCPSNNTISC",
                         "GPITFGTTCWGTPCPSANTVSC"
                   ],
                   "follower": [
@@ -38,8 +37,7 @@
                         "MSAPVQDFDLDVDTTSFAAPGGGALSADGIEAK"
                   ],
                   "core": [
-                        "GVLTFGTTCWGTTCPSNNTISC",
-                        "GPITFGTTCWGTPCPSANTVSC"
+                        "GVLTFGTTCWGTTCPSNNTISC"
                   ],
                   "follower": [
                         ""

@@ -22,7 +22,6 @@
                         "MKPENQKQTRLQPKLSEPTVRVMPGIQLDLSEEELTNGGVGVGGVNASQYGGGDGGVSPS"
                   ],
                   "core": [
-                        "VPTT",
                         "IPSTS"
                   ],
                   "follower": [
@@ -39,8 +38,7 @@
                         "MKPENQKQTRLQPKLSEPTVRVMPGIQLDLSEEELTNGGVGVGGVNASQYGGGDGGVSPS"
                   ],
                   "core": [
-                        "VPTT",
-                        "IPSTS"
+                        "VPTT"
                   ],
                   "follower": [
                         "GV"

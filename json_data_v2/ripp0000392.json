@@ -18,12 +18,15 @@
                         "uniprot": ""
                   },
                   "complete": "MTIMDLQGLEVPGERDAQALGSTVSGGC",
-                  "leader": [],
-                  "core": [
-                        "GSTVSGGC",
-                        "GSTISGGC"
+                  "leader": [
+                        "MTIMDLQGLEVPGERDAQAL"
                   ],
-                  "follower": []
+                  "core": [
+                        "GSTVSGGC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
             },
             {
                   "protein_ids": {
@@ -31,12 +34,15 @@
                         "uniprot": ""
                   },
                   "complete": "MTIMDLQGLEVPGERDAQALGSTISGGC",
-                  "leader": [],
+                  "leader": [
+                        "MTIMDLQGLEVPGERDAQAL"
+                  ],
                   "core": [
-                        "GSTVSGGC",
                         "GSTISGGC"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }

@@ -17,11 +17,15 @@
                         "uniprot": ""
                   },
                   "complete": "MEKNPEVAGEEYESPIMVELGEFTELTNGIGSQTWDTIWLWD",
-                  "leader": [],
+                  "leader": [
+                        "MEKNPEVAGEEYESPIMVELGEFTELTN"
+                  ],
                   "core": [
                         "GIGSQTWDTIWLWD"
                   ],
-                  "follower": []
+                  "follower": [
+                        ""
+                  ]
             }
       ]
 }
