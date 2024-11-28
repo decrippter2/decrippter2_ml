@@ -24,6 +24,12 @@
                   "core_seq": "APR",
                   "follower_seq": "AQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR"
             },
+            "WP_030877127.1_3": {
+                  "complete_seq": "MRKDSDLRLDDLAHVNPEQLQGFLEERSTAAVHGATDAYFSGPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR",
+                  "leader_seq": "MRKDSDLRLDDLAHVNPEQLQGFLEERSTAAVHGATDAYFSGPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFS",
+                  "core_seq": "APR",
+                  "follower_seq": "AQNVR"
+            },
             "ref": "http://dx.doi.org/10.1093/nar/gkz192",
             "ripp_class": "Thioamitide",
             "compound_name": [

@@ -24,10 +24,11 @@
                         "MRITPMDKKNILPQQGKPVFRTTTGKLPSYLAELSEEALGGNGLEAS"
                   ],
                   "core": [
+                        "HCATIC",
                         "HCATIC"
                   ],
                   "follower": [
-                        "AFDGAEASHCATICAFDGDEA"
+                        "AFDGDEA"
                   ]
             }
       ]

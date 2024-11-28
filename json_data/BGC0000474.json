@@ -26,6 +26,12 @@
                   "core_seq": "ITGCIC",
                   "follower_seq": "AFDGAEASITGCICAFDGDEA"
             },
+            "CAP64339.1_4": {
+                  "complete_seq": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEASITGCICAFDGAEASITGCICAFDGDEA",
+                  "leader_seq": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEASITGCICAFDGAEAS",
+                  "core_seq": "ITGCIC",
+                  "follower_seq": "AFDGDEA"
+            },
             "ref": "https://doi.org/10.1128/AEM.02392-07",
             "ripp_class": "Cyanobactin",
             "compound_name": [

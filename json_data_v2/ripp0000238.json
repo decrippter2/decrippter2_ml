@@ -25,10 +25,11 @@
                   ],
                   "core": [
                         "GPR",
+                        "APR",
                         "APR"
                   ],
                   "follower": [
-                        "AQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR"
+                        "AQNVR"
                   ]
             },
             {
@@ -42,10 +43,11 @@
                   ],
                   "core": [
                         "GPR",
+                        "APR",
                         "APR"
                   ],
                   "follower": [
-                        "AQTVRGATDAHFSAPRAQTVRGATDAHFSAPRAQTVRGATDSYFSAPRAQNVR"
+                        "AQNVR"
                   ]
             }
       ]

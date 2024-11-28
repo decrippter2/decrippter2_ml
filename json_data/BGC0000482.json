@@ -16,6 +16,12 @@
                   "core_seq": "TSIAPFC",
                   "follower_seq": "SYDGVDASTSIAPFCSYDGVDASTSIAPFCSYDD"
             },
+            "ACA04496.2": {
+                  "complete_seq": "MNKKNILPQLGQPVIRLTAGQLSSQLAELSEEALGGVDASTSIAPFCSYDGVDASTSIAPFCSYDGVDASTSIAPFCSYDD",
+                  "leader_seq": "MNKKNILPQLGQPVIRLTAGQLSSQLAELSEEALGGVDASTSIAPFCSYDGVDASTSIAPFCSYDGVDAS",
+                  "core_seq": "TSIAPFC",
+                  "follower_seq": "SYDD"
+            },
             "ref": "https://doi.org/10.1038/nchembio.84",
             "ripp_class": "Cyanobactin",
             "compound_name": [

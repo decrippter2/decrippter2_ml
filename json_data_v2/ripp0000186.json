@@ -20,14 +20,14 @@
                   },
                   "complete": "MRFTPAIVIAAFCSLAVAAPAAKAIARSPSEAVEDYVIPIDKKRGEAVEDYVIPIDKKRGEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDKKRGEAVEDYVIPIDKRGEAVEDYVIPIDRKRGEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDK",
                   "leader": [
-                        "MRFTPAIVIAAFCSLAVAAPAAKAIARSP"
+                        "MRFTPAIVIAAFCSLAVAAPAAKAIARSPSEAVED"
                   ],
                   "core": [
-                        "SEAVEDYVIPIDKKR",
-                        "GEAVEDYVIPIDKKR"
+                        "YVIPID",
+                        "YVIPID"
                   ],
                   "follower": [
-                        "GEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDKKRGEAVEDYVIPIDKRGEAVEDYVIPIDRKRGEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDK"
+                        "K"
                   ]
             }
       ]

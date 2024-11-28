@@ -23,10 +23,11 @@
                   ],
                   "core": [
                         "FFPC",
-                        "FFPVC"
+                        "FFPVC",
+                        "FFPC"
                   ],
                   "follower": [
-                        "SYDGADASFFPCSYDDGDA"
+                        "SYDDGDA"
                   ]
             }
       ]

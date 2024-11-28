@@ -16,6 +16,12 @@
                   "core_seq": "WLNGDNNWSTP",
                   "follower_seq": "FAGVNAAWLNGDNNWSTPFAGVNAAWLNGDNNWSTPFAADGAE"
             },
+            "KXS89845.1_2": {
+                  "complete_seq": "MKNPTLLPKLTAPVERPAVTSSDLKQASSVDAAWLNGDNNWSTPFAGVNAAWLNGDNNWSTPFAGVNAAWLNGDNNWSTPFAADGAE",
+                  "leader_seq": "MKNPTLLPKLTAPVERPAVTSSDLKQASSVDAAWLNGDNNWSTPFAGVNAAWLNGDNNWSTPFAGVNAA",
+                  "core_seq": "WLNGDNNWSTP",
+                  "follower_seq": "FAADGAE"
+            },
             "ref": "https://doi.org/10.1002/anie.201509920",
             "ripp_class": "Cyanobactin",
             "compound_name": [

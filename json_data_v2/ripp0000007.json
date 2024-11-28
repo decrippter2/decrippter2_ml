@@ -23,10 +23,11 @@
                   "core": [
                         "ATVSIC",
                         "FTGCMC",
+                        "ITGCIC",
                         "ITGCIC"
                   ],
                   "follower": [
-                        "AFDGAEASITGCICAFDGDEA"
+                        "AFDGDEA"
                   ]
             }
       ]

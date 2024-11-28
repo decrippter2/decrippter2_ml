@@ -18,9 +18,9 @@
             },
             "ACA04484.2": {
                   "complete_seq": "MDKKNILPQQGKPVIRITTGQLPSFLAELSEEALGDAGVGASATGCMCAYDGAGASATGCMCAYDGAGASATACACAYDGAGASATACACAYE",
-                  "leader_seq": "MDKKNILPQQGKPVIRITTGQLPSFLAELSEEALGDAGVGASATGCMCAYDGAGASATGCMCAYDGAGAS",
+                  "leader_seq": "MDKKNILPQQGKPVIRITTGQLPSFLAELSEEALGDAGVGASATGCMCAYDGAGASATGCMCAYDGAGASATACACAYDGAGAS",
                   "core_seq": "ATACAC",
-                  "follower_seq": "AYDGAGASATACACAYE"
+                  "follower_seq": "AYE"
             },
             "ref": "https://doi.org/10.1038/nchembio.84",
             "ripp_class": "Cyanobactin",

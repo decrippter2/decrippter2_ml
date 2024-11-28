@@ -20,6 +20,12 @@
                   "core_seq": "FFPVC",
                   "follower_seq": "SYDGADASFFPCSYDDGDA"
             },
+            "WP_043998581.3": {
+                  "complete_seq": "MDKKNILPHQGKPVLRTTNGKLPSHLAELSEEALGGAGMDASFFPCSYDGADASFFPVCSYDGADASFFPCSYDDGDA",
+                  "leader_seq": "MDKKNILPHQGKPVLRTTNGKLPSHLAELSEEALGGAGMDASFFPCSYDGADASFFPVCSYDGADAS",
+                  "core_seq": "FFPC",
+                  "follower_seq": "SYDDGDA"
+            },
             "ref": "https://doi.org/10.1016/j.chembiol.2013.06.015",
             "ripp_class": "Cyanobactin",
             "compound_name": [
