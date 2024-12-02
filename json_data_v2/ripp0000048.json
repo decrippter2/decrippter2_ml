@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAB04173.1",
-                        "uniprot": ""
+                        "uniprot": "Q9KFM5_HALH5"
                   },
                   "complete": "MTNLLKEWKMPLERTHNNSNPAGDIFQELEDQDILAGVNGACAWYNISCRLGNKGAYCTLTVECMPSCN",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAB04172.1",
-                        "uniprot": ""
+                        "uniprot": "Q9KFM6_HALH5"
                   },
                   "complete": "MVNSKDLRNPEFRKAQGLQFVDEVNEKELSSLAGSGDVHAQTTWPCATVGVSVALCPTTKCTSQC",
                   "leader": [

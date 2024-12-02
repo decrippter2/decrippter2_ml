@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "ADR72962.1",
-                        "uniprot": ""
+                        "uniprot": "CYPA_STRSQ"
                   },
                   "complete": "MRSEMTLTSTNSAEALAAQDFANTVLSAAAPGFHADCETPAMATPATPTVAQFVIQGSTICLVC",
                   "leader": [

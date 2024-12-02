@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAE55705.1",
-                        "uniprot": ""
+                        "uniprot": "Q83TS1_ECOLX"
                   },
                   "complete": "MRKLSENEIKQISGGDGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS",
                   "leader": [

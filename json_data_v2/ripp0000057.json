@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAB60258.1",
-                        "uniprot": ""
+                        "uniprot": "MRSA_BACSY"
                   },
                   "complete": "MSQEAIIRSWKDPFSRENSTQNPAGNPFSELKEAQMDKLVGAGDMEAACTFTLPGGGGVCTLTSECIC",
                   "leader": [

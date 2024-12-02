@@ -19,7 +19,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAX48972.1",
-                        "uniprot": ""
+                        "uniprot": "C0MP59_ACTNM"
                   },
                   "complete": "MASILELQDLEVERASSAADSNASVWECCSTGSWVPFTCC",
                   "leader": [
@@ -35,7 +35,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAX48973.1",
-                        "uniprot": ""
+                        "uniprot": "C0MP60_ACTNM"
                   },
                   "complete": "MASILELQNLDVEHARGENRSDWSLWECCSTGSLFACC",
                   "leader": [

@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAA11514.1",
-                        "uniprot": ""
+                        "uniprot": "CEAV_ECOLX"
                   },
                   "complete": "MRTLTLNELDSVSGGASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL",
                   "leader": [

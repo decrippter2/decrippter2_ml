@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "ABZ74313.1",
-                        "uniprot": ""
+                        "uniprot": "B0T9D8_CAUSK"
                   },
                   "complete": "MQRIIDETTDGLIELGAASVQTQGDVLFAPEPGVGRPPMGLSED",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "ABZ74314.1",
-                        "uniprot": ""
+                        "uniprot": "B0T9D9_CAUSK"
                   },
                   "complete": "MERIEDHIDDELIDLGAASVETQGDVLNAPEPGIGREPTGLSRD",
                   "leader": [

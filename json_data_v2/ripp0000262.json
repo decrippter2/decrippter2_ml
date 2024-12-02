@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "QKV49893.1",
-                        "uniprot": ""
+                        "uniprot": "A0A7D4X1T9_STRRM"
                   },
                   "complete": "MFFEGDVSLIEEIADQDFEGVAYGACTTNTFSLSNALGNNGGWCTLTKECQPNCN",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "QKV49894.1",
-                        "uniprot": ""
+                        "uniprot": "A0A7D4WZ12_STRRM"
                   },
                   "complete": "MEQQDFLGAYDELELIELSEEEWHGGTGPLCVAASVAASAAFCPTTKCTSKC",
                   "leader": [

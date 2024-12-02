@@ -16,7 +16,7 @@
             {
                   "protein_ids": {
                         "genpept": "ALC22072.1",
-                        "uniprot": ""
+                        "uniprot": "A0A0M4DGL8_STRPR"
                   },
                   "complete": "MADLQQTGSISELVAGYDTYSEAGELVAEAAADAPASTPTCAAATISWLGSQLTVKTYKEGC",
                   "leader": [
@@ -32,7 +32,7 @@
             {
                   "protein_ids": {
                         "genpept": "ALC22073.1",
-                        "uniprot": ""
+                        "uniprot": "A0A0M3QIX9_STRPR"
                   },
                   "complete": "MDKTGAITELIEGYDSYSDAEELNSTAAAEAPATSAPCGAASVSWLASQFTVKTYKEGC",
                   "leader": [
@@ -48,7 +48,7 @@
             {
                   "protein_ids": {
                         "genpept": "ALC22074.1",
-                        "uniprot": ""
+                        "uniprot": "A0A0M5IR36_STRPR"
                   },
                   "complete": "MQNNTEIMDLIANYDAYADVDELNVTAAADAPATTPVCAASVASSTWCASAASAISGATYEAGC",
                   "leader": [

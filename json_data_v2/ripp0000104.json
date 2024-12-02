@@ -16,7 +16,7 @@
             {
                   "protein_ids": {
                         "genpept": "ADG11020.1",
-                        "uniprot": ""
+                        "uniprot": "D5VKJ7_CAUST"
                   },
                   "complete": "MTSRFQLLRLGKADRLTRGALVGLLLEDITVARYDPM",
                   "leader": [
@@ -32,7 +32,7 @@
             {
                   "protein_ids": {
                         "genpept": "ADG11021.1",
-                        "uniprot": ""
+                        "uniprot": "D5VKJ8_CAUST"
                   },
                   "complete": "MTKTHRLIRLGDAQRLTQGTLTPGLPEDFLPGHYMPG",
                   "leader": [
@@ -48,7 +48,7 @@
             {
                   "protein_ids": {
                         "genpept": "ADG11022.1",
-                        "uniprot": ""
+                        "uniprot": "D5VKJ9_CAUST"
                   },
                   "complete": "MTKKNATQAPRLVRVGDAHRLTQGAFVGQPEAVNPLGREIQG",
                   "leader": [

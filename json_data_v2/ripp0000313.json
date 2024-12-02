@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "EPC01633.1",
-                        "uniprot": ""
+                        "uniprot": "S2KMD3_HALAF"
                   },
                   "complete": "MNSITSISTIGGTVGGTVGGTVGGTVGGTVGGTVGGTVGGTVGGTVGGTVSGTVGGTSAVGGLPLNDRLTK",
                   "leader": [

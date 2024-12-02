@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "ASY03212.1",
-                        "uniprot": ""
+                        "uniprot": "A0A286N5V5_9FIRM"
                   },
                   "complete": "MGKFDDFDLDVTKTAAQGGIEPKYKSKSACTPGCPTGILMTCPLKTATCGCHITGK",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "ASY03215.1",
-                        "uniprot": ""
+                        "uniprot": "A0A286N5V8_9FIRM"
                   },
                   "complete": "MAKFDDFDLDIIEKKVRRDIIPASITSQHSFCTPNCLTGFLCPPKTQLTCTCKLKGQ",
                   "leader": [

@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAD72777.1",
-                        "uniprot": ""
+                        "uniprot": "Q5TLL0_STRMG"
                   },
                   "complete": "MKEIQKAGLQEELSILMDDANNLEQLTAGIGTTVVNSTFSIVLGNKGYICTVTVECMRNCSK",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAD72776.1",
-                        "uniprot": ""
+                        "uniprot": "Q5TLL1_STRMG"
                   },
                   "complete": "MKSNLLKINNVTEMEKNMVTLIKDEDMLAGGSTPACAIGVVGITVAVTGISTACTSRCINK",
                   "leader": [

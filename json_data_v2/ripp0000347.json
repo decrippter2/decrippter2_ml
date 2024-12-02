@@ -16,7 +16,7 @@
             {
                   "protein_ids": {
                         "genpept": "SDS17660.1",
-                        "uniprot": ""
+                        "uniprot": "A0A1H1Q2N7_9MICO"
                   },
                   "complete": "MNESTEMSIRFQELDPMEAPSWDSFYQGVIGALVLIGIGAAAAT",
                   "leader": [
@@ -32,7 +32,7 @@
             {
                   "protein_ids": {
                         "genpept": "SDS17633.1",
-                        "uniprot": ""
+                        "uniprot": "A0A1H1Q2Q8_9MICO"
                   },
                   "complete": "MNAALPALEFTELEAMDAPGDADDYIRGFAVGVIIGILALT",
                   "leader": [
@@ -48,7 +48,7 @@
             {
                   "protein_ids": {
                         "genpept": "SDS17589.1",
-                        "uniprot": ""
+                        "uniprot": "A0A1H1Q3M9_9MICO"
                   },
                   "complete": "MQSTSLEFLELEQIDTPLEWWEHASYIIAIIGGAAAIAT",
                   "leader": [

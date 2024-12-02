@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "AAB81303.1",
-                        "uniprot": ""
+                        "uniprot": "Q46313_CARML"
                   },
                   "complete": "MKSVKELNVKEMQQTIGGWGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "AAB81302.1",
-                        "uniprot": ""
+                        "uniprot": "Q46312_CARML"
                   },
                   "complete": "MNKEFKSLNEVEMKKINGGSAILAITLGIFATGYGMGVQKAINDRRKK",
                   "leader": [

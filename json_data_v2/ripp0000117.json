@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAB54534.2",
-                        "uniprot": ""
+                        "uniprot": "MCHB_ECOLX"
                   },
                   "complete": "MREITESQLRYISGAGGAPATSANAAGAAAIVGALAGIPGGPLGVVVGAVSAGLTTAIGSTVGSGSASSSAGGGS",
                   "leader": [

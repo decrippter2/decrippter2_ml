@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "ABQ84442.1",
-                        "uniprot": ""
+                        "uniprot": "Q8KWI0_9LACO"
                   },
                   "complete": "MMKEFTVLTECELAKVDGGKRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "ABQ84443.1",
-                        "uniprot": ""
+                        "uniprot": "Q8KWH9_9LACO"
                   },
                   "complete": "MKNLDKRFTIMTEDNLASVNGGKNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFTSCR",
                   "leader": [

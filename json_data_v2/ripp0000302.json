@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "QIC51115.1",
-                        "uniprot": ""
+                        "uniprot": "A0A1V0NWY2_LACLC"
                   },
                   "complete": "MKNQLNFEILSDEELQGINGGIRGTGKGLAAAMVSGAAMGGAIGAFGGPVGAIMGAWGGAVGGAMKYSI",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "QIC51116.1",
-                        "uniprot": ""
+                        "uniprot": "A0A1V0NWZ0_LACLC"
                   },
                   "complete": "MKKDEANTFKEYSSSFAIVTDEELENINGSGSIWGAIAGGAVKGAIAASWTGNPVGIGMSALGGAVLGGVTYARPVH",
                   "leader": [

@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "AED99431.1",
-                        "uniprot": ""
+                        "uniprot": "F5B6Z2_PLAAG"
                   },
                   "complete": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPHQAYLGIPLPFAGDDAE",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "AED99432.1",
-                        "uniprot": ""
+                        "uniprot": "F5B6Z3_PLAAG"
                   },
                   "complete": "MTKKNLKPQQAAPVQREINTTSSESGTSTGLTPHINPYLYPFAGDDAE",
                   "leader": [

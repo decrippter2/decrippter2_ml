@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "ADI10109.1",
-                        "uniprot": ""
+                        "uniprot": "D7C1P4_STRBB"
                   },
                   "complete": "MQKDTDILGAWDEAELVELSEADVHGGTDPAVTGLILGIVAIQAGVAVGVSAAFCPTTKCTSRC",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "ADI10110.1",
-                        "uniprot": ""
+                        "uniprot": "D7C1P5_STRBB"
                   },
                   "complete": "MHQEFEGDISLVEELAEQDLHDAAQHGGTISPIDTVKIIFRVSSHFGGNGGFGLFCTLSKECQPNCN",
                   "leader": [

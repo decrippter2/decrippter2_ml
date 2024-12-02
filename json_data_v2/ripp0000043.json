@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "AAL15569.1",
-                        "uniprot": ""
+                        "uniprot": "Q93GH3_BACIU"
                   },
                   "complete": "MSKFDDFDLDVVKVSKQDSKITPQWKSESVCTPGCVTGVLQTCFLQTITCNCHISK",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "AAL15567.1",
-                        "uniprot": ""
+                        "uniprot": "Q93GH5_BACIU"
                   },
                   "complete": "MTNMSKFDDFDLDVVKVSKQDSKITPQVLSKSLCTPGCITGPLQTCYLCFPTFAKC",
                   "leader": [

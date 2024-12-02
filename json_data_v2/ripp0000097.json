@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "AAA26363.1",
-                        "uniprot": ""
+                        "uniprot": "TFXA_RHILT"
                   },
                   "complete": "MDNKVAKNVEVKKGSIKATFKAAVLKSKTKVDIGGSRQGCVA",
                   "leader": [

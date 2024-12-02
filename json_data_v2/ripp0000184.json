@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "ANP43731.1",
-                        "uniprot": ""
+                        "uniprot": "A0A1B1AAZ3_BACTU"
                   },
                   "complete": "MLDVIKNRKKIEEKLELPEILLEEVEEHSAMGGINTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "ANP43734.1",
-                        "uniprot": ""
+                        "uniprot": "A0A1B1AAZ6_BACTU"
                   },
                   "complete": "MLKEEKLEKITGLIPESELEEHLSGESSGAGTPAITTAISAIIAATAQSPCPTSACSKSCNK",
                   "leader": [

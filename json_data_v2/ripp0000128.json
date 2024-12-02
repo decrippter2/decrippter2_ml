@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "AFS60639.1",
-                        "uniprot": ""
+                        "uniprot": "PROT_BACS1"
                   },
                   "complete": "MADSDNTPTSRKDFETAIIAKAWKDPEYLRRLRSNPREVLQEELEALHPGAQLPDDLGISIHEEDENHVHLVMPRHPQNVSDQTLTDDDLDQAAGGTGIGVVVAVVAGAVANTGAGVNQVAGGNINVVGNINVNANVSVNMNQTT",
                   "leader": [

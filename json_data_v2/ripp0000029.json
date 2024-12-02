@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "AAZ76603.1",
-                        "uniprot": ""
+                        "uniprot": "Q3YB75_STRRT"
                   },
                   "complete": "MKEIQKAGLQEELSILMDDANNLEQLTAGIGTTVVNSTFSIVLGNKGYICTVTVECMRNCQ",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "AAZ76602.1",
-                        "uniprot": ""
+                        "uniprot": "Q3YB76_STRRT"
                   },
                   "complete": "MKSNLLKINNVTEVEKDMVTLIKDEDMELAGGSTPACAIGVVGITVAVTGISTACTSRCINK",
                   "leader": [

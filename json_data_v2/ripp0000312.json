@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "WDD98117.1",
-                        "uniprot": ""
+                        "uniprot": "A0AAE9YRC6_9GAMM"
                   },
                   "complete": "MKLTLKKKNLANLSKDLNELPNEQTKDINGGAVTLKDCEHITTHTYTVAWGDCQVEM",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "WDD98118.1",
-                        "uniprot": ""
+                        "uniprot": "A0AAE9YQ05_9GAMM"
                   },
                   "complete": "MKLTLKKKAVKQLSNDVNLLPKKETAAIAGGLASANKTIVSVVHSCVCKPSEVDCF",
                   "leader": [

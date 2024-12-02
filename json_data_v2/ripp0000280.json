@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "QBK47606.1",
-                        "uniprot": ""
+                        "uniprot": "A0A481XYR2_9PSEU"
                   },
                   "complete": "MSAPVQDFDLDVDTTSFAAPGGGALSEDGIEARGPITFGTTCWGTPCPSANTVSC",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "QBK47607.1",
-                        "uniprot": ""
+                        "uniprot": "A0A481XXM0_9PSEU"
                   },
                   "complete": "MSAPVQDFDLDVDTTSFAAPGGGALSADGIEAKGVLTFGTTCWGTTCPSNNTISC",
                   "leader": [

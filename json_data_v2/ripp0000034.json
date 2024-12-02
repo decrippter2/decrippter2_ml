@@ -20,7 +20,7 @@
             {
                   "protein_ids": {
                         "genpept": "AHJ59545.1",
-                        "uniprot": ""
+                        "uniprot": "W6HYC4_BACCE"
                   },
                   "complete": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
                   "leader": [
@@ -36,7 +36,7 @@
             {
                   "protein_ids": {
                         "genpept": "AHJ59547.1",
-                        "uniprot": ""
+                        "uniprot": "W6HYC4_BACCE"
                   },
                   "complete": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
                   "leader": [
@@ -52,7 +52,7 @@
             {
                   "protein_ids": {
                         "genpept": "AHJ59544.1",
-                        "uniprot": ""
+                        "uniprot": "W6HYC4_BACCE"
                   },
                   "complete": "MSKGYKFTKEELVEAWKDPQVREKLNDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
                   "leader": [
@@ -68,7 +68,7 @@
             {
                   "protein_ids": {
                         "genpept": "AHJ59543.1",
-                        "uniprot": ""
+                        "uniprot": "W6HYT5_BACCE"
                   },
                   "complete": "MSKGYKFTKEELVEAWKDPQVREKLKDLPNHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGITASIKICK",
                   "leader": [
@@ -84,7 +84,7 @@
             {
                   "protein_ids": {
                         "genpept": "AHJ59549.1",
-                        "uniprot": ""
+                        "uniprot": "W6IE39_BACCE"
                   },
                   "complete": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
                   "leader": [
@@ -100,7 +100,7 @@
             {
                   "protein_ids": {
                         "genpept": "AHJ59546.1",
-                        "uniprot": ""
+                        "uniprot": "W6IE39_BACCE"
                   },
                   "complete": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
                   "leader": [
@@ -116,7 +116,7 @@
             {
                   "protein_ids": {
                         "genpept": "AHJ59548.1",
-                        "uniprot": ""
+                        "uniprot": "W6IE39_BACCE"
                   },
                   "complete": "MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK",
                   "leader": [

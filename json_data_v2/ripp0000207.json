@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "ARD09202.1",
-                        "uniprot": ""
+                        "uniprot": "A0A2H4GZ80_PRODI"
                   },
                   "complete": "MPTTLEKPSVAYLEKLFHQTAIDSEFRSELQSHPEAFGISADLELPQSVEKQDESFVELLNNALGEIDIAAECASTCSFGIVTIVCDGTTK",
                   "leader": [

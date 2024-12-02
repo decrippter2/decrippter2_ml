@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "ACC93994.1",
-                        "uniprot": ""
+                        "uniprot": "CCLA_CARML"
                   },
                   "complete": "MLYELVAYGIAQGTAEKVVSLINAGLTVGSIISILGGVTVGLSGVFTAVKAAIAKQGIKKAIQL",
                   "leader": [

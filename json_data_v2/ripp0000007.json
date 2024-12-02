@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAP64339.1",
-                        "uniprot": ""
+                        "uniprot": "B0BKB6_MICA7"
                   },
                   "complete": "MRITPMDKKNLLPNQGAPVIRGISGKLPSHLAELSEEALGGNGAEASATVSICAFDGAEASFTGCMCAFDGAEASITGCICAFDGAEASITGCICAFDGDEA",
                   "leader": [

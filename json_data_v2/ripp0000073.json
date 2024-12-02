@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAA90023.1",
-                        "uniprot": ""
+                        "uniprot": "LANP_STAEP"
                   },
                   "complete": "MKNNKNLFDLEIKKETSQNTDELEPQTAGPAIRASVKQCQKTLKATRLFTVSCKGKNGCK",
                   "leader": [

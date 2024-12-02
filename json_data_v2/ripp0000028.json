@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAG19225.1",
-                        "uniprot": ""
+                        "uniprot": "LANSB_STRGG"
                   },
                   "complete": "MALLDLQAMDTPAEDSFGELATGSQVSLLVCEYSSLSVVLCTP",
                   "leader": [

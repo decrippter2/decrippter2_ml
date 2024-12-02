@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "ACY95978.1",
-                        "uniprot": ""
+                        "uniprot": "D1A2F8_THECD"
                   },
                   "complete": "MSALLEPRDAGTTNLDALATVPSEAPAFQAGSCTVCHWGRTVLCDDFSTQA",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "ACY95979.1",
-                        "uniprot": ""
+                        "uniprot": "D1A2F9_THECD"
                   },
                   "complete": "MSALLEPRDAGATNLDALAAVPSEAPAHQAGTCTVCHWGYTILCDDFSTRS",
                   "leader": [

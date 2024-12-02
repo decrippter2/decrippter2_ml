@@ -32,7 +32,7 @@
             {
                   "protein_ids": {
                         "genpept": "EID50813.1",
-                        "uniprot": ""
+                        "uniprot": "I0USG0_9MICC"
                   },
                   "complete": "MYIKPEFKKISSFAHITRGWLWGSYRDVYGVWHGPRTNFNGAGGSSEW",
                   "leader": [
@@ -48,7 +48,7 @@
             {
                   "protein_ids": {
                         "genpept": "EID50715.1",
-                        "uniprot": ""
+                        "uniprot": "I0US62_9MICC"
                   },
                   "complete": "MYIKARFMKMNSFADCTHGLIYGKYRDVLSGARLVTPPEVAL",
                   "leader": [

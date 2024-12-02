@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAA22261.1",
-                        "uniprot": ""
+                        "uniprot": "O24790_LACGS"
                   },
                   "complete": "MVTKYGRNLGLNKVELFAIWAVLVVALLLTTANIYWIADQFGIHLATGTARKLLDAMASGASLGTAFAAILGVTLPAWALAAAGALGATAA",
                   "leader": [

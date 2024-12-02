@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAM03500.1",
-                        "uniprot": ""
+                        "uniprot": "A4FHH5_SACEN"
                   },
                   "complete": "MEMVLELQELDAPNELAYGDPSHGGGSNLSLLASCANSTVSLLTCH",
                   "leader": [

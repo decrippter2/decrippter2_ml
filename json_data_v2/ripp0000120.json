@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "ACP43450.1",
-                        "uniprot": ""
+                        "uniprot": "MCNN_ECOLX"
                   },
                   "complete": "MRELDREELNCVGGAGDPLADPNSQIVRQIMSNAAWGAAFGARGGLGGMAVGAAGGVTQTVLQGAAAHMPVNVPIPKVPMGPSWNGSKG",
                   "leader": [

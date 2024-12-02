@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "AHF21242.1",
-                        "uniprot": ""
+                        "uniprot": "W0FGJ7_CARML"
                   },
                   "complete": "MSESNMKKVVGETFEDLSIAEMTKVQGSGDVMPESTPICAGFATLMSSIGLVKTIKGKC",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "AHF21238.1",
-                        "uniprot": ""
+                        "uniprot": "W0FC94_CARML"
                   },
                   "complete": "MSELSMEKVVGETFEDLSIAEMTMVQGSGDINGEFTTSPACVYSVMVVSKASSAKCAAGASAVSGAILSAIRC",
                   "leader": [

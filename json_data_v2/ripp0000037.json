@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAL50001.1",
-                        "uniprot": ""
+                        "uniprot": "H3JSS9_ENTFL"
                   },
                   "complete": "MKKEELVGMAKEDFLNVICENDNKLENSGAKCPWWNLSCHLGNDGKICTYSHECTAGCNA",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAL50002.1",
-                        "uniprot": ""
+                        "uniprot": "H3JST0_ENTFL"
                   },
                   "complete": "MTELNKRLQLKRDVSTENSLKKISNTDETHGGVTTSIPCTVMVSAAVCPTLVCSNKCGGRG",
                   "leader": [

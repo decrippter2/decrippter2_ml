@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "ALR96369.1",
-                        "uniprot": ""
+                        "uniprot": "A0A0U2SSJ0_9BACL"
                   },
                   "complete": "MANNVFDLDVEVKSVNSVNQNIGLFTSTCFSSQCFSSKCFTDTCFSSNCFTGRHQCGYTHGSC",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "ALR96377.1",
-                        "uniprot": ""
+                        "uniprot": "A0A0U2T761_9BACL"
                   },
                   "complete": "MANNNFDLDVQVKSVNSVNANFGLYTSQCYSSQCYSSKCYSDSCYSSDCYTGRHMCGYTHGYSC",
                   "leader": [

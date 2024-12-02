@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "QGA72599.1",
-                        "uniprot": ""
+                        "uniprot": "A0A5Q0TX65_9NOSO"
                   },
                   "complete": "MKPENQKQTRLQPKLSEPTVRVMPGIQLDLSEEELTNGGVGVGGVNASQYGGGDGGVSPSIPSTSGV",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "QGA72586.1",
-                        "uniprot": ""
+                        "uniprot": "A0A5Q0TWU3_DESSP"
                   },
                   "complete": "MKPENQKQTRLQPKLSEPTVRVMPGIQLDLSEEELTNGGVGVGGVNASQYGGGDGGVSPSVPTTGV",
                   "leader": [

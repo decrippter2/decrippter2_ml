@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAB78439.1",
-                        "uniprot": ""
+                        "uniprot": "Q9S4D2_STAAU"
                   },
                   "complete": "MKNELGKFLEENELELGKFSESDMLEITDDEVYAAGTPLALLGGAATGVIGYISNQTCPTTACTRAC",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "BAB78438.1",
-                        "uniprot": ""
+                        "uniprot": "Q9S4D3_STAAU"
                   },
                   "complete": "MKSSFLEKDIEEQVTWFEEVSEQEFDDDIFGACSTNTFSLSDYWGNKGNWCTATHECMSWCK",
                   "leader": [

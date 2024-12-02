@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAE20414.1",
-                        "uniprot": ""
+                        "uniprot": "LAN17_PROMM"
                   },
                   "complete": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKASGFAITTEDLKAHQANSQKNLSDAELEGVAGGTIGGTIVSITCETCDLLVGKMC",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAE20416.1",
-                        "uniprot": ""
+                        "uniprot": "Q7V8T7_PROMM"
                   },
                   "complete": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTDDFERNTHRQTLSDDELEGVAGGKSTNGCGCKPGHTLSSFLCTLECWL",
                   "leader": [
@@ -46,7 +46,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAE20417.1",
-                        "uniprot": ""
+                        "uniprot": "Q7V8T6_PROMM"
                   },
                   "complete": "MSEEQLKAFIAKVQADTSLQEQLKVEGADVVAIAKAAGFSITTEDLNTHRQNLSDDELEGLHGAGPGCTGGWWAFTDCTAGGGSCEG",
                   "leader": [
@@ -62,7 +62,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAE20418.1",
-                        "uniprot": ""
+                        "uniprot": "Q7V8T5_PROMM"
                   },
                   "complete": "MSEEQLKAFLTKVQADTSLQEQLKAEGADPVAIAKAAGFAITTEDLNSHRQNLSDDELEGVAGGGSSYRNGKCTFGPACPS",
                   "leader": [
@@ -78,7 +78,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAE20419.1",
-                        "uniprot": ""
+                        "uniprot": "Q7V8T4_PROMM"
                   },
                   "complete": "MSEEQLKGFLSKVQSDASLQEQLKVEGADVVAIAKAAGFSITTEDLNSHRQNLSEDELEGVAGGGLCTLTSNLAAVCCGGCRRATSE",
                   "leader": [
@@ -94,7 +94,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAE20420.1",
-                        "uniprot": ""
+                        "uniprot": "Q7V8T3_PROMM"
                   },
                   "complete": "MSEEQLKAFIAKVQADPSLQEQLKAEGADVVSIAKAAGFSITTEDLNSHITTKLNLSEEELEGVAGAMDCVSSTAQQTECRPGGPRASYCWDDLR",
                   "leader": [
@@ -110,7 +110,7 @@
             {
                   "protein_ids": {
                         "genpept": "CAE20422.1",
-                        "uniprot": ""
+                        "uniprot": "LAN11_PROMM"
                   },
                   "complete": "MSEEQLKAFIAKVQADTSLQEQLKAEGADVVAIAKAAGFSITTEDLEKEHRQTLSDDDLEGVAGGFFCVQGTANRFTINVC",
                   "leader": [

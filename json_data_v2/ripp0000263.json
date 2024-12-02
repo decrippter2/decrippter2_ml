@@ -15,7 +15,7 @@
             {
                   "protein_ids": {
                         "genpept": "QQY95970.1",
-                        "uniprot": ""
+                        "uniprot": "A0A7U1BAR4_BACTU"
                   },
                   "complete": "MNTVLELQKLAHDTEGKGQAAEATITTTWTVTTTGVWASTISNNC",
                   "leader": [
@@ -31,7 +31,7 @@
             {
                   "protein_ids": {
                         "genpept": "QQY95972.1",
-                        "uniprot": ""
+                        "uniprot": "A0A7U1BAS1_BACTU"
                   },
                   "complete": "MNTVLELQKLVHDTEGKGQAAEATITTTWTVTTTGVWASTISNNC",
                   "leader": [
@@ -47,7 +47,7 @@
             {
                   "protein_ids": {
                         "genpept": "QQY95976.1",
-                        "uniprot": ""
+                        "uniprot": "A0A7U1BB42_BACTU"
                   },
                   "complete": "MNTVLELQKLAHDTEGKGQAAEATITTTWTVTTTGAWASTISNNC",
                   "leader": [

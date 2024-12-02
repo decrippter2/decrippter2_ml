@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "ACR43769.1",
-                        "uniprot": ""
+                        "uniprot": "C5IHS6_9LACT"
                   },
                   "complete": "MKELSEKELRECVGGGTWDDIGQGIGRVAYWVGKAMGNMSDVNQASRINRKKKH",
                   "leader": [
@@ -30,7 +30,7 @@
             {
                   "protein_ids": {
                         "genpept": "ACR43770.1",
-                        "uniprot": ""
+                        "uniprot": "C5IHS7_9LACT"
                   },
                   "complete": "MKNNNNFFKGMEIIEDQELVSITGGKKWGWLAWVDPAYEFIKGFGKGAIKEGNKDKWKNI",
                   "leader": [

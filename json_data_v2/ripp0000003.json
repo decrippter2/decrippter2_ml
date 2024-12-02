@@ -14,7 +14,7 @@
             {
                   "protein_ids": {
                         "genpept": "AFU90404.1",
-                        "uniprot": ""
+                        "uniprot": "BSTA_STRSQ"
                   },
                   "complete": "MGPAVVFDCMTADFLNDDPNNAELSSLEMEELESWGAWSDDTDQSV",
                   "leader": [

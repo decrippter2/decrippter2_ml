@@ -16,7 +16,7 @@
             {
                   "protein_ids": {
                         "genpept": "AFK79988.1",
-                        "uniprot": ""
+                        "uniprot": "J3SGN7_MICAE"
                   },
                   "complete": "MKTKKLTPRNSAPVQRENAATVSRDGNAIAPNNEFMQTGSYSGPFAGDDAE",
                   "leader": [
@@ -32,7 +32,7 @@
             {
                   "protein_ids": {
                         "genpept": "AFK79996.1",
-                        "uniprot": ""
+                        "uniprot": "J7FBZ4_MICAE"
                   },
                   "complete": "MKTPKLTPRITAPVQRDNIATVPSDGNVITPATFCDLATKQCYPFAGDDAV",
                   "leader": [
@@ -48,7 +48,7 @@
             {
                   "protein_ids": {
                         "genpept": "AFK79987.1",
-                        "uniprot": ""
+                        "uniprot": "J7FBZ2_MICAE"
                   },
                   "complete": "MNSAPVQRENAATVSRDGNAIAPQWILLADGTRPKNAPFAGDDAE",
                   "leader": [
