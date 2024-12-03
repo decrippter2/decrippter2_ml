@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "",
+            "mibig_acc": ""
+      },
+      "compound_name": [
+            "a-amanitin"
+      ],
+      "ripp_class": "Amatoxin",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2014.10.015"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "A0A067SLB9.1",
+                        "uniprot": "A0A067SLB9"
+                  },
+                  "complete": "MFDTNATRLPIWGIGCNPWTAEHVDQTLASGNDIC",
+                  "leader": [
+                        "MFDTNATRLP"
+                  ],
+                  "core": [
+                        "IWGIGCNP"
+                  ],
+                  "follower": [
+                        "WTAEHVDQTLASGNDIC"
+                  ]
+            }
+      ]
+}

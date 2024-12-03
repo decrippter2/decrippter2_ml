@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "",
+            "mibig_acc": ""
+      },
+      "compound_name": [
+            "YydF"
+      ],
+      "ripp_class": "Epipeptide",
+      "ref": [
+            "https://doi.org/10.1038/nchem.2714"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_003226979.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKEITNNETVKNLEFKGLLDESQKLAKVNDLWYFVKSKENRWILGSGH",
+                  "leader": [
+                        ""
+                  ],
+                  "core": [
+                        ""
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

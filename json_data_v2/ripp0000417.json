@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JF297947.1",
+            "mibig_acc": ""
+      },
+      "compound_name": [
+            "segetalin A"
+      ],
+      "ripp_class": "Cyclotide",
+      "ref": [
+            "https://doi.org/10.1074/jbc.M112.437947"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AEG75782.1",
+                        "uniprot": "F6LNL5"
+                  },
+                  "complete": "MSPILAHDVVKPQGVPVWAFQAKDVENASAPV",
+                  "leader": [
+                        "MSPILAHDVVKPQ"
+                  ],
+                  "core": [
+                        "GVPVWA"
+                  ],
+                  "follower": [
+                        "FQAKDVENASAPV"
+                  ]
+            }
+      ]
+}
