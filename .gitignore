@@ -158,8 +158,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Matplotlib
-matplotlib/
+# Ignore svm classifier(does not recognize matplotlib)
+/svm_classifier
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
