@@ -95,8 +95,6 @@ def main():
         "C:/Users/rsanz/PycharmProjects/decrippter2_ml/json_data"
     ):
         for filename in filenames:
-            print("------")
-            print("file: " + filename)
             file = (
                 "C:/Users/rsanz/PycharmProjects/decrippter2_ml/json_data"
                 + "/"
@@ -109,6 +107,7 @@ def main():
             check_sequence_info(dictionary, file)
             check_class(dictionary, file)
             check_cores(dictionary, file)
+            find_class_members(dictionary, file, "Ustiloxin")
             count_core += len(dictionary["mibig_acc"]["core_sequences"])
             count_prots += len(dictionary["mibig_acc"]["protein_ids"])
 

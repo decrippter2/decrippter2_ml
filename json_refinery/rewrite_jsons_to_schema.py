@@ -63,8 +63,9 @@ def write_json_dict(infolder, outfolder):
                     for key in json_dict["mibig_acc"]:
                         if protein_id[:-2] in key:
                             lead_list.append(json_dict["mibig_acc"][key]["leader_seq"])
-                            cor_list.append(json_dict["mibig_acc"][key]["core_seq"])
                             fol_list.append(json_dict["mibig_acc"][key]["follower_seq"])
+                            if json_dict["mibig_acc"][key]["core_seq"] not in cor_list:
+                                cor_list.append(json_dict["mibig_acc"][key]["core_seq"])
                     shortest_lead = min(lead_list, key=len)
                     shortest_follower = min(fol_list, key=len)
 
@@ -80,5 +81,5 @@ def write_json_dict(infolder, outfolder):
 
 write_json_dict(
     "C:/Users/rsanz/PycharmProjects/decrippter2_ml/json_data",
-    "C:/Users/rsanz/PycharmProjects/decrippter2_ml/json_data_v2",
+    "C:/Users/rsanz/PycharmProjects/decrippter2_ml/json_data",
 )

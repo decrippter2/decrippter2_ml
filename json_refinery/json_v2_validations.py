@@ -9,11 +9,11 @@ def import_dict(json_file):
 
 
 for _dirpath, _dirnames, filenames in os.walk(
-    "C:/Users/rsanz/PycharmProjects/decrippter2_ml/json_data_v2"
+        "/json_data"
 ):
     for filename in filenames:
         file = (
-            "C:/Users/rsanz/PycharmProjects/decrippter2_ml/json_data_v2"
+            "C:/Users/rsanz/PycharmProjects/decrippter2_ml/json_data"
             + "/"
             + filename
         )
