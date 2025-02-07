@@ -55,6 +55,7 @@ class FeatureExtractor(BaseModel):
             A dictionary containing the genpept accessions as keys and the
             corresponding ripp category as values
         """
+
         entry_cat_dict = {}
         with open(fasta_file) as positives_fasta:
             for line in positives_fasta:
