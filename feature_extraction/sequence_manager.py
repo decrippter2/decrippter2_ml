@@ -13,7 +13,7 @@ class SequenceManager(BaseModel):
 
     """
     aa_seq: str | None = None
-    descriptors_dict: dict | None = None
+    descriptors_dict: {}
     header_list = list
     def read_json(self: Self, json_path:str) -> dict:
         with open(json_path) as json_file:
@@ -57,8 +57,5 @@ class SequenceManager(BaseModel):
         self.descriptors_dict.update(decript_feat)
         secondary_str=self.secondary_structure()
         self.descriptors_dict.update(secondary_str)
+        return self.descriptors_dict
 
-    def write_df(self:Self):
-        index_map = {v: i for i, v in enumerate(self.header_list)}
-        sorted(self.descriptors_dict.items(), key=lambda pair: index_map[pair[0]])
-        df_row=pd.DataFrame(self.descriptors_dict.values(),columns=self.header_list)

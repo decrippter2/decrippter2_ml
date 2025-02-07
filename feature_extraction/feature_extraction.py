@@ -7,6 +7,7 @@ import logging
 from typing import Any, Self
 from pydantic import BaseModel
 import pandas as pd
+from sequence_manager import SequenceManager
 
 class FeatureExtractor(BaseModel):
     """Pydantic_based class to extract all features from folder
@@ -82,12 +83,17 @@ class FeatureExtractor(BaseModel):
                                 entry_cat_dict[prot_query] = json_dict["ripp_class"]
         self.ripp_categories=entry_cat_dict
 
-    def write_dataset(self: Self, fasta_file:str, outfile_name:str, is_ripp:bool) -> str:
+    def write_df_row(self:Self,row_dict: dict):
+        index_map = {v: i for i, v in enumerate(self.header_list)}
+        sorted(row_dict.items(), key=lambda pair: index_map[pair[0]])
+        df_row=pd.DataFrame(row_dict.values(),columns=self.header_list)
+        return df_row
+
+    def write_dataset(self: Self, fasta_file:str, is_ripp:bool):
         """Writes the dataset extracting the features from sequence
 
         Args:
             fasta_file: str containing path to multifasta file
-            outfile_name: str stating path of generated csv file
             is_ripp: True is multifasta corresponds to RiPP sequences, False if not
 
         Returns:
@@ -96,47 +102,29 @@ class FeatureExtractor(BaseModel):
         """
         header_list=self.read_json('feature_extraction/header_list.json')
         header_list=header_list["header_list"]
-        with open(outfile_name, "w") as outfile:
-            header = ",".join(header_list) + "\n"
-            outfile.write(header)
-            fasta_text=self.read_file(fasta_file)
-            for line in fasta_text:
-                if line.startswith(">"):
-                    protein_id = line[1:-1]
-                    descriptors = {}
-                    descriptors["protein_id"] = protein_id
-                    descriptors["validation"] = "yes"
-                if not line.startswith(">"):
-                    sequence = line[:-1]
-                    peptides_features = peptides.Peptide(sequence).descriptors()
-                    descriptors.update(peptides_features)
-                    decript_obj = RiPP(sequence)
-                    decript_obj.calculate_features()
-                    decript_feat = decript_obj.__dict__
-                    aa_freq = decript_feat["aafreq"]
-                    clr_freq = decript_feat["clfreq"]
-                    decript_feat.pop("aafreq")
-                    decript_feat.pop("clfreq")
-                    decript_feat.update(aa_freq)
-                    decript_feat.update(clr_freq)
-                    descriptors.update(peptides_features)
-                    descriptors.update(decript_feat)
-                    if is_ripp == "True":
-                        descriptors["RiPP"] = "RiPP"
-                        descriptors["Class"] = self.ripp_categories[protein_id]
-                    else:
-                        descriptors["RiPP"] = "No_RiPP"
-                        descriptors["Class"] = "No_RiPP"
-                    descriptor_line = []
-                    for descriptor in header_list:
-                        descriptor_line.append(str(descriptors[descriptor]))
-                    outline = ",".join(descriptor_line) + "\n"
-                    print(header)
-                    print(outline)
-                    outfile.write(outline)
-        return outfile_name
+        fasta_text=self.read_file(fasta_file)
+        ripp_dataframe=pd.DataFrame(columns=header_list)
+        for line in fasta_text:
+            if line.startswith(">"):
+                protein_id = line[1:-1]
+                descriptors = {}
+                descriptors["protein_id"] = protein_id
+                descriptors["validation"] = "yes"
+            if not line.startswith(">"):
+                sequence = line[:-1]
 
-class SequenceManager(FeatureExtractor):
+                feature_extractor=SequenceManager(aa_seq=sequence)
+                extracted_features=feature_extractor.calculate_features()
+                descriptors.update(extracted_features)
 
-    aa_seq: str | None = None
-    def
+                if is_ripp:
+                    descriptors["RiPP"] = "RiPP"
+                    descriptors["Class"] = self.ripp_categories[protein_id]
+                else:
+                    descriptors["RiPP"] = "No_RiPP"
+                    descriptors["Class"] = "No_RiPP"
+                new_row=self.write_df_row(descriptors)
+                ripp_dataframe= pd.concat([ripp_dataframe,new_row], ignore_index=True)
+
+        return ripp_dataframe
+
