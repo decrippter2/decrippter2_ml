@@ -32,7 +32,7 @@ class SequenceManager(BaseModel):
         secondary_structure_dict = {
             "Alpha50_leader": alpha_leader,
             "Alpha50_total": alpha_50_total,
-            "Total_alpha":alpha_total,
+            "Total_ssh dodnalpha":alpha_total,
             "Beta50_leader":beta_leader,
             "Beta50_total":beta_50_total,
             "Total_beta":beta_total,
