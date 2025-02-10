@@ -76,7 +76,7 @@ class FeatureExtractor(BaseModel):
                         outfile.write(sequence)
         return multifasta
 
-    def record_ripp_category(self: Self, fasta_file:str) -> dict:
+    def record_ripp_category(self: Self, fasta_file:str):
         """Extracts a record of ripp subclasses
 
         Args:
@@ -116,7 +116,7 @@ class FeatureExtractor(BaseModel):
         df_row=pd.DataFrame(row_dict.values(),columns=self.header_list)
         return df_row
 
-    def write_dataset(self: Self, fasta_file:str, is_ripp:bool):
+    def write_dataset(self: Self, fasta_file:str, is_ripp:bool,is_validated:bool):
         """Writes the dataset extracting the features from sequence
 
         Args:
@@ -136,7 +136,10 @@ class FeatureExtractor(BaseModel):
                 protein_id = line[1:-1]
                 descriptors = {}
                 descriptors["protein_id"] = protein_id
-                descriptors["validation"] = "yes"
+                if is_validated:
+                    descriptors["validation"] = "yes"
+                else:
+                    descriptors["validation"] = "no"
             if not line.startswith(">"):
                 sequence = line[:-1]
 
@@ -155,3 +158,10 @@ class FeatureExtractor(BaseModel):
 
         return ripp_dataframe
 
+    def build_validated_dataset(self,fasta_file,is_ripp,is_validated):
+        multifasta = self.write_multifasta(fasta_file)
+        self.record_ripp_category(fasta_file)
+        dataframe_obj = self.write_dataset(fasta_file, is_ripp, is_validated)
+
+
+        return dataframe_obj
