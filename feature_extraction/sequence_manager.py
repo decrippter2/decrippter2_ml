@@ -9,13 +9,21 @@ from pydantic import BaseModel
 import pandas as pd
 
 class SequenceManager(BaseModel):
-    """
+    """Pydantic_based class to extract all features from aminoacid sequence
+
+    Attributes:
+            aa_seq: str with aminoacid sequence
+            descriptors_dict: dict containing all extracted features
+            header_list: list containing pandas Dataframe colnames in order
 
     """
     aa_seq: str | None = None
     descriptors_dict: {}
-    header_list = list
+    header_list : list
     def read_json(self: Self, json_path:str) -> dict:
+        """
+
+        """
         with open(json_path) as json_file:
             json_dict=json.load(json_file)
         return json_dict
@@ -24,6 +32,10 @@ class SequenceManager(BaseModel):
         header_list = self.read_json('feature_extraction/header_list.json')
         self.header_list=header_list["header_list"]
     def secondary_structure(self:Self):
+        """
+        Generates secondary structure information, to be improved while I
+        get NSP3 to work
+        """
         alpha_leader,alpha_50_total,alpha_total=self.aa_seq,self.aa_seq,self.aa_seq
         beta_leader, beta_50_total, beta_total = self.aa_seq, self.aa_seq, self.aa_seq
         coil_leader, coil_50_total, coil_total = self.aa_seq, self.aa_seq, self.aa_seq

@@ -21,11 +21,29 @@ class FeatureExtractor(BaseModel):
 
 
     def read_file(self: Self, file_path:str):
+        """Reads text file
+
+        Args:
+            file_path: str, path to text file
+
+        Returns:
+            Text file content read into a variable
+
+        """
         with open(file_path) as infile:
             output=infile
         return output
 
     def read_json(self: Self, json_path:str) -> dict:
+        """Reads .json file content
+
+        Args:
+            json_path: str, path to json file
+
+        Returns:
+            json file content as a dictionary
+
+        """
         with open(json_path) as json_file:
             json_dict=json.load(json_file)
         return json_dict
@@ -84,6 +102,15 @@ class FeatureExtractor(BaseModel):
         self.ripp_categories=entry_cat_dict
 
     def write_df_row(self:Self,row_dict: dict):
+        """Writes a row to be added in Pandas Dataframe
+
+        Args:
+            row_dict: dict containing new row's content
+
+        Returns:
+            row_dicts content as a single-row Dataframe
+
+        """
         index_map = {v: i for i, v in enumerate(self.header_list)}
         sorted(row_dict.items(), key=lambda pair: index_map[pair[0]])
         df_row=pd.DataFrame(row_dict.values(),columns=self.header_list)
