@@ -1,20 +1,26 @@
 import os
 import json
 import peptides
-from feature_extraction.ripp_class import RiPP
+from feature_extraction_manager.ripp_class import RiPP
 import logging
 from typing import Any, Self
 from pydantic import BaseModel
 import pandas as pd
-from feature_extraction.sequence_manager import SequenceManager
-from feature_extraction.feature_extraction import FeatureExtractor
-from feature_extraction.blast_manager import BlastManager
+from feature_extraction_manager.sequence_manager import SequenceManager
+from feature_extraction_manager.feature_extraction import FeatureExtractor
+from feature_extraction_manager.blast_manager import BlastManager
+from pathlib import Path
 
 class DataAugmentationManager(FeatureExtractor):
 
-    blast_obj=BlastManager()
-    blast_obj.jsons_to_fastas()
-    blast_obj.run()
+
+    def expansion_multifasta(self):
+        blast_obj=BlastManager()
+        blast_obj.jsons_to_fastas()
+        blast_obj.run()
+        for xml in blast_obj.ncbi_results.iterdir():
+            ripp_id=xml[:11]
+
 
 
     def blast_subclasses(self):

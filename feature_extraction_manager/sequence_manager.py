@@ -17,8 +17,8 @@ class SequenceManager(BaseModel):
             header_list: list containing pandas Dataframe colnames in order
 
     """
-    aa_seq: str | None = None
-    descriptors_dict: {}
+    aa_seq: str
+    descriptors_dict: dict = {}
     header_list : list
     def read_json(self: Self, json_path:str) -> dict:
         """
