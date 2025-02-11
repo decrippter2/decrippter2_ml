@@ -1,4 +1,4 @@
-
+from pathlib import Path
 import os
 import json
 import peptides
@@ -16,8 +16,9 @@ class FeatureExtractor(BaseModel):
             folder_path=path to JSON with RiPP entries
     """
 
-    folder_path: str | None = None
-    ripp_categories: dict | None= None
+    json_folder: Path = Path(__file__).parent.joinpath("json_data")
+    prot_id_subclass: dict ={}
+    entry_subclass: dict= {}
 
 
     def read_file(self: Self, file_path:str):
@@ -58,17 +59,10 @@ class FeatureExtractor(BaseModel):
             The name of multifasta file
 
         """
-        for __, __, filenames in os.walk(
-                self.folder_path
-        ):
-            with open(multifasta,'w') as outfile:
-                for filename in filenames:
-                    file = (
-                            self.folder_path
-                            + filename
-                    )
+        with open(multifasta, 'w') as outfile:
+            for ripp_json in self.folder_path.iterdir():
                     #we open each of the ripp jsons
-                    ripp_dict=self.read_json(file)
+                    ripp_dict=self.read_json(ripp_json)
                     for entry in ripp_dict["entries"]:
                         header='>'+str(entry["protein_ids"]["genpept"])+'\n'
                         sequence=entry["complete"]+'\n'
@@ -87,19 +81,21 @@ class FeatureExtractor(BaseModel):
             corresponding ripp category as values
         """
 
-        entry_cat_dict = {}
+        id_subclass = {}
+        entry_subclass = {}
+
         positives_fasta=self.read_file(fasta_file)
         for line in positives_fasta:
             if line.startswith('>'):
                 prot_query = line[1:-1]
-                for __, __, filenames in os.walk(self.folder_path):
-                    for filename in filenames:
-                        json_path=self.folder_path+filename
-                        json_dict=self.read_json(json_path)
+                for json_file in self.json_folder.iterdir():
+                        json_dict=self.read_json(json_file)
+                        entry_subclass[str(json_file)]=json_dict["ripp_class"]
                         for entry in json_dict["entries"]:
                             if prot_query in entry["protein_ids"].values():
-                                entry_cat_dict[prot_query] = json_dict["ripp_class"]
-        self.ripp_categories=entry_cat_dict
+                                id_subclass[prot_query] = json_dict["ripp_class"]
+        self.prot_id_subclass=id_subclass
+        self.entry_subclass=entry_subclass
 
     def write_df_row(self:Self,row_dict: dict):
         """Writes a row to be added in Pandas Dataframe
@@ -127,7 +123,7 @@ class FeatureExtractor(BaseModel):
             A string with the path of the saved .csv file
 
         """
-        header_list=self.read_json('feature_extraction/header_list.json')
+        header_list=self.read_json('feature_extraction_manager/header_list.json')
         header_list=header_list["header_list"]
         fasta_text=self.read_file(fasta_file)
         ripp_dataframe=pd.DataFrame(columns=header_list)
@@ -136,10 +132,19 @@ class FeatureExtractor(BaseModel):
                 protein_id = line[1:-1]
                 descriptors = {}
                 descriptors["protein_id"] = protein_id
-                if is_validated:
+                if is_ripp and is_validated:
                     descriptors["validation"] = "yes"
-                else:
+                    descriptors["RiPP"] = "RiPP"
+                    descriptors["Class"] = self.prot_id_subclass[protein_id]
+                elif is_ripp and not is_validated:
+                    descriptors["validation"] = "yes"
+                    descriptors["RiPP"] = "RiPP"
+                    descriptors["Class"] = self.entry_subclass[protein_id]
+                    #this needs to extract xml file name from fasta_file ;)
+                elif not is_ripp and is_validated:
                     descriptors["validation"] = "no"
+                    descriptors["RiPP"] = "No_RiPP"
+                    descriptors["Class"] = "No_RiPP"
             if not line.startswith(">"):
                 sequence = line[:-1]
 
@@ -147,12 +152,6 @@ class FeatureExtractor(BaseModel):
                 extracted_features=feature_extractor.calculate_features()
                 descriptors.update(extracted_features)
 
-                if is_ripp:
-                    descriptors["RiPP"] = "RiPP"
-                    descriptors["Class"] = self.ripp_categories[protein_id]
-                else:
-                    descriptors["RiPP"] = "No_RiPP"
-                    descriptors["Class"] = "No_RiPP"
                 new_row=self.write_df_row(descriptors)
                 ripp_dataframe= pd.concat([ripp_dataframe,new_row], ignore_index=True)
 

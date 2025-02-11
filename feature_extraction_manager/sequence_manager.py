@@ -29,7 +29,7 @@ class SequenceManager(BaseModel):
         return json_dict
 
     def read_header(self:Self):
-        header_list = self.read_json('feature_extraction/header_list.json')
+        header_list = self.read_json('feature_extraction_manager/header_list.json')
         self.header_list=header_list["header_list"]
     def secondary_structure(self:Self):
         """

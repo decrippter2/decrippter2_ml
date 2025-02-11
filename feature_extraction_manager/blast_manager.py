@@ -6,7 +6,7 @@ from ripp_class import RiPP
 import logging
 from typing import Any, Self
 from pydantic import BaseModel
-from feature_extraction.feature_extraction import FeatureExtractor
+from feature_extraction import FeatureExtractor
 import pandas as pd
 from Bio.Blast import NCBIWWW, NCBIXML
 from Bio import SeqIO
@@ -103,23 +103,12 @@ class BlastManager(FeatureExtractor):
         with open(self.ncbi_results.joinpath(f"{acc}.xml")) as xml_file:
             blast_record = NCBIXML.read(xml_file)
         results={}
-        counter = 0
-        print(blast_record)
-        """
         for alignment in blast_record.alignments:
+            print(acc)
+            print(alignment.accession)
+            accession=alignment.accession
             for hsp in alignment.hsps:
-                sim_perc = round((hsp.positives / hsp.align_length) * 100, 2)
-                id_perc = round((hsp.identities / hsp.align_length) * 100, 2)
-
-                if id_perc >= 50:
-                    self.nr_blast_matches["mite_acc"].append(acc)
-                    self.nr_blast_matches["accession"].append(alignment.accession)
-                    self.nr_blast_matches["length"].append(alignment.length)
-                    self.nr_blast_matches["e_value"].append(hsp.expect)
-                    self.nr_blast_matches["score"].append(hsp.score)
-                    self.nr_blast_matches["bitscore"].append(hsp.bits)
-                    self.nr_blast_matches["percent_sim"].append(sim_perc)
-                    self.nr_blast_matches["percent_id"].append(id_perc)
-
-                    results[alignment.accession]=blast_record.
-"""
+                print(hsp.sbjct)
+                sequence=hsp.sbjct
+                results[accession]=sequence
+        return results
