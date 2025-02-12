@@ -19,7 +19,7 @@ class DataAugmentationManager(FeatureExtractor):
         blast_obj.jsons_to_fastas()
         blast_obj.run()
         for xml in blast_obj.ncbi_results.iterdir():
-            blast_obj.extract_xml2(xml[:-2]) #all xmls file results are converted to multifasta files
+            blast_obj.extract_xml(xml[:-2]) #all xmls file results are converted to multifasta files
 
     def erase_duplicates(self,dataframe):
         sequences = []
