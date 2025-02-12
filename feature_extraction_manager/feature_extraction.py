@@ -68,7 +68,6 @@ class FeatureExtractor(BaseModel):
                         sequence=entry["complete"]+'\n'
                         outfile.write(header)
                         outfile.write(sequence)
-        return multifasta
 
     def record_ripp_category(self: Self, fasta_file:str):
         """Extracts a record of ripp subclasses
@@ -98,7 +97,7 @@ class FeatureExtractor(BaseModel):
         self.entry_subclass=entry_subclass
 
     def write_df_row(self:Self,row_dict: dict):
-        """Writes a row to be added in Pandas Dataframe
+        """Writes a row to Pandas Dataframe format
 
         Args:
             row_dict: dict containing new row's content
@@ -137,12 +136,11 @@ class FeatureExtractor(BaseModel):
                     descriptors["RiPP"] = "RiPP"
                     descriptors["Class"] = self.prot_id_subclass[protein_id]
                 elif is_ripp and not is_validated:
-                    descriptors["validation"] = "yes"
-                    descriptors["RiPP"] = "RiPP"
-                    descriptors["Class"] = self.entry_subclass[protein_id]
-                    #this needs to extract xml file name from fasta_file ;)
-                elif not is_ripp and is_validated:
                     descriptors["validation"] = "no"
+                    descriptors["RiPP"] = "RiPP"
+                    descriptors["Class"] = self.entry_subclass[fasta_file[:5]]#needs testing
+                elif not is_ripp and is_validated:
+                    descriptors["validation"] = "yes"
                     descriptors["RiPP"] = "No_RiPP"
                     descriptors["Class"] = "No_RiPP"
             if not line.startswith(">"):
@@ -157,8 +155,8 @@ class FeatureExtractor(BaseModel):
 
         return ripp_dataframe
 
-    def build_validated_dataset(self,fasta_file,is_ripp,is_validated):
-        multifasta = self.write_multifasta(fasta_file)
+    def build_dataset(self,fasta_file,is_ripp,is_validated):
+        self.write_multifasta(fasta_file)
         self.record_ripp_category(fasta_file)
         dataframe_obj = self.write_dataset(fasta_file, is_ripp, is_validated)
 
