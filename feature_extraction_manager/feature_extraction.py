@@ -49,7 +49,7 @@ class FeatureExtractor(BaseModel):
             json_dict=json.load(json_file)
         return json_dict
 
-    def write_multifasta(self: Self, multifasta: str) -> str:
+    def write_multifasta(self: Self, multifasta: str):
         """Write multifasta file with all ripp sequences
 
         Args:
