@@ -19,6 +19,7 @@ class BlastManager(FeatureExtractor):
 
     ncbi_results: Path = Path(__file__).parent.joinpath("blast_nr_results")
     fasta: Path = Path(__file__).parent.joinpath("data/fasta")
+    ncbi_results_fasta: Path = Path(__file__).parent.joinpath("blast_nr_results_fasta")
 
     def write_fasta_file(self,filename:str,sequence:str):
         with open(self.fasta.joinpath(f"{filename}.fa"), "w") as file:
@@ -28,15 +29,15 @@ class BlastManager(FeatureExtractor):
         for __, __, filenames in os.walk(
                 self.folder_path
         ):
-            for filename in filenames:
+            for filename in filenames: #loops through each one of the json files
                 file = (
                         self.folder_path
-                        + filename
+                        + filename #only json without path
                 )
                 file_dict=self.read_json(file)
                 n_entries=len(file_dict["entries"])
                 for i in range(n_entries):
-                    subfilename=filename[:-5]+'_'+str(i+1)
+                    subfilename=filename[:-5]+'_'+str(i+1)#fasta file name eg: ripp0000001_1.fa
                     sequence=file_dict["entries"][i]["complete"]
                     self.write_fasta_file(subfilename,sequence)
     def run(self):
@@ -66,49 +67,22 @@ class BlastManager(FeatureExtractor):
             time.sleep(10)  # limits rate to prevent IP ban by NCBI
 
     def extract_xml(self, acc: str):
-        """Extracts metadata for SSN from BLAST XML file
-
-        Counts matches >= 95% similarity and adds to efi-est metadata
-        Also stores matches >= 95% similarity for dumping as csv
-
-        Arguments:
-            acc: a MITE accession
-        """
-        with open(self.ncbi_results.joinpath(f"{acc}.xml")) as xml_file:
-            blast_record = NCBIXML.read(xml_file)
-
-        counter = 0
-        for alignment in blast_record.alignments:
-            for hsp in alignment.hsps:
-                sim_perc = round((hsp.positives / hsp.align_length) * 100, 2)
-                id_perc = round((hsp.identities / hsp.align_length) * 100, 2)
-
-                if id_perc >= 50:
-                    self.nr_blast_matches["mite_acc"].append(acc)
-                    self.nr_blast_matches["accession"].append(alignment.accession)
-                    self.nr_blast_matches["length"].append(alignment.length)
-                    self.nr_blast_matches["e_value"].append(hsp.expect)
-                    self.nr_blast_matches["score"].append(hsp.score)
-                    self.nr_blast_matches["bitscore"].append(hsp.bits)
-                    self.nr_blast_matches["percent_sim"].append(sim_perc)
-                    self.nr_blast_matches["percent_id"].append(id_perc)
-
-                    counter += 1
-
-        self.metadata_efi_est["ncbi_nr_matches"].append(counter)
-
-    def extract_xml2(self, acc: str):
         """Extracts accessions and sequences from XML file
         """
         with open(self.ncbi_results.joinpath(f"{acc}.xml")) as xml_file:
             blast_record = NCBIXML.read(xml_file)
         results={}
-        for alignment in blast_record.alignments:
-            print(acc)
-            print(alignment.accession)
-            accession=alignment.accession
-            for hsp in alignment.hsps:
-                print(hsp.sbjct)
-                sequence=hsp.sbjct
-                results[accession]=sequence
-        return results
+        with open(self.ncbi_results_fasta.joinpath(f"{acc}.fa")) as out_fasta:
+            for alignment in blast_record.alignments:
+                print(acc)
+                print(alignment.accession)
+                accession=alignment.accession
+                for hsp in alignment.hsps:
+
+                    id_perc = round((hsp.identities / hsp.align_length) * 100, 2)
+                    if id_perc >=50:
+                        out_fasta.write(f">{accession}\n")
+                        out_fasta.write(f"{sequence}\n")
+                        print(hsp.sbjct)
+                        sequence=hsp.sbjct
+                        results[accession]=sequence
