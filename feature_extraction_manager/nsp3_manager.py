@@ -43,4 +43,6 @@ class NSP3Manager(BaseModel):
         with open(f'{self.output_folder}/{self.worker_id}/{self.worker_id}.json') as results_file:
             results_dict=json.load(results_file)
         sec_str=results_dict[0]["q8"]
+        #deactivate env
+        run(f'conda deactivate')
         return sec_str
