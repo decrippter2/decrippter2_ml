@@ -33,7 +33,7 @@ class DownloadManager(BaseModel):
 
         if self.location.exists():
             logger.warning(
-                "MITE data folder already present - skip download. Remove the folder manually if a new version needs to be downloaded."
+                "RiPP data folder already present - skip download. Remove the folder manually if a new version needs to be downloaded."
             )
             return
 
@@ -52,7 +52,7 @@ class DownloadManager(BaseModel):
         )
         if response_metadata.status_code != 200:
             logger.fatal(
-                f"Error fetching 'mite_data' record metadata: {response_metadata.status_code}"
+                f"Error fetching 'ripp_data' record metadata: {response_metadata.status_code}"
             )
             raise RuntimeError
 
