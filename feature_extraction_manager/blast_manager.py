@@ -2,11 +2,11 @@
 import os
 import json
 import peptides
-from ripp_class import RiPP
+#from ripp_class import RiPP
 import logging
 from typing import Any, Self
 from pydantic import BaseModel
-from feature_extraction import FeatureExtractor
+from feature_extraction_manager.feature_extraction import FeatureExtractor
 import pandas as pd
 from Bio.Blast import NCBIWWW, NCBIXML
 from Bio import SeqIO
