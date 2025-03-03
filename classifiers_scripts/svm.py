@@ -1,19 +1,9 @@
-import json
-from sys import argv
-import random
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from typing import Self, Any
-import seaborn as sns
-from sklearn import svm
-from pydantic import BaseModel
+from typing import Self
 import pickle
-from pathlib import Path
 from classifiers_scripts.classifier_class import BaseClassifier
 import logging
-
 from sklearn.svm import SVC
+
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 console_handler = logging.StreamHandler()
@@ -59,4 +49,8 @@ class SVM_Classifier(BaseClassifier):
         with open(svm_path, 'wb') as f:
             pickle.dump(svm_clf, f)
 
-
+    def predict(self:Self,input):
+        svm_clf=self.load_model()
+        input=input[self.feature_list]
+        output=svm_clf.predict(input)
+        return output

@@ -6,7 +6,7 @@ import json
 import torch
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from torch.utils.data import DataLoader, Dataset, TensorDataset
+from torch.utils.data import DataLoader, TensorDataset
 from torch import nn
 class BaseClassifier(BaseModel):
     """Pydantic_based class to load/retrain SVM classifiers
@@ -35,24 +35,19 @@ class BaseClassifier(BaseModel):
         return x_train, x_test, y_train, y_test
 
     def initiate_dataloader(self:Self):
-
-        x_train, x_test, y_train, y_test = self.svm_training_split(self.dataset,self.feature_list)
+        x = self.dataset[self.feature_list]
+        y = self.dataset[["RiPP"]].to_numpy().ravel()
 
         label_dict = {'RiPP': 1, 'No_RiPP': 0}
 
-        x_train = torch.tensor(x_train.values)
+        x_train = torch.tensor(x.values)
 
-        y_train = torch.tensor(pd.Series(y_train).map(label_dict).tolist())
-        x_test = torch.tensor(x_test.values)
-
-        y_test = torch.tensor(pd.Series(y_test).map(label_dict).tolist())
+        y_train = torch.tensor(pd.Series(y).map(label_dict).tolist())
 
         training_data = TensorDataset(x_train.to(torch.float32), y_train)
-        test_data = TensorDataset(x_test.to(torch.float32), y_test)
 
-        train_dataloader = DataLoader(training_data, batch_size=256)
-        test_dataloader = DataLoader(test_data, batch_size=256)
-        return train_dataloader, test_dataloader
+        dataloader = DataLoader(training_data, batch_size=256)
+        return dataloader
     def hybrid_model_predict(self,neurnet, svm_classifier, inputs,device):
         neurnet.eval()
         with torch.no_grad():

@@ -1,24 +1,15 @@
-import json
 import torch.optim as optim
-from sys import argv
-import random
 import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from typing import Self, Any
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn import svm
-from pydantic import BaseModel
+from typing import Self
 import pickle
-from pathlib import Path
 import torch
-from torch.utils.data import DataLoader, Dataset, TensorDataset
 from torch import nn
 import torch.nn.functional as F
 from sklearn.svm import SVC
 import logging
-from classifier_class import BaseClassifier
+from classifiers_scripts.classifier_class import BaseClassifier
+from torch.utils.data import DataLoader
+
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 console_handler = logging.StreamHandler()
@@ -64,11 +55,12 @@ class NN_SVM_Classifier(BaseClassifier):
         svm_loss_fn = SVMLoss()
         optimizer = optim.Adam(neurnet.parameters(), lr=0.001)
         neurnet.apply(self.init_weights)
-        train_dataloader, test_dataloader = self.initiate_dataloader()
+        dataloader = self.initiate_dataloader()
 
         for epoch in range(100):
+            print(f'{epoch}/100')
             neurnet.train()
-            for batch, data in enumerate(train_dataloader):
+            for batch, data in enumerate(dataloader):
                 inputs = data[0].to(device).float()
                 labels = data[1].to(device).float()
 
@@ -90,7 +82,7 @@ class NN_SVM_Classifier(BaseClassifier):
 
         features_list, labels_list = [], []
         with torch.no_grad():
-            for data in train_dataloader:
+            for data in dataloader:
                 inputs = data[0].to(device).float()
                 labels = data[1].cpu().numpy()
                 features = neurnet(inputs).cpu().numpy()
@@ -127,3 +119,18 @@ class NN_SVM_Classifier(BaseClassifier):
         with open(svm_path, 'rb') as f:
             svm_clf = pickle.load(f)
         return neurnet,svm_clf
+
+    def predict(self:Self,input):
+        neurnet,svm_clf=self.load_model()
+        neurnet.eval()
+        input=input[self.feature_list]
+        input_dataloader=DataLoader(input,batch_size=128)
+        device=self.set_device()
+        feature_list=[]
+        with torch.no_grad():
+            for batch,data in enumerate(input_dataloader):
+                features=neurnet(data.to(device).float())
+                feature_list.append(features)
+        svm_input=np.concatenate(feature_list,axis=0)
+        prediction=svm_clf.predict(svm_input)
+        return prediction

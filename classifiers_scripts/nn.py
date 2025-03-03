@@ -1,39 +1,11 @@
-import json
-import torch.optim as optim
-from sys import argv
-import random
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from typing import Self, Any
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn import svm
-from pydantic import BaseModel
-import pickle
-from pathlib import Path
-import torch
-from torch.utils.data import DataLoader, Dataset, TensorDataset
-from torch import nn
-import torch.nn.functional as F
-from sklearn.svm import SVC
+from typing import Self
 import logging
 import torch
-import torchvision
 from torch import nn
 import torch.optim as optim
 import torch.nn.functional as F
-from torchvision import datasets
-from torchvision.transforms import ToTensor
-from torch.utils.data import DataLoader, Dataset, TensorDataset
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-import pandas as pd
-import numpy as np
-import json
-from sklearn import svm
-from matplotlib import pyplot as plt
-from classifier_class import BaseClassifier
+from classifiers_scripts.classifier_class import BaseClassifier
+from torch.utils.data import DataLoader
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
@@ -74,11 +46,11 @@ class NN_Classifier(BaseClassifier):
         loss_fn = nn.CrossEntropyLoss()
         optimizer = optim.Adam(neurnet.parameters(), lr=0.0001)
         neurnet.apply(self.init_weights)
-        train_dataloader, test_dataloader = self.initiate_dataloader()
+        dataloader = self.initiate_dataloader()
 
         for epoch in range(500):
             neurnet.train()
-            for batch, data in enumerate(train_dataloader):
+            for batch, data in enumerate(dataloader):
                 inputs = data[0].to(device).float()
                 labels = data[1].to(device).float()
 
@@ -101,3 +73,17 @@ class NN_Classifier(BaseClassifier):
     def load_model(self:Self):
         neurnet = torch.load(self.model_folder.joinpath('nn.pth'))
         return neurnet
+
+    def predict(self:Self,input):
+        neurnet=self.load_model()
+        neurnet.eval()
+        input=input[self.feature_list]
+        input_dataloader=DataLoader(input,batch_size=128)
+        device=self.set_device()
+        pred_list=[]
+        with torch.no_grad():
+            for data in input_dataloader:
+                logits=neurnet(data.to(device).float())
+                preds=logits.softmax(dim=1).argmax(1)
+                pred_list.extend(preds)
+        return pred_list
