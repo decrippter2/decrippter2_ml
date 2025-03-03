@@ -18,7 +18,7 @@ class SVM_Classifier(BaseModel):
             folder_path=path to JSON with RiPP entries
     """
     dataset: Any
-    model_folder: Path = Path(__file__).parent.parent.joinpath('SVM_models')
+    model_folder: Path = Path(__file__).parent.parent.joinpath('pretrained_models')
     feature_path: Path = Path(__file__).parent.parent.joinpath("feature_extraction_manager/feature_list.json")
     feature_list: list =[]
 
