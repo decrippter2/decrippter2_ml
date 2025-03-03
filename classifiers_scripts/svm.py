@@ -12,7 +12,7 @@ import pickle
 from pathlib import Path
 
 class SVM_Classifier(BaseModel):
-    """Pydantic_based class to load/retrain SVM classifiers
+    """Pydantic_based class to load/retrain SVM classifiers_scripts
 
     Attributes:
             folder_path=path to JSON with RiPP entries
