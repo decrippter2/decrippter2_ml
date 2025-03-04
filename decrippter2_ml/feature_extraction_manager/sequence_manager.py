@@ -1,13 +1,11 @@
 
-import os
-from pathlib import Path
+
 import json
 import peptides
-from feature_extraction_manager.ripp_class import RiPP
-import logging
-from typing import Any, Self
+from decrippter2_ml.feature_extraction_manager.ripp_class import RiPP
+from typing import Self
 from pydantic import BaseModel
-import pandas as pd
+
 
 class SequenceManager(BaseModel):
     """Pydantic_based class to extract all features from aminoacid sequence

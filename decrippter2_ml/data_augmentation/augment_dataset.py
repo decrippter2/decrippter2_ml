@@ -1,15 +1,7 @@
-import os
-import json
-import peptides
-from feature_extraction_manager.ripp_class import RiPP
-import logging
-from typing import Any, Self
-from pydantic import BaseModel
 import pandas as pd
-from feature_extraction_manager.sequence_manager import SequenceManager
-from feature_extraction_manager.feature_extraction import FeatureExtractor
-from feature_extraction_manager.blast_manager import BlastManager
-from pathlib import Path
+from decrippter2_ml.feature_extraction_manager.feature_extraction import FeatureExtractor
+from decrippter2_ml.feature_extraction_manager.blast_manager import BlastManager
+
 
 class DataAugmentationManager(FeatureExtractor):
 

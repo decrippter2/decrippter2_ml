@@ -63,12 +63,12 @@ class DownloadManager(BaseModel):
         response_data = requests.get(files_url)
         if response_data.status_code != 200:
             logger.fatal(
-                f"Error downloading 'mite_data' record: {response_data.status_code}"
+                f"Error downloading 'ripp_data' record: {response_data.status_code}"
             )
             raise RuntimeError
 
         with open(self.version, "w") as f:
-            f.write(json.dumps({"version_mite_data_used": f"{version}"}))
+            f.write(json.dumps({"version_decriptter2_data_used": f"{version}"}))
 
         with open(self.record, "wb") as f:
             f.write(response_data.content)
@@ -87,7 +87,7 @@ class DownloadManager(BaseModel):
             logger.fatal(f"Could not find the unzipped directory {self.record_unzip}.")
             raise NotADirectoryError
 
-        matching_dirs = list(self.record_unzip.glob("mite-standard-mite_data-*"))
+        matching_dirs = list(self.record_unzip.glob("decrippter2_ml_json_data"))
         if not matching_dirs:
             logger.fatal(
                 f"Could not determine data storage location in downloaded directory."

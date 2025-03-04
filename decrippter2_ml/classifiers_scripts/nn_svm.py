@@ -7,7 +7,7 @@ from torch import nn
 import torch.nn.functional as F
 from sklearn.svm import SVC
 import logging
-from classifiers_scripts.classifier_class import BaseClassifier
+from decrippter2_ml.classifiers_scripts.classifier_class import BaseClassifier
 from torch.utils.data import DataLoader
 
 logger = logging.getLogger(__name__)

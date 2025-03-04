@@ -1,13 +1,10 @@
 from pathlib import Path
-import os
 import json
-import peptides
 #from ripp_class import RiPP
-import logging
-from typing import Any, Self
+from typing import Self
 from pydantic import BaseModel
 import pandas as pd
-from feature_extraction_manager.sequence_manager import SequenceManager
+from decrippter2_ml.feature_extraction_manager.sequence_manager import SequenceManager
 
 class FeatureExtractor(BaseModel):
     """Pydantic_based class to extract all features from folder

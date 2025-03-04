@@ -4,7 +4,7 @@ import torch
 from torch import nn
 import torch.optim as optim
 import torch.nn.functional as F
-from classifiers_scripts.classifier_class import BaseClassifier
+from decrippter2_ml.classifiers_scripts.classifier_class import BaseClassifier
 from torch.utils.data import DataLoader
 
 logger = logging.getLogger(__name__)

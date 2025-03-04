@@ -1,6 +1,6 @@
 from typing import Self
 import pickle
-from classifiers_scripts.classifier_class import BaseClassifier
+from decrippter2_ml.classifiers_scripts.classifier_class import BaseClassifier
 import logging
 from sklearn.svm import SVC
 
