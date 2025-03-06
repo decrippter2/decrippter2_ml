@@ -1,19 +1,32 @@
-import pandas as pd
+###STILL NEEDS TO BE TESTED
 from decrippter2_ml.feature_extraction_manager.feature_extraction import FeatureExtractor
 from decrippter2_ml.feature_extraction_manager.blast_manager import BlastManager
 
-
+from typing import Self
+import pandas as pd
 class DataAugmentationManager(FeatureExtractor):
+    """Pydantic_based class to perform data augmentation on validated data
+    """
 
-
-    def expansion_multifasta(self):
+    def expansion_multifasta(self:Self):
+        """Calls BlastManager to perform dataset expansion
+        """
         blast_obj=BlastManager()
         blast_obj.jsons_to_fastas()
         blast_obj.run()
         for xml in blast_obj.ncbi_results.iterdir():
             blast_obj.extract_xml(xml[:-2]) #all xmls file results are converted to multifasta files
 
-    def erase_duplicates(self,dataframe):
+    def erase_duplicates(self:Self,dataframe):
+        """Function to erase duplicates from dataset after augmentation,
+        prioritizing 'validated' tags
+
+        Args:
+            dataframe: pd dataframe containing full dataset with extracted features
+
+        Returns:
+            pd dataframe with erased duplicates
+            """
         sequences = []
         drop_indices = []
         for index, row in dataframe[dataframe.validation == "yes"].iterrows():
@@ -27,14 +40,16 @@ class DataAugmentationManager(FeatureExtractor):
                 drop_indices.append(index)
         dataframe = dataframe.drop(drop_indices)
         return dataframe
-    def expand_dataset(self):
+
+    def expand_dataset(self:Self):
+        """Function to carry on dataset augmentation
+
+        Returns:
+            Expanded DataFrame as Pandas object"""
         self.expansion_multifasta()
         #build validated dataset
         positive_dataset=self.build_dataset('zenodo_ripp.fa',True,True)
         negative_dataset=self.build_dataset('negative.fa',False,True)
-        #record subclasses for blast results
-
-        #build augmented fraction of dataset
         blast_obj=BlastManager()
         augmented_data=pd.DataFrame()
         for fasta_file in blast_obj.ncbi_results_fasta.iterdir():

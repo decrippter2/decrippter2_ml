@@ -7,7 +7,7 @@ from torch import nn
 import torch.nn.functional as F
 from sklearn.svm import SVC
 import logging
-from decrippter2_ml.classifiers_scripts.classifier_class import BaseClassifier
+from .classifier_class import BaseClassifier
 from torch.utils.data import DataLoader
 
 logger = logging.getLogger(__name__)
@@ -16,6 +16,7 @@ console_handler = logging.StreamHandler()
 logger.addHandler(console_handler)
 
 class FeatureExtractor(nn.Module):
+    """Class containing NN architecture for combination with SVM"""
     def __init__(self, input_size, feature_dim):
         super(FeatureExtractor, self).__init__()
         self.input = nn.Dropout(0.2)
@@ -31,6 +32,7 @@ class FeatureExtractor(nn.Module):
         return x  # This is passed to the SVM loss
 
 class SVMLoss(nn.Module):
+    """Class containing loss function to train NN"""
     def __init__(self, margin=1.0):
         super(SVMLoss, self).__init__()
         self.margin = margin  # SVM margin
@@ -42,20 +44,21 @@ class SVMLoss(nn.Module):
         return hinge_loss
 
 class NN_SVM_Classifier(BaseClassifier):
-    """Pydantic_based class to load/retrain SVM classifiers
+    """Pydantic_based class to load/retrain NN-SVM classifiers
 
         Attributes:
-                folder_path=path to JSON with RiPP entries
-    """
+            model_type= str containing SVM kernel, 'poly3' or 'rbf'
+            """
     model_type: str
     def retrain_model(self:Self):
+        """Retrains NN-SVM model"""
         self.load_feature_list()
         device = self.set_device()
         neurnet = FeatureExtractor(len(self.feature_list), 10)
         svm_loss_fn = SVMLoss()
         optimizer = optim.Adam(neurnet.parameters(), lr=0.001)
         neurnet.apply(self.init_weights)
-        dataloader = self.initiate_dataloader()
+        dataloader = self.initiate_train_dataloader()
 
         for epoch in range(100):
             print(f'{epoch}/100')
@@ -108,6 +111,7 @@ class NN_SVM_Classifier(BaseClassifier):
             pickle.dump(svm_clf, f)
 
     def load_model(self:Self):
+        """Loads pre-trained NN and SVM"""
         neurnet= torch.load(self.model_folder.joinpath('nn_svm.pth'))
         if self.model_type=='poly3' or self.model_type=='POLY3':
             svm_path = self.model_folder.joinpath('nn_svm_poly3.pkl')
@@ -121,15 +125,23 @@ class NN_SVM_Classifier(BaseClassifier):
         return neurnet,svm_clf
 
     def predict(self:Self,input):
+        """Runs prediction of RiPPs
+
+            Args:
+                input: Pandas Dataframe containing the sequence(s) for prediction and extracted features
+
+            Returns:
+                list of predictions as 0 (No_RiPP) and 1 (RiPP) corresponding to the indices in input pd"""
         neurnet,svm_clf=self.load_model()
         neurnet.eval()
+        self.load_feature_list()
         input=input[self.feature_list]
-        input_dataloader=DataLoader(input,batch_size=128)
+        input_dataloader=self.initiate_predict_dataloader(input)
         device=self.set_device()
         feature_list=[]
         with torch.no_grad():
             for batch,data in enumerate(input_dataloader):
-                features=neurnet(data.to(device).float())
+                features=neurnet(data[0].to(device).float())
                 feature_list.append(features)
         svm_input=np.concatenate(feature_list,axis=0)
         prediction=svm_clf.predict(svm_input)

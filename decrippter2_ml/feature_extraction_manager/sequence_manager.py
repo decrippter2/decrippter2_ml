@@ -1,8 +1,6 @@
-
-
 import json
 import peptides
-from decrippter2_ml.feature_extraction_manager.ripp_class import RiPP
+from .ripp_class import RiPP
 from typing import Self
 from pydantic import BaseModel
 
@@ -20,7 +18,13 @@ class SequenceManager(BaseModel):
     descriptors_dict: dict = {}
     header_list : list =[]
     def read_json(self: Self, json_path:str) -> dict:
-        """
+        """Function to open a JSON file and turn in into a dictionary
+
+        Args:
+            json_path: str, path to JSON file
+
+        Returns:
+            Dictionary with contents of JSON file
 
         """
         with open(json_path) as json_file:
@@ -28,10 +32,18 @@ class SequenceManager(BaseModel):
         return json_dict
 
     def read_header(self:Self):
+        """Assigns list of column names to self. variable"""
         header_list = self.read_json('feature_extraction_manager/header_list.json')
         self.header_list=header_list["header_list"]
 
     def calculate_features(self: Self):
+        """Extracts all features for a given AA sequence
+
+        Returns:
+            a dictionary containing all extracted feature names as keys and
+            their values as values
+
+        """
         peptides_features=peptides.Peptide(self.aa_seq).descriptors()
         self.descriptors_dict.update(peptides_features)
         decrippt=RiPP(self.aa_seq)

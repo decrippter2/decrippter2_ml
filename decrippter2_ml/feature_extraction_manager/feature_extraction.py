@@ -1,10 +1,9 @@
 from pathlib import Path
 import json
-#from ripp_class import RiPP
 from typing import Self
 from pydantic import BaseModel
 import pandas as pd
-from decrippter2_ml.feature_extraction_manager.sequence_manager import SequenceManager
+from .sequence_manager import SequenceManager
 
 class FeatureExtractor(BaseModel):
     """Pydantic_based class to extract all features from folder
@@ -31,8 +30,11 @@ class FeatureExtractor(BaseModel):
             Text file content read into a variable
 
         """
-        with open(file_path) as infile:
-            output=infile.readlines()
+        if type(file_path)==list:
+            output=file_path
+        else:
+            with open(file_path) as infile:
+                output=infile.readlines()
         return output
 
     def read_json(self: Self, json_path:str) -> dict:
@@ -50,8 +52,10 @@ class FeatureExtractor(BaseModel):
         return json_dict
 
     def record_ripp(self:Self, multifasta: str):
-        """
+        """Records RiPP subclass of each RiPP entry and protein id
 
+        Args:
+            multifasta: str, path to multifasta file to be written
         """
         with open(multifasta,'w') as outfile:
             for ripp_json in self.json_folder.iterdir():
@@ -87,7 +91,7 @@ class FeatureExtractor(BaseModel):
 
         Args:
             fasta_file: str containing path to multifasta file
-            is_ripp: True is multifasta corresponds to RiPP sequences, False if not
+            is_ripp: True if multifasta corresponds to RiPP sequences, False if not
 
         Returns:
             A string with the path of the saved .csv file
@@ -127,7 +131,7 @@ class FeatureExtractor(BaseModel):
         return ripp_dataframe
 
     def build_dataset(self,fasta_file,is_ripp,is_validated):
-        """Builds a Pandas Dataframe object
+        """Builds a Pandas Dataframe object when new data comes out
 
         Args:
             fasta_file: str containing path to multifasta file

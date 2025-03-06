@@ -800,16 +800,3 @@ class RiPP:
         feature_list += [self.aafreq[aa] for aa in amino_acids]
         feature_list += [self.clfreq[cl] for cl in clusters]
         return feature_list
-
-
-"""
-ripp = RiPP('METEKYLQVVEDEEIEQLVGGAGPGWVETLTKDCPWNVPVACVTIMGQRICKKCY')
-ripp = RiPP('MNKDIDLSAIEISDLISETEQSDDALSQVMAASCTTTGCACSSSSSST')
-ripp.calculate_features()
-
-print (ripp.sequence, ripp.cys30, ripp.cys20, ripp.entropy)
-print (ripp.aafreq)
-print (ripp.clfreq)
-print (ripp.charge, ripp.avgcharge, ripp.avghydrop, ripp.length)
-print('boman ',ripp.boman,' instability ', ripp.instability,' aliphatic index ',ripp.aliphatic)
-"""

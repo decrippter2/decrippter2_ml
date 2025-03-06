@@ -1,36 +1,17 @@
-"""Entry point of decrippter2_ml
-
-Copyright (c) 2024 Mitja M. Zdouc and individual contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-"""
 import json
 import logging
 import sys
 from importlib import metadata
 import argparse
-#import coloredlogs
-from download_manager.download_manager import DownloadManager
+
+import pandas as pd
+
+from download_manager.downloader import DownloadManager
 from feature_extraction_manager.feature_extraction import FeatureExtractor
 from classifiers_scripts.nn import NN_Classifier
 from classifiers_scripts.nn_svm import NN_SVM_Classifier
 from classifiers_scripts.svm import SVM_Classifier
+from data_augmentation.augment_dataset import DataAugmentationManager
 
 def config_logger() -> logging.Logger:
     """Set up a named logger with nice formatting
@@ -51,22 +32,19 @@ def config_logger() -> logging.Logger:
     return logger
 
 def read_fasta(file):
-    fasta_dict={}
     with open(file) as fasta:
-        for line in fasta:
-            if line.startswith('>'):
-                prot_id=line[1:-1]
-            else:
-                seq=line[:-1]
-            fasta_dict[prot_id]=seq
-    return fasta_dict
+            fasta_lines=fasta.readlines()
+    return fasta_lines
 
+def retrieve_data():
+    #download=DownloadManager()
+    #download.download_data()
+    #download.organize_data()
+    data_augmenter=DataAugmentationManager()
+    training_set=data_augmenter.expand_dataset()
+    return training_set
 def retrain_models():
-    download=DownloadManager()
-    download.download_data()
-    download.organize_data()
-    feature_extractor=FeatureExtractor()
-    training_set=feature_extractor.build_dataset()
+    training_set=retrieve_data()
     nn_obj=NN_Classifier(dataset=training_set)
     nn_obj.retrain_model()
     nn_svm_poly3=NN_SVM_Classifier(model_type='poly3',dataset=training_set)
@@ -77,7 +55,7 @@ def retrain_models():
     svm_poly3.retrain_model()
     svm_rbf = SVM_Classifier(model_type='rbf', dataset=training_set)
     svm_rbf.retrain_model()
-def run_prediction(seq_dict,model_type,output_name,logger):
+def run_prediction(fasta_lines,model_type,output_name,logger):
     if model_type=='nn':
         model=NN_Classifier()
     elif model_type=='nn_svm_poly3':
@@ -92,31 +70,30 @@ def run_prediction(seq_dict,model_type,output_name,logger):
         logger.fatal('Error: invalid kernel')
         raise RuntimeError
     results_dict={}
-    for id in seq_dict:
-        output=model.predict(seq_dict[id])
-        results_dict[id]=output
+    feature_extractor=FeatureExtractor()
+    feature_pd=feature_extractor.write_dataset(fasta_lines,False,False)
+    output=model.predict(feature_pd)
+    output=pd.DataFrame({'output':output })
+    feature_pd=pd.concat([feature_pd,output],axis=1)
+    for line in feature_pd.iterrows():
+        results_dict[line[1].protein_id]=line[1].output
     with open(output_name,'w') as outfile:
         json.dump(results_dict,outfile,indent=6)
 
 
 
 def parse_arguments():
-
+    """Function to parse all arguments"""
     settings = {}
     parser = argparse.ArgumentParser()
 
     parser.add_argument('-i', '--input',
-                        help='Input: either a fasta file or a single peptide sequence to analyze (specify which with -t)',
-                        required=True)
+                        help='Input: either a fasta file or a single peptide sequence to analyze (specify which with -t)')
     parser.add_argument('-t', '--input_type',
                         help='Type of input given with the -i flag. Either fasta or seq (default)',
                         choices=['fasta', 'seq'], default='seq')
-    #parser.add_argument('-c', '--cutoff', help='The cutoff of the SVM score to use (0-1).', default=0.9, type=float)
-    parser.add_argument('-o', '--outputname', help='Path in which the results will be written to (json format)', default='.')
-    parser.add_argument('--redo', help='Flag to retrain the existing models with updated data')
-    #parser.add_argument('--output_type', choices=['simple', 'detailed'], default='simple',
-                        #help='Choose between a simple output (only headers with final score) or a detailed one (all protein features and individual scores of the three SVMs')
-    #    parser.add_argument('--keep_negatives', help='Also show the precursors in the output that did not make the cutoff', default=False, action='store_true')
+    parser.add_argument('-o', '--outputname', help='Path in which the results will be written to (add .json extension)', default='.')
+    parser.add_argument('--redo', help='Flag to retrain the existing models with updated data',action=argparse.BooleanOptionalAction)
     parser.add_argument('--models_path',
                         help='Point to the folder containing the pretrained models (downloaded with decRiPPter)',
                         default='pretrained_models/')
@@ -135,18 +112,17 @@ def parse_arguments():
 def main() -> None:
     """Function to execute main body of code"""
     logger = config_logger()
-    logger.info(f"Started decrippter2_ml CLI v{metadata.version('decrippter2_ml')}.")
-    logger.debug("Hello, world!")
+    logger.debug("Starting decRiPPter2...")
 
     args,settings = parse_arguments()
-    sequence_dict={}
-    if settings['--redo'] == True:
+    if settings['redo'] == True:
         retrain_models()
-    if settings['input_type'] == 'seq':
-        sequence_dict['seq0000001']=settings['input']
     else:
-        sequence_dict=read_fasta(settings['input'])
-    run_prediction(sequence_dict,settings['model_type'],settings['outputname'],logger)
+        if settings['input_type'] == 'seq':
+            sequence_lines=['>seq0000001\n',settings['input']]
+        else:
+            sequence_lines=read_fasta(settings['input'])
+        run_prediction(sequence_lines,settings['model_type'],settings['outputname'],logger)
 
 
 

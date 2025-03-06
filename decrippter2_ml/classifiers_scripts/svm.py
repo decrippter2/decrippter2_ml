@@ -1,6 +1,6 @@
 from typing import Self
 import pickle
-from decrippter2_ml.classifiers_scripts.classifier_class import BaseClassifier
+from .classifier_class import BaseClassifier
 import logging
 from sklearn.svm import SVC
 
@@ -13,11 +13,12 @@ class SVM_Classifier(BaseClassifier):
     """Pydantic_based class to load/retrain SVM classifiers_scripts
 
     Attributes:
-            folder_path=path to JSON with RiPP entries
+            model_type = str containing SVM kernel, 'poly3' or 'rbf'
     """
     model_type: str
 
     def load_model(self:Self):
+        """Loads pre-trained SVM model"""
         if self.model_type=='poly3' or self.model_type=='POLY3':
             svm_path = self.model_folder.joinpath('svm_poly3.pkl')
         elif self.model_type=='rbf' or self.model_type=='RBF':
@@ -30,6 +31,7 @@ class SVM_Classifier(BaseClassifier):
         return svm_clf
 
     def retrain_model(self:Self):
+        """Retrains SVM model"""
         self.load_feature_list()
         x = self.dataset[self.feature_list]
         y = self.dataset[["RiPP"]].to_numpy().ravel()
@@ -50,6 +52,13 @@ class SVM_Classifier(BaseClassifier):
             pickle.dump(svm_clf, f)
 
     def predict(self:Self,input):
+        """Runs prediction of RiPPs
+
+            Args:
+                input: Pandas Dataframe containing the sequence(s) for prediction and extracted features
+
+            Returns:
+                list of predictions as 0 (No_RiPP) and 1 (RiPP) corresponding to the indices in input pd"""
         svm_clf=self.load_model()
         input=input[self.feature_list]
         output=svm_clf.predict(input)

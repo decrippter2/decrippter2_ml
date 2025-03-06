@@ -1,4 +1,4 @@
-
+###STILL TO BE TESTED WITH ACTUAL ZENODO RECORD
 from pydantic import BaseModel
 from pathlib import Path
 import logging
@@ -12,7 +12,7 @@ logger.setLevel(logging.INFO)
 console_handler = logging.StreamHandler()
 logger.addHandler(console_handler)
 class DownloadManager(BaseModel):
-    """Download files from Zenodo record and unpack
+    """Pydantic_based class to download files from Zenodo record and unpack
 
     Attributes:
         record: the record to download

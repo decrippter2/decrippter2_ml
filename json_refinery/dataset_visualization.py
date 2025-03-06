@@ -83,7 +83,7 @@ def import_dict(json_file):
     return json_dict
 
 
-class_dictionary = {}
+no_amplified_class_dictionary = {}
 for _dirpath, _dirnames, filenames in os.walk(
         "/json_data"
 ):
@@ -95,8 +95,10 @@ for _dirpath, _dirnames, filenames in os.walk(
         )
         dictionary = import_dict(file)
         class_abrev = abbrev_dict[dictionary["ripp_class"]]
-        if class_abrev not in class_dictionary:
-            class_dictionary[class_abrev] = len(dictionary["entries"])
-        elif class_abrev in class_dictionary:
-            class_dictionary[class_abrev] += len(dictionary["entries"])
-show_class_distribution(class_dictionary)
+        if class_abrev not in no_amplified_class_dictionary:
+            no_amplified_class_dictionary[class_abrev] = len(dictionary["entries"])
+        elif class_abrev in no_amplified_class_dictionary:
+            no_amplified_class_dictionary[class_abrev] += len(dictionary["entries"])
+
+
+show_class_distribution(noo_amplified_class_dictionary)
