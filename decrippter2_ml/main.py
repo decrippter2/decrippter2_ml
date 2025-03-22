@@ -12,7 +12,7 @@ def config_logger() -> logging.Logger:
     :return
         A Logger object
     """
-    logger = logging.getLogger("decrippter2_ml_src")
+    logger = logging.getLogger("decrippter2_ml")
     logger.setLevel(logging.DEBUG)
     console_handler = logging.StreamHandler(sys.stdout)
     """

@@ -12,7 +12,7 @@ class FeatureExtractor(BaseModel):
             folder_path=path to JSON with RiPP entries
     """
 
-    json_folder: Path = Path(__file__).parent.parent.joinpath("json_data")
+    json_folder: Path = Path(__file__).parent.parent.parent.joinpath("json_data")
     header_path: Path = Path(__file__).parent.joinpath("header_list.json")
     header_list: list = []
     feature_list: Path = Path(__file__).parent.joinpath("feature_list.json")
@@ -51,7 +51,7 @@ class FeatureExtractor(BaseModel):
             json_dict=json.load(json_file)
         return json_dict
 
-    def record_ripp(self:Self, multifasta: str):
+    def record_ripp(self:Self, multifasta):
         """Records RiPP subclass of each RiPP entry and protein id
 
         Args:
@@ -61,7 +61,7 @@ class FeatureExtractor(BaseModel):
             for ripp_json in self.json_folder.iterdir():
                 ripp_dict=self.read_json(ripp_json)
                 subclass=ripp_dict["ripp_class"]
-                self.entry_subclass[ripp_json] = subclass
+                self.entry_subclass[str(ripp_json).split('/')[len(str(ripp_json).split('/'))-1][:-5]] = subclass
                 for entry in ripp_dict["entries"]:
                     protein_id=entry["protein_ids"]["genpept"]
                     header='>'+protein_id+'\n'
@@ -113,7 +113,8 @@ class FeatureExtractor(BaseModel):
                 elif is_ripp and not is_validated:
                     descriptors["validation"] = "no"
                     descriptors["RiPP"] = "RiPP"
-                    descriptors["Class"] = self.entry_subclass[fasta_file[:5]]#needs testing
+                    print(fasta_file)
+                    descriptors["Class"] = self.entry_subclass[str(fasta_file).split('/')[len(str(fasta_file).split('/'))-1][:-5]]#needs testing
                 elif not is_ripp and is_validated:
                     descriptors["validation"] = "yes"
                     descriptors["RiPP"] = "No_RiPP"
@@ -142,7 +143,7 @@ class FeatureExtractor(BaseModel):
             A Pandas dataframe object
         """
         #self.write_multifasta(fasta_file)
-        self.record_ripp(fasta_file)
+        self.record_ripp(Path(__file__).parent.parent.parent.joinpath('data/positive.fa'))
         dataframe_obj = self.write_dataset(fasta_file, is_ripp, is_validated)
 
 

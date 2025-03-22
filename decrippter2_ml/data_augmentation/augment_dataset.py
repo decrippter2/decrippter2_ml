@@ -1,6 +1,6 @@
 ###STILL NEEDS TO BE TESTED
-from decrippter2_ml_src import FeatureExtractor, BlastManager
-
+from decrippter2_ml import FeatureExtractor, BlastManager
+from pathlib import Path
 from typing import Self
 import pandas as pd
 class DataAugmentationManager(FeatureExtractor):
@@ -11,10 +11,11 @@ class DataAugmentationManager(FeatureExtractor):
         """Calls BlastManager to perform dataset expansion
         """
         blast_obj=BlastManager()
-        blast_obj.jsons_to_fastas()
-        blast_obj.run()
+        #blast_obj.jsons_to_fastas()
+        #blast_obj.run()
         for xml in blast_obj.ncbi_results.iterdir():
-            blast_obj.extract_xml(xml[:-2]) #all xmls file results are converted to multifasta files
+            print(str(xml))
+            blast_obj.extract_xml(str(xml)[:-4]) #all xmls file results are converted to multifasta files
 
     def erase_duplicates(self:Self,dataframe):
         """Function to erase duplicates from dataset after augmentation,
@@ -47,14 +48,15 @@ class DataAugmentationManager(FeatureExtractor):
             Expanded DataFrame as Pandas object"""
         self.expansion_multifasta()
         #build validated dataset
-        positive_dataset=self.build_dataset('zenodo_ripp.fa',True,True)
-        negative_dataset=self.build_dataset('negative.fa',False,True)
+        positive_dataset=self.build_dataset(Path(__file__).parent.parent.parent.joinpath('data/positive.fa'),True,True)
+        negative_dataset=self.build_dataset(Path(__file__).parent.parent.parent.joinpath('data/negative.fa'),False,True)
         blast_obj=BlastManager()
         augmented_data=pd.DataFrame()
         for fasta_file in blast_obj.ncbi_results_fasta.iterdir():
             result_dataframe=self.build_dataset(fasta_file,True,False)
             augmented_data=pd.concat([augmented_data,result_dataframe])
         expanded_dataset=pd.concat([positive_dataset,negative_dataset,augmented_data])#merge all into big dataframe
+        expanded_dataset=self.erase_duplicates(expanded_dataset)
         return expanded_dataset #returns df as pd object
 
 

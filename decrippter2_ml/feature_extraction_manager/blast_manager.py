@@ -1,6 +1,6 @@
 ### STILL NEEDS TO BE TESTED
 import os
-from decrippter2_ml_src.feature_extraction_manager.feature_extraction import FeatureExtractor
+from decrippter2_ml.feature_extraction_manager.feature_extraction import FeatureExtractor
 from Bio.Blast import NCBIWWW, NCBIXML
 from Bio import SeqIO
 import time
@@ -32,12 +32,13 @@ class BlastManager(FeatureExtractor):
             file.write(f"{sequence}")
     def jsons_to_fastas(self:Self):
         """Turns all protein entries into multiple fasta files"""
+        self.fasta.mkdir(parents=True,exist_ok=True)
         for __, __, filenames in os.walk(
                 self.json_folder
         ):
             for filename in filenames: #loops through each one of the json files
                 file = (
-                        self.json_folder
+                        str(self.json_folder)+'/'
                         + filename #only json without path
                 )
                 file_dict=self.read_json(file)
@@ -79,17 +80,22 @@ class BlastManager(FeatureExtractor):
         with open(self.ncbi_results.joinpath(f"{acc}.xml")) as xml_file:
             blast_record = NCBIXML.read(xml_file)
         results={}
-        with open(self.ncbi_results_fasta.joinpath(f"{acc}.fa"),'w') as out_fasta:
+        print(f"{acc}.fa")
+        acc_split=acc.split('/')
+        print(acc_split)
+        print(self.ncbi_results_fasta)
+        with open(self.ncbi_results_fasta.joinpath(f"{acc_split[len(acc_split)-1]}.fa"),'w') as out_fasta:
+            print(out_fasta)
             for alignment in blast_record.alignments:
-                print(acc)
-                print(alignment.accession)
+                #print(acc)
+                #print(alignment.accession)
                 accession=alignment.accession
                 for hsp in alignment.hsps:
 
                     id_perc = round((hsp.identities / hsp.align_length) * 100, 2)
                     if id_perc >=50:
-                        out_fasta.write(f">{accession}\n")
-                        out_fasta.write(f"{sequence}\n")
-                        print(hsp.sbjct)
+                        #print(hsp.sbjct)
                         sequence=hsp.sbjct
                         results[accession]=sequence
+                        out_fasta.write(f">{accession}\n")
+                        out_fasta.write(f"{sequence}\n")
