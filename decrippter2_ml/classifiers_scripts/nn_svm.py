@@ -28,7 +28,7 @@ class FeatureExtractor(nn.Module):
         x = self.input(x)
         x = F.relu(self.fc1(x))
         x = self.mid_layer(x)
-        x = self.fc2(x)
+        x = F.relu(self.fc2(x))
         return x  # This is passed to the SVM loss
 
 class SVMLoss(nn.Module):

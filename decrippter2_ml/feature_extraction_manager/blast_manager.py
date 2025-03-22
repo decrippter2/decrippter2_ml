@@ -1,6 +1,6 @@
 ### STILL NEEDS TO BE TESTED
 import os
-from decrippter2_ml.feature_extraction_manager.feature_extraction import FeatureExtractor
+from decrippter2_ml_src.feature_extraction_manager.feature_extraction import FeatureExtractor
 from Bio.Blast import NCBIWWW, NCBIXML
 from Bio import SeqIO
 import time
@@ -20,7 +20,7 @@ class BlastManager(FeatureExtractor):
     fasta: Path = Path(__file__).parent.joinpath("data/fasta")
     ncbi_results_fasta: Path = Path(__file__).parent.joinpath("blast_nr_results_fasta")
 
-    def write_fasta_file(self,filename:str,sequence:str):
+    def write_fasta_file(self:Self,filename:str,sequence:str):
         """Function for fasta writing
 
         Args:
@@ -30,14 +30,14 @@ class BlastManager(FeatureExtractor):
         with open(self.fasta.joinpath(f"{filename}.fa"), "w") as file:
             file.write(f">{filename}\n")
             file.write(f"{sequence}")
-    def jsons_to_fastas(self):
+    def jsons_to_fastas(self:Self):
         """Turns all protein entries into multiple fasta files"""
         for __, __, filenames in os.walk(
-                self.folder_path
+                self.json_folder
         ):
             for filename in filenames: #loops through each one of the json files
                 file = (
-                        self.folder_path
+                        self.json_folder
                         + filename #only json without path
                 )
                 file_dict=self.read_json(file)

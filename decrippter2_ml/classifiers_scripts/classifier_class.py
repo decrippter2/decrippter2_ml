@@ -57,7 +57,11 @@ class BaseClassifier(BaseModel):
 
         label_dict = {'RiPP': 1, 'No_RiPP': 0}
 
-        x_train = torch.tensor(x.values)
+        print(x.dtypes)  # If using pandas DataFrame
+        print(x.values.dtype)  # If using a NumPy array
+
+        x['length'] = x.length.astype(float)
+        x_train = torch.tensor(x.values, dtype=torch.float32)
 
         y_train = torch.tensor(pd.Series(y).map(label_dict).tolist())
 

@@ -1,6 +1,5 @@
 ###STILL NEEDS TO BE TESTED
-from decrippter2_ml.feature_extraction_manager.feature_extraction import FeatureExtractor
-from decrippter2_ml.feature_extraction_manager.blast_manager import BlastManager
+from decrippter2_ml_src import FeatureExtractor, BlastManager
 
 from typing import Self
 import pandas as pd

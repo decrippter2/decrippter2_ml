@@ -1,17 +1,10 @@
 import json
 import logging
 import sys
-from importlib import metadata
 import argparse
 
 import pandas as pd
-
-from download_manager.downloader import DownloadManager
-from feature_extraction_manager.feature_extraction import FeatureExtractor
-from classifiers_scripts.nn import NN_Classifier
-from classifiers_scripts.nn_svm import NN_SVM_Classifier
-from classifiers_scripts.svm import SVM_Classifier
-from data_augmentation.augment_dataset import DataAugmentationManager
+from decrippter2_ml import DownloadManager,FeatureExtractor,NN_Classifier,NN_SVM_Classifier,SVM_Classifier,DataAugmentationManager
 
 def config_logger() -> logging.Logger:
     """Set up a named logger with nice formatting
@@ -19,7 +12,7 @@ def config_logger() -> logging.Logger:
     :return
         A Logger object
     """
-    logger = logging.getLogger("decrippter2_ml")
+    logger = logging.getLogger("decrippter2_ml_src")
     logger.setLevel(logging.DEBUG)
     console_handler = logging.StreamHandler(sys.stdout)
     """
@@ -115,7 +108,8 @@ def main() -> None:
     logger.debug("Starting decRiPPter2...")
 
     args,settings = parse_arguments()
-    if settings['redo'] == True:
+    print(settings)
+    if 'redo' in settings:
         retrain_models()
     else:
         if settings['input_type'] == 'seq':
