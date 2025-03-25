@@ -5,7 +5,6 @@ from torch import nn
 import torch.optim as optim
 import torch.nn.functional as F
 from .classifier_class import BaseClassifier
-from torch.utils.data import DataLoader
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)

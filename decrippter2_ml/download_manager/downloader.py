@@ -1,4 +1,3 @@
-###STILL TO BE TESTED WITH ACTUAL ZENODO RECORD
 from pydantic import BaseModel
 from pathlib import Path
 import logging
@@ -23,14 +22,14 @@ class DownloadManager(BaseModel):
     """
 
     record: str
-    location: Path = Path(__file__).parent.joinpath("data")
-    record: Path = Path(__file__).parent.joinpath("data/record.zip")
-    record_unzip: Path = Path(__file__).parent.joinpath("data/record")
-    version: Path = Path(__file__).parent.joinpath("version.json")
+    location: Path = Path(__file__).parent.parent.joinpath("data")
+    record: Path = Path(__file__).parent.parent.joinpath("data/record.zip")
+    record_unzip: Path = Path(__file__).parent.parent.joinpath("data/record")
+    version: Path = Path(__file__).parent.parent.joinpath("version.json")
 
     def run(self) -> None:
         """Call methods for downloading and moving data"""
-
+        print(self.location)
         if self.location.exists():
             logger.warning(
                 "RiPP data folder already present - skip download. Remove the folder manually if a new version needs to be downloaded."
@@ -86,8 +85,8 @@ class DownloadManager(BaseModel):
         if not self.record_unzip.exists():
             logger.fatal(f"Could not find the unzipped directory {self.record_unzip}.")
             raise NotADirectoryError
-
-        matching_dirs = list(self.record_unzip.glob("decrippter2_ml_json_data"))
+        print(list(self.record_unzip.glob("decrippter2-decrippter2_data-fe73d4b")))
+        matching_dirs = list(self.record_unzip.glob("decrippter2-decrippter2_data-fe73d4b"))
         if not matching_dirs:
             logger.fatal(
                 f"Could not determine data storage location in downloaded directory."
@@ -97,16 +96,10 @@ class DownloadManager(BaseModel):
         subdir = matching_dirs[0]
 
         shutil.move(
-            src=self.record_unzip.joinpath(subdir).joinpath("mite_data/data").resolve(),
-            dst=self.location.resolve(),
+            src=self.record_unzip.joinpath(subdir).joinpath("data").resolve(),
+            dst=self.location.parent.resolve(),
         )
 
-        shutil.move(
-            src=self.record_unzip.joinpath(subdir)
-            .joinpath("mite_data/fasta")
-            .resolve(),
-            dst=self.location.resolve(),
-        )
 
         os.remove(self.record)
         shutil.rmtree(self.record_unzip)

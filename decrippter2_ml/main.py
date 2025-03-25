@@ -25,18 +25,26 @@ def config_logger() -> logging.Logger:
     return logger
 
 def read_fasta(file):
+    """Basic function to read a fasta file
+    """
     with open(file) as fasta:
             fasta_lines=fasta.readlines()
     return fasta_lines
 
 def retrieve_data():
-    #download=DownloadManager()
-    #download.download_data()
-    #download.organize_data()
+    """Retrieves data from Zenodo repository, creating a Downloader object
+
+    Returns:
+        a pd object containing the training dataset
+    """
+    download=DownloadManager(record='15026926')
+    download.run()
     data_augmenter=DataAugmentationManager()
     training_set=data_augmenter.expand_dataset()
     return training_set
 def retrain_models():
+    """Retrains all 5 different models
+    """
     training_set=retrieve_data()
     nn_obj=NN_Classifier(dataset=training_set)
     nn_obj.retrain_model()
@@ -49,6 +57,16 @@ def retrain_models():
     svm_rbf = SVM_Classifier(model_type='rbf', dataset=training_set)
     svm_rbf.retrain_model()
 def run_prediction(fasta_lines,model_type,output_name,logger):
+    """Runs predictions of a sequence or multiple sequences, writes results in
+    JSON format.
+
+    Args:
+        fasta_lines:list, contains all lines from fasta file or single aa sequence
+        model_type: str, specifying model type
+        output_name: str, name of JSON file where to write the results
+        logger: Logger object
+
+    """
     if model_type=='nn':
         model=NN_Classifier()
     elif model_type=='nn_svm_poly3':
@@ -108,7 +126,6 @@ def main() -> None:
     logger.debug("Starting decRiPPter2...")
 
     args,settings = parse_arguments()
-    print(settings)
     if 'redo' in settings:
         retrain_models()
     else:
@@ -117,8 +134,6 @@ def main() -> None:
         else:
             sequence_lines=read_fasta(settings['input'])
         run_prediction(sequence_lines,settings['model_type'],settings['outputname'],logger)
-
-
 
 
 if __name__ == "__main__":

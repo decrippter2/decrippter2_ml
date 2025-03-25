@@ -3,7 +3,6 @@ import contextlib
 
 from numpy import log2
 
-
 class RiPP:
     def __init__(self, sequence):
         self.sequence = sequence

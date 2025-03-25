@@ -8,7 +8,6 @@ import torch.nn.functional as F
 from sklearn.svm import SVC
 import logging
 from .classifier_class import BaseClassifier
-from torch.utils.data import DataLoader
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
@@ -75,7 +74,7 @@ class NN_SVM_Classifier(BaseClassifier):
                 # Compute SVM loss
                 loss = svm_loss_fn(features, labels)
 
-                # Backpropagate through the NN (this optimizes the NN based on SVM performance)
+                # Backpropagate through the NN
                 loss.backward()
                 optimizer.step()
 

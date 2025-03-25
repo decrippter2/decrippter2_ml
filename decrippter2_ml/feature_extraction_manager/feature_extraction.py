@@ -142,7 +142,7 @@ class FeatureExtractor(BaseModel):
         Returns:
             A Pandas dataframe object
         """
-        #self.write_multifasta(fasta_file)
+        self.write_multifasta(fasta_file)
         self.record_ripp(Path(__file__).parent.parent.parent.joinpath('data/positive.fa'))
         dataframe_obj = self.write_dataset(fasta_file, is_ripp, is_validated)
 

@@ -1,4 +1,3 @@
-### STILL NEEDS TO BE TESTED
 import os
 from decrippter2_ml.feature_extraction_manager.feature_extraction import FeatureExtractor
 from Bio.Blast import NCBIWWW, NCBIXML
@@ -87,14 +86,11 @@ class BlastManager(FeatureExtractor):
         with open(self.ncbi_results_fasta.joinpath(f"{acc_split[len(acc_split)-1]}.fa"),'w') as out_fasta:
             print(out_fasta)
             for alignment in blast_record.alignments:
-                #print(acc)
-                #print(alignment.accession)
                 accession=alignment.accession
                 for hsp in alignment.hsps:
 
                     id_perc = round((hsp.identities / hsp.align_length) * 100, 2)
                     if id_perc >=50:
-                        #print(hsp.sbjct)
                         sequence=hsp.sbjct
                         results[accession]=sequence
                         out_fasta.write(f">{accession}\n")

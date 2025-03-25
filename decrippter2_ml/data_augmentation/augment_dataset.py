@@ -1,4 +1,3 @@
-###STILL NEEDS TO BE TESTED
 from decrippter2_ml import FeatureExtractor, BlastManager
 from pathlib import Path
 from typing import Self
@@ -11,8 +10,8 @@ class DataAugmentationManager(FeatureExtractor):
         """Calls BlastManager to perform dataset expansion
         """
         blast_obj=BlastManager()
-        #blast_obj.jsons_to_fastas()
-        #blast_obj.run()
+        blast_obj.jsons_to_fastas()
+        blast_obj.run()
         for xml in blast_obj.ncbi_results.iterdir():
             print(str(xml))
             blast_obj.extract_xml(str(xml)[:-4]) #all xmls file results are converted to multifasta files
@@ -55,7 +54,7 @@ class DataAugmentationManager(FeatureExtractor):
         for fasta_file in blast_obj.ncbi_results_fasta.iterdir():
             result_dataframe=self.build_dataset(fasta_file,True,False)
             augmented_data=pd.concat([augmented_data,result_dataframe])
-        expanded_dataset=pd.concat([positive_dataset,negative_dataset,augmented_data])#merge all into big dataframe
+        expanded_dataset=pd.concat([positive_dataset,negative_dataset,augmented_data]) #merge all into big dataframe
         expanded_dataset=self.erase_duplicates(expanded_dataset)
         return expanded_dataset #returns df as pd object
 
