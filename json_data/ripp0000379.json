@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "ZP_10205116.1",
+            "mibig_acc": "BGC0003045"
+      },
+      "compound_name": [
+            "Rhodanodin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1002/bip.22326"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_167316983.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTQSQETEMDTNENIRSNAQDDVIELSVASVETKGVLPIGNEFMGHAATPGITE",
+                  "leader": [
+                        "MTQSQETEMDTNENIRSNAQDDVIELSVASVETK"
+                  ],
+                  "core": [
+                        "GVLPIGNEFMGHAATPGITE"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

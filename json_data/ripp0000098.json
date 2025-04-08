@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FM877811.1",
+            "mibig_acc": "BGC0000568"
+      },
+      "compound_name": [
+            "microcin B17"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1016/j.jmb.2019.05.050"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAT00699.1",
+                        "uniprot": "B7VF14_ECOLX"
+                  },
+                  "complete": "MELKASEFGVVLSVDALKLSRQSPLGVGIGGGGGGGGGGSCGGQGGGCGGCSNGCSGGNGGSGGSGSHI",
+                  "leader": [
+                        "MELKASEFGVVLSVDALKLSRQSPLG"
+                  ],
+                  "core": [
+                        "VGIGGGGGGGGGGSCGGQGGGCGGCSNGCSGGNGGSGGSGSHI"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

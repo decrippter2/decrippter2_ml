@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_GL905390.1",
+            "mibig_acc": "BGC0002306"
+      },
+      "compound_name": [
+            "freyrasin"
+      ],
+      "ripp_class": "Ranthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.9b00457"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_019688961.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MLKQINVIAGVKEPIRAYGCSANDACYFCDTRDNCKACDASDFCIKSDT",
+                  "leader": [
+                        "MLKQINVIAGVKEPIRAY"
+                  ],
+                  "core": [
+                        "GCSANDACYFCDTRDNCKACDASDFCIKSDT"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

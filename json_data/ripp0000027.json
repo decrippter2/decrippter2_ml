@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FJ547091.1",
+            "mibig_acc": "BGC0000495"
+      },
+      "compound_name": [
+            "actagardine"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1111/j.1365-2958.2009.06708.x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACR33052.1",
+                        "uniprot": "LANA_ACTGA"
+                  },
+                  "complete": "MSALAIEKSWKDVDLRDGATSHPAGLGFGELTFEDLREDRTIYAASSGWVCTLTIECGTVICAC",
+                  "leader": [
+                        "MSALAIEKSWKDVDLRDGATSHPAGLGFGELTFEDLREDRTIYAA"
+                  ],
+                  "core": [
+                        "SSGWVCTLTIECGTVICAC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

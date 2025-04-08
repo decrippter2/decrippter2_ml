@@ -1,0 +1,47 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KT934325.1",
+            "mibig_acc": "BGC0001289"
+      },
+      "compound_name": [
+            "penisin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AAC.01813-15"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ALR96369.1",
+                        "uniprot": "A0A0U2SSJ0_9BACL"
+                  },
+                  "complete": "MANNVFDLDVEVKSVNSVNQNIGLFTSTCFSSQCFSSKCFTDTCFSSNCFTGRHQCGYTHGSC",
+                  "leader": [
+                        "MANNVFDLDVEVKSVNSVNQ"
+                  ],
+                  "core": [
+                        "NIGLFTSTCFSSQCFSSKCFTDTCFSSNCFTGRHQCGYTHGSC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ALR96377.1",
+                        "uniprot": "A0A0U2T761_9BACL"
+                  },
+                  "complete": "MANNNFDLDVQVKSVNSVNANFGLYTSQCYSSQCYSSKCYSDSCYSSDCYTGRHMCGYTHGYSC",
+                  "leader": [
+                        "MANNNFDLDVQVKSVNSVNA"
+                  ],
+                  "core": [
+                        "NFGLYTSQCYSSQCYSSKCYSDSCYSSDCYTGRHMCGYTHGYSC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

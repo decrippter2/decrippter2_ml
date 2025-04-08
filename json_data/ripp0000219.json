@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_ANAC01000010.1",
+            "mibig_acc": "BGC0001655"
+      },
+      "compound_name": [
+            "LP2006"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.2319"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_014911574.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDEEKIGNEISAYETPTVTEMGAFSEVTLGRPNWGFENDWSCVRVC",
+                  "leader": [
+                        "MDEEKIGNEISAYETPTVTEMGAFSEVTL"
+                  ],
+                  "core": [
+                        "GRPNWGFENDWSCVRVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

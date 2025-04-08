@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MN602039.1",
+            "mibig_acc": "BGC0002323"
+      },
+      "compound_name": [
+            "nisin J"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/jb.00639-19"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QGN18867.1",
+                        "uniprot": "A0A650A8S0_STACP"
+                  },
+                  "complete": "MNNQFNLKSKSANVSGSKGNNLETRITSKSLCTPGCKTGALQTCFAKTATCHCSGHVHTK",
+                  "leader": [
+                        "MNNQFNLKSKSANVSGSKGNNLETR"
+                  ],
+                  "core": [
+                        "ITSKSLCTPGCKTGALQTCFAKTATCHCSGHVHTK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

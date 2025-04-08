@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "DQ835394.1",
+            "mibig_acc": "BGC0000526"
+      },
+      "compound_name": [
+            "macedocin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1111/j.1574-6968.2007.00740.x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABI30226.1",
+                        "uniprot": "A6MER0_STRMC"
+                  },
+                  "complete": "MEKETTIIESIQEVSLEELDQIIGAGKNGVFKTISHECHLNTWAFLATCCS",
+                  "leader": [
+                        "MEKETTIIESIQEVSLEELDQIIGA"
+                  ],
+                  "core": [
+                        "GKNGVFKTISHECHLNTWAFLATCCS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

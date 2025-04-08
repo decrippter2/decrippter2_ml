@@ -1,0 +1,65 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP002008.1",
+            "mibig_acc": "BGC0000574"
+      },
+      "compound_name": [
+            "caulosegnin I",
+            "caulosegnin II",
+            "caulosegnin III"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/ja308173b"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ADG11020.1",
+                        "uniprot": "D5VKJ7_CAUST"
+                  },
+                  "complete": "MTSRFQLLRLGKADRLTRGALVGLLLEDITVARYDPM",
+                  "leader": [
+                        "MTSRFQLLRLGKADRLTR"
+                  ],
+                  "core": [
+                        "GALVGLLLEDITVARYDPM"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ADG11021.1",
+                        "uniprot": "D5VKJ8_CAUST"
+                  },
+                  "complete": "MTKTHRLIRLGDAQRLTQGTLTPGLPEDFLPGHYMPG",
+                  "leader": [
+                        "MTKTHRLIRLGDAQRLTQ"
+                  ],
+                  "core": [
+                        "GTLTPGLPEDFLPGHYMPG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ADG11022.1",
+                        "uniprot": "D5VKJ9_CAUST"
+                  },
+                  "complete": "MTKKNATQAPRLVRVGDAHRLTQGAFVGQPEAVNPLGREIQG",
+                  "leader": [
+                        "MTKKNATQAPRLVRVGDAHRLTQ"
+                  ],
+                  "core": [
+                        "GAFVGQPEAVNPLGREIQG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

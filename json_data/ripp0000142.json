@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AE016877.1",
+            "mibig_acc": "BGC0000612"
+      },
+      "compound_name": [
+            "thiocillin I"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1073/pnas.0900008106"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAP11956.1",
+                        "uniprot": "THCL_BACCR"
+                  },
+                  "complete": "MSEIKKALNTLEIEDFDAIEMVDVDAMPENEALEIMGASCTTCVCTCSCCTT",
+                  "leader": [
+                        "MSEIKKALNTLEIEDFDAIEMVDVDAMPENEALEIMGA"
+                  ],
+                  "core": [
+                        "SCTTCVCTCSCCTT"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

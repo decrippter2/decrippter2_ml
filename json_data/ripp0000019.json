@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EU624394.2",
+            "mibig_acc": "BGC0000487"
+      },
+      "compound_name": [
+            "carnocyclin"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.00817-08"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACC93994.1",
+                        "uniprot": "CCLA_CARML"
+                  },
+                  "complete": "MLYELVAYGIAQGTAEKVVSLINAGLTVGSIISILGGVTVGLSGVFTAVKAAIAKQGIKKAIQL",
+                  "leader": [
+                        "MLYE"
+                  ],
+                  "core": [
+                        "LVAYGIAQGTAEKVVSLINAGLTVGSIISILGGVTVGLSGVFTAVKAAIAKQGIKKAIQL"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

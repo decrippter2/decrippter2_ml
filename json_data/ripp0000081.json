@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AL645882.2",
+            "mibig_acc": "BGC0000551"
+      },
+      "compound_name": [
+            "SapB"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1073/pnas.0404220101"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAA19961.1",
+                        "uniprot": "LANSB_STRCO"
+                  },
+                  "complete": "MNLFDLQSMETPKEEAMGDVETGSRASLLLCGDSSLSITTCN",
+                  "leader": [
+                        "MNLFDLQSMETPKEEAMGDVE"
+                  ],
+                  "core": [
+                        "TGSRASLLLCGDSSLSITTCN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

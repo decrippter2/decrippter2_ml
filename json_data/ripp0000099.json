@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FN668567.1",
+            "mibig_acc": "BGC0000569"
+      },
+      "compound_name": [
+            "plantazolicin"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1128/jb.00784-10"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CBJ61635.1",
+                        "uniprot": "PZNA_BACVZ"
+                  },
+                  "complete": "MTQIKVPTALIASVHGEGQHLFEPMAARCTCTTIISSSSTF",
+                  "leader": [
+                        "MTQIKVPTALIASVHGEGQHLFEPMAA"
+                  ],
+                  "core": [
+                        "RCTCTTIISSSSTF"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

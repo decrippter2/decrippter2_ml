@@ -1,0 +1,65 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LT629770.1",
+            "mibig_acc": "BGC0002909"
+      },
+      "compound_name": [
+            "Daptide 1",
+            "Daptide 2",
+            "Daptide 3"
+      ],
+      "ripp_class": "other",
+      "ref": [
+            "https://doi.org/10.1038/s41467-023-37287-1"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "SDS17660.1",
+                        "uniprot": "A0A1H1Q2N7_9MICO"
+                  },
+                  "complete": "MNESTEMSIRFQELDPMEAPSWDSFYQGVIGALVLIGIGAAAAT",
+                  "leader": [
+                        "MNESTEMSIRFQELDPMEAP"
+                  ],
+                  "core": [
+                        "SWDSFYQGVIGALVLIGIGAAAAT"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "SDS17633.1",
+                        "uniprot": "A0A1H1Q2Q8_9MICO"
+                  },
+                  "complete": "MNAALPALEFTELEAMDAPGDADDYIRGFAVGVIIGILALT",
+                  "leader": [
+                        "MNAALPALEFTELEAMDAP"
+                  ],
+                  "core": [
+                        "GDADDYIRGFAVGVIIGILALT"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "SDS17589.1",
+                        "uniprot": "A0A1H1Q3M9_9MICO"
+                  },
+                  "complete": "MQSTSLEFLELEQIDTPLEWWEHASYIIAIIGGAAAIAT",
+                  "leader": [
+                        "MQSTSLEFLELEQIDTP"
+                  ],
+                  "core": [
+                        "LEWWEHASYIIAIIGGAAAIAT"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

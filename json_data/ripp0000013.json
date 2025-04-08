@@ -1,0 +1,33 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EU290741.1",
+            "mibig_acc": "BGC0000480"
+      },
+      "compound_name": [
+            "tenuecyclamide A",
+            "tenuecyclamide C"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.84"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACA04484.1",
+                        "uniprot": "B2KYG2_9NOSO"
+                  },
+                  "complete": "MDKKNILPQQGKPVIRITTGQLPSFLAELSEEALGDAGVGASATGCMCAYDGAGASATGCMCAYDGAGASATACACAYDGAGASATACACAYE",
+                  "leader": [
+                        "MDKKNILPQQGKPVIRITTGQLPSFLAELSEEALGDAGVGAS"
+                  ],
+                  "core": [
+                        "ATGCMC",
+                        "ATACAC"
+                  ],
+                  "follower": [
+                        "AYE"
+                  ]
+            }
+      ]
+}

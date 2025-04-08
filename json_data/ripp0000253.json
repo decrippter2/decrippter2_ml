@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_KQ947987.1",
+            "mibig_acc": "BGC0002013"
+      },
+      "compound_name": [
+            "curacozole"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1038/s41429-018-0105-4"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_107116988.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MFENTTAEIEEVDIEVGFIIGSTCCSLEMEEDDLDVAAEETEAV",
+                  "leader": [
+                        "MFENTTAEIEEVDIEVG"
+                  ],
+                  "core": [
+                        "FIIGSTCC"
+                  ],
+                  "follower": [
+                        "SLEMEEDDLDVAAEETEAV"
+                  ]
+            }
+      ]
+}

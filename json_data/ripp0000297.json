@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LGKJ01000112.1",
+            "mibig_acc": "BGC0002560"
+      },
+      "compound_name": [
+            "thiostreptamide S4"
+      ],
+      "ripp_class": "Thioamitide",
+      "ref": [
+            "https://doi.org/10.1039/d0sc06835g"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_107418454.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSETTTAAQVDEVAFSDLVSKIKEAELAMTDEQRAVIDPAAGEKALEELAGVSPEDLQAFLEEKAGISPDEEAQGSVMAAIATVAYHC",
+                  "leader": [
+                        "MSETTTAAQVDEVAFSDLVSKIKEAELAMTDEQRAVIDPAAGEKALEELAGVSPEDLQAFLEEKAGISPDEEAQG"
+                  ],
+                  "core": [
+                        "SVMAAIATVAYHC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

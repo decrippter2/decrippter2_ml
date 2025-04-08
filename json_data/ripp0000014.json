@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EU290744.1",
+            "mibig_acc": "BGC0000482"
+      },
+      "compound_name": [
+            "trunkamide"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.84"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACA04496.1",
+                        "uniprot": "B2KYH4_9PROC"
+                  },
+                  "complete": "MNKKNILPQLGQPVIRLTAGQLSSQLAELSEEALGGVDASTSIAPFCSYDGVDASTSIAPFCSYDGVDASTSIAPFCSYDD",
+                  "leader": [
+                        "MNKKNILPQLGQPVIRLTAGQLSSQLAELSEEALGGVDAS"
+                  ],
+                  "core": [
+                        "TSIAPFC"
+                  ],
+                  "follower": [
+                        "SYDD"
+                  ]
+            }
+      ]
+}

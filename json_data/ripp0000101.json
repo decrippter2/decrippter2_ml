@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FR687359.1",
+            "mibig_acc": "BGC0000571"
+      },
+      "compound_name": [
+            "burhizin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.9b00805"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CBW74826.1",
+                        "uniprot": "E5AQE4_MYCRK"
+                  },
+                  "complete": "MNKQQQESGLLLAEESLMELCASSETLGGAGQYKEVEAGRWSDRIDSDDE",
+                  "leader": [
+                        "MNKQQQESGLLLAEESLMELCASSETL"
+                  ],
+                  "core": [
+                        "GGAGQYKEVEAGRWSDRIDSDDE"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

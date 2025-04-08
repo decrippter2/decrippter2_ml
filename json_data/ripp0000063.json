@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AF154675.1",
+            "mibig_acc": "BGC0000533"
+      },
+      "compound_name": [
+            "mutacin III"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.65.9.3880-3887.1999"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAD56142.1",
+                        "uniprot": "LANN_STRMG"
+                  },
+                  "complete": "MSNTQLLEVLGTETFDVQEDLFAFDTTDTTIVASNDDPDTRFKSWSLCTPGCARTGSFNSYCC",
+                  "leader": [
+                        "MSNTQLLEVLGTETFDVQEDLFAFDTTDTTIVASNDDPDTR"
+                  ],
+                  "core": [
+                        "FKSWSLCTPGCARTGSFNSYCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MH037333.1",
+            "mibig_acc": "BGC0002447"
+      },
+      "compound_name": [
+            "cerecyclin"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1128/msystems.00047-20"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QBY34566.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MLFNVVSKLGWTGINIGTANALIGALMTGSDIWTAISVAGLAFGGGIGTAISTIGRKAIMEMVEKVGKKKAAQW",
+                  "leader": [
+                        "MLFN"
+                  ],
+                  "core": [
+                        "VVSKLGWTGINIGTANALIGALMTGSDIWTAISVAGLAFGGGIGTAISTIGRKAIMEMVEKVGKKKAAQW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

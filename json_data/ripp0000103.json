@@ -1,0 +1,48 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP000928.1",
+            "mibig_acc": "BGC0000573"
+      },
+      "compound_name": [
+            "caulonodin I",
+            "caulonodin II"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1002/bip.22326"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABZ74313.1",
+                        "uniprot": "B0T9D8_CAUSK"
+                  },
+                  "complete": "MQRIIDETTDGLIELGAASVQTQGDVLFAPEPGVGRPPMGLSED",
+                  "leader": [
+                        "MQRIIDETTDGLIELGAASVQTQ"
+                  ],
+                  "core": [
+                        "GDVLFAPEPGVGRPPMGLSED"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ABZ74314.1",
+                        "uniprot": "B0T9D9_CAUSK"
+                  },
+                  "complete": "MERIEDHIDDELIDLGAASVETQGDVLNAPEPGIGREPTGLSRD",
+                  "leader": [
+                        "MERIEDHIDDELIDLGAASVETQ"
+                  ],
+                  "core": [
+                        "GDVLNAPEPGIGREPTGLSRD"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

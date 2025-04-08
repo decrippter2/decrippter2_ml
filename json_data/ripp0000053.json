@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB740019.1",
+            "mibig_acc": "BGC0000522"
+      },
+      "compound_name": [
+            "lacticin Z"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1099/mic.0.062943-0"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAM73616.1",
+                        "uniprot": "A7M6Q0_9LACT"
+                  },
+                  "complete": "MAGFLKVVQILAKYGSKAVQWAWANKGKILDWINAGQAIDWVVEKIKQILGIK",
+                  "leader": [
+                        "TBA"
+                  ],
+                  "core": [
+                        "TBA"
+                  ],
+                  "follower": [
+                        "TBA"
+                  ]
+            }
+      ]
+}

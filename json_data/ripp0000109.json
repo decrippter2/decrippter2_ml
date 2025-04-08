@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_CM000951.1",
+            "mibig_acc": "BGC0000579"
+      },
+      "compound_name": [
+            "SSV-2083"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.684"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_106433542.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTSTDELYEAPELIEIGDYAELTRCVWGGDCTDFLGCGTAWICV",
+                  "leader": [
+                        "MTSTDELYEAPELIEIGDYAELTR"
+                  ],
+                  "core": [
+                        "CVWGGDCTDFLGCGTAWICV"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

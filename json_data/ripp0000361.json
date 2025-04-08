@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_UGRN01000001.1",
+            "mibig_acc": "BGC0002967"
+      },
+      "compound_name": [
+            "Triceptide (YhhB) note: structure show here was a trypsin digested fragment"
+      ],
+      "ripp_class": "other",
+      "ref": [
+            "https://doi.org/10.1021/jacs.2c00521"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_003713099.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MLNKNHSVDQKMPINHPLLSRLIKEVENEQKTAMMFKYDRTHNRHNRGQ",
+                  "leader": [
+                        "MLNKNHSVDQKMPINHPLLSRLIKEVENEQKTAMMFK"
+                  ],
+                  "core": [
+                        "YDRTHNRHNRGQ"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

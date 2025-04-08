@@ -1,0 +1,14 @@
+name: decrippter2
+channels:
+  - conda-forge
+  - pypi
+  - bioconda
+dependencies:
+  - python=3.13
+  - pandas
+  - pydantic
+  - requests
+  - pytorch
+  - scikit-learn
+  - biopython
+  - peptides

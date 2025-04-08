@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FIZY01000027.1",
+            "mibig_acc": "BGC0002382"
+      },
+      "compound_name": [
+            "grimoviridin"
+      ],
+      "ripp_class": "Graspetide",
+      "ref": [
+            "https://doi.org/10.1007/s00253-020-10605-z"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CZF84009.1",
+                        "uniprot": "A0A128FB35_9GAMM"
+                  },
+                  "complete": "MDKNTPFFSNFIEADTITKEEANQISGGWNFPNEIATRKAPSDDDEGFSSSAIVFPTDELPALPELS",
+                  "leader": [
+                        "MDKNTPFFSNFIEADTITKEEANQISGGWNFPNE"
+                  ],
+                  "core": [
+                        "IATRKAPSDDDEGFS"
+                  ],
+                  "follower": [
+                        "SSAIVFPTDELPALPELS"
+                  ]
+            }
+      ]
+}

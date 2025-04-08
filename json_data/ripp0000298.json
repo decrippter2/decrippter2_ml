@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FIHN01000001.1",
+            "mibig_acc": "BGC0002575"
+      },
+      "compound_name": [
+            "cochonodin I"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acs.jnatprod.1c00514"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CYV09633.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNYTKPVIEKISTFKNGTAGLVAGSFRDIFGGRALFLIRI",
+                  "leader": [
+                        "MNYTKPVIEKISTFKNGTA"
+                  ],
+                  "core": [
+                        "GLVAGSFRDIFGGRALFLIRI"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

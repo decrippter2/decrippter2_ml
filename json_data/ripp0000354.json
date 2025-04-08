@@ -1,0 +1,32 @@
+{
+      "identifiers": {
+            "ncbi_acc": "OP675477.1",
+            "mibig_acc": "BGC0002934"
+      },
+      "compound_name": [
+            "Myxococin A",
+            "Myxococin B"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://dx.doi.org/10.1021/jacs.3c06014"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WOF00480.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNANTNLNDVVGTSQISDEELETVTGGLEGGHALLATTTTTQNSCSCPATTDAKDGGCACSC",
+                  "leader": [
+                        "MNANTNLNDVVGTSQISDEELETVTGG"
+                  ],
+                  "core": [
+                        "LEGGHALLATTTTTQNSCSCPATTDAKDGGCACSC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

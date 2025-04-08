@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JX827389.1",
+            "mibig_acc": "BGC0000470"
+      },
+      "compound_name": [
+            "bottromycin D"
+      ],
+      "ripp_class": "Bottromycin",
+      "ref": [
+            "https://doi.org/10.1021/ol3022758"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AFU90404.1",
+                        "uniprot": "BSTA_STRSQ"
+                  },
+                  "complete": "MGPAVVFDCMTADFLNDDPNNAELSSLEMEELESWGAWSDDTDQSV",
+                  "leader": [
+                        "M"
+                  ],
+                  "core": [
+                        "GPAVVFDC"
+                  ],
+                  "follower": [
+                        "MTADFLNDDPNNAELSSLEMEELESWGAWSDDTDQSV"
+                  ]
+            }
+      ]
+}

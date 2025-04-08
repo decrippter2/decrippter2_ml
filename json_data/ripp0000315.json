@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP047260.1",
+            "mibig_acc": "BGC0002665"
+      },
+      "compound_name": [
+            "3-thiaglutamate"
+      ],
+      "ripp_class": "Pearlin",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.2c00087"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_007252214.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MGQPNVQSVENQQASGDVKDLENTPQATEEALFEEFDLDDIEVIESKVFA",
+                  "leader": [
+                        ""
+                  ],
+                  "core": [
+                        "MGQPNVQSVENQQASGDVKDLENTPQATEEALFEEFDLDDIEVIESKVFA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

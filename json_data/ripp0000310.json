@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "OL539738.1",
+            "mibig_acc": "BGC0002631"
+      },
+      "compound_name": [
+            "Myxarylin"
+      ],
+      "ripp_class": "Cyptide",
+      "ref": [
+            "https://doi.org/10.3390/molecules26247483"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "UID85535.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNYLH",
+                  "leader": [
+                        "MN"
+                  ],
+                  "core": [
+                        "YLH"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

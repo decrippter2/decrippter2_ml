@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FQ859185.1",
+            "mibig_acc": "BGC0001539"
+      },
+      "compound_name": [
+            "cattlecin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1007/s13765-017-0268-x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CCB72812.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTESIEAYEPPMLVEVGSFAELTRSYHWGDYHDWHHGWYGWWDD",
+                  "leader": [
+                        "MTESIEAYEPPMLVEVGSFAELTR"
+                  ],
+                  "core": [
+                        "SYHWGDYHDWHHGWYGWWDD"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

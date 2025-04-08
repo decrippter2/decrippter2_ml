@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "HM219853.1",
+            "mibig_acc": "BGC0000535"
+      },
+      "compound_name": [
+            "nisin A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.foodchem.2011.01.023"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ADJ56352.1",
+                        "uniprot": "Q45RP0_LACLL"
+                  },
+                  "complete": "MSTKDFNLDLVSVSKKDSGASPRITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK",
+                  "leader": [
+                        "MSTKDFNLDLVSVSKKDSGASPR"
+                  ],
+                  "core": [
+                        "ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,32 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_JBEZAH010000019.1",
+            "mibig_acc": "BGC0003116"
+      },
+      "compound_name": [
+            "Varsorubin B2a",
+            "Varsorubin B1"
+      ],
+      "ripp_class": "Cyptide",
+      "ref": [
+            "https://doi.org/10.1039/D4SC03469D"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_362161288.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEEFMKLVHLVNKFRSEKSLKAYSWYQWL",
+                  "leader": [
+                        "MEEFMKLVHLVNKFRSEKSLKAYS"
+                  ],
+                  "core": [
+                        "WYQWL"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

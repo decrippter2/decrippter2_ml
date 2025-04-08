@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "HQ328852.1",
+            "mibig_acc": "BGC0000563"
+      },
+      "compound_name": [
+            "venezuelin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1371/journal.pbio.1000339"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AEA03263.1",
+                        "uniprot": "F2R8J0_STRVP"
+                  },
+                  "complete": "MENHDIELLAHLHALPETDPVGVDGAPFAATCECVGLLTLLNTVCIGISCA",
+                  "leader": [
+                        "MENHDIELLAHLHALPETDPVGVDGAPFA"
+                  ],
+                  "core": [
+                        "ATCECVGLLTLLNTVCIGISCA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

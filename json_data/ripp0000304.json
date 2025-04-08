@@ -1,0 +1,34 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KT336319.1",
+            "mibig_acc": "BGC0002584"
+      },
+      "compound_name": [
+            "azolemycin B",
+            "azolemycin A",
+            "azolemycin D",
+            "azolemycin C"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1039/C5SC03021H"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AMQ23504.1",
+                        "uniprot": "A0A142D835_9ACTN"
+                  },
+                  "complete": "MTGFARPHFHGTGPNTPLSGPSSGRDRIRIRSTGDSPVIDNDLFEEMAIQEPEAVVVSTCTIKMDEDIEETQ",
+                  "leader": [
+                        "MTGFARPHFHGTGPNTPLSGPSSGRDRIRIRSTGDSPVIDNDLFEEMAIQEPEAV"
+                  ],
+                  "core": [
+                        "VVSTCTI"
+                  ],
+                  "follower": [
+                        "KMDEDIEETQ"
+                  ]
+            }
+      ]
+}

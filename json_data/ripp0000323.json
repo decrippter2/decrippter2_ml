@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_NDGK01000036.1",
+            "mibig_acc": "BGC0002701"
+      },
+      "compound_name": [
+            "paenithipeptin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41467-022-29325-1"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_187144231.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNAVLELQKLAHDTDGKGQAADAGITTIITICSVLSVYKCC",
+                  "leader": [
+                        "MNAVLELQKLAHDTDGKGQAAD"
+                  ],
+                  "core": [
+                        "AGITTIITICSVLSVYKCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

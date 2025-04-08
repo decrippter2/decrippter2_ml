@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP000480.1",
+            "mibig_acc": "BGC0002910"
+      },
+      "compound_name": [
+            "Mycofactocinone-8"
+      ],
+      "ripp_class": "Mycofactocin",
+      "ref": [
+            "http://dx.doi.org/10.1039/D0SC01172J"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABK75244.1",
+                        "uniprot": "MFTA_MYCS2"
+                  },
+                  "complete": "MPYICDLDHNCRDHTRRKGVHMEPNQHVEAETELVTETLVEEVSIDGMCGVY",
+                  "leader": [
+                        "MPYICDLDHNCRDHTRRKGVHMEPNQHVEAETELVTETLVEEVSIDGMCG"
+                  ],
+                  "core": [
+                        "VY"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

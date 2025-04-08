@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP001874.1",
+            "mibig_acc": "BGC0001860"
+      },
+      "compound_name": [
+            "thiomuracin"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1021/jacs.6b08987"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ADG87276.1",
+                        "uniprot": "D6Y501_THEBD"
+                  },
+                  "complete": "MDLNDLPMDVFELADSGVAVESLTAGHGMTEVGASCNCFCYICCSCSSA",
+                  "leader": [
+                        "MDLNDLPMDVFELADSGVAVESLTAGHGMTEVGA"
+                  ],
+                  "core": [
+                        "SCNCFCYICCSCSSA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

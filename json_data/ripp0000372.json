@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KQ950181.1",
+            "mibig_acc": "BGC0003021"
+      },
+      "compound_name": [
+            "Cellulonodin-2"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/jacs.1c05017"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "UPT23380.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDEEIYQPPELVELGDAREVTLGAADDDTADMNTAKYY",
+                  "leader": [
+                        "MDEEIYQPPELVELGDAREVTL"
+                  ],
+                  "core": [
+                        "GAADDDTADMNTAKYY"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

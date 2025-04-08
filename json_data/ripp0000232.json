@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JRVC01000028.1",
+            "mibig_acc": "BGC0001786"
+      },
+      "compound_name": [
+            "subterisin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1016/j.tetlet.2017.07.064"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "KHS42581.1",
+                        "uniprot": "A0A0B8ZWE6_9SPHN"
+                  },
+                  "complete": "MERTFDLVEDVEDLGTASIETLGPPGDRIEFGVLAQLPGLDRD",
+                  "leader": [
+                        "MERTFDLVEDVEDLGTASIETL"
+                  ],
+                  "core": [
+                        "GPPGDRIEFGVLAQLPGLDRD"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

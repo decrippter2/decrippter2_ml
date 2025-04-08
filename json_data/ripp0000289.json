@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MK251553.1",
+            "mibig_acc": "BGC0002346"
+      },
+      "compound_name": [
+            "kyamicin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.01876-19"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QDF63358.1",
+                        "uniprot": "A0A4Y6I280_9PSEU"
+                  },
+                  "complete": "MSDTILRQAVIDAEFRSALIADPAAFGVEPAELPDAVEAVDQESLDFWTKGIAANEVVACASTCSAGPFTFACDGSTK",
+                  "leader": [
+                        "MSDTILRQAVIDAEFRSALIADPAAFGVEPAELPDAVEAVDQESLDFWTKGIAANEVVA"
+                  ],
+                  "core": [
+                        "CASTCSAGPFTFACDGSTK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

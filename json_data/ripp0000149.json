@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB710328.1",
+            "mibig_acc": "BGC0000619"
+      },
+      "compound_name": [
+            "gassericin T"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1128/AEM.02815-18"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAM09405.1",
+                        "uniprot": "Q9XDR7_LACGS"
+                  },
+                  "complete": "MKNFNTLSFETLANIVGGRNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK",
+                  "leader": [
+                        "MKNFNTLSFETLANIVGG"
+                  ],
+                  "core": [
+                        "RNNWAANIGGVGGATVAGWALGNAVCGPACGFVGAHYVPIAWAGVTAATGGFGKIRK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

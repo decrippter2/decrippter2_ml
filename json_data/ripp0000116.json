@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AF063590.3",
+            "mibig_acc": "BGC0000586"
+      },
+      "compound_name": [
+            "microcin E492"
+      ],
+      "ripp_class": "Microcin",
+      "ref": [
+            "https://doi.org/10.1128/jb.181.1.212-217.1999"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAD04332.2",
+                        "uniprot": "MCEA_KLEPN"
+                  },
+                  "complete": "MREISQKDLNLAFGAGETDPNTQLLNDLGNNMAWGAALGAPGGLGSAALGAAGGALQTVGQGLIDHGPVNVPIPVLIGPSWNGSGSGYNSATSSSGSGS",
+                  "leader": [
+                        "MREISQKDLNLAFGA"
+                  ],
+                  "core": [
+                        "GETDPNTQLLNDLGNNMAWGAALGAPGGLGSAALGAAGGALQTVGQGLIDHGPVNVPIPVLIGPSWNGSGSGYNSATSSSGSGS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

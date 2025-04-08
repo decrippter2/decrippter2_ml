@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_ML974127.1",
+            "mibig_acc": "BGC0002703"
+      },
+      "compound_name": [
+            "archalan a"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://dx.doi.org/10.21203/rs.3.rs-1476892/v1"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_162224177.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSVAIEADAGSKEQYDSEFTVETTEDVPEQEAGHRDGCGFTCSPFSSW",
+                  "leader": [
+                        "MSVAIEADAGSKEQYDSEFTVETTEDVPEQEAGHRD"
+                  ],
+                  "core": [
+                        "GCGFTCSPFSSW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

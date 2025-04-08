@@ -1,0 +1,32 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP001038.1",
+            "mibig_acc": "BGC0002699"
+      },
+      "compound_name": [
+            "nostolysamide A",
+            "nostolysamide B"
+      ],
+      "ripp_class": "Proteusin",
+      "ref": [
+            "https://doi.org/10.1073/pnas.2113120119"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_067772729.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNNSNLQNFYTLIQNSQELQAQLGAADSPESFAETAVRLGEENGYSFTTEDVNTFISQQRSRANAELSEADLEAVAGGKRRECPSDTRFTFCVFVSSCWGSAC",
+                  "leader": [
+                        "MNNSNLQNFYTLIQNSQELQAQLGAADSPESFAETAVRLGEENGYSFTTEDVNTFISQQRSRANAELSEADLEAVAGG"
+                  ],
+                  "core": [
+                        "KRRECPSDTRFTFCVFVSSCWGSAC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

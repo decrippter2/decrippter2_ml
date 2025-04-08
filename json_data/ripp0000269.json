@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_AMCP01000684.1",
+            "mibig_acc": "BGC0002144"
+      },
+      "compound_name": [
+            "phazolicin"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://www.ncbi.nlm.nih.gov/pubmed/31594941"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_164841440.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MTTQILNPPQFGTEIEFVDAGDSTVQTAATCARCDSSSRCGASGKSSGSASSIST",
+                  "leader": [
+                        "MTTQILNPPQFGTEIEFVDAGDSTVQTA"
+                  ],
+                  "core": [
+                        "ATCARCDSSSRCGASGKSSGSASSIST"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

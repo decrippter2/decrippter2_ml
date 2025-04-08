@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AF076529.2",
+            "mibig_acc": "BGC0000486"
+      },
+      "compound_name": [
+            "butyrivibriocin AR10"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1016/j.tim.2011.04.004"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAC69560.1",
+                        "uniprot": "Q9ZGP5_BUTFI"
+                  },
+                  "complete": "MSKKQIMSNCISIALLIALIPNIYFIADKMGIQLAPAWYQDIVNWVSAGGTLTTGFAIIVGVTVPAWIAEAAAAFGIASA",
+                  "leader": [
+                        "MSKKQIMSNCISIALLIALIPN"
+                  ],
+                  "core": [
+                        "IYFIADKMGIQLAPAWYQDIVNWVSAGGTLTTGFAIIVGVTVPAWIAEAAAAFGIASA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

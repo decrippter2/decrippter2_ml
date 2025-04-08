@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FONR01000003.1",
+            "mibig_acc": "BGC0001674"
+      },
+      "compound_name": [
+            "MS-271"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1002/cbic.201800315"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_103079660.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW",
+                  "leader": [
+                        "MSAIYEPPMLQEVGDFEELTK"
+                  ],
+                  "core": [
+                        "CLGVGSCNDFAGCGYAIVCFW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

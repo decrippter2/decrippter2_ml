@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP071595.1",
+            "mibig_acc": "BGC0002151"
+      },
+      "compound_name": [
+            "alboverticillin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acs.jnatprod.2c00065"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QSY49196.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSKKSKPGDGIRGKGVRGRFMFMDETPEAEATTSIRDSLADLAETLESEARK",
+                  "leader": [
+                        "M"
+                  ],
+                  "core": [
+                        "SKKSKPGDGIRGKGVRG"
+                  ],
+                  "follower": [
+                        "RFMFMDETPEAEATTSIRDSLADLAETLESEARK"
+                  ]
+            }
+      ]
+}

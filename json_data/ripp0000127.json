@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_GG753626.1",
+            "mibig_acc": "BGC0000597"
+      },
+      "compound_name": [
+            "SWA-2138"
+      ],
+      "ripp_class": "Proteusin",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.684"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "POX53806.1",
+                        "uniprot": "A0A2S4YY04_9ACTN"
+                  },
+                  "complete": "MQTVVARMSHMFTARRSTIMNLITDVLAGLVHFIGWLV",
+                  "leader": [
+                        "MQTVVARMSHMFTARRSTI"
+                  ],
+                  "core": [
+                        "MNLITDVLAGLVHFIGWLV"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

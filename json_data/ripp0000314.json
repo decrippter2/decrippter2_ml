@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP006058.1",
+            "mibig_acc": "BGC0002663"
+      },
+      "compound_name": [
+            "amyloliquecidin GF610"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://dx.doi.org/10.1111/jam.15290"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AMQ71638.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSIIETWKNPALRMNSQVVNPAGDLMEELSDDEMEMLAGGCAWYDISCKLGNKGAWCTLTVECQSSCN",
+                  "leader": [
+                        "MSIIETWKNPALRMNSQVVNPAGDLMEELSDDEMEMLAGG"
+                  ],
+                  "core": [
+                        "CAWYDISCKLGNKGAWCTLTVECQSSCN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "Z49865.1",
+            "mibig_acc": "BGC0000543"
+      },
+      "compound_name": [
+            "pep5"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1007/BF00447005"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAA90023.1",
+                        "uniprot": "LANP_STAEP"
+                  },
+                  "complete": "MKNNKNLFDLEIKKETSQNTDELEPQTAGPAIRASVKQCQKTLKATRLFTVSCKGKNGCK",
+                  "leader": [
+                        "MKNNKNLFDLEIKKETSQNTDELEPQ"
+                  ],
+                  "core": [
+                        "TAGPAIRASVKQCQKTLKATRLFTVSCKGKNGCK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

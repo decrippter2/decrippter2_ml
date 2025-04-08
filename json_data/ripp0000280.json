@@ -1,0 +1,47 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MK423958.1",
+            "mibig_acc": "BGC0002316"
+      },
+      "compound_name": [
+            "cebulantin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1002/anie.201901342"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QBK47606.1",
+                        "uniprot": "A0A481XYR2_9PSEU"
+                  },
+                  "complete": "MSAPVQDFDLDVDTTSFAAPGGGALSEDGIEARGPITFGTTCWGTPCPSANTVSC",
+                  "leader": [
+                        "MSAPVQDFDLDVDTTSFAAPGGGALSEDGIEAR"
+                  ],
+                  "core": [
+                        "GPITFGTTCWGTPCPSANTVSC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "QBK47607.1",
+                        "uniprot": "A0A481XXM0_9PSEU"
+                  },
+                  "complete": "MSAPVQDFDLDVDTTSFAAPGGGALSADGIEAKGVLTFGTTCWGTTCPSNNTISC",
+                  "leader": [
+                        "MSAPVQDFDLDVDTTSFAAPGGGALSADGIEAK"
+                  ],
+                  "core": [
+                        "GVLTFGTTCWGTTCPSNNTISC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

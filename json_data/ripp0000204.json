@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "BA000030.3",
+            "mibig_acc": "BGC0001552"
+      },
+      "compound_name": [
+            "citrulassin F"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1016/bs.mie.2021.11.018"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAU68361.1",
+                        "uniprot": "A0A146F5E8_STRAW"
+                  },
+                  "complete": "MKKAYEAPTLVRLGTFRKKTGLLGRSGNDRLILSKN",
+                  "leader": [
+                        "MKKAYEAPTLVRLGTFRKKTG"
+                  ],
+                  "core": [
+                        "LLGRSGNDRLILSKN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

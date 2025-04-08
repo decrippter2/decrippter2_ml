@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KB976528.1",
+            "mibig_acc": "BGC0001861"
+      },
+      "compound_name": [
+            "bacillicin BAG2O"
+      ],
+      "ripp_class": "Glycocin",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.8b00599"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EOO99819.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEKALNMESLVEELELDELEGHVGNGLLTAAQCAALLASCSTGWGCGGGSGMCSSYILYCN",
+                  "leader": [
+                        "MEKALNMESLVEELELDELEGHVGN"
+                  ],
+                  "core": [
+                        "GLLTAAQCAALLASCSTGWGCGGGSGMCSSYILYCN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

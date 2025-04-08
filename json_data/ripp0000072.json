@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KF111343.1",
+            "mibig_acc": "BGC0000542"
+      },
+      "compound_name": [
+            "paenicidin B"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1002/cbic.201300595"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AHF21230.1",
+                        "uniprot": "W0FCA0_9BACL"
+                  },
+                  "complete": "MANNLFDLDVQVNKSQGSVEPQVLSIVACSSGCGSGKTAASCVATCGNKCFTNVGSLC",
+                  "leader": [
+                        "MANNLFDLDVQVNKSQGSVEPQ"
+                  ],
+                  "core": [
+                        "VLSIVACSSGCGSGKTAASCVATCGNKCFTNVGSLC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

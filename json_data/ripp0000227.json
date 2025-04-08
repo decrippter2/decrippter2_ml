@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NDXC01000075.1",
+            "mibig_acc": "BGC0001743"
+      },
+      "compound_name": [
+            "plantaricyclin"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.1128/aem.01801-17"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "PCL98053.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MLSAYRSKLGLNKFEVTVLMIISLFILLFATVNIVWIAKQFGVHLTTSLTQKALDLLSAGSSLGTVAAAVLGVTLPAWAVAAAGALGGTAA",
+                  "leader": [
+                        "MLSAYRSKLGLNKFEVTVLMIISLFILLFATVN"
+                  ],
+                  "core": [
+                        "IVWIAKQFGVHLTTSLTQKALDLLSAGSSLGTVAAAVLGVTLPAWAVAAAGALGGTAA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

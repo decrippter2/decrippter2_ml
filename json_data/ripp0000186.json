@@ -1,0 +1,33 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LC646903.1",
+            "mibig_acc": "BGC0001398"
+      },
+      "compound_name": [
+            "phomopsin A",
+            "phomopsin B",
+            "phomopsin E"
+      ],
+      "ripp_class": "Dikaritin",
+      "ref": [
+            "https://doi.org/10.1002/anie.202111076"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BDA39142.1",
+                        "uniprot": "PHOA1_DIALO"
+                  },
+                  "complete": "MRFTPAIVIAAFCSLAVAAPAAKAIARSPSEAVEDYVIPIDKKRGEAVEDYVIPIDKKRGEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDKKRGEAVEDYVIPIDKRGEAVEDYVIPIDRKRGEAVEDYVIPIDKRGEAVEDYVIPIDKRGEAVEDYVIPIDK",
+                  "leader": [
+                        "MRFTPAIVIAAFCSLAVAAPAAKAIARSPSEAVED"
+                  ],
+                  "core": [
+                        "YVIPID"
+                  ],
+                  "follower": [
+                        "K"
+                  ]
+            }
+      ]
+}

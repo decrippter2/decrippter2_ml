@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MW201788.1",
+            "mibig_acc": "BGC0002084"
+      },
+      "compound_name": [
+            "biarylitide YYH"
+      ],
+      "ripp_class": "Cyptide",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2020.11.009"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QRM13813.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRYYH",
+                  "leader": [
+                        "MR"
+                  ],
+                  "core": [
+                        "YYH"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

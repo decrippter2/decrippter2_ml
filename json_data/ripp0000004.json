@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP003614.1",
+            "mibig_acc": "BGC0000471"
+      },
+      "compound_name": [
+            "viridisamide A"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2013.06.015"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AFZ08006.1",
+                        "uniprot": "K9VJ62_9CYAN"
+                  },
+                  "complete": "MNKKNILPNPGKPVIRGISGKLPSYLAELSEEALGDAGADASFICSVDASFICSVDASFICSVDASFICSVDGDA",
+                  "leader": [
+                        "MNKKNILPNPGKPVIRGISGKLPSYLAELSEEALGDAGADAS"
+                  ],
+                  "core": [
+                        "FIC"
+                  ],
+                  "follower": [
+                        "SVDGDA"
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AJ586887.1",
+            "mibig_acc": "BGC0000589"
+      },
+      "compound_name": [
+            "microcin M"
+      ],
+      "ripp_class": "Microcin",
+      "ref": [
+            "https://doi.org/10.1128/aac.00744-09"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAE55705.1",
+                        "uniprot": "Q83TS1_ECOLX"
+                  },
+                  "complete": "MRKLSENEIKQISGGDGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS",
+                  "leader": [
+                        "MRKLSENEIKQISGG"
+                  ],
+                  "core": [
+                        "DGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AY005472.1",
+            "mibig_acc": "BGC0000548"
+      },
+      "compound_name": [
+            "salivaricin A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/aem.59.7.2014-2021.1993"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAA02867.2",
+                        "uniprot": "LANA_STRSL"
+                  },
+                  "complete": "MKNSKDILNNAIEEVSEKELMEVAGGKRGSGWIATITDDCPNSVFVCC",
+                  "leader": [
+                        "MKNSKDILNNAIEEVSEKELMEVAGG"
+                  ],
+                  "core": [
+                        "KRGSGWIATITDDCPNSVFVCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_JODT01000002.1",
+            "mibig_acc": "BGC0001493"
+      },
+      "compound_name": [
+            "achromosin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1038/ja.2016.108"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_157846923.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEKNPEVAGEEYESPIMVELGEFTELTNGIGSQTWDTIWLWD",
+                  "leader": [
+                        "MEKNPEVAGEEYESPIMVELGEFTELTN"
+                  ],
+                  "core": [
+                        "GIGSQTWDTIWLWD"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

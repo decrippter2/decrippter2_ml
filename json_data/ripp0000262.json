@@ -1,0 +1,47 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MT037000.1",
+            "mibig_acc": "BGC0002110"
+      },
+      "compound_name": [
+            "birimositide"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1186/s12864-020-06785-7"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QKV49893.1",
+                        "uniprot": "A0A7D4X1T9_STRRM"
+                  },
+                  "complete": "MFFEGDVSLIEEIADQDFEGVAYGACTTNTFSLSNALGNNGGWCTLTKECQPNCN",
+                  "leader": [
+                        "MFFEGDVSLIEEIADQDFEGVAYGA"
+                  ],
+                  "core": [
+                        "CTTNTFSLSNALGNNGGWCTLTKECQPNCN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "QKV49894.1",
+                        "uniprot": "A0A7D4WZ12_STRRM"
+                  },
+                  "complete": "MEQQDFLGAYDELELIELSEEEWHGGTGPLCVAASVAASAAFCPTTKCTSKC",
+                  "leader": [
+                        "MEQQDFLGAYDELELIELSEEEWHGG"
+                  ],
+                  "core": [
+                        "TGPLCVAASVAASAAFCPTTKCTSKC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

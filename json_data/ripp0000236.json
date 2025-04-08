@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LC318724.1",
+            "mibig_acc": "BGC0001797"
+      },
+      "compound_name": [
+            "telomestatin"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1038/s41598-017-03308-5"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BBA31805.1",
+                        "uniprot": "A0A286T6U9_STRAQ"
+                  },
+                  "complete": "MADITFDIVDEQISSLESIGVEEGCTTSSSSSSLDISDVDFE",
+                  "leader": [
+                        "MADITFDIVDEQISSLESIGVEEG"
+                  ],
+                  "core": [
+                        "CTTSSSSS"
+                  ],
+                  "follower": [
+                        "SLDISDVDFE"
+                  ]
+            }
+      ]
+}

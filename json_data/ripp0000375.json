@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP011492",
+            "mibig_acc": "BGC0003035"
+      },
+      "compound_name": [
+            "Strecintide 839"
+      ],
+      "ripp_class": "Cyptide",
+      "ref": [
+            "https://doi.org/10.1002/anie.202311533"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "undefined",
+                        "uniprot": ""
+                  },
+                  "complete": "MRKFIRRLQDVTAKQAWRIW",
+                  "leader": [
+                        "MRKFIRRLQDVTAK"
+                  ],
+                  "core": [
+                        "QAWRIW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

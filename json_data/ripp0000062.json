@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "U40620.1",
+            "mibig_acc": "BGC0000532"
+      },
+      "compound_name": [
+            "mutacin II"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1074/jbc.275.21.15845"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAC38144.1",
+                        "uniprot": "LANA_STRMG"
+                  },
+                  "complete": "MNKLNSNAVVSLNEVSDSELDTILGGNRWWQGVVPTVSYECRMNSWQHVFTCC",
+                  "leader": [
+                        "MNKLNSNAVVSLNEVSDSELDTILGG"
+                  ],
+                  "core": [
+                        "NRWWQGVVPTVSYECRMNSWQHVFTCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

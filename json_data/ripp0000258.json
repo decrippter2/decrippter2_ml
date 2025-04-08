@@ -1,0 +1,48 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP045480.1",
+            "mibig_acc": "BGC0002064"
+      },
+      "compound_name": [
+            "felipeptin A2",
+            "felipeptin A1"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1016/j.isci.2020.101785"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QFU91026.1",
+                        "uniprot": "A0A5P9PRQ2_9PSEU"
+                  },
+                  "complete": "MAESPPSEKELVFVNNESTVFEAPALIEVGDFDKVTLGSRGWGFEPGVRCLIWCD",
+                  "leader": [
+                        "MAESPPSEKELVFVNNESTVFEAPALIEVGDFDKVTL"
+                  ],
+                  "core": [
+                        "GSRGWGFEPGVRCLIWCD"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "QFU91025.1",
+                        "uniprot": "A0A5P9PSL4_9PSEU"
+                  },
+                  "complete": "MIDENTVYEPPAMTSVGEFDEVTLGGGGRGYEYNKQCLIFC",
+                  "leader": [
+                        "MIDENTVYEPPAMTSVGEFDEVTL"
+                  ],
+                  "core": [
+                        "GGGGRGYEYNKQCLIFC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

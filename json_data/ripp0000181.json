@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AHKH01000064.1",
+            "mibig_acc": "BGC0001356"
+      },
+      "compound_name": [
+            "paeninodin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1074/jbc.M116.722108"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_040732785.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKKQYSKPSLEVLDVHQTMAGPGTSTPDAFQPDPDEDVHYDS",
+                  "leader": [
+                        "MKKQYSKPSLEVLDVHQTM"
+                  ],
+                  "core": [
+                        "AGPGTSTPDAFQPDPDEDVHYDS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

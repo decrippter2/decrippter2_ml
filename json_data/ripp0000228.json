@@ -1,0 +1,68 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_KB235920.1",
+            "mibig_acc": "BGC0001745"
+      },
+      "compound_name": [
+            "PlpA1",
+            "PlpA2",
+            "PlpA3"
+      ],
+      "ripp_class": "Proteusin",
+      "ref": [
+            [
+                  "https://doi.org/10.1002/anie.201400478",
+                  "https://doi.org/10.1126/science.aao0157"
+            ]
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_019503884.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MENQQGANQNSQKSRTEIEATLVAKAWQNDDFRQELMSNPRKVFASEFNQEIPESTNIQVLEESNDTYYLVIPKKPDVSEELSDEALEAIAGGWYFVTNDDEGAIVGSDSN",
+                  "leader": [
+                        "MENQQGANQNSQKSRTEIEATLVAKAWQNDDFRQELMSNPRKVFASEFNQEIPESTNIQVLEESNDTYYLVIPKKPDVSEELSDEALEAIAGG"
+                  ],
+                  "core": [
+                        "WYFVTNDDEGAIVGSDSN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_019503881.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSIENAKSFYERVSTDKQFRTQLENTASAEERQKIIQAAGFEFTNQEWEIAKEQILATSESNNGELSEAELTAVSGGVDLSIFELLDEEPLFPIRPLYGLPI",
+                  "leader": [
+                        "MSIENAKSFYERVSTDKQFRTQLENTASAEERQKIIQAAGFEFTNQEWEIAKEQILATSESNNGELSEAELTAVSGG"
+                  ],
+                  "core": [
+                        "VDLSIFELLDEEPLFPIRPLYGLPI"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_019503882.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSIESAKAFYQRMTDDASFRTPFEAELSKEERQQLIKDSGYDFTAEEWQQAMTEIQAARSNEELNEEELEAIAGGAVAAMYGVVFPWDNEFPWPRWGG",
+                  "leader": [
+                        "MSIESAKAFYQRMTDDASFRTPFEAELSKEERQQLIKDSGYDFTAEEWQQAMTEIQAARSNEELNEEELEAIAGG"
+                  ],
+                  "core": [
+                        "AVAAMYGVVFPWDNEFPWPRWGG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

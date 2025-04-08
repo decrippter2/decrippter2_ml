@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "Y12234.1",
+            "mibig_acc": "BGC0000489"
+      },
+      "compound_name": [
+            "enterocin AS-48"
+      ],
+      "ripp_class": "Head-to-tail cyclized peptide",
+      "ref": [
+            "https://doi.org/10.3390/ijms151222706"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAA72917.1",
+                        "uniprot": "Q47765_ENTFL"
+                  },
+                  "complete": "MVKENKFSKIFILMALSFLGLALFSASLQFLPIAHMAKEFGIPAAVAGTVLNVVEAGGWVTTIVSILTAVGSGGLSLLAAAGRESIKAYLKKEIKKKGKRAVIAW",
+                  "leader": [
+                        "MVKENKFSKIFILMALSFLGLALFSASLQFLPIAH"
+                  ],
+                  "core": [
+                        "MAKEFGIPAAVAGTVLNVVEAGGWVTTIVSILTAVGSGGLSLLAAAGRESIKAYLKKEIKKKGKRAVIAW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

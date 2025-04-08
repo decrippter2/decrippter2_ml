@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP001699.1",
+            "mibig_acc": "BGC0001392"
+      },
+      "compound_name": [
+            "pinensins"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1002/anie.201500927"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACU62756.1",
+                        "uniprot": "A0A979G8J1_CHIPD"
+                  },
+                  "complete": "MKDNQVTQIKLSIDDLKIDSFVTSIDSEMNMRLAGGLAGQSHPTHTVATDDEGHLCTTIICA",
+                  "leader": [
+                        "MKDNQVTQIKLSIDDLKIDSFVTSIDSEMNMRLAGGLAGQ"
+                  ],
+                  "core": [
+                        "SHPTHTVATDDEGHLCTTIICA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LPCD01000022.1",
+            "mibig_acc": "BGC0002312"
+      },
+      "compound_name": [
+            "ubonodin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1002/cbic.201900707"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "KVR35741.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKHRSTKESFEITCIGDVDVITLMQDASRATMGGDGSIAEYFNRPMHIHDWQIMDSGYYG",
+                  "leader": [
+                        "MKHRSTKESFEITCIGDVDVITLMQDASRATM"
+                  ],
+                  "core": [
+                        "GGDGSIAEYFNRPMHIHDWQIMDSGYYG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

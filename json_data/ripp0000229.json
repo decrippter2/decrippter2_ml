@@ -1,0 +1,48 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_JNZK01000003.1",
+            "mibig_acc": "BGC0001753"
+      },
+      "compound_name": [
+            "radamycin",
+            "globimycin"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.tetlet.2017.12.056"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_078651956.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNSSEELDLNALEISDLIDELGRDNETLSQVMAASCVGTACACSSTSSSS",
+                  "leader": [
+                        "MNSSEELDLNALEISDLIDELGRDNETLSQVMAA"
+                  ],
+                  "core": [
+                        "SCVGTACACSSTSSSS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_078651955.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDAVESLDLNALEISDLIEDSNYSDETLSQAMAASTTTTGCTTSSCSSSSS",
+                  "leader": [
+                        "MDAVESLDLNALEISDLIEDSNYSDETLSQAMAA"
+                  ],
+                  "core": [
+                        "STTTTGCTTSSCSSSSS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

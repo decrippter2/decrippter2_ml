@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JN564797.1",
+            "mibig_acc": "BGC0000549"
+      },
+      "compound_name": [
+            "salivaricin D"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.06588-11"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AEX55166.1",
+                        "uniprot": "H2D761_STRSL"
+                  },
+                  "complete": "MSTKDFNLDLVEVSKSNTGASARFTSHSLCTPGCITGVLMGCHIQSIGCNVHIHISK",
+                  "leader": [
+                        "MSTKDFNLDLVEVSKSNTGASAR"
+                  ],
+                  "core": [
+                        "FTSHSLCTPGCITGVLMGCHIQSIGCNVHIHISK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,65 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP059692.1",
+            "mibig_acc": "BGC0003092"
+      },
+      "compound_name": [
+            "LANII-287",
+            "LANII-286",
+            "LANII-916"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41564-023-01524-6"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EFX57959.1",
+                        "uniprot": "E9FQ22_9STRE"
+                  },
+                  "complete": "MYTNYCKDDHLKKKRRNKPMAKDAERPVIDSLDFEVANQELAGKSGSGWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG",
+                  "leader": [
+                        "MYTNYCKDDHLKKKRRNKPMAKDAERPVIDSLDFEVANQELAGKSGS"
+                  ],
+                  "core": [
+                        "GWFTAIQLTLAGRCGNWFTGSFECTSNNVKCG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_000649492.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKCDEFKNEIDTLEFEVSNQELAGKSGSGGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC",
+                  "leader": [
+                        "MKCDEFKNEIDTLEFEVSNQELAGKSGS"
+                  ],
+                  "core": [
+                        "GGWYTAFKLTLAGRCGLCFTCSYECTSNNVHC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_009014449.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MFIIDNIEQKLYIKRGKEMRKENHGIDTLDYEISHQELSGKSAAGWQTAFRLTMQGRCGGVFTLSYECATPHVSCG",
+                  "leader": [
+                        "MFIIDNIEQKLYIKRGKEMRKENHGIDTLDYEISHQELSGKSAAG"
+                  ],
+                  "core": [
+                        "WQTAFRLTMQGRCGGVFTLSYECATPHVSCG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

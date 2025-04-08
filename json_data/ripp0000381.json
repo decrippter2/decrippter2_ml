@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "QVIG01000001.1",
+            "mibig_acc": "BGC0003052"
+      },
+      "compound_name": [
+            "LanII-57A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41467-022-33890-w"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "RGD56942.1",
+                        "uniprot": "A0A372ZN95_9ACTN"
+                  },
+                  "complete": "MSDNSTARAWKDPEDAARAVAPAHPSGEVDLGLFVGGLSDEEGGSEALGTGGCCPTWATGTHC",
+                  "leader": [
+                        "MSDNSTARAWKDPEDAARAVAPAHPSGEVDLGLFVGGLSDEEGG"
+                  ],
+                  "core": [
+                        "SEALGTGGCCPTWATGTHC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

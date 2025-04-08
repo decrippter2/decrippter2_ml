@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AP009493.1",
+            "mibig_acc": "BGC0000496"
+      },
+      "compound_name": [
+            "AmfS"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1080/09168451.2016.1238297"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAG19225.1",
+                        "uniprot": "LANSB_STRGG"
+                  },
+                  "complete": "MALLDLQAMDTPAEDSFGELATGSQVSLLVCEYSSLSVVLCTP",
+                  "leader": [
+                        "MALLDLQAMDTPAEDSFGELA"
+                  ],
+                  "core": [
+                        "TGSQVSLLVCEYSSLSVVLCTP"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

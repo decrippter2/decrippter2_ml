@@ -1,0 +1,47 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LC389591.1",
+            "mibig_acc": "BGC0001601"
+      },
+      "compound_name": [
+            "gassericin-S"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1128/AEM.02815-18"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BBE52938.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKVLNECQLQTVVGGKNWSVAKCGGTIGTNIAIGAWRGARAGSFFGQPVSVGAGALIGASAGAIGGSVQCVGWLAGGGR",
+                  "leader": [
+                        "MKVLNECQLQTVVGG"
+                  ],
+                  "core": [
+                        "KNWSVAKCGGTIGTNIAIGAWRGARAGSFFGQPVSVGAGALIGASAGAIGGSVQCVGWLAGGGR"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "BBE52939.1",
+                        "uniprot": "A0A2Z6GGD6_LACGS"
+                  },
+                  "complete": "MIEKVSKNELSRIYGGNNVNWGSVAGSCGKGAVMGIYFGNPILGCANGAATSLVLQTTSGIYKNYQKKR",
+                  "leader": [
+                        "MIEKVSKNELSRIYGG"
+                  ],
+                  "core": [
+                        "NNVNWGSVAGSCGKGAVMGIYFGNPILGCANGAATSLVLQTTSGIYKNYQKKR"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JH815539.1",
+            "mibig_acc": "BGC0003104"
+      },
+      "compound_name": [
+            "LANII-421"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41564-023-01524-6"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_002986050.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNKIKLNSPLKLNKESISKLQESQMASLRGGNSSKLYGSKGASCTCGNGVTCGTQQTKSGFEE",
+                  "leader": [
+                        "MNKIKLNSPLKLNKESISKLQESQMASLR"
+                  ],
+                  "core": [
+                        "GGNSSKLYGSKGASCTCGNGVTCGTQQTKSGFEE"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

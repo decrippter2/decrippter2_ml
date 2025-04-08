@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CM000745.1",
+            "mibig_acc": "BGC0001210"
+      },
+      "compound_name": [
+            "pseudomycoicidin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/aem.00299-15"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EEM14528.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNDKIIQYWNDPAKRSTLSAAELSKMPVNPAGDILAELSDADLDKVVGAGDCGGTCTWTKDCSICPSWSCWSWSC",
+                  "leader": [
+                        "MNDKIIQYWNDPAKRSTLSAAELSKMPVNPAGDILAELSDADLDKVVGA"
+                  ],
+                  "core": [
+                        "GDCGGTCTWTKDCSICPSWSCWSWSC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

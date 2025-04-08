@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB819757.1",
+            "mibig_acc": "BGC0000625"
+      },
+      "compound_name": [
+            "thioviridamide"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1128/AEM.01978-13"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAN83916.1",
+                        "uniprot": "T2HUM0_9ACTN"
+                  },
+                  "complete": "MTEKTQITDVQAFEDLVAKVQEMDGPAQASSTVAALAGLDAAELQNFLEEKSGISPDEEAQGSVMAAAASIALHC",
+                  "leader": [
+                        "MTEKTQITDVQAFEDLVAKVQEMDGPAQASSTVAALAGLDAAELQNFLEEKSGISPDEEAQGS"
+                  ],
+                  "core": [
+                        "VMAAAASIALHC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

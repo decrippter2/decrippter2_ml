@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_BNBU01000008 ",
+            "mibig_acc": "BGC0002990"
+      },
+      "compound_name": [
+            "SmoA"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1021/jacs.2c06808"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_171084027.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSTEDLMSGFSFHVDAEEFAADAWAAQDMASGNPLTTTFCCSVQCG",
+                  "leader": [
+                        "MSTEDLMSGFSFHVDAEE"
+                  ],
+                  "core": [
+                        "FAADAWAAQDMASGNPLTTTFCCSVQCG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

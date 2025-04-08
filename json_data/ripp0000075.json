@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AJ276653.2",
+            "mibig_acc": "BGC0000545"
+      },
+      "compound_name": [
+            "ruminococcin A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/AEM.67.9.4111-4118.2001"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAB93671.1",
+                        "uniprot": "LANA_MEDGN"
+                  },
+                  "complete": "MRNDVLTLTNPMEEKELEQILGGGNGVLKTISHECNMNTWQFLFTCC",
+                  "leader": [
+                        "MRNDVLTLTNPMEEKELEQILGG"
+                  ],
+                  "core": [
+                        "GNGVLKTISHECNMNTWQFLFTCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

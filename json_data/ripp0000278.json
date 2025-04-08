@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP025935.1",
+            "mibig_acc": "BGC0002311"
+      },
+      "compound_name": [
+            "cutimycin"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1126/scitranslmed.aay5445"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QAZ50823.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MENETLDLDVMELADIIGSASDQDDMAQVMAASCTTTSVSTSSSSSS",
+                  "leader": [
+                        "MENETLDLDVMELADIIGSASDQDDMAQVMAA"
+                  ],
+                  "core": [
+                        "SCTTTSVSTSSSSSS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

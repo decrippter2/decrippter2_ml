@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "ASQP01000439.1",
+            "mibig_acc": "BGC0003004"
+      },
+      "compound_name": [
+            "StsA"
+      ],
+      "ripp_class": "Sactipeptide",
+      "ref": [
+            "https://doi.org/10.1021/acsbiomedchemau.2c00085"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_158080382.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEKPAWVKPEMLPVEFGVELPCSCDCSGGAGAGSGNAESEQRLEI",
+                  "leader": [
+                        "MEKPAWVKPEMLPVEFGVEL"
+                  ],
+                  "core": [
+                        "PCSCDCSGGAGAGSGNAESEQRLEI"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

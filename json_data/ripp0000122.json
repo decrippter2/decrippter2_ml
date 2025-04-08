@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AM943877.1",
+            "mibig_acc": "BGC0000592"
+      },
+      "compound_name": [
+            "microviridin B"
+      ],
+      "ripp_class": "Microviridin",
+      "ref": [
+            "https://doi.org/10.1002/ange.200802730"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAQ16116.1",
+                        "uniprot": "B2G3C3_MICAE"
+                  },
+                  "complete": "MAYPNDQQGKALPFFARFLSVSKEESSIKSPSPEPTFGTTLKYPSDWEEY",
+                  "leader": [
+                        "MAYPNDQQGKALPFFARFLSVSKEESSIKSPSPEPT"
+                  ],
+                  "core": [
+                        "FGTTLKYPSDWEEY"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

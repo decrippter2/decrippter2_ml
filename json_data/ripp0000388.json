@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FMBW01000030.1",
+            "mibig_acc": "BGC0003063"
+      },
+      "compound_name": [
+            "LanIV (Streptomyces)"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41467-022-33890-w"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "SCD65293.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MAAGHRQPFRTPDRHPSRPKETEMMEHDIDALQVLPEDVRTEDARGEEHAAALITACRWHTSGC",
+                  "leader": [
+                        "MAAGHRQPFRTPDRHPSRPKETEMMEHDIDALQVLPEDVRTE"
+                  ],
+                  "core": [
+                        "DARGEEHAAALITACRWHTSGC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

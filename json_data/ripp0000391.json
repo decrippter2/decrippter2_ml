@@ -1,0 +1,79 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AUMU01000002.1",
+            "mibig_acc": "BGC0003071"
+      },
+      "compound_name": [
+            "chryseoviridin"
+      ],
+      "ripp_class": "Graspetide",
+      "ref": [
+            "https://doi.org/10.1021/jacs.1c02316"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_027385891.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MENRKSKKPFFASFLEKQIEDPEKIKGGAVTSALVDNVTSVNKDNVTSSLLDHVTKPGGDNVTMKYPSDGDEDGNAV",
+                  "leader": [
+                        "MENRKSKKPFFASFLEKQIEDPEKIKGG"
+                  ],
+                  "core": [
+                        "AVTSALVDNVTSVNKDNVTSSLLDHVTKPGGDNVTMKYPSDGDEDGNAV"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_027385892.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKNKDSKKKPFFASFLEKQIQDPEKIKGGSGDITTGVLKDSVTSALVDNITKPGQDVVSMKYPSDSDEDGDPV",
+                  "leader": [
+                        "MKNKDSKKKPFFASFLEKQIQDPEKIKGG"
+                  ],
+                  "core": [
+                        "SGDITTGVLKDSVTSALVDNITKPGQDVVSMKYPSDSDEDGDPV"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_027385893.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKNKNSKKEPFFAAFLEKQLQDPEKIQGGGVSTSLKDVVTSPLGDTLTLKTLDNGTTPAADTPVTLKYPSDSDEGGFDPGFPPGLDPEIHP",
+                  "leader": [
+                        "MKNKNSKKEPFFAAFLEKQLQDPEKIQGG"
+                  ],
+                  "core": [
+                        "GVSTSLKDVVTSPLGDTLTLKTLDNGTTPAADTPVTLKYPSDSDEGGFDPGFPPGLDPEIHP"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "WP_027385894.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKSKDSKKKPFFASFLEKQIQDPEKVKGGTEVTLSTQDNITKPLYDTVTKPTLDMMQTMKYPSDGDDDAPVV",
+                  "leader": [
+                        "MKSKDSKKKPFFASFLEKQIQDPEKVKGG"
+                  ],
+                  "core": [
+                        "TEVTLSTQDNITKPLYDTVTKPTLDMMQTMKYPSDGDDDAPVV"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

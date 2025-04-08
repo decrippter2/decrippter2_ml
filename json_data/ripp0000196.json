@@ -1,0 +1,32 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MF140698.1",
+            "mibig_acc": "BGC0001505"
+      },
+      "compound_name": [
+            "anacyclamide D8P",
+            "sphaerocyclamide"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.26434/chemrxiv.5346739.v1"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AVD53611.1",
+                        "uniprot": "A0A343UJN8_9CYAN"
+                  },
+                  "complete": "MTKKNIRPQQVAPVERETISTSKDQSGQVTPSAQGVSYFPFAGDDAE",
+                  "leader": [
+                        "MTKKNIRPQQVAPVERETISTSKDQSGQVTPS"
+                  ],
+                  "core": [
+                        "AQGVSYFP"
+                  ],
+                  "follower": [
+                        "FAGDDAE"
+                  ]
+            }
+      ]
+}

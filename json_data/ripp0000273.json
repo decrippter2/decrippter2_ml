@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LN831790.1",
+            "mibig_acc": "BGC0002289"
+      },
+      "compound_name": [
+            "Leepeptin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://dx.doi.org/10.1128/AEM.01752-19"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CQR60041.1",
+                        "uniprot": "A0A0F7VSZ6_STRLW"
+                  },
+                  "complete": "MEHDEKTPYETPAVYGLGAFAEETGLYGVRNDEEINWHFDYWT",
+                  "leader": [
+                        "MEHDEKTPYETPAVYGLGAFAEETG"
+                  ],
+                  "core": [
+                        "LYGVRNDEEINWHFDYWT"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

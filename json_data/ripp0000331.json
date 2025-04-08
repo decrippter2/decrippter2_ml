@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "FNON01000005.1",
+            "mibig_acc": "BGC0002751"
+      },
+      "compound_name": [
+            "Amyxirubin B"
+      ],
+      "ripp_class": "Cyptide",
+      "ref": [
+            "https://dx.doi.org/10.1002/anie.202208361"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_218105334.1_2",
+                        "uniprot": ""
+                  },
+                  "complete": "MKALMRKFKPEKSLKAYAWYIWW",
+                  "leader": [
+                        "MKALMRKFKPEKSLKAY"
+                  ],
+                  "core": [
+                        "AWYIWW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CYHG01000008.1",
+            "mibig_acc": "BGC0002943"
+      },
+      "compound_name": [
+            "Marinomonasin"
+      ],
+      "ripp_class": "Graspetide",
+      "ref": [
+            "https://doi.org/10.1007/s00253-021-11545-y\n\n"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CUB04731.1",
+                        "uniprot": "A0A0K6INR8_9GAMM"
+                  },
+                  "complete": "MSNHVLIALAKRKPFVVTPEMPEGCSYDYVRGLWMKANDVLVSHGSEFGVQATKKCDVETGEDQKGE",
+                  "leader": [
+                        "MSNHVLIALAKRKPFVVTPEMPEGCSYDYVRGLWMKANDVLVSHGSEFG"
+                  ],
+                  "core": [
+                        "VQATKKCDVETGEDQKGE"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

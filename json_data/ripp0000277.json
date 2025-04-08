@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MN956991.1",
+            "mibig_acc": "BGC0002307"
+      },
+      "compound_name": [
+            "humidimycin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.3390/antibiotics9020067"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "QHZ32192.1",
+                        "uniprot": "A0A6C0QLR4_9ACTN"
+                  },
+                  "complete": "MSAIYEPPALQEIGDFDELTKCLGIGSCDDFAGCGYAIVCFW",
+                  "leader": [
+                        "MSAIYEPPALQEIGDFDELTK"
+                  ],
+                  "core": [
+                        "CLGIGSCDDFAGCGYAIVCFW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

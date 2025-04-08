@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AP009493.1",
+            "mibig_acc": "BGC0000583"
+      },
+      "compound_name": [
+            "grisemycin"
+      ],
+      "ripp_class": "Linaridin",
+      "ref": [
+            "https://doi.org/10.1128/jb.00171-11"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_003970682.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MRLDSIATQETATALPESMATQDFANSVLAGAVPGFHSDAETPAMATPAVAQFVIQGSTICLVC",
+                  "leader": [
+                        "MRLDSIATQETATALPESMATQDFANSVLAGAVPGFHSDAETPAM"
+                  ],
+                  "core": [
+                        "ATPAVAQFVIQGSTICLVC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

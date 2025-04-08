@@ -1,0 +1,33 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LIME01000008.1",
+            "mibig_acc": "BGC0002317"
+      },
+      "compound_name": [
+            "herbicolin O",
+            "mcceh252",
+            "pantocin A"
+      ],
+      "ripp_class": "Pantocin",
+      "ref": [
+            "https://doi.org/10.1021/jacs.5b13529"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "KPA06478.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MIKFSTLSQRISAITEENAMYTKGQVIVLS",
+                  "leader": [
+                        "MIKFSTLSQRISAIT"
+                  ],
+                  "core": [
+                        "EEN"
+                  ],
+                  "follower": [
+                        "AMYTKGQVIVLS"
+                  ]
+            }
+      ]
+}

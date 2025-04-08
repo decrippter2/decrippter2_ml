@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KY115608.1",
+            "mibig_acc": "BGC0001576"
+      },
+      "compound_name": [
+            "divamide A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.2537"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ARD09202.1",
+                        "uniprot": "A0A2H4GZ80_PRODI"
+                  },
+                  "complete": "MPTTLEKPSVAYLEKLFHQTAIDSEFRSELQSHPEAFGISADLELPQSVEKQDESFVELLNNALGEIDIAAECASTCSFGIVTIVCDGTTK",
+                  "leader": [
+                        "MPTTLEKPSVAYLEKLFHQTAIDSEFRSELQSHPEAFGISADLELPQSVEKQDESFVELLNNALGEIDIAA"
+                  ],
+                  "core": [
+                        "ECASTCSFGIVTIVCDGTTK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

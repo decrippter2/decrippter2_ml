@@ -1,0 +1,32 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JX456532.1",
+            "mibig_acc": "BGC0000598"
+      },
+      "compound_name": [
+            "polytheonamide A",
+            "polytheonamide B"
+      ],
+      "ripp_class": "Proteusin",
+      "ref": [
+            "https://doi.org/10.1021/ar300315p"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AFS60639.1",
+                        "uniprot": "PROT_BACS1"
+                  },
+                  "complete": "MADSDNTPTSRKDFETAIIAKAWKDPEYLRRLRSNPREVLQEELEALHPGAQLPDDLGISIHEEDENHVHLVMPRHPQNVSDQTLTDDDLDQAAGGTGIGVVVAVVAGAVANTGAGVNQVAGGNINVVGNINVNANVSVNMNQTT",
+                  "leader": [
+                        "MADSDNTPTSRKDFETAIIAKAWKDPEYLRRLRSNPREVLQEELEALHPGAQLPDDLGISIHEEDENHVHLVMPRHPQNVSDQTLTDDDLDQAAGG"
+                  ],
+                  "core": [
+                        "TGIGVVVAVVAGAVANTGAGVNQVAGGNINVVGNINVNANVSVNMNQTT"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

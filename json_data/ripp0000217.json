@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "MF620092.1",
+            "mibig_acc": "BGC0001640"
+      },
+      "compound_name": [
+            "kocurin"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1099/mic.0.000538"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ATG31918.1",
+                        "uniprot": "A0A291FGL1_KOCRO"
+                  },
+                  "complete": "MDRKPTDLVDLPMDVFELEDQGMDITSLTAGHGMTEVGASTNCFCYPCCSCSAPSSSA",
+                  "leader": [
+                        "MDRKPTDLVDLPMDVFELEDQGMDITSLTAGHGMTEVGA"
+                  ],
+                  "core": [
+                        "STNCFCYPCCSCSAPSS"
+                  ],
+                  "follower": [
+                        "SA"
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "GCA_027863535.1",
+            "mibig_acc": "BGC0002963"
+      },
+      "compound_name": [
+            "paucinodin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1111/jpy.13412"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_271009307.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MDEKSQLEQQTPVFELGDAKELTQGFPALEFAEENPVIPGRREP",
+                  "leader": [
+                        "MDEKSQLEQQTPVFELGDAKELTQ"
+                  ],
+                  "core": [
+                        "GFPALEFAEENPVIPGRREP"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

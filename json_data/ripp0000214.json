@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_JOHD01000003.1",
+            "mibig_acc": "BGC0001634"
+      },
+      "compound_name": [
+            "keywimysin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.2319"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_018511015.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKQQKKAYVKPSLFKQGDFSKKTAGYFYGSYKEYWVRRII",
+                  "leader": [
+                        "MKQQKKAYVKPSLFKQGDFSKKTA"
+                  ],
+                  "core": [
+                        "GYFYGSYKEYWVRRII"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

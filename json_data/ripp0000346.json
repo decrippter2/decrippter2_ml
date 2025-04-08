@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_BBPP01000024.1",
+            "mibig_acc": "BGC0002903"
+      },
+      "compound_name": [
+            "Las-6"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://dx.doi.org/10.1038/s41467-022-33890-w"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_236653506.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MADTTEQSNEYMAPALVEVGEFNEDTLGGWGTVPDWFFNMKW",
+                  "leader": [
+                        "MADTTEQSNEYMAPALVEVGEFNEDTL"
+                  ],
+                  "core": [
+                        "GGWGTVPDWFFNMKW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

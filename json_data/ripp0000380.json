@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "RPGW01000094.1",
+            "mibig_acc": "BGC0003050"
+      },
+      "compound_name": [
+            "LanII-2D"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/s41467-022-33890-w\n\n"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "RPK60835.1",
+                        "uniprot": "A0A3N6HHK1_9ACTN"
+                  },
+                  "complete": "MNLVRAWKDPEYRATLSEAPANPAGLVELADDQLDGVAGGTTWACATVTLTVTVCSPTGTLCGSCSMGTRGCC",
+                  "leader": [
+                        "MNLVRAWKDPEYRATLSEAPANPAGLVELADDQLDGVAGG"
+                  ],
+                  "core": [
+                        "TTWACATVTLTVTVCSPTGTLCGSCSMGTRGCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

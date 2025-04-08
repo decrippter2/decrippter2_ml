@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP006259.1",
+            "mibig_acc": "BGC0001226"
+      },
+      "compound_name": [
+            "streptocollin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1002/cbic.201500377"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ALA50776.1",
+                        "uniprot": "A0A0R8Y1S5_STRC3"
+                  },
+                  "complete": "MENQTLELLAHLHALPETDPVDFDGASYSGTCACVGLLTLLNTVCVGISCA",
+                  "leader": [
+                        "MENQTLELLAHLHALPETDPVDFDGASY"
+                  ],
+                  "core": [
+                        "SGTCACVGLLTLLNTVCVGISCA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

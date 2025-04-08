@@ -1,0 +1,48 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AF233755.1",
+            "mibig_acc": "BGC0000511"
+      },
+      "compound_name": [
+            "ericin S",
+            "ericin A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/jb.184.6.1703-1711.2002"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAL15569.1",
+                        "uniprot": "Q93GH3_BACIU"
+                  },
+                  "complete": "MSKFDDFDLDVVKVSKQDSKITPQWKSESVCTPGCVTGVLQTCFLQTITCNCHISK",
+                  "leader": [
+                        "MSKFDDFDLDVVKVSKQDSKITPQ"
+                  ],
+                  "core": [
+                        "WKSESVCTPGCVTGVLQTCFLQTITCNCHISK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AAL15567.1",
+                        "uniprot": "Q93GH5_BACIU"
+                  },
+                  "complete": "MTNMSKFDDFDLDVVKVSKQDSKITPQVLSKSLCTPGCITGPLQTCYLCFPTFAKC",
+                  "leader": [
+                        "MTNMSKFDDFDLDVVKVSKQDSKITPQ"
+                  ],
+                  "core": [
+                        "VLSKSLCTPGCITGPLQTCYLCFPTFAKC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

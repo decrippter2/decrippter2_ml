@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JABMCZ010000005.1",
+            "mibig_acc": "BGC0002120"
+      },
+      "compound_name": [
+            "nocathioamide A"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1002/anie.202102571"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "NQE92413.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKMMKRNEEVAESGYDDFDLNIIDSSMFDDESSRPAAPACHTLSSLPCCAN",
+                  "leader": [
+                        "MKMMKRNEEVAESGYDDFDLNIIDSSMFDDESSRPAAP"
+                  ],
+                  "core": [
+                        "ACHTLSSLPCCAN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

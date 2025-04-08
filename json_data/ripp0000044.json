@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AM420293.1",
+            "mibig_acc": "BGC0000513"
+      },
+      "compound_name": [
+            "Erythreapeptin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1111/j.1365-2958.2005.04587.x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAM03500.1",
+                        "uniprot": "A4FHH5_SACEN"
+                  },
+                  "complete": "MEMVLELQELDAPNELAYGDPSHGGGSNLSLLASCANSTVSLLTCH",
+                  "leader": [
+                        "MEMVLELQELDAPNELAYGDPSHGGG"
+                  ],
+                  "core": [
+                        "SNLSLLASCANSTVSLLTCH"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

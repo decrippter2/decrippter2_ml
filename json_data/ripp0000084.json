@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_DS999644.1",
+            "mibig_acc": "BGC0000554"
+      },
+      "compound_name": [
+            "SRO15-3108"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1038/nchembio.684"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_006126649.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNLVRAWKDPEYRATLSEAPANPAGLVELADDQLDGVAGGTTWACATVTLTVTVCSPTGTLCGSCSMGTRGCC",
+                  "leader": [
+                        "MNLVRAWKDPEYRATLSEAPANPAGLVELADDQLDGVAGG"
+                  ],
+                  "core": [
+                        "TTWACATVTLTVTVCSPTGTLCGSCSMGTRGCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

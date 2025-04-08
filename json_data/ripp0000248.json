@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "LC381634.1",
+            "mibig_acc": "BGC0001920"
+      },
+      "compound_name": [
+            "siamycin I"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1002/cbic.201800315"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BBD82040.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSAIYEPPMLQEVGDFEELTKCLGVGSCNDFAGCGYAIVCFW",
+                  "leader": [
+                        "MSAIYEPPMLQEVGDFEELTK"
+                  ],
+                  "core": [
+                        "CLGVGSCNDFAGCGYAIVCFW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

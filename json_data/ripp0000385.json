@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KX379998.1",
+            "mibig_acc": "BGC0003060"
+      },
+      "compound_name": [
+            "9810-LP"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1038/s41598-018-26620-0"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ARA91546.1",
+                        "uniprot": "A0A1V0D9A1_STRSQ"
+                  },
+                  "complete": "MKLQKKAYVKPSLFKQGDFSKKTAGYFVGSYKEYWTRRIV",
+                  "leader": [
+                        "MKLQKKAYVKPSLFKQGDFSKKTA"
+                  ],
+                  "core": [
+                        "GYFVGSYKEYWTRRIV"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

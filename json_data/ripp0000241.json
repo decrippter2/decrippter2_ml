@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_LVHY01000134.1",
+            "mibig_acc": "BGC0001862"
+      },
+      "compound_name": [
+            "pallidocin"
+      ],
+      "ripp_class": "Glycocin",
+      "ref": [
+            "https://doi.org/10.1038/s41467-019-09065-5\n\n"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_066251537.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKDLLKELMYEVDLEEMENLQGSGYSAAQCAWMALSCVNYIPGVGFGCGGYSACELYKRYC",
+                  "leader": [
+                        "MKDLLKELMYEVDLEEMENLQGS"
+                  ],
+                  "core": [
+                        "GYSAAQCAWMALSCVNYIPGVGFGCGGYSACELYKRYC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

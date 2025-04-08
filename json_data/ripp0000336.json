@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "GCA_000717655.1",
+            "mibig_acc": "BGC0002893"
+      },
+      "compound_name": [
+            "wygwalassin A1"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acs.biochem.4c00035"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_106974329.1_2",
+                        "uniprot": ""
+                  },
+                  "complete": "MIENEIVEYEAPEMLPVGEFSELTMWYGWASNDGEGTAII",
+                  "leader": [
+                        "MIENEIVEYEAPEMLPVGEFSELTM"
+                  ],
+                  "core": [
+                        "WYGWASNDGEGTAII"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

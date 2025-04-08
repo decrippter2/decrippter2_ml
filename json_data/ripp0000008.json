@@ -1,0 +1,33 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AY986476.1",
+            "mibig_acc": "BGC0000475"
+      },
+      "compound_name": [
+            "patellamide A",
+            "patellamide C"
+      ],
+      "ripp_class": "Cyanobactin",
+      "ref": [
+            "https://doi.org/10.1016/j.sbi.2014.10.006"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAY21154.1",
+                        "uniprot": "Q52QJ3_PRODI"
+                  },
+                  "complete": "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEASVTACITFCAYDGVEPSITVCISVCAYDGE",
+                  "leader": [
+                        "MNKKNILPQQGQPVIRLTAGQLSSQLAELSEEALGDAGLEAS"
+                  ],
+                  "core": [
+                        "VTACITFC",
+                        "ITVCISVC"
+                  ],
+                  "follower": [
+                        "AYDGE"
+                  ]
+            }
+      ]
+}

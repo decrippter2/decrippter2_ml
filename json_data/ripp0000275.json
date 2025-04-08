@@ -1,0 +1,65 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP011340.1",
+            "mibig_acc": "BGC0002303"
+      },
+      "compound_name": [
+            "unnamed compound",
+            "unnamed compound",
+            "pristinin A3"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1371/journal.pbio.3001026"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ALC22072.1",
+                        "uniprot": "A0A0M4DGL8_STRPR"
+                  },
+                  "complete": "MADLQQTGSISELVAGYDTYSEAGELVAEAAADAPASTPTCAAATISWLGSQLTVKTYKEGC",
+                  "leader": [
+                        "MADLQQTGSISELVAGYDTYSEAGELVAEAAADAPA"
+                  ],
+                  "core": [
+                        "STPTCAAATISWLGSQLTVKTYKEGC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ALC22073.1",
+                        "uniprot": "A0A0M3QIX9_STRPR"
+                  },
+                  "complete": "MDKTGAITELIEGYDSYSDAEELNSTAAAEAPATSAPCGAASVSWLASQFTVKTYKEGC",
+                  "leader": [
+                        "MDKTGAITELIEGYDSYSDAEELNSTAAAEAPA"
+                  ],
+                  "core": [
+                        "TSAPCGAASVSWLASQFTVKTYKEGC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ALC22074.1",
+                        "uniprot": "A0A0M5IR36_STRPR"
+                  },
+                  "complete": "MQNNTEIMDLIANYDAYADVDELNVTAAADAPATTPVCAASVASSTWCASAASAISGATYEAGC",
+                  "leader": [
+                        "MQNNTEIMDLIANYDAYADVDELNVTAAADAPA"
+                  ],
+                  "core": [
+                        "TTPVCAASVASSTWCASAASAISGATYEAGC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

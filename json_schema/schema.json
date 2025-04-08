@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "type": "object",
+  "required": [
+    "ref",
+    "entries"
+  ],
+  "properties": {
+    "identifiers": {
+      "title": "Collection of identifiers",
+      "type": "object",
+      "properties": {
+        "ncbi_acc": {
+          "title": "NCBI Genome accession",
+          "type": "string"
+        },
+        "mibig_acc": {
+          "title": "MIBiG BGC accession",
+          "type": "string"
+        }
+      }
+    },
+    "compound_name": {
+      "title": "Name of compound",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "ripp_class":  {
+      "title": "RiPP class name",
+      "type": "string"
+    },
+    "ref": {
+      "title": "References in DOI format",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "entries": {
+      "title": "List of peptide identifiers and composition",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "complete",
+          "leader",
+          "core",
+          "follower"
+        ],
+        "properties": {
+          "protein_ids": {
+            "title": "Collection of protein identifiers",
+            "type": "object",
+            "properties": {
+              "genpept": {
+                "title": "Genpept protein accession",
+                "type": "string"
+              },
+              "uniprot": {
+                "title": "UniProt accession",
+                "type": "string"
+              }
+            }
+          },
+          "complete": {
+            "title": "Complete precursor sequence",
+            "type": "string"
+          },
+          "leader": {
+            "title": "Leader peptide sequences",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "core": {
+            "title": "Core peptide sequences",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "follower": {
+            "title": "Follower peptide sequences",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

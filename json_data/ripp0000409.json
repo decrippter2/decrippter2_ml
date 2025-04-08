@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "ABCS01000021.1",
+            "mibig_acc": "BGC0003122"
+      },
+      "compound_name": [
+            "Plesiocin"
+      ],
+      "ripp_class": "Graspetide",
+      "ref": [
+            "https://doi.org/10.1021/acs.biochem.9b00803"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EDM74818.1",
+                        "uniprot": "A6GH40_9BACT"
+                  },
+                  "complete": "MSKNENNKKQLRDLFIEDLGKVTGGKGGPYTTLAIGEEDPITTLAIGEEDPDPTTLALGEEDPTTLAIGEE",
+                  "leader": [
+                        "MSKNENNKKQLRDLFIEDLGKVTGGK"
+                  ],
+                  "core": [
+                        "GGPYTTLAIGEEDPITTLAIGEEDPDPTTLALGEEDPTTLAIGEE"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

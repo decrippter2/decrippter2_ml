@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "X93303.1",
+            "mibig_acc": "BGC0000562"
+      },
+      "compound_name": [
+            "variacin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/aem.62.5.1799-1802.1996"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAA63706.1",
+                        "uniprot": "Q50848_KOCVA"
+                  },
+                  "complete": "MTNAFQALDEVTDAELDAILGGGSGVIPTISHECHMNSFQFVFTCCS",
+                  "leader": [
+                        "MTNAFQALDEVTDAELDAILGG"
+                  ],
+                  "core": [
+                        "GSGVIPTISHECHMNSFQFVFTCCS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

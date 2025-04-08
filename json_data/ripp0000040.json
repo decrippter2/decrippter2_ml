@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "X62386.1",
+            "mibig_acc": "BGC0000508"
+      },
+      "compound_name": [
+            "epidermin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.ijmm.2013.08.012"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "CAA44252.1",
+                        "uniprot": "LANE_STAEP"
+                  },
+                  "complete": "MEAVKEKNDLFNLDVKVNAKESNDSGAEPRIASKFICTPGCAKTGSFNSYCC",
+                  "leader": [
+                        "MEAVKEKNDLFNLDVKVNAKESNDSGAEPR"
+                  ],
+                  "core": [
+                        "IASKFICTPGCAKTGSFNSYCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

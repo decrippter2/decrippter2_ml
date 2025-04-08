@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AORZ01000028.1",
+            "mibig_acc": "BGC0001145"
+      },
+      "compound_name": [
+            "cyclothiazomycin b1"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1021/cb500324n"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EMF00380.1",
+                        "uniprot": "M3BLB0_STRMB"
+                  },
+                  "complete": "MEAKLELDLGDLSVEELDVLPTSPGAGLESINVGHAMVEIGASNCTSRGTPASCCSCCCC",
+                  "leader": [
+                        "MEAKLELDLGDLSVEELDVLPTSPGAGLESINVGHAMVEIGA"
+                  ],
+                  "core": [
+                        "SNCTSRGTPASCCSCCCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

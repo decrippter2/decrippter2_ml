@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "U09819.1",
+            "mibig_acc": "BGC0000559"
+      },
+      "compound_name": [
+            "subtilin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1128/jb.173.22.7387-7390.1991"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAB91589.1",
+                        "uniprot": "SPAS_BACIU"
+                  },
+                  "complete": "MSKFDDFDLDVVKVSKQDSKITPQWKSESLCTPGCVTGALQTCFLQTLTCNCKISK",
+                  "leader": [
+                        "MSKFDDFDLDVVKVSKQDSKITPQ"
+                  ],
+                  "core": [
+                        "WKSESLCTPGCVTGALQTCFLQTLTCNCKISK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

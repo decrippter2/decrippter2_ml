@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_KN708638.1",
+            "mibig_acc": "BGC0001188"
+      },
+      "compound_name": [
+            "legonaridin"
+      ],
+      "ripp_class": "Linaridin",
+      "ref": [
+            "https://doi.org/10.1039/C9NP00074G"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_043265481.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSVLAEFANTELVDVEPGRLGSEATPTMITPLATLATPEATPVGFAATSATAAAVNMITHDVTRH",
+                  "leader": [
+                        "MSVLAEFANTELVDVEPGRLGSEATPTM"
+                  ],
+                  "core": [
+                        "ITPLATLATPEATPVGFAATSATAAAVNMITHDVTRH"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

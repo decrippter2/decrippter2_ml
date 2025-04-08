@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AB205012.1",
+            "mibig_acc": "BGC0000565"
+      },
+      "compound_name": [
+            "goadsporin"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1099/mic.0.28420-0"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "BAE46916.1",
+                        "uniprot": "Q3C2G0_9ACTN"
+                  },
+                  "complete": "MENVQTLAIDDIENIDAEVTIEELSSTNGAATVSTILCSGGTLSSAGCV",
+                  "leader": [
+                        "MENVQTLAIDDIENIDAEVTIEELSSTNGA"
+                  ],
+                  "core": [
+                        "ATVSTILCSGGTLSSAGCV"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

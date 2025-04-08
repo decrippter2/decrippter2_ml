@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_FOAZ01000001.1",
+            "mibig_acc": "BGC0002972"
+      },
+      "compound_name": [
+            "SjiA"
+      ],
+      "ripp_class": "other",
+      "ref": [
+            "https://doi.org/10.1002/anie.202107192"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_369405959.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MSASRDSKSRVTEVRSAVSSRPAPVRLAKRGDAAHSLMLSRVLPDNGVSRLDVAGFQSSI",
+                  "leader": [
+                        "TBA"
+                  ],
+                  "core": [
+                        "TBA"
+                  ],
+                  "follower": [
+                        "TBA"
+                  ]
+            }
+      ]
+}

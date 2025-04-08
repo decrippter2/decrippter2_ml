@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "GQ857551.1",
+            "mibig_acc": "BGC0000547"
+      },
+      "compound_name": [
+            "salivaricin 9"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1371/journal.pone.0077751"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ACX68643.1",
+                        "uniprot": "D0EM97_STRSL"
+                  },
+                  "complete": "MKSTNNQSISEIAAVNSLQEVSMEELDQIIGAGNGVVLTLTHECNLATWTKKLKCC",
+                  "leader": [
+                        "MKSTNNQSISEIAAVNSLQEVSMEELDQIIGA"
+                  ],
+                  "core": [
+                        "GNGVVLTLTHECNLATWTKKLKCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

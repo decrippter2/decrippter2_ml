@@ -1,0 +1,47 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KY914474.1",
+            "mibig_acc": "BGC0001701"
+      },
+      "compound_name": [
+            "nisin O"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1101/2022.02.15.480493"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ASY03212.1",
+                        "uniprot": "A0A286N5V5_9FIRM"
+                  },
+                  "complete": "MGKFDDFDLDVTKTAAQGGIEPKYKSKSACTPGCPTGILMTCPLKTATCGCHITGK",
+                  "leader": [
+                        "MGKFDDFDLDVTKTAAQGGIEPK"
+                  ],
+                  "core": [
+                        "YKSKSACTPGCPTGILMTCPLKTATCGCHITGK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ASY03215.1",
+                        "uniprot": "A0A286N5V8_9FIRM"
+                  },
+                  "complete": "MAKFDDFDLDIIEKKVRRDIIPASITSQHSFCTPNCLTGFLCPPKTQLTCTCKLKGQ",
+                  "leader": [
+                        "MAKFDDFDLDIIEKKVRRDIIPASI"
+                  ],
+                  "core": [
+                        "TSQHSFCTPNCLTGFLCPPKTQLTCTCKLKGQ"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

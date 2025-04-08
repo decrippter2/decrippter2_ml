@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_JXKJ01000010.1",
+            "mibig_acc": "BGC0002898"
+      },
+      "compound_name": [
+            "Lap-1"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1038/s41467-022-33890-w"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_010770535.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MVSSSKNKSKIQETLFSTNNFSSFRKHGFDSVSFSATSISLSKGNSNGGGGGGGGGGGCCCCCCCCCGSGSATLEEIGK",
+                  "leader": [
+                        "MVSSSKNKSKIQETLFSTNNFSSFRKHGF"
+                  ],
+                  "core": [
+                        "DSVSFSATSISLSKGNSNGGGGGGGGGGGCCCCCCCCCGSGSATLEEIGK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

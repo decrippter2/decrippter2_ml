@@ -1,0 +1,48 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KF573751.1",
+            "mibig_acc": "BGC0000500"
+      },
+      "compound_name": [
+            "carnolysin A1",
+            "carnolysin A2"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.ijfoodmicro.2013.12.019"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AHF21242.1",
+                        "uniprot": "W0FGJ7_CARML"
+                  },
+                  "complete": "MSESNMKKVVGETFEDLSIAEMTKVQGSGDVMPESTPICAGFATLMSSIGLVKTIKGKC",
+                  "leader": [
+                        "TBA"
+                  ],
+                  "core": [
+                        "TBA"
+                  ],
+                  "follower": [
+                        "TBA"
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "AHF21238.1",
+                        "uniprot": "W0FC94_CARML"
+                  },
+                  "complete": "MSELSMEKVVGETFEDLSIAEMTMVQGSGDINGEFTTSPACVYSVMVVSKASSAKCAAGASAVSGAILSAIRC",
+                  "leader": [
+                        "TBA"
+                  ],
+                  "core": [
+                        "TBA"
+                  ],
+                  "follower": [
+                        "TBA"
+                  ]
+            }
+      ]
+}

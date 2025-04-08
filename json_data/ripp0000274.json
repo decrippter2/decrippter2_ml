@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP001819.1",
+            "mibig_acc": "BGC0002298"
+      },
+      "compound_name": [
+            "lassomycin-like peptide"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1007/s00253-019-09645-x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_143755684.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKNYETPMLIPLGSFADLTAGLGRLLADRVIPVGRLVP",
+                  "leader": [
+                        "MKNYETPMLIPLGSFADLTA"
+                  ],
+                  "core": [
+                        "GLGRLLADRVIPVGRLVP"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

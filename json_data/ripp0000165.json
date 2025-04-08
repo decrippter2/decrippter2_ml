@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "DS981518.1",
+            "mibig_acc": "BGC0001170"
+      },
+      "compound_name": [
+            "clostridiolysin S"
+      ],
+      "ripp_class": "Linear azole-containing peptide",
+      "ref": [
+            "https://doi.org/10.1074/jbc.M110.118554"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "EDU38306.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKDMLKFNEHVLTTTNNNNNKVTVAPGSCCCCSCCCCVSVSVGGGSASTGGGAAAGQGGN",
+                  "leader": [
+                        "MKDMLKFNEHVLTTTNNNNNKVTVAPGSCCCCSCCCC"
+                  ],
+                  "core": [
+                        "VSVSVGGGSASTGGGAAAGQGGN"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

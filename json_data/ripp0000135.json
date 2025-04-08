@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "JN052143.1",
+            "mibig_acc": "BGC0000605"
+      },
+      "compound_name": [
+            "GE37468"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2014.03.008"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AEM00614.1",
+                        "uniprot": "THCL_STRSQ"
+                  },
+                  "complete": "MGNNEEYFIDVNDLSIDVFDVVEQGGAVTALTADHGMPEVGASTNCFCYICCSCSSN",
+                  "leader": [
+                        "MGNNEEYFIDVNDLSIDVFDVVEQGGAVTALTADHGMPEVGA"
+                  ],
+                  "core": [
+                        "STNCFCYICCSCSS"
+                  ],
+                  "follower": [
+                        "N"
+                  ]
+            }
+      ]
+}

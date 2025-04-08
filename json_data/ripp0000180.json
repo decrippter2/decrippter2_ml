@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_ACOK01000098.1",
+            "mibig_acc": "BGC0001311"
+      },
+      "compound_name": [
+            "flavecins"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2015.11.014"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_009985589.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MNKNPIYRSEEEAKNIACGNVAAELDENSQALDAINGAGWKQTIACTIAQGTLGCLVSYGLGNGGYCCTYTVECSKTCNK",
+                  "leader": [
+                        "MNKNPIYRSEEEAKNIACGNVAAELDENSQALDAINGA"
+                  ],
+                  "core": [
+                        "GWKQTIACTIAQGTLGCLVSYGLGNGGYCCTYTVECSKTCNK"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP011129.1",
+            "mibig_acc": "BGC0002630"
+      },
+      "compound_name": [
+            "Thatisin"
+      ],
+      "ripp_class": "Graspetide",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.1c00672"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ALN78924.1",
+                        "uniprot": "A0A0S2E307_LYSAN"
+                  },
+                  "complete": "MSKQDVYSNNALPQDEAARPLARIAARELSLDEIAAISGGKGDTTHATGPNGDDPGDPDFL",
+                  "leader": [
+                        "MSKQDVYSNNALPQDEAARPLARIAARELSLDEIAAISGG"
+                  ],
+                  "core": [
+                        "KGDTTHATGPNGDDPGDPDFL"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

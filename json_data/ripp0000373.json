@@ -1,0 +1,29 @@
+{
+      "identifiers": {
+            "ncbi_acc": "NZ_LFHB01000019.1",
+            "mibig_acc": "BGC0003022"
+      },
+      "compound_name": [],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/acschembio.6b01154"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_164724106.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKNKHALTQRNEKALNAVSITRIPVKASKITRGHSVDRIPEYFGPPGLPGPVLFYS",
+                  "leader": [
+                        "MKNKHALTQRNEKALNAVSITRIPVKASKITR"
+                  ],
+                  "core": [
+                        "GHSVDRIPEYFGPPGLPGPVLFYS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

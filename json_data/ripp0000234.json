@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KU867868.1",
+            "mibig_acc": "BGC0001788"
+      },
+      "compound_name": [
+            "suicin 65"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1371/journal.pone.0145854"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AOT85888.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MKDNYELMNTIQEVSLEELDQIIGAGKNGVFKTISHECHMNSWQFLFTCCS",
+                  "leader": [
+                        "MKDNYELMNTIQEVSLEELDQIIGA"
+                  ],
+                  "core": [
+                        "GKNGVFKTISHECHMNSWQFLFTCCS"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

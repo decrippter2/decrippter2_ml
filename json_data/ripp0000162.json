@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KF366381.2",
+            "mibig_acc": "BGC0001155"
+      },
+      "compound_name": [
+            "GE2270"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1016/j.chembiol.2013.07.005"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AGY49587.1",
+                        "uniprot": "U5Q0A5_PLARO"
+                  },
+                  "complete": "MSEMELNLNDLPMDVFEMADSGMEVESLTAGHGMPEVGASCNCVCGFCCSCSPSA",
+                  "leader": [
+                        "MSEMELNLNDLPMDVFEMADSGMEVESLTAGHGMPEVGA"
+                  ],
+                  "core": [
+                        "SCNCVCGFCCSCSPSA"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

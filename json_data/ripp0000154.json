@@ -1,0 +1,48 @@
+{
+      "identifiers": {
+            "ncbi_acc": "EF592482.1",
+            "mibig_acc": "BGC0000624"
+      },
+      "compound_name": [
+            "salivaricin CRL1328 a",
+            "salivaricin CRL1328 b"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1016/j.resmic.2009.06.009"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABQ84442.1",
+                        "uniprot": "Q8KWI0_9LACO"
+                  },
+                  "complete": "MMKEFTVLTECELAKVDGGKRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL",
+                  "leader": [
+                        "MMKEFTVLTECELAKVDGG"
+                  ],
+                  "core": [
+                        "KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            },
+            {
+                  "protein_ids": {
+                        "genpept": "ABQ84443.1",
+                        "uniprot": "Q8KWH9_9LACO"
+                  },
+                  "complete": "MKNLDKRFTIMTEDNLASVNGGKNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFTSCR",
+                  "leader": [
+                        "MKNLDKRFTIMTEDNLASVNGG"
+                  ],
+                  "core": [
+                        "KNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFTSCR"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

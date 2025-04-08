@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "CP000088.1",
+            "mibig_acc": "BGC0001889"
+      },
+      "compound_name": [
+            "fusilassin"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/jacs.8b09928"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "WP_255266122.1",
+                        "uniprot": ""
+                  },
+                  "complete": "MEKKKYTAPQLAKVGEFKEATGWYTAEWGLELIFVFPRFI",
+                  "leader": [
+                        "MEKKKYTAPQLAKVGEFKEATG"
+                  ],
+                  "core": [
+                        "WYTAEWGLELIFVFPRFI"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

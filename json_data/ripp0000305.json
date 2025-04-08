@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KU896918.1",
+            "mibig_acc": "BGC0002586"
+      },
+      "compound_name": [
+            "ASM1"
+      ],
+      "ripp_class": "Glycocin",
+      "ref": [
+            "https://doi.org/10.1002/1873-3468.13708"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AOF43525.1",
+                        "uniprot": "A0A1B3IR34_LACPN"
+                  },
+                  "complete": "MSKLVKTLTVDEISKIQTNGGKPAWCWYTLAMCGAGYDSGTCDYMYSHCFGVKHSSGGGGSYHC",
+                  "leader": [
+                        "MSKLVKTLTVDEISKIQTNGG"
+                  ],
+                  "core": [
+                        "KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGVKHSSGGGGSYHC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

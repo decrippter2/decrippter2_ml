@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "KJ651958.1",
+            "mibig_acc": "BGC0001146"
+      },
+      "compound_name": [
+            "cyclothiazomycin C"
+      ],
+      "ripp_class": "Thiopeptide",
+      "ref": [
+            "https://doi.org/10.1021/cb500324n"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AID54693.1",
+                        "uniprot": "A0A096XPP0_9ACTN"
+                  },
+                  "complete": "MDANLVLDLDDLSVDQLDILPTAPGSTLESINVGHAMVEIGASNCTSKGSPASCCSCCCC",
+                  "leader": [
+                        "MDANLVLDLDDLSVDQLDILPTAPGSTLESINVGHAMVEIGA"
+                  ],
+                  "core": [
+                        "SNCTSKGSPASCCSCCCC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AF300457.1",
+            "mibig_acc": "BGC0000617"
+      },
+      "compound_name": [
+            "coagulin"
+      ],
+      "ripp_class": "TBA",
+      "ref": [
+            "https://doi.org/10.1111/j.1574-6976.2010.00244.x"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAG28763.1",
+                        "uniprot": "Q9EZB2_HEYCO"
+                  },
+                  "complete": "MKKIEKLTEKEMANIIGGKYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC",
+                  "leader": [
+                        "MKKIEKLTEKEMANIIGG"
+                  ],
+                  "core": [
+                        "KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

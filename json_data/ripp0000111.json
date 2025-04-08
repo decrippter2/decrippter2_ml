@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "AF061787.1",
+            "mibig_acc": "BGC0000581"
+      },
+      "compound_name": [
+            "microcin J25"
+      ],
+      "ripp_class": "Lasso",
+      "ref": [
+            "https://doi.org/10.1021/ja036756q"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "AAD28494.1",
+                        "uniprot": "MCJA_ECOLX"
+                  },
+                  "complete": "MIKHFHFNKLSSGKKNNVPSPAKGVIQIKKSASQLTKGGAGHVPEYFVGIGTPISFYG",
+                  "leader": [
+                        "MIKHFHFNKLSSGKKNNVPSPAKGVIQIKKSASQLTK"
+                  ],
+                  "core": [
+                        "GGAGHVPEYFVGIGTPISFYG"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}

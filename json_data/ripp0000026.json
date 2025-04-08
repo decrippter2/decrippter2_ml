@@ -1,0 +1,31 @@
+{
+      "identifiers": {
+            "ncbi_acc": "DQ650653.1",
+            "mibig_acc": "BGC0000494"
+      },
+      "compound_name": [
+            "uberolysin"
+      ],
+      "ripp_class": "Lanthipeptide",
+      "ref": [
+            "https://doi.org/10.1099/mic.0.2006/005967-0"
+      ],
+      "entries": [
+            {
+                  "protein_ids": {
+                        "genpept": "ABG48503.1",
+                        "uniprot": "UBLA_STRUB"
+                  },
+                  "complete": "MDILLELAGYTGIASGTAKKVVDAIDKGAAAFVIISIISTVISAGALGAVSASADFIILTVKNYISRNLKAQAVIW",
+                  "leader": [
+                        "MDILLE"
+                  ],
+                  "core": [
+                        "LAGYTGIASGTAKKVVDAIDKGAAAFVIISIISTVISAGALGAVSASADFIILTVKNYISRNLKAQAVIW"
+                  ],
+                  "follower": [
+                        ""
+                  ]
+            }
+      ]
+}
